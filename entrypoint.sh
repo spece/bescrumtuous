@@ -29,6 +29,14 @@ eval find . $INPUT_FIND_PARAMS -name "*$INPUT_ADOC_FILE_EXT" -exec asciidoctor -
 eval find . $INPUT_FIND_PARAMS -name "*$INPUT_ADOC_FILE_EXT" -exec asciidoctor-pdf -b pdf -a pdf-stylesdir=themes -a pdf-style=basic -a pdf-fontsdir=./fonts $INPUT_ASCIIDOCTOR_PARAMS {} \\\;
 find . -name "README.html" -execdir ln -s "README.html" "index.html" \;
 
+
+ls
+
+ls -a
+
+echo "HELLO!"
+
+
 # Executes any post-processing command provided by the user, before changes are committed.
 # If no command is provided, the default value is just an echo command.
 echo "Running post build command."
