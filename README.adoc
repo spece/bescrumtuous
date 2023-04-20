@@ -1,4 +1,4 @@
-= Scrum Certification Guide
+= Scrum Certification Guide PDF
 
 image::images/cover-page.png["Scrum Certification Guide. "]
 
