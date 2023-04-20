@@ -27,23 +27,23 @@ jobs:
 
           sudo gem install asciidoctor-pdf --pre
           asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts _ebook.adoc -o _ebook.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 01A-definition-of-scrum.adoc -o 01A-definition-of-scrum.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 02A-scrum-theory.adoc -o 02A-scrum-theory.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 03A-scrum-pillars-and-values.adoc -o 03A-scrum-pillars-and-values.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 04A-scrum-team.adoc -o 04A-scrum-team.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 05A-developers.adoc -o 05A-developers.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 06A-product-owner.adoc -o 06A-product-owner.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 07A-scrum-master.adoc -o 07A-scrum-master.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 08A-scrum-events.adoc -o 08A-scrum-events.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 09A-the-sprint.adoc -o 09A-the-sprint.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 10A-sprint-planning.adoc -o 10A-sprint-planning.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 11A-daily-scrum.adoc -o 11A-daily-scrum.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 12A-sprint-review.adoc -o 12A-sprint-review.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 13A-sprint-retrospective.adoc -o 13A-sprint-retrospective.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 14A-scrum-artifacts.adoc -o 14A-scrum-artifacts.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 15A-product-backlog.adoc -o 15A-product-backlog.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 16A-sprint-backlog.adoc -o 16A-sprint-backlog.pdf
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 17A-increment.adoc -o 17A-increment.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 01A-definition-of-scrum.adoc -o ./pdf/01A-definition-of-scrum.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 02A-scrum-theory.adoc -o ./pdf/02A-scrum-theory.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 03A-scrum-pillars-and-values.adoc -o ./pdf/03A-scrum-pillars-and-values.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 04A-scrum-team.adoc -o ./pdf/04A-scrum-team.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 05A-developers.adoc -o ./pdf/05A-developers.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 06A-product-owner.adoc -o ./pdf/06A-product-owner.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 07A-scrum-master.adoc -o ./pdf/07A-scrum-master.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 08A-scrum-events.adoc -o ./pdf/08A-scrum-events.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 09A-the-sprint.adoc -o ./pdf/09A-the-sprint.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 10A-sprint-planning.adoc -o ./pdf/10A-sprint-planning.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 11A-daily-scrum.adoc -o ./pdf/11A-daily-scrum.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 12A-sprint-review.adoc -o ./pdf/12A-sprint-review.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 13A-sprint-retrospective.adoc -o ./pdf/13A-sprint-retrospective.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 14A-scrum-artifacts.adoc -o ./pdf/14A-scrum-artifacts.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 15A-product-backlog.adoc -o ./pdf/15A-product-backlog.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 16A-sprint-backlog.adoc -o ./pdf/16A-sprint-backlog.pdf
+          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 17A-increment.adoc -o ./pdf/17A-increment.pdf
         
 
           git config user.name github-actions
