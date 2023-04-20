@@ -28,7 +28,7 @@ jobs:
           sudo gem install asciidoctor-pdf --pre
           asciidoctor-pdf --version
           ls
-          asciidoctor-pdf -a pdf-theme=some-theme.yml README.adoc -o readme.pdf
+          asciidoctor-pdf -a pdf-theme=some-theme.yml -a pdf-fontsdir=./fonts README.adoc -o readme.pdf
           echo "Hello" > hello.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
