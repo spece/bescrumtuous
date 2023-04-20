@@ -49,11 +49,11 @@ if [[ $INPUT_SLIDES_SKIP_ASCIIDOCTOR_BUILD == false ]]; then
 fi
 
 PDF_FILE="ebook.pdf"
-if [[ $INPUT_PDF_BUILD == true ]]; then
+if [[ true == true ]]; then
     INPUT_EBOOK_MAIN_ADOC_FILE="$INPUT_EBOOK_MAIN_ADOC_FILE$INPUT_ADOC_FILE_EXT"
     MSG="Building $PDF_FILE ebook from $INPUT_EBOOK_MAIN_ADOC_FILE"
     echo "$MSG"
-    asciidoctor-pdf "$INPUT_EBOOK_MAIN_ADOC_FILE" -o "$PDF_FILE" $INPUT_ASCIIDOCTOR_PARAMS
+    asciidoctor-pdf "$INPUT_EBOOK_MAIN_ADOC_FILE" -o pdf-theme=some-theme.yml "$PDF_FILE" $INPUT_ASCIIDOCTOR_PARAMS
 fi
 
 SLIDES_FILE="slides.html"
