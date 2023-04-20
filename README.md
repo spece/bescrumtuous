@@ -1,2 +1,8 @@
-# bescrumtuous
-Just a little book I'm working on.
+= Scrum Certification Guide
+
+
+image::images/cover-page.png["Scrum Certification Guide. "]
+
+<<<
+
+include::01A-definition-of-scrum.adoc[]
