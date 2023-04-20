@@ -1,0 +1,173 @@
+:pdf-theme: some-theme.yml
+
+== Chapter 8
+=== Scrum Events
+
+There are four events in Scrum that happen within the confines of a Sprint:
+
+- The Sprint Planning event
+- The Daily Scrum
+- The Sprint Retrospective
+- The Sprint Review
+
+[quote, 2020 Scrum Guide page 7]
+____
+The Sprint is a container for all other events.
+____
+
+The fact that the four events mentioned above all happen within a fifth even, known as the Sprint, will likely show up in five or six question on the Scrum Master Certification exam.
+
+=== The Sprint Container
+
+The Sprint is a container for all other events.
+
+That means the Sprint Review, Spring Planning, the Sprint Retrospective and the Daily Scrum all happen within the Sprint.
+
+- None of the Scrum events happen before the Sprint.
+- None of the Scrum events happen after the Sprint
+- Nothing in Scrum happens in the moment where one Sprint ends and the next Sprint begins
+
+
+
+[quote, 2020 Scrum Guide page 7]
+____
+A new Sprint starts immediately after the conclusion of the previous Sprint.
+
+All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints.
+____
+
+Everything in Scrum happens inside the confines of the Sprint.
+
+==== Test Yourself
+
+****
+The team wants to update their Definition of Done. When is the right time to make this change?
+
+* [ ] Before the first Sprint starts.
+* [ ] After the current Sprint finshes
+* [ ] Before the next Sprint begins
+* [ ] During the current Sprint's Sprint Retrospective
+****
+
+Since nothing happens before or after a Sprint, the first three options are incorrect.
+
+The correct answer is D. The Sprint Retrospecive is the right time to update the team's Definition of Done.
+
+[quote, 2020 Scrum Guide page 7]
+____
+Each event in Scrum is a formal opportunity to inspect and adapt Scrum artifacts. These events are specifically designed to enable the transparency required. Failure to operate any events as prescribed results in lost opportunities to inspect and adapt.
+____
+
+Inspection and adapatation are important concepts in the Scrum Framework. The Scrum events provide the opportunity for that to happen.
+
+==== Test Yourself
+
+****
+True or False: Only the Sprint Review provides the opportunity for the team to inspect and adapt.
+****
+
+This is false. 
+
+All of the Scrum events provide the opportunity for the team to inspect their work and adapt their plans.
+
+'''
+
+=== Regularity and consistency
+
+Scrum doesn't place restrictive controls over how development takes place, but it does request that certain patterns be followed, and that those patterns happen with a predictable regularity.
+
+[quote, 2020 Scrum Guide page 7]
+____
+Events are used in Scrum to create regularity and to minimize the need for meetings not defined in Scrum.
+____
+
+Many people complain that Scrum has too many meetings. It really doesn't.
+
+- There is one timeboxed meeting to plan what to do during the Spring
+- There's a quick, 15 minute Daily Scrum to allow developers touch base
+- There is a Sprint Review at the end of the Sprint where the stakeholders are invited
+- There's a Sprint Retrospective where the team talks about what they could do better
+
+That doesn't sound like too many meetings to me. It actually sounds like it's exactly the right number of meetings a team should have. 
+
+In fact, the meetings that Scrum does have are intended to have a maximum effectiveness on transparency, while at the same time eliminating the need for other meetings.
+
+Teams that complain about Scrum having too many meetings probably aren't doing Scrum properly.
+
+==== Test Yourself
+
+****
+The CTO wants to schedule afternoon status meetings with the dev team to monitor the progress of an important feature. What should the Scrum Master do?
+
+* [ ] Allow the afternoon meetings to take place until the feature is complete
+* [ ] Invite the CTO to participate in the Daily Scrum in place of the afernoon meetings
+* [ ] Coach the CTO on how Scrum provides transparency through existing Scrum events and artifacts
+* [ ] Have the Product Owner send reports from the Daily Scrum to the CTO to avoid the extra meetings
+
+****
+
+When stakeholders attempt to manage the Scrum Developers, it is often because they want more transparency into what is happening in terms of product devleopment.
+Scrum already provides enough meetings, in the form of events, to allow for transparent inspection of progress. And the Scrum artifacts like the Product Backlog, also provide transparency and opennes.
+If a stakeholder is concerned about transparency, a Scrum Master should coach the individual on how existing events and artifacts should provide all the transparency they need.
+
+'''
+
+=== Same Time, Same Place
+
+While it's not always pragmatically possible, Scrum asks that all of the Scrum Events happen at the same time and the same place. 
+
+- The Daily Scrum takes place at the same time and location
+- The Sprint Retrospective takes place at the same time and location
+- The Sprint Review takes place at the same time and location
+- Sprint Planning takes place at the same time and location
+
+That makes the Scrum events more predictable, easier to plan around and more likely to have full participation from everyone involved.
+
+[quote, 2020 Scrum Guide page 7]
+____
+Optimally, all events are held at the same time and place to reduce complexity.
+____
+
+It should be noted that Scrum isn't completely unreasonable and unforgiving when it comes to a rule like this. The time and place is allowed to be adjusted for pragmatic reasons. 
+
+I mean, if the War Room is being fumigated, it's okay to move the Daily Scrum to Conference Room B. Just try to keep the time and place as unchanged as possible.
+
+==== Test Yourself
+
+****
+The development team wants to move the Daily Scrum, which takes place at 1pm, to 8am on Fridays so developers can leave early.
+How do you respond as the Scrum Master?
+
+* [ ] Respect the self-managing Scrum Team and reschedule Friday's Daily Scrum
+* [ ] Change the time of the Daily Scrum to 8am for every day of the week
+* [ ] Explain to the team that the Daily Scrum must always take place at the same time and location
+* [ ] Ask the Product Owner if it's agreeable to changing the Daily Scrum to 8am on Friday
+
+****
+
+Since the Daily Scrum is a Scrum Event, and since Scrum Events are supposed to take place at the same time and location every day, the Scrum Master would need to explain to the team that it can't change arbitrarily change the time the Daily Scrum takes place on Fridays.
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

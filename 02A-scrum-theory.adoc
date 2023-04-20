@@ -1,0 +1,297 @@
+== Chapter 2 
+=== Scrum Theory
+
+Scrum boasts being build around the concepts of 'empiricism and lean thinking.'
+
+The subject of 'Empiricism' is one of the 13 groups into which questions on the Scrum Master certification exam are categorized, so pay special attention to the concept.
+
+[quote, 2020 Scrum Guide page 3]
+____
+Scrum is founded on empiricism and lean thinking. 
+Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. 
+Lean thinking reduces waste and focuses on the essentials.
+____
+
+I'm not a big fan of the word empiricism.
+
+Fundamentally, empiricism means using your six senses to understand the situation you're in. I'm not sure how my sense of smell or taste helps me as a Scrum Master.
+
+In the context of Scrum, empiricism means understanding the situation you are in based on knowledge, experience and verifiable facts.
+
+=== Empirical Example
+
+Here's an example of the application of empiricism.
+
+Imagine you have a burndown chart that says you are completing 10 stories a Sprint. How many stories do you think you'll complete the next Sprint?
+
+You'd probably say 10, but that's an answer based on a chart. Charts don't have six senses.
+
+Now say you know half the developers have gone back to India to be with their families during the next Sprint?
+
+You'll probably reduce your projection by 50 percent. That decision is based on empirical evidence that a chart simply couldn't provide.
+
+Lean thinking is also important. Avoid waste and embrace minimalist thinking when you're working on a project. That's Lean thinking.
+
+=== Empiricism and Lean Thinking
+
+You are guaranteed to get two questions from this section on the Scrum Certification Exam. Their easy marks if you just understand what 'empiricism' and 'lean thinking' means.
+
+Here are two multiple choice questions for you?
+
+==== Test Yourself
+
+****
+Scrum theory emphasises empiricism. That means decision made by Scrum teams:
+
+* [ ] Should be based on factual evidence
+* [ ] Should be based on intelligent assumptions
+* [ ] Should be based on verifiable observations
+* [ ] Should be driven by pragmatic speculation
+* [ ] Should be based on actual experience
+
+Options a, c and d are correct.
+
+****
+
+Empiricism is all about using your experience, your gained knowledge and verifiable observations (which is sorta the same as 'experience') to make decisions.
+
+Concepts like 'speculation' and 'assumptions' run counter to the concept of empiricism, even if the speculation and assumptions are pragmatic and intelligent.
+
+"In empiricism, knowledge is spoken of as a posteriori, or "from the latter," meaning gained from experience. Simply put, empiricism is the idea that all learning comes from only experience and observations.
+
+The term empiricism comes from the Greek word for experience: empeiria. The theory of empiricism attempts to explain how human beings acquire knowledge and improve their conceptual understanding of the world."
+
+https://www.techtarget.com/whatis/definition/empiricism
+
+'''
+
+==== Test Yourself
+
+****
+
+Which of the following are characteristics of lean thinking?
+
+* [ ] A focus on waste reduction and efficiency
+* [ ] A command and control approach to problem solving
+* [ ] A minimalist approach that removes unnecceary steps
+* [ ] A methodology that is made up of individualized, compartmental steps that flow into each other.
+
+****
+
+In this case, A and C are correct.
+
+Efficiency, waste reduction, and the elimination of unneccesary steps within a process are all hallmarks of lean thinking.
+
+By the way, the old Scrum Guide use to talk about the importance of servant leadership. That's still important, but it's just not part of the Guide anymore. The 'Command and Control' approach that perhaps the military takes is the opposite of 'servant leadership.'
+
+The last option actually describes the Waterfall methodology, which is the antithesis to the Scrum framework.
+
+Empiricism and lean thinking lay the foundation for the Scrum Framework. Be comfortable with these two terms and understand their basic meaning to score a few easy marks on the Scrum Certification Exam.
+
+
+'''
+
+<<<
+
+=== Predictability and Risk
+
+[quote, 2020 Scrum Guide page 3]
+____
+Scrum employs an iterative, incremental approach to optimize predictability and to control risk.
+____
+
+This one sentence is a lot to unpack. 
+
+Scrum is iterative because it describes a set steps to be repeated over and over again. The iterative sequence of steps was outlined in the first section of the Scrum Guide:
+
+1. A Product Owner orders the work for a complex problem into a Product Backlog.
+2. The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
+3. The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
+4. Repeat
+
+Scrum is incremental. That's referenced in the second step of the iterative process:
+
+"The Scrum Team turns a selection of the work into an Increment of value during a Sprint."
+
+The idea of Scrum being incremental means that small victories, small units of value and small pieces of the final product get created and added together slowly over time until the product is finally finished. Piece by piece, through the delivery of value added upon value, the product gets build. That's the incremental process.
+
+
+
+=== Cross Functional Teams
+
+The idea that teams should be cross-functional and self-managed is key concept in Scrum, and it is one that you will be tested on multiple times when you sit for the Scrum Certification exam.
+
+[quote, 2020 Scrum Guide page 3]
+____
+Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
+____
+
+
+This is another extremely loaded statement. 
+
+Understanding this paragraph will go a long way towards properly answering some of the most challenging question on the Scrum Master Certification exam.
+
+Scrum assumes that the Scrum Team has all the skill required to build the product being developed.
+
+- Does your project need testers? Then those people are on the Scrum team.
+- Does your project need an architect? That that person is on the Scrum team.
+- Does your project need a performance or security specialist? Then a person with those skills must be on the Scrum team.
+
+And what if your Scrum team doesn't have those skills? 
+
+Then the people on the Scrum team better acquire them.
+
+==== Test Yourself
+
+****
+One of the items under development as part of your project is a spaceship to Mars, but nobody on your team knows how to build a Spaceship to Mars. What should you do?
+
+* [ ] Outsource the development of a spaceship to a third party
+* [ ] Remove the development of a spaceship from the project requirements
+* [ ] Explain to the Product Owner that you do not have the skills to build a spaeceship to Mars
+* [ ] Get the team to start learning about how to build a spaceship to Mars
+****
+
+This question is silly to the extreme, but it makes a point. 
+
+According to Scrum, all of the skill required to build a project under development exist on your team, or your team will take it upon themselves to acquire the skills needed.
+
+If your team outsources work to a third party, then the work in question is no longer within the control of the team, which means it is no longer part of the Scrum process. That's what the Scrum Guide means when it says "Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed."
+
+'''
+
+==== The All Encompassing Sprint
+
+[quote, 2020 Scrum Guide page 3]
+____
+Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
+____
+
+This statement is the source of the most commonly asked trick questions on the Scrum Certification exam, which are:
+
+- Which events happen after the Sprint finishes?
+- Which events happen before a Sprint begins?
+- Which events happen before or after a Sprint?
+- When a Sprint ends, when does the next Sprint begin?
+
+Scrum has four time-boxed events that happen within a fifth Scrum event known as a Sprint. Sprint Planning, the Daily Scrum, the Sprint Review and the Sprint Retrospective all happen within the confines of a Sprint.
+
+- None of the Scrum events happen after a Sprint
+- None of the Scrum events happen before a Sprint.
+- None of the Scrum events can be left out of a Sprint.
+
+Everything in Scrum happens within the boundaries of a Sprint. As soon as one Sprint ends, the next Sprint begins. 
+
+There is no buffer time between when one Sprint ends and the next Sprint starts where integration takes place, or quality assurance happens or testing is done. If any of those things are part of the development of your product, all of those have to happen during the Sprint.
+
+Don't get tripped up on any questions that asks what happens before or after a Sprint. 
+
+==== Inspection and Adaption
+
+Notice how the Scrum Guide states that the higher purprose of the different Scrum Events, such as the Review, Retrospective, Planning meeting and the Daily Scrum is to 'inspect and adapt.'
+
+[quote, 2020 Scrum Guide page 3]
+____
+Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint.
+____
+
+You will often get questions on the Scrum Certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
+
+
+
+==== Test Yourself
+
+****
+When does a new Sprint begin?
+
+* [ ] When Sprint Planning is completed
+* [ ] When the Sprint Review is completed
+* [ ] When the Product Owner begins the Sprint in JIRA
+* [ ] After Sprint Planning when the Scrum Master declares the start of the Sprint
+* [ ] As soon as the previous Sprint ends
+****
+
+Option E is correct.
+
+A new Sprint begins as soon as the previous Sprint ends.
+
+Techincally speaking, the last event in the Sprint is the Sprint Retrospective, and it is the end of this event that marks the end of the Sprint. If we were to temporarily jump ahead 7 pages in the Scrum Guide, we'd see that stated in plain text.
+
+[quote, 2020 Scrum Guide page 10]
+____
+The Sprint Retrospective concludes the Sprint.
+____
+
+
+'''
+
+==== Inspection and Adaption
+
+Notice how the Scrum Guide states that the higher purprose of the different Scrum Events, such as the Review, Retrospective, Planning meeting and the Daily Scrum is to 'inspect and adapt.'
+
+[quote, 2020 Scrum Guide page 3]
+____
+Scrum combines four formal events for **inspection and adaptation** within a containing event, the Sprint.
+____
+
+You will often get questions on the Scrum Certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
+
+
+
+==== Test Yourself
+
+****
+What is the purpose of the Daily Scrum?
+
+* [ ] For the Scrum Master to get daily status updates from the developers
+* [ ] To allow the developers to inspect their progress towards the Sprint Goal
+* [ ] For the Product Owner to track the development team's progress on Product Backlog Items
+* [ ] To allow the developers to adapt their Sprint Plan and as they work towards the Sprint Goal
+****
+
+Options B and D are correct.
+
+From day to day and hour to hour, conditions change. 
+
+Scrum recognizes this reality, which is why it provides a number of events that allow for the inspection of progress along with the ability to adapt if necessary.
+
+It should be noted that inspection and adaptation can happen at any time during the Sprint, not just during the official Scrum events. 
+
+If a computer hosting the Git repo catches fire, you don't wait until tomorrow's Daily Scrum to put it out, nor would you wait to tell the rest of the team about it. 
+
+
+'''
+
+
+=== A Word on Empiricism
+
+Empiricism means decisions are made on factual evidence, verifiable observations and most importantly, on experience which has led to a greater knowledge and understanding of a given problem domain.
+
+Empiricism is an approach to knowledge and decision-making based on empirical evidence and experience. In the context of Scrum, empiricism refers to the idea that decisions should be based on observations and experimentation rather than on assumptions and speculation.
+
+Scrum is an empirical process framework that operates on the principles of transparency, inspection, and adaptation. This means that the Scrum Team continuously inspects and adapts its work based on the feedback and evidence it gathers from the ongoing work, in order to meet the goals of the project. The Scrum Team does this through regular events and activities, such as Sprint Planning, Daily Scrums, Sprint Reviews, and Sprint Retrospectives.
+
+The three pillars of Scrum -- transparency, inspection, and adaptation -- embody the principles of empiricism in Scrum. They are:
+
+Transparency: The Scrum Team and its stakeholders share a common understanding of the progress, goals, and risks associated with the project. Transparency is achieved through the use of artifacts such as the Product Backlog, Sprint Backlog, and Increment.
+
+Inspection: The Scrum Team regularly inspects its progress toward the Sprint Goal, and uses the results to adapt its plan for the upcoming Sprint. Inspection is achieved through the use of events such as the Daily Scrum, Sprint Review, and Sprint Retrospective.
+
+Adaptation: The Scrum Team adapts its plan based on the feedback and evidence gathered during inspection. Adaptation is achieved through the use of the Sprint Retrospective and the adjustment of the Product Backlog and Sprint Backlog.
+
+By using an empirical approach, Scrum helps teams to continuously improve their processes and deliver high-quality products that meet the needs of their stakeholders. This is why empiricism is an important part of Scrum Theory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

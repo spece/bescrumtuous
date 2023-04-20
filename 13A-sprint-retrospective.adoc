@@ -1,0 +1,234 @@
+:pdf-theme: some-theme.yml
+
+== Chapter 13
+=== Sprint Retrospective
+
+
+When the work is done, and the Sprint Review is complete, it's time for the Scrum Team to circle the wagons and chat a bit about what went right, what went wrong, and what they want to change when the next Spring begins.
+
+[quote, 2020 Scrum Guide page 10]
+____
+The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness.
+
+The Scrum Team inspects how the last Sprint went with regards to:
+
+- individuals 
+- interactions
+- processes
+- tools  
+- the Definition of Done. 
+
+Inspected elements often vary with the domain of work. 
+
+____
+
+One question that comes up regularly on the Scrum Master certification exam is when should the Definition of Done be discussed or updated. This paragraph makes it clear that the Sprint Retrospective is the correct time in the Sprint to do so.
+
+Also notice how the Scrum Guide indicates that discussions about how tools are working, how people are getting along and how well processes implemented within the Scrum Framework are best discussed during the Sprint Retrospective.
+
+If the certification exam ever asks when developers should talk about how well their tools are working, or how well they have applied the Scrum framework, the correct answer will be the Sprint Retrospective, not the Daily Scrum. This is a bit counter-intuitive, because you would think developers would be encouraged to talk about their tools and the process when they were all together in the Daily Scrum. But if it's a meta-discussion about how things are working, that type of discussion belongs in the retrospective. 
+
+If a given tool is causing a problem and creating a blocker or impediment that puts the Sprint Goal at risk, then the discussion would be more apt to take place during the Daily Scrum.
+
+
+==== Test Yourself
+
+****
+The developers are not happy with how the Sprint framework has being implemented. When is the best time to discuss this?
+
+* [ ] During the Sprint Review
+* [ ] During the Daily Scrum
+* [ ] During the Sprint Planning
+* [ ] During the Sprint Retrospective
+
+****
+
+Option D is correct.
+
+Discussions about how things are working, how various processes are being implemented, and even discussion about how to do Scrum better should happen during the Sprint Retrospective.
+'''
+
+=== The 80/20 Principle
+
+[quote, 2020 Scrum Guide page 10]
+____
+
+Assumptions that led them astray are identified and their origins explored. 
+
+The Scrum Team discusses:
+- what went well during the Sprint, 
+- what problems it encountered, and 
+- how those problems were or were not solved.
+
+The Scrum Team identifies the most helpful changes to improve its effectiveness. 
+The most impactful improvements are addressed as soon as possible. 
+They may even be added to the Sprint Backlog for the next Sprint.
+____
+
+This is a weird section. It's the most wishy-washy section of the entire Scrum Guide.
+
+Terms like 'most helpful', 'most impactful' and 'may even be' don't provide much clarity. It's strange, because the Scrum Guide is usually very precise with regards to the terms and phrases that is uses.
+
+I think the guide is just reflecting the 80/20 pricinple that asserts a few of your best ideas will end up having the largest impact, so don't feel the need to include every single suggestion made during the Sprint Retrospective  into the next Sprint.
+
+The idea is to act upon the best suggestions for improvement right away. That might mean writing a note on the whiteboard in the war room, or even going so far as adding them to the Sprint Backlog for the next Sprint.
+
+=== Adding to the Next Sprint's Backlog?
+
+[quote, 2020 Scrum Guide page 10]
+____
+ 
+They may even be added to the Sprint Backlog for the next Sprint.
+____
+
+That's actually an interesting line.
+
+In Scrum, we're never really supposed to look beyond the current Sprint.
+
+We don't plan for future Sprints before they start because we never really know how conditions are going to change. One of the Scrum values is focus.
+
+Here is one of the rare instances in the Scrum Guide where something generated in one Sprint is added directly to the next Sprint.
+
+In fact, it was stated earlier in this book that in the Sprint Planning meeting, the Sprint Backlog is empty, as all unfinished Sprint Backlog items are returned to the Product Backlog when the Sprint ends.
+
+I guess this is one instance where a Sprint Backlog item can remain where it is when the teams moves from one Sprint to the other.
+ 
+
+==== Test Yourself
+
+****
+Focus in an important part of the Scrum framework. Scrum Teams are expected to stay focused on the current Sprint.
+When during the Sprint are developers expected to be thinking about the next Spring?
+
+* [ ] During Sprint planning before the Sprint begins
+* [ ] During the Sprint Review as they collaborate on what to do next
+* [ ] During the Sprint Retrospective as the Scrum Team identifies ways to improve its effectiveness
+* [ ] Scrum Teams should never look beyond the timeline of the current Sprint
+
+****
+
+Options B and C are correct.
+
+During the Sprint Review, the Scrum Team collaborates with stakeholders and discuss what to do next, and in the Sprint Retrospective, the Scrum Team may add strategies for improvement to the next Sprint's backlog.
+
+'''
+
+==== Test Yourself
+
+****
+The Scrum Team has come up with two great ideas on how to improve their processes during the Sprint Retrospective. What should they do with these ideas?
+
+* [ ] Add them to the current Sprint's Sprint Backlog
+* [ ] Add them to the current Product Backlog
+* [ ] Add them to the next Product's Product Backlog
+* [ ] Add them to the next Sprint's Sprint Backlog
+
+****
+
+According to the Scrum Guide, great ideas that come out in the Sprint Retrospective can be placed in the Sprint Backlog of the next Sprint.
+
+'''
+
+
+=== The Conclusion of the Sprint
+
+[quote, 2020 Scrum Guide page 10]
+____
+The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+____
+
+The Sprint Retrospective is the last timeboxed event mentioned in the Scrum Guide. If you're keeping track, the length of the events in Scrum are:
+
+- Sprint - up to 1 month
+- Planning - up to 8 hours
+- Review - up to 4 hours
+- Retrospective - up to 3 hours
+
+While a Sprint is given a fixed time that cannot be extended while a Sprint is in progress, the Scrum Guide never refers to a Sprint as a 'timeboxed' event.
+
+And yes, I do realize this is probably the fourth or fifth time I've mentioned the duration of each of the Scrum Events in the book. That's because you're likely going to get five or six questions on it, so it's not a trivial matter.
+
+=== After the Sprint
+
+Once the Sprint Retrospective ends, the Sprint is over and the next Sprint begins.
+
+Remember that there is nothing that happens after one Sprint but before the next Sprint begins.
+
+Everything happens within the scope of the Sprint. And when one Sprint ends, the next one starts immediately.
+
+
+==== Test Yourself
+
+****
+Which Scrum event marks the end of the Sprint?
+
+* [ ] Sprint Planning
+* [ ] Sprint Review
+* [ ] Sprint Retrospective
+* [ ] Sprint Deployment
+
+****
+
+The final event in the Sprint is the Sprint Retrospective.
+
+'''
+
+==== Test Yourself
+
+****
+A new Sprint starts:
+
+* [ ] Immediately after Sprint Planning
+* [ ] Immediately after the Sprint Review
+* [ ] Immediately after the Sprint Retrospective
+* [ ] Immediately after deployment of the Increment
+
+****
+
+'''
+
+==== Test Yourself
+
+
+****
+What is the order, from longest to shortest?
+
+* [ ] Sprint, Review, Retrospective, Planning
+* [ ] Sprint, Planning, Review, Retrospective
+* [ ] Sprint, Planning, Retrospective, Review
+* [ ] Planning, Sprint, Review, Retrospective
+* [ ] Planning, Review, Retrospective, Sprint
+
+****
+
+Option B is correct.
+
+Sprint - up to 1 month
+Planning - up to 8 hours
+Review - up to 4 hours
+Retrospective - up to 3 hours
+
+'''
+
+==== Test Yourself
+
+
+****
+In what order to the Scrum events run?
+
+* [ ] Sprint, Review, Retrospective, Planning
+* [ ] Sprint, Planning, Review, Retrospective
+* [ ] Sprint, Planning, Retrospective, Review
+* [ ] Planning, Sprint, Review, Retrospective
+* [ ] Planning, Review, Retrospective, Sprint
+
+****
+
+Option B is correct.
+
+Everything happens within a Sprint.
+
+Once the Sprint starts, planning occurs. Then work is done and a review is performed. Then a retrospective allows the team to discuss ways to improve for the next Sprint, which starts when the Sprint Retrospective ends.
+
+'''
+
