@@ -48,13 +48,18 @@ if [[ $INPUT_SLIDES_SKIP_ASCIIDOCTOR_BUILD == false ]]; then
     find . -name "*$INPUT_ADOC_FILE_EXT" -exec git rm -f --cached {} \;
 fi
 
+
+echo "DOING THE PDF!!! "
+
+ls
+
 PDF_FILE="ebook.pdf"
-if [[ true == true ]]; then
+
     INPUT_EBOOK_MAIN_ADOC_FILE="$INPUT_EBOOK_MAIN_ADOC_FILE$INPUT_ADOC_FILE_EXT"
     MSG="Building $PDF_FILE ebook from $INPUT_EBOOK_MAIN_ADOC_FILE"
     echo "$MSG"
-    asciidoctor-pdf "$INPUT_EBOOK_MAIN_ADOC_FILE" -o pdf-theme=some-theme.yml "$PDF_FILE" $INPUT_ASCIIDOCTOR_PARAMS
-fi
+    asciidoctor-pdf "$INPUT_EBOOK_MAIN_ADOC_FILE" -o pdf-theme=./some-theme.yml "$PDF_FILE" $INPUT_ASCIIDOCTOR_PARAMS
+
 
 SLIDES_FILE="slides.html"
 if [[ $INPUT_SLIDES_BUILD == true ]]; then
