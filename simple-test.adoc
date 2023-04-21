@@ -4,6 +4,7 @@ How are you
 
 == My document
 
+[.teststyle]
 Lorem ipsum
 
 [#changelog]
