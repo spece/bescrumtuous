@@ -1,4 +1,4 @@
-== Chapter 2A 
+== Chapter 2A(new chapter name)
 === Scrum Theory
 
 Scrum boasts being build around the concepts of 'empiricism and lean thinking.'
