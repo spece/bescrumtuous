@@ -1,0 +1,44 @@
+---
+layout: default 
+title: "181 - What should it do Scrum Master PSM1 Exam"
+---
+
+
+[.question]
+== Number 181-63effb579ebbe935e4c16ab3
+
+****
+
+[.query]
+The development team bit off more than it could chew during Sprint Planning. 
+
+They've just told you, the Scrum Master, that there's no way they are even going to come close to completing the Sprint Backlog.
+
+What should you, as the Scrum Master, do?
+
+[.list]
+* [ ] A. Change the definition of Done and negotiate the quality standard with the Product Owner to ensure al Sprint Backlog items are completed before the end of the Sprint.
+* [ ] B. Scale out and assign some of the Sprint Backlog items to an external Scrum team.
+* [*] C. While the Sprint is ongoing, have the Product Owner and the developers negotiate the scope of the work being done so as not to endanger the Sprint Goal.
+* [ ] D. Inform the Product Owner prior to the Sprint Review so the stakeholders won't be disappointed.
+****
+
+[.answer]
+C
+
+[.explanation]
+It's not unusual to have a Sprint go sideways. When that happens, the Scrum Team has to adapt.
+
+It's acceptable to clarify and negotiate scope during a Sprint. According to the Scrum Guide:
+
+During the Sprint:
+&#9679; No changes are made that would endanger the Sprint Goal;
+&#9679; Quality does not decrease;
+&#9679; The Product Backlog is refined as needed; and,
+&#9679; Scope may be clarified and renegotiated with the Product Owner as more is learned.****
+
+[.ka]
+ka:Coaching and Mentoring
+
+'''
+

@@ -1,0 +1,34 @@
+---
+layout: default 
+title: "242 - When is implementation of a Product Back"
+---
+
+
+[.question]
+== Number 242-63effc319ebbe935e4c16ad5
+
+****
+
+[.query]
+When can a Product Backlog Item be considered fully finished and ready for release?
+
+[.list]
+* [ ] A. When the Sprint Backlog items related to the Product Backlog Item are completed 
+* [ ] B. When the Product Backlog Item passes all QA and UAT testing 
+* [*] C. When all of the Product Backlog entries associated with it have been completed and no work remains
+* [ ] D. When the Sprint that includes the Product Backlog Item finishes
+****
+
+[.answer]
+C
+
+[.explanation]
+A Product Backlog item is considered to be ready for release when there is nothing left to do on it. That means nothing remains in the Product Backlog.
+
+Note that the Sprint Backlog might only include part of a decomposed Product Backlog Item. So just because Sprint Backlog Items related to a PBI are complete doesn't mean the PBI as a whole is completed.****
+
+[.ka]
+ka:Product Value
+
+'''
+

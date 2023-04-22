@@ -1,0 +1,44 @@
+---
+layout: default 
+title: "274 - Which two of the following are true abou"
+---
+
+
+[.question]
+== Number 274-63effa469ebbe935e4c16a93
+
+****
+
+[.query]
+Which of the following would be responsibilities a team's Scrum Master would fulfill?
+
+[.list]
+* [ ] A. At the Sprint Review, the Scrum Master identifies which backlog items have met the Definition of Done and which have not.
+* [*] B. The Scrum Master coaches Development Teams on the importance of keeping Scrum events within their time-box.
+* [*] C. Planning and advising Scrum implementations within the organization
+* [ ] D. The Scrum Master will assign tasks to Development Team members in order to maximize their utilization.
+* [ ] E. The Scrum Master is responsible for updating Agile tools such as JIRA tickets or generating Sprint Burndown charts for the team.
+****
+
+[.answer]
+BC
+
+[.explanation]
+The Scrum Master is responsible for ensuring that the Scrum framework is followed by the team and that the team is continuously improving. Two key aspects of this responsibility are facilitating time-boxed meetings and coaching people on Scrum values.
+
+Time-boxed meetings are a critical aspect of the Scrum framework. They help to ensure that the team stays focused and that meetings do not drag on unnecessarily. The Scrum Master is responsible for enforcing the time-boxed meetings, making sure that they start and end on time and that the team stays on track during the meeting. This helps to ensure that the team has enough time to complete all of the necessary work during a Sprint and that they are able to keep up with the pace of the development effort.
+
+In addition, the Scrum Master is responsible for coaching people on Scrum values. These values, which include transparency, inspection, and adaptation, are core to the Scrum framework and are essential for the team to be successful. The Scrum Master helps to reinforce these values by coaching team members on how to apply them in their work and by providing guidance on how to make improvements. The Scrum Master also helps to ensure that the team members are following the values by observing their behavior during meetings and other activities and providing feedback as necessary.
+
+Overall, the Scrum Master plays a critical role in ensuring that the Scrum framework is followed and that the team is continuously improving. By facilitating time-boxed meetings and coaching people on Scrum values, the Scrum Master helps to ensure that the team is able to work effectively and efficiently, deliver high-quality products, and continuously improve their processes.
+
+
+
+
+****
+
+[.ka]
+ka:Coaching and Mentoring
+
+'''
+

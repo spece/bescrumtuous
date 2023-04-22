@@ -1,0 +1,34 @@
+---
+layout: default 
+title: "216 - What does it mean for a Development Team"
+---
+
+
+[.question]
+== Number 216-63effa109ebbe935e4c16a8c
+
+****
+
+[.query]
+What does the Scrum Guide mean when it describe a Scrum Team as being a cross-functional group of highly motivated professionals?
+
+[.list]
+* [ ] A. The Development Team can outsource work they are not qualified to produce to third parties or other qualified Scrum Teams.
+* [ ] B. The Development Team is made up of programmers, architects, testers, DevOps professionals etc.
+* [*] C. The Scrum Team is responsible for all product-related activities.
+* [*] D. The team members have all the skills necessary to create value each Sprint.
+****
+
+[.answer]
+CD
+
+[.explanation]
+The correct options, C and D, come right out of the Scrum Guide:
+
+"Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint... The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required."****
+
+[.ka]
+ka:Self-Managing Teams
+
+'''
+

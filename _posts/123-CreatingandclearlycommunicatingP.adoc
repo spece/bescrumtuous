@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "123 - Who is responsible for clearly expressin"
+---
+
+
+[.question]
+== Number 123-63effa619ebbe935e4c16a96
+
+****
+
+[.query]
+Creating and clearly communicating Product Backlog items is an important activity within the Scrum Framework. 
+
+Who's job it it to create clear Product Backlog items?
+
+[.list]
+* [ ] A. The Scrum Master.
+* [ ] B. The Scrum Master, or someone the Scrum Master delegates to.
+* [ ] C. The Product Owner.
+* [*] D. The Product Owner, or someone the Product Owner delegates to.
+****
+
+[.answer]
+D
+
+[.explanation]
+According to the Scrum Guide, the Product Owner is accountable for creating Product Backlog Items, but they do not have to personally create them. They can delegate this responsibility to others.
+
+The Product Owner is also accountable for effective Product Backlog management, which includes:
+&#9679; Developing and explicitly communicating the Product Goal;
+&#9679; Creating and clearly communicating Product Backlog items;
+&#9679; Ordering Product Backlog items; and,
+&#9679; Ensuring that the Product Backlog is transparent, visible and understood.
+The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.****
+
+[.ka]
+ka:Product Backlog Management
+
+'''
+

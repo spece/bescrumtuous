@@ -1,0 +1,34 @@
+---
+layout: default 
+title: "196 - When might a Sprint be abnormally cancel"
+---
+
+
+[.question]
+== Number 196-63effc6b9ebbe935e4c16adf
+
+****
+
+[.query]
+Under what circumstance can an active Sprint be cancelled?
+
+[.list]
+* [ ] A. A Sprint can be cancelled when developers agree it's impossible to achieve the Sprint Goal
+* [ ] B. A Sprint can be cancelled when the Scrum Master feels the team needs to fix poor Sprint Planning
+* [ ] C. A Sprint can be cancelled when the stakeholders need the Scrum Team to work on a new set of Product Backlog Items.
+* [*] D. A Sprint can be cancelled when the Product Owner says the Sprint Goal has become obsolete.
+****
+
+[.answer]
+D
+
+[.explanation]
+Only the Product Owner can cancel a Sprint, and it can only be cancelled if the Product Owner decides that the Scrum Goal bas become obsolete.
+
+"A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint."****
+
+[.ka]
+ka:Events
+
+'''
+

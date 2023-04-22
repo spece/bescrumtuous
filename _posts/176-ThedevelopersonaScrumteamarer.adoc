@@ -1,0 +1,36 @@
+---
+layout: default 
+title: "176 - Who is responsible for tracking the rema"
+---
+
+
+[.question]
+== Number 176-63effd539ebbe935e4c16b00
+
+****
+
+[.query]
+The developers on a Scrum team are responsible for:
+
+
+[.list]
+* [ ] A. Tracking the progress of the Sprint in a tool like JIRA
+* [ ] B. Articulating the Product Goal
+* [*] C. Holding each other accountable as professionals.
+* [ ] D. Coaching others about Scrum theory
+* [ ] E. Monitoring progress throughout the Sprint
+****
+
+[.answer]
+C
+
+[.explanation]
+The Scrum Developers will hold each other accountable throughout the Sprint, which includes monitoring their progress and tracking their progress throughout the Sprint.
+
+The Scrum Master is responsible for coaching others on Scrum theory, while the Product Owner is the one who articulates the Product Goal.****
+
+[.ka]
+ka:Scrum Values
+
+'''
+

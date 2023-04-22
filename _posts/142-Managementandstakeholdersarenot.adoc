@@ -1,0 +1,49 @@
+---
+layout: default 
+title: "142 - What is the Scrum Master responsible Scr"
+---
+
+
+[.question]
+== Number 142-63effc499ebbe935e4c16ad9
+
+****
+
+[.query]
+Management and stakeholders are not happy with the effectiveness of the Scrum Team.
+
+Who should management speak with about this issue? Who is responsible for the effectiveness of the Scrum Team?
+
+[.list]
+* [ ] A. The Scrum Master and the Product Owner
+* [ ] B. The Product Owner
+* [*] C. The Scrum Master
+* [ ] D. The Scrum Team as a whole, inlcuding developers, the Product Owner and the Scrum Master
+****
+
+[.answer]
+C
+
+[.explanation]
+
+
+The Scrum Master is accountable for the Scrum Team's effectiveness because they are responsible for facilitating the Scrum framework and ensuring that it is implemented correctly. The Scrum Master is a servant-leader who helps the team understand and apply Scrum practices and values, and remove any impediments that may hinder their progress.
+
+The Scrum Master is responsible for ensuring that the Scrum Team works as a cohesive unit towards a common goal. This includes fostering a collaborative and self-organizing team culture, facilitating effective communication between the team and the Product Owner, and ensuring that the team is continuously improving and adapting to change.
+
+The Scrum Master is also accountable for facilitating Scrum events such as Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective. The Scrum Master will coach Scrum team members so that they  understand their purpose and goals. The Scrum Master must also help the team to identify and address any impediments to using the Scrum framework that may arise during the sprint.
+
+Furthermore, the Scrum Master is accountable for ensuring that the team is following the Scrum framework and values. They must be able to recognize when the team is not adhering to Scrum practices or is deviating from Scrum values, and take action to address these issues.
+
+In summary, the Scrum Master is accountable for the Scrum Team's effectiveness because they are responsible for facilitating the Scrum framework, promoting a collaborative and self-organizing team culture, and ensuring that the team continuously improves and adapts to change.
+
+
+
+
+****
+
+[.ka]
+ka:Stakeholders
+
+'''
+

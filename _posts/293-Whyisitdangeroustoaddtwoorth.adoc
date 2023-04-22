@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "293 - If two Scrum Teams are added to the deve"
+---
+
+
+[.question]
+== Number 293-63effc1c9ebbe935e4c16ad2
+
+****
+
+[.query]
+Why is it dangerous to add two or three new developers to a project when deadlines are tight?
+
+[.list]
+* [*] A. The addition of developers can cause the velocity of the team to slow down.
+* [ ] B. The addition of developers can make team members feel their jobs are being threatened
+* [ ] D. The stakeholders will be confused when they see new developers at the Sprint Review
+****
+
+[.answer]
+A
+
+[.explanation]
+When additional Scrum developers are added to a project, it is common for the productivity of the existing Scrum team(s) to initially decrease before returning to normal after a few months. This phenomenon is known as the "learning curve" and can be attributed to several factors:
+
+Communication overhead: As new teams are added, there is more communication overhead required to coordinate and synchronize the work across teams. This can lead to a temporary decrease in productivity as the teams adjust to new communication channels and protocols.
+
+Integration challenges: As multiple teams are working on the same project, it is important to ensure that the work being produced by each team is integrated effectively. This can be challenging and may require additional effort and coordination to get right.
+
+Resource constraints: With additional teams working on the same project, there may be constraints on shared resources such as equipment, tools, and testing environments. This can lead to delays and dependencies that impact productivity.
+
+Learning and adaptation: As new teams are added, there is a period of learning and adaptation required to integrate the new teams into the project. This may involve changes to processes, tools, and workflows, which can also impact productivity.
+
+However, over time, as the teams become more experienced and familiar with each other, these challenges are typically overcome and the teams are able to return to normal productivity levels. In addition, the benefits of having more teams working on the project, such as increased capacity and shared knowledge, can eventually outweigh the initial costs of the learning curve.****
+
+[.ka]
+ka:Scrum Team
+
+'''
+

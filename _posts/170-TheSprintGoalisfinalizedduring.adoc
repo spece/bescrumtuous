@@ -1,0 +1,34 @@
+---
+layout: default 
+title: "170 - True or False The Sprint Goal is a resul"
+---
+
+
+[.question]
+== Number 170-63effcaf9ebbe935e4c16aea
+
+****
+
+[.query]
+The Sprint Goal is finalized during Sprint Planning and cannot be changed throughout the Sprint.
+
+[.list]
+* [*] A. True
+* [ ] B. False
+****
+
+[.answer]
+A
+
+[.explanation]
+This is true.
+
+The Sprint Goal is finalized during Scrum Planning and remains constant throughout the Sprint.
+
+"The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning."****
+
+[.ka]
+ka:Artifacts
+
+'''
+

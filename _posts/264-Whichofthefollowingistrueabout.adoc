@@ -1,0 +1,38 @@
+---
+layout: default 
+title: "264 - Why should the Product Owner be present "
+---
+
+
+[.question]
+== Number 264-63effa749ebbe935e4c16a98
+
+****
+
+[.query]
+Which of the following is true about the Product Owner's attendance at the Daily Scrum?
+
+[.list]
+* [ ] B. The Product Owner must always attend the Daily Scrum to help remove any impediments that exist that jeopardize the Sprint Goal
+* [ ] B. The Product Owner must always attend the Daily Scrum to help remove any impediments that exist that jeopardize the Product Goal
+* [ ] C. The Product Owner must always attend the Daily Scrum to present the stakeholder's point of view.
+* [*] D. The Product Owner doesn't need to attend the Daily Scrum.
+****
+
+[.answer]
+D
+
+[.explanation]
+The Product Owner does not attend the Daily Scrum.
+
+Not even the Scrum Master is required to attend the Daily Scrum.
+
+The Daily Scrum is for the development team.
+
+Unless the Scrum Master or Product Owner is actually doing development for some reason and acting as a developer working on a backlog item, then they should not participate in the Daily Scrum. The Daily Scrum is for the developers only.****
+
+[.ka]
+ka:Events
+
+'''
+

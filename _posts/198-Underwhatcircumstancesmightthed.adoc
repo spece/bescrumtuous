@@ -1,0 +1,40 @@
+---
+layout: default 
+title: "198 - When might a Sprint be abnormally cancel"
+---
+
+
+[.question]
+== Number 198-63effb239ebbe935e4c16aad
+
+****
+
+[.query]
+Under what circumstances might the decision be made to prematurely terminate a Sprint?
+
+[.list]
+* [ ] A. When a self-managed Development Team realizes the work committed to during Sprint planning cannot possibly be delivered by the end of the Sprint.
+* [*] B. When the Sprint Goal no longer makes sense and is obsoleted.
+* [ ] C. When the Scrum Development team's work needs to be redirected to new opportunities.
+* [ ] D. When the Product Owner reprioritized the Product Backlog and PBIs currently under development are no longer priorities.
+****
+
+[.answer]
+B
+
+[.explanation]
+In Scrum, the Sprint Goal is a short statement that describes what the Development Team intends to achieve during the Sprint. It provides focus and direction to the team and helps to ensure that all members are working towards a common objective. The Sprint Goal is set during Sprint Planning and is intended to remain unchanged throughout the Sprint.
+
+If the Sprint Goal becomes obsolete, it means that the objective that the Development Team set for the Sprint is no longer relevant. This can happen for a variety of reasons, such as changes in the business environment or new information that makes the Sprint Goal irrelevant. Essentially, something happened that makes working towards the Sprint Goal a complete waste of time.
+
+When the Sprint Goal becomes obsolete, the Scrum framework allows for the Sprint to be cancelled by the Product Owner. This is because the Sprint Goal is a fundamental aspect of the Scrum framework, and without a clear and achievable Sprint Goal, the work of the Development Team lacks direction and focus.
+
+If the Sprint is cancelled, the work that has been completed up to that point is reviewed, and any completed work that can be released is done so. The Product Backlog is then re-prioritized, and a new Sprint Planning meeting is held to define a new Sprint Goal and to plan the work for the next Sprint.
+
+It is important to note that cancelling a Sprint is not something that should be done lightly. If Sprints are cancelled frequently, it can indicate deeper problems with the project that need to be addressed.****
+
+[.ka]
+ka:Events
+
+'''
+

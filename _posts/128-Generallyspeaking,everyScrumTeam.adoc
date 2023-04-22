@@ -1,0 +1,31 @@
+---
+layout: default 
+title: "128 - Every Development Team should have Choos"
+---
+
+
+[.question]
+== Number 128-63effadf9ebbe935e4c16aa5
+
+****
+
+[.query]
+Generally speaking, every Scrum Team should have:
+
+[.list]
+* [*] A. Collectively, all of the necessary competencies, skills and motivation needed to deliver a Done Increment by the end of a Sprint.
+* [ ] B. At least one representative from various required field such as QA, Dev and user experience.
+* [ ] C. One Lead Developer, senior developers and some junior developers.
+****
+
+[.answer]
+A
+
+[.explanation]
+As a Certified Scrum Master, I believe every Development Team should have the appropriate environment and culture to foster high performance.****
+
+[.ka]
+ka:Scrum Team
+
+'''
+

@@ -1,0 +1,32 @@
+---
+layout: default 
+title: "195 - True or False When multiple teams work t"
+---
+
+
+[.question]
+== Number 195-63effaaa9ebbe935e4c16a9f
+
+****
+
+[.query]
+Two teams working on the same Product should maintain separate Product Backlogs.
+
+[.list]
+* [*] A. True
+* [*] B. False
+****
+
+[.answer]
+AB
+
+[.explanation]
+This is false.
+
+Two teams working on the same project will work off the same Product Backlog.****
+
+[.ka]
+ka:Product Backlog Management
+
+'''
+

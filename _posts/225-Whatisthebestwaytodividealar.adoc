@@ -1,0 +1,35 @@
+---
+layout: default 
+title: "225 - What is the tactic a Scrum Master should"
+---
+
+
+[.question]
+== Number 225-63effd5c9ebbe935e4c16b01
+
+****
+
+[.query]
+What is the best way to divide a large group of newly acquired developers into smaller teams?
+
+[.list]
+* [ ] A. Create multiple teams of approximately equal size, with a maximum team size of 8.
+* [ ] B. Group the developers into teams of equal size based on their experience, skill and competency.
+* [*] C. Have the developers divide themselves up into groups of various sizes, with a maximum team size of 8.
+****
+
+[.answer]
+C
+
+[.explanation]
+Scrum asks all teams to be self-managing. That means developers should be allowed to assemble themselves in any grouping of developers that they believe best serves the Product Goal.
+
+Scrum does say teams should not exceed 10 members, so with one Scrum Master and one Product Owner, there shouldn't be more than 8 developers on a team.
+
+"Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how."****
+
+[.ka]
+ka:self-managing teams
+
+'''
+

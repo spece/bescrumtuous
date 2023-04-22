@@ -1,0 +1,34 @@
+---
+layout: default 
+title: "245 - Why should the Product Owner be present "
+---
+
+
+[.question]
+== Number 245-63effbed9ebbe935e4c16aca
+
+****
+
+[.query]
+When is the Product Owner required to participate in the Daily Scrum?
+
+[.list]
+* [*] A. When they need to represent the interests of the stakeholders.
+* [ ] B. When the Scrum Master is unable to attend.
+* [ ] C. When they are working on a Sprint Backlog Item, but even then they participate as a developer.
+* [ ] D. When the Sprint Goal has changed and the development team needs to be updated.
+****
+
+[.answer]
+A
+
+[.explanation]
+The Scrum Master or Product Owner can only participate in the Daily Scrum if they are actively working on an item in the Sprint Backlog.
+
+"The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers."****
+
+[.ka]
+ka:Events
+
+'''
+

@@ -1,0 +1,34 @@
+---
+layout: default 
+title: "268 - When does the second Sprint start Scrum "
+---
+
+
+[.question]
+== Number 268-63effc059ebbe935e4c16ace
+
+****
+
+[.query]
+Which of the following statements are correct about the Scrum events?
+
+[.list]
+* [ ] A. The Sprint Retrospecive happens after the Sprint is completed
+* [ ] B. The Sprint Review happens after the Sprint is completed
+* [ ] C. Sprint Planning happens before the Sprint begins
+* [*] D. All Scrum events happen with the scope of a Sprint
+****
+
+[.answer]
+D
+
+[.explanation]
+Option D is correct.
+
+All Scrum events happen with the scope of an enclosing Sprint.****
+
+[.ka]
+ka:Events
+
+'''
+

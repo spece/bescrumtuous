@@ -1,0 +1,32 @@
+---
+layout: default 
+title: "246 - Multiple Scrum Teams working on the same"
+---
+
+
+[.question]
+== Number 246-63effdc59ebbe935e4c16b0d
+
+****
+
+[.query]
+When multiple teams work together to build a common Product, they must share the same Definition of Done.
+
+[.list]
+* [*] A. True
+* [ ] B. False
+****
+
+[.answer]
+A
+
+[.explanation]
+This is true.
+
+"If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done."****
+
+[.ka]
+ka:Done
+
+'''
+

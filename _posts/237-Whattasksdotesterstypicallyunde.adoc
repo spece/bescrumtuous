@@ -1,0 +1,33 @@
+---
+layout: default 
+title: "237 - What are two responsibilities of testers"
+---
+
+
+[.question]
+== Number 237-63effe079ebbe935e4c16b15
+
+****
+
+[.query]
+What tasks do testers typically undertake on a Development Team?
+
+[.list]
+* [ ] A. Verifying the work of programmers.
+* [*] B. Everyone in the Development Team is responsible for quality.
+* [ ] C. Tracking quality metrics.
+* [ ] D. Finding bugs.
+* [*] E. Scrum has no "tester" role.
+****
+
+[.answer]
+BE
+
+[.explanation]
+Testers on a Development Team typically undertake tasks such as designing and executing tests to ensure product quality, troubleshooting any software issues that arise, and working with the rest of the team to ensure the product meets the customer's expectations.****
+
+[.ka]
+ka:Coaching and Mentoring
+
+'''
+

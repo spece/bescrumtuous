@@ -1,0 +1,33 @@
+---
+layout: default 
+title: "186 - Which two things are appropriate for a S"
+---
+
+
+[.question]
+== Number 186-63effc2b9ebbe935e4c16ad4
+
+****
+
+[.query]
+The pillars of transparency, inspection and adaptation help Scrum to be:
+
+[.list]
+* [*] A. Empirical
+* [ ] B. Pragmatic
+* [ ] C. Lean
+* [ ] D. Efficient
+* [ ] E. Affordable
+****
+
+[.answer]
+A
+
+[.explanation]
+By looking at how the product is evolving (inspection), being open and honest about progress (transparency) and adapting accordingly is how Scrum maintains an empirical approach to development.****
+
+[.ka]
+ka:Empiricism
+
+'''
+

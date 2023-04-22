@@ -1,0 +1,38 @@
+---
+layout: default 
+title: "138 - Who creates the definition of Done Scrum"
+---
+
+
+[.question]
+== Number 138-63efff3e9ebbe935e4c16b39
+
+****
+
+[.query]
+If the organization does not have an organizational standard to define the Definition of Done, whose responsibility is it to define it?
+
+[.list]
+* [ ] A. The development team
+* [ ] B. The Product Owner
+* [*] C. The Scrum Team, which includes the Scrum Master and Product Owner
+* [ ] D. The Definition of Done is formed from a consensus between the Scrum Master and the Product Owner
+****
+
+[.answer]
+C
+
+[.explanation]
+"If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."
+
+In Scrum, the Definition of Done (DoD) is a shared understanding of what it means for a Product Backlog item to be considered "done" and ready for release. The Scrum Team, which includes the Product Owner, the Development Team, and the Scrum Master, collaborates to create the Definition of Done if an organizational standard for the DoD does not already exist.
+
+The Product Owner provides input on the specific requirements and acceptance criteria for each item in the Product Backlog. The Development Team contributes their technical expertise and knowledge of best practices to ensure that the Definition of Done includes all necessary steps for each item to be considered complete. The Scrum Master facilitates the process, ensures that the DoD is well-understood by all members of the Scrum Team, and helps the team stay focused on delivering value to the customer.
+
+Ultimately, the Definition of Done should be agreed upon by the entire Scrum Team and should reflect the standards and expectations for delivering a high-quality product to the customer. The DoD should be regularly reviewed and updated throughout the project as necessary to ensure that it continues to reflect the team's evolving knowledge and practices.****
+
+[.ka]
+ka:Done
+
+'''
+

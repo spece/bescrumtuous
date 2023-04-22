@@ -1,0 +1,33 @@
+---
+layout: default 
+title: "131 - What are three ways Scrum promotes selfo"
+---
+
+
+[.question]
+== Number 131-63efff119ebbe935e4c16b34
+
+****
+
+[.query]
+How does Scrum foster the idea of self-organization?
+
+[.list]
+* [ ] A. By keeping customers away from developers
+* [ ] B. By allowing developers to send status updates directly to stakeholders
+* [*] C. By removing titles like "QA" or "Tester" and treating everyone as an equal 'developer'
+* [*] D. By being a lightweight framework that encourages experimentation
+* [*] E. By allowing developers to plan their work
+****
+
+[.answer]
+CDE
+
+[.explanation]
+Scrum promotes self-organization in several ways, such as by harnessing the power of a team to do whatever is necessary to reach their goals, by letting the team figure out their own process, and by implementing short feedback cycles to help the team measure progress, identify improvements, and flow better.****
+
+[.ka]
+ka:Self-Managing Teams
+
+'''
+

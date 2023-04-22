@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "104 - Which three of the following are feedbac"
+---
+
+
+[.question]
+== Number 104-63effcfa9ebbe935e4c16af5
+
+****
+
+[.query]
+A feedback loop is an opportunity for a team or group to discuss, inspect and most importantly, adapt. What three events provide feedback loops in Scrum?
+
+[.list]
+* [*] A. The Sprint Retrospective
+* [ ] B. The Daily Standup
+* [*] C. The Sprint Review
+* [*] D. The Daily Scrum
+* [ ] E. The Performance Review
+****
+
+[.answer]
+ACD
+
+[.explanation]
+In Scrum, the Sprint Review, Sprint Retrospective, and Daily Scrum are considered feedback loops because they provide opportunities for the Scrum Team to inspect and adapt their work.
+
+The Daily Scrum, which is held every day during the Sprint, is a short meeting where the Development Team plans its work for the next 24 hours. During this meeting, the team members share what they have accomplished since the last meeting, what they plan to accomplish today, and any obstacles that may prevent them from achieving their goals. This daily feedback loop allows the team to adjust its plan for the Sprint based on the progress made and the obstacles encountered.
+
+The Sprint Review is held at the end of the Sprint, and it is an opportunity for the Scrum Team to review and discuss the work that was completed during the Sprint. The Product Owner presents the completed Product Backlog items, and stakeholders provide feedback on the work that was done. The team uses this feedback to adjust the Product Backlog for the next Sprint.
+
+The Sprint Retrospective is also held at the end of the Sprint, and it is an opportunity for the Scrum Team to reflect on its performance during the Sprint. During this meeting, the team discusses what went well, what did not go well, and how they can improve their process for the next Sprint. The team uses this feedback to make adjustments to its process to improve its performance in future Sprints.
+
+In summary, the Daily Scrum, Sprint Review, and Sprint Retrospective are feedback loops because they provide opportunities for the Scrum Team to inspect and adapt their work based on feedback received during the Sprint. These feedback loops help the team to continuously improve their process and deliver a better product.****
+
+[.ka]
+ka:Events
+
+'''
+

@@ -1,0 +1,42 @@
+---
+layout: default 
+title: "141 - When is it most appropriate for a Develo"
+---
+
+
+[.question]
+== Number 141-63effebd9ebbe935e4c16b2a
+
+****
+
+[.query]
+It has come to the attention of the Product Owner that quality gates are failing, and important non-functional requirements are not being met after increments are release. The Product Owner wants to change the Definition of Done to include more stringent non-functional requirements. How should the Product Owner proceed?
+
+[.list]
+* [ ] A. Have the Scrum Team create a new Definition of Done during the next Daily Scrum.
+* [ ] B. Have the Scrum Team create a new Definition of Done during the next Sprint's Planning meeting.
+* [ ] C. Work with the team to create a new Definition of Done after the current Sprint ends, but before the next Sprint begins.
+* [*] D. Use the Sprint Retrospective to change the current Definition of Done.
+****
+
+[.answer]
+D
+
+[.explanation]
+The Sprint Retrospective is the correct time to discuss the Definition of Done and change the DoD if required.
+
+You can't change the DoD prior to the Sprint Retrospective, because work is still being done, and you end up with a scenario where you end up "moving the goalposts" mid-Sprint. Keep in mind that Sprints should be short, so it will never be more than 4 weeks before a new Sprint starts again.
+
+Furthermore, you don't want to negotiate the Definition of Done during Sprint Planning because developers might subconsciously 'game the definition' to make it easier to convert difficult Product Backlog Items to an increment.
+
+Also, there is nothing after one Sprint and before another. There is no time between Sprints in Scrum. 
+
+When one Sprint ends, the next Sprint begins immediately.
+
+****
+
+[.ka]
+ka:Events
+
+'''
+

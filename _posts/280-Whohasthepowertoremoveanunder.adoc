@@ -1,0 +1,36 @@
+---
+layout: default 
+title: "280 - A new developer is having continuing con"
+---
+
+
+[.question]
+== Number 280-63effb3c9ebbe935e4c16ab0
+
+****
+
+[.query]
+Who has the power to remove an underperforming developer from a Scrum team?
+
+[.list]
+* [ ] A. Only someone in management or Human Resources has the ability to remove an underperforming developer from a Scrum team. This is not a Scrum responsibility.
+* [ ] B. The Scrum Master can remove underperforming developers from a Scrum team.
+* [ ] C. The responsibility to remove a developer from the Scrum Team lies outside of the scope of the Scrum Guide.
+* [*] D. The Development Team has final say over who is allowed to be a member of the development team.
+****
+
+[.answer]
+D
+
+[.explanation]
+Development teams in Scrum are self-managed and self-organized.
+
+If the team decides a member is impeding progress, they have the final say over whether the team member be allowed to stay on the team or not.
+
+Note, this doesn't mean the person is fired. It just means this team was not the correct fit. The person may end up being a great performer somewhere else in the organization.****
+
+[.ka]
+ka:Scrum Team
+
+'''
+

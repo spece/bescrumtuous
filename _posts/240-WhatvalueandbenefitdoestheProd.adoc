@@ -1,0 +1,42 @@
+---
+layout: default 
+title: "240 - Why does the Product Owner want the Deve"
+---
+
+
+[.question]
+== Number 240-63effae79ebbe935e4c16aa6
+
+****
+
+[.query]
+What value and benefit does the Product Owner receive from having the Development Team adhere to the organization's collectively agreed upon "Definition of Done" (DoD)?
+
+[.list]
+* [ ] A. The DoD allows the Product Owner to rate the quality of the Increment of Work during the Sprint Review.
+* [ ] B. The DoD provides a standard that allows the Product Owner to properly calculate velocity.
+* [*] C. The DoD provides for full transparency and openness about what was completed during the Sprint along with the work that made an increment considered successful and complete.
+* [ ] D. The DoD allows the Product Owner to estimate development speed and predict future release dates for the stakeholders.
+****
+
+[.answer]
+C
+
+[.explanation]
+By ensuring the Development Team adheres to their definition of "Done" the Product Owner can have confidence when delivering product increment that it meets all the established quality criteria and is of the highest quality.
+
+The Product Owner wants the Scrum Development Team to adhere to the definition of "Done" for several reasons:
+
+Ensuring a shared understanding: The definition of "Done" is an agreed-upon set of criteria that defines what it means to complete a user story or product increment. By adhering to this definition, the Product Owner can ensure that the entire Scrum Team has a shared understanding of what is expected from each development effort.
+
+Transparency: The definition of "Done" is a way to make the work of the Scrum Development Team transparent. It provides a clear picture of what has been accomplished, and what work remains to be done. This transparency allows the Product Owner to make informed decisions about the product backlog, and to adjust priorities if necessary.
+
+Improved quality: Adhering to the definition of "Done" ensures that the product increment is of high quality. By completing each user story to the agreed-upon criteria, the Scrum Development Team is ensuring that the product is ready for release and that there are no hidden technical debt or issues.
+
+Adhering to the definition of "Done" is essential for ensuring a shared understanding, transparency, high quality, and reliable forecasts, all of which are critical for the success of the Scrum Team and the product they are building.****
+
+[.ka]
+ka:Scrum Values
+
+'''
+

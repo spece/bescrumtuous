@@ -1,0 +1,39 @@
+---
+layout: default 
+title: "281 - Who is responsible for managing the prog"
+---
+
+
+[.question]
+== Number 281-63effe339ebbe935e4c16b1a
+
+****
+
+[.query]
+Who holds developers accountable for creating a plan, instilling quality and adhering to the Definition of Done?
+
+[.list]
+* [ ] A. The Product Owner holds the developers accountable
+* [ ] B. The Scrum Master holds the developers accountable
+* [ ] C. The Stakeholders hold the developers accountable
+* [*] D. Developers hold each other accountable as professional
+****
+
+[.answer]
+D
+
+[.explanation]
+This question comes right out of the Scrum Guide:
+
+The specific skills needed by the Developers are often broad and will vary with the domain of work. However, the Developers are always accountable for:
+
+- Creating a plan for the Sprint, the Sprint Backlog;
+- Instilling quality by adhering to a Definition of Done;
+- Adapting their plan each day toward the Sprint Goal; and,
+- Holding each other accountable as professionals.****
+
+[.ka]
+ka:Scrum Values
+
+'''
+

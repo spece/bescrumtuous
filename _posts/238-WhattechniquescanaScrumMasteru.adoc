@@ -1,0 +1,34 @@
+---
+layout: default 
+title: "238 - Which two are the most appropriate respo"
+---
+
+
+[.question]
+== Number 238-63effc8d9ebbe935e4c16ae4
+
+****
+
+[.query]
+What techniques can a Scrum Master use to facilitate the prevention or removal of impediments in an organization?
+
+
+[.list]
+* [*] A. Coach management on how to use Scrum artifacts to achieve transparencey
+* [ ] B. Schedule Zoom calls for the development team
+* [*] C. Coach the Scrum Team on the importance of keeping the Sprint Retrospective within the timebox
+* [ ] D. Take notes for the developers during the Dailiy Scrum
+* [*] E. Coach the developers on keeping the Daily Scrum within the timebox
+****
+
+[.answer]
+ACE
+
+[.explanation]
+****
+
+[.ka]
+ka:null
+
+'''
+

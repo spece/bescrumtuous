@@ -1,0 +1,34 @@
+---
+layout: default 
+title: "111 - Which two of the following are appropria"
+---
+
+
+[.question]
+== Number 111-63effcb49ebbe935e4c16aeb
+
+****
+
+[.query]
+According to the Scrum Guide, the goal of the Sprint Retrospective is to plan ways to increase:
+
+[.list]
+* [*] A. Transparency.
+* [ ] B. Quality.
+* [*] C. Agility.
+* [ ] D. Effectiveness
+****
+
+[.answer]
+AC
+
+[.explanation]
+This answer comes directly out of the Scrum Guide:
+
+"The purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness."****
+
+[.ka]
+ka:Events
+
+'''
+
