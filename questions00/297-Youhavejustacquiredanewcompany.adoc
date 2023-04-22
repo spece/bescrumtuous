@@ -1,0 +1,29 @@
+
+[.question]
+==== Number 63effeea9ebbe935e4c16b2f
+
+****
+
+[.query]
+You have just acquired a new company, and two of their Scrum teams will be added to your project to help build the company's flagship product. How should the teams be organized?
+
+[.list]
+* [ ] A. Have the Scrum Master create three new teams with an equal combination of experience, seniority and technical skill.
+* [ ] B. Keep the teams in their initial state and allow them to self-organize when the project is complete.
+* [ ] C. Introduce the teams to each other and have them self-organize into teams of equal size.
+* [*] D. Keep the initial structure and layout of the teams, and allow them to self-organize over time.
+****
+
+[.answer]
+D
+
+[.explanation]
+Breaking up teams and reassembling them can be disruptive, as it may require additional time for the new teams to get up to speed and establish a working relationship. This disruption can result in delays in project delivery, increased project costs, and decreased quality of work.
+
+There's no need to break the teams up right away. Let them get to know each other and allow them to self-organize over time.****
+
+[.ka]
+ka:Self-Managing Teams
+
+'''
+

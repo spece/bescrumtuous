@@ -1,0 +1,48 @@
+
+[.question]
+==== Number 63eff9ea9ebbe935e4c16a86
+
+****
+
+[.query]
+Who is responsible for the delivery of technical documentation for a software product in Scrum?
+
+
+[.list]
+* [ ] A. The Scrum Master creates all the technical documentation with oversight from the Development Team.
+* [ ] B. Technical documentation is done by a specialized team external to the Development Team.
+* [ ] B. Technical documentation is done by a specialized team inside the Development Team.
+* [*] D. The Development Team spends their own time creating technical documentation.
+****
+
+[.answer]
+D
+
+[.explanation]
+Option D is correct. 
+
+"Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."
+
+A Scrum Team is responsible for the creation of an increment that meets the Definition of Done, and it is the developers who do the work. 
+
+If Technical Documentation is included in the Definition of Done, the developers on the Scrum Team is expected to have the skills and time to create it.
+
+"Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint."
+
+Furthermore, there are no 'special teams' in Scrum. "Within a Scrum Team, there are no sub-teams or hierarchies."
+
+In Scrum, the Development Team is responsible for creating a potentially releasable product increment every Sprint that meets the Definition of Done. If user documentation is part of the "Done" criteria, then the Development Team must find a way to produce it.
+
+"The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required."
+
+In Scrum, the Development Team is responsible for creating a potentially releasable increment of the product at the end of each Sprint. If the definition of "potentially releasable" includes the requirement that the product increment includes technical documentation, then it is the responsibility of the Development Team to ensure that technical documentation is created as part of the definition of done.
+
+The Scrum Development Team is responsible for determining if any technical documentation is required to meet the definition of done, and for creating that documentation as part of the product increment. 
+
+****
+
+[.ka]
+ka:Scrum Team
+
+'''
+

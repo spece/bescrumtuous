@@ -1,0 +1,30 @@
+
+[.question]
+==== Number 63effbd89ebbe935e4c16ac6
+
+****
+
+[.query]
+What advantages does self-organization offer?
+
+[.list]
+* [*] A. Increased ingenuity and motivation to solve problems.
+* [ ] B. Increased ability to comply with regulation, rules and guidelines
+* [ ] C. Increased accuracy in estimating Product Backlog Item completion dates
+* [*] D. Increased personal accountability with regards to for the work they perform
+* [*] E. Increased commitment to the team and the project
+****
+
+[.answer]
+ADE
+
+[.explanation]
+Self-organization can empower teams by providing them with greater flexibility and autonomy, which can lead to increased motivation, creativity, and ownership of projects. 
+
+Additionally, team members can better recognize and utilize everyone's strengths, while also facilitating deeper collaboration, shared responsibility, and more effective problem-solving. Lastly, self-organization can result in faster decision-making as teams have the authority to act in their own best interests.****
+
+[.ka]
+ka:self-managing teams
+
+'''
+

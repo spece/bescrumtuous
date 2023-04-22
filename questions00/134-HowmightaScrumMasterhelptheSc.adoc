@@ -1,0 +1,31 @@
+
+[.question]
+==== Number 63effa7d9ebbe935e4c16a99
+
+****
+
+[.query]
+How might a Scrum Master help the Scrum Team resolve an internal disagreement, which is causing inter-personal conflicts, regarding how to troubleshoot and diagnose a difficult, ongoing production bug that must be fixed as part of the current Sprint's Definition of Done?
+
+[.list]
+* [*] A. Use various coaching and facilitation techniques, such as open questions and active listening.
+* [*] B. Involve everyone on the Development Team in forming a decision that is in line with the Scrum Values.
+* [ ] C. Ask an external consultant on the production team to determine the most sensible path forward.
+* [ ] D. Incorporate the Human Resources department to help resolve any inter-personal conflicts that have arisen.
+****
+
+[.answer]
+AB
+
+[.explanation]
+A Scrum Team is expected to be cross-functional and have all the skills needed to address the issues that arise. The team should be able to make decisions without consulting external specialists.
+
+A self-managed, cross-functional team is also expected to resolve conflicts on their own. From the Scrum perspective, and certainly on the Scrum Master certification exam, going to Human Resources to resolve a problem is not the prescribed approach. The Scrum Guide never even mentions the term "Human Resources.'
+
+A Scrum Master coaches and facilitates in order to help the development team come to their own conclusions and paths forward.****
+
+[.ka]
+ka:Coaching and Mentoring
+
+'''
+

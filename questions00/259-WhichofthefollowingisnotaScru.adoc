@@ -1,0 +1,30 @@
+
+[.question]
+==== Number 63effc549ebbe935e4c16adb
+
+****
+
+[.query]
+Which of the following is not a Scrum pillar?
+
+[.list]
+* [ ] A. Transparency
+* [*] B. Commitment
+* [ ] C. Adaptation
+* [ ] D. Inspection
+* [*] E. Openness
+****
+
+[.answer]
+BE
+
+[.explanation]
+Answers B and E are correct.
+
+The Scrum Pillars are Transparency, Inspection and Adaptation.****
+
+[.ka]
+ka:Scrum Values
+
+'''
+

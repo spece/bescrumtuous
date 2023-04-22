@@ -1,0 +1,28 @@
+
+[.question]
+==== Number 63effdab9ebbe935e4c16b0a
+
+****
+
+[.query]
+What are two methods for creating high-performing Development Teams according to Scrum?
+
+[.list]
+* [ ] A. Managers actively participate in the Daily Scrum to assist in impediment removal
+* [*] B. Developers are allowed to choose how many developers will be on each Scrum Team
+* [ ] C. Team leads provide junior developers with clear use cases and well defined success criteria
+* [ ] D. The Scrum Master does low-level, time consuming tasks for the development team like meeting scheduling and not taking
+* [*] E. Development teams are allowed to self-organize and self-manage
+****
+
+[.answer]
+BE
+
+[.explanation]
+The two methods for creating high-performing Development Teams according to Scrum are self-organizing teams and cross-functional teams. Self-organizing teams are teams that are empowered to figure out how best to complete their work using their collective experiences, skills, and knowledge. Cross-functional teams are composed of members from multiple disciplines and bring a variety of perspectives to product development.****
+
+[.ka]
+ka:null
+
+'''
+

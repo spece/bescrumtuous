@@ -1,0 +1,38 @@
+
+[.question]
+==== Number 63effb129ebbe935e4c16aab
+
+****
+
+[.query]
+Which of the following best describes the purpose of the Sprint Review in Scrum?
+
+[.list]
+* [ ] A. The Sprint Review is used to recognize the work of top performing developers, and change to guide the activities of underperforming developers in future Sprints.
+* [ ] B. The Sprint Review is a demo at the end of the Sprint for everyone in the organization to check on the work done.
+* [ ] C. The Sprint Review is a way for the Product Owner and Scrum Master to critique the Development Team's activities during a Sprint.
+* [*] D. The Sprint Review is when the Scrum Team and stakeholders inspect the outcomes of a Sprint and decide how to adapt in both the next, and in future Sprint.
+****
+
+[.answer]
+D
+
+[.explanation]
+The Sprint Review is a crucial event in the Scrum framework that helps stakeholders to inspect the outcomes of the just-concluded sprint and decide how to adapt in future sprints.
+
+During the Sprint Review, the Scrum team presents the increment of the product that was developed during the sprint to the stakeholders. The presentation may include a demonstration of the product features that were completed during the sprint, but a demo is not explicitly prescribed by the Scrum Guide. 
+
+"The Scrum Team presents the results of their work to key stakeholders and progress
+toward the Product Goal is discussed. During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to donext. The Product Backlog may also be adjusted to meet new opportunities. The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation."
+
+The purpose of the Sprint Review is to enable stakeholders to inspect the product increment and provide feedback to the Scrum team. The feedback may be related to the features that were developed during the sprint, or it may be related to the overall product vision or direction. The Scrum team can then take this feedback and use it to improve the product and adapt their approach in future sprints.
+
+The Sprint Review also allows stakeholders to evaluate the progress of the project and help the Scrum team make decisions about the next steps. Based on the feedback received during the review, the product owner can re-prioritize the product backlog and the development team can create a targeted Sprint goals for the next sprint. 
+
+This process of inspection and adaptation for the future is at the heart of the Scrum framework and helps to ensure that the product being developed is meeting the needs of the stakeholders and delivering value.****
+
+[.ka]
+ka:Events
+
+'''
+

@@ -1,0 +1,36 @@
+
+[.question]
+==== Number 63effe999ebbe935e4c16b26
+
+****
+
+[.query]
+Scrum practitioners are encouraged to focus on the current Sprint, and while the Product Goal should always be 'top of mind', Scrum does not plan two or three Sprints into the future. This is an example of which Scrum value?
+
+[.list]
+* [ ] A. Courage.
+* [ ] B. Respect.
+* [*] C. Focus.
+* [ ] D. Openness.
+* [ ] E. Honesty.
+****
+
+[.answer]
+C
+
+[.explanation]
+One of the key principles of Scrum is to maintain a clear focus on the current Sprint and avoid distractions from other work that is not part of the Sprint. This principle of focusing on the Sprint is intended to ensure that the team can deliver high-quality work and achieve its Sprint Goal without being sidetracked by other priorities.
+
+This is also a recognition of the fact that things can change quickly, especially after a Sprint Review or Sprint Retrospective, so planning beyond the current Sprint is often a complete waste of time.
+
+By not looking beyond the current Sprint, the development team is able to maintain this focus and avoid getting distracted by future work that may not be relevant or may change over time. This helps the team to remain agile and respond quickly to changes in the market or in customer needs, since they are not locked into a fixed plan that may become obsolete.
+
+Moreover, the Scrum framework provides regular opportunities to inspect and adapt the work done in the current Sprint, and adjust the backlog accordingly. This allows the team to constantly improve the product and respond to feedback from stakeholders. By focusing on the current Sprint, the team can take full advantage of this feedback loop and continuously deliver value to the customer.
+
+In summary, by not looking beyond the current Sprint, the development team can maintain a clear focus on the work at hand, avoid distractions, and deliver high-quality work that meets the needs of the customer. This is an example of how the principle of focus is an essential element of the Scrum framework.****
+
+[.ka]
+ka:Scrum Values
+
+'''
+

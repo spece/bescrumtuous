@@ -1,0 +1,30 @@
+
+[.question]
+==== Number 63effdbb9ebbe935e4c16b0c
+
+****
+
+[.query]
+The Product Owner is not attending Sprint Reviews and Sprint Retrospectives, and not ordering the Product Backlog to maximize value. What should the Scrum Master do?
+
+[.list]
+* [*] A. Help the Product Owner understand Scrum theory and practice.
+* [ ] B. Report the issue to senior management.
+* [*] C. Discuss the issue with the Product Owner and try to remove impediments to the PO attending Scrum events.
+* [*] D. Coach the Product Owner on the importance of ordering the product backlog.
+* [ ] E. Replace the Product Owner with a senior member of the development team.
+****
+
+[.answer]
+ACD
+
+[.explanation]
+It is the Scrum Master's job to work with team members and help them understand Scrum theory and practice.
+
+"The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization."****
+
+[.ka]
+ka:Facilitation
+
+'''
+

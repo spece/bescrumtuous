@@ -1,0 +1,35 @@
+
+[.question]
+==== Number 63effbaa9ebbe935e4c16abf
+
+****
+
+[.query]
+Which statement is most true about burn-down charts in Scrum?
+
+[.list]
+* [ ] A. Burn-down charts are an estimate of the total work remaining for the Sprint and can help to forecast progress.
+* [ ] B. Burn-down charts help track per-developer productivity in terms of hours worked
+* [ ] C. Burn-down charts quantify the amount of effort developers have put into a Sprint.
+* [*] D. Burn-down charts do not replace the importance of empiricism.
+****
+
+[.answer]
+D
+
+[.explanation]
+The Scrum Guide states: "Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism." 
+
+A burn-down chart is a visual representation of the work remaining in a Scrum Sprint, displayed as a graph that shows the progress of work completed against time. The chart plots the amount of work left to do against the remaining time in the Sprint. The team uses the chart to track their progress and to determine if they are on track to complete the Sprint goals.
+
+While burn-down charts are an essential tool for Scrum teams, they do not replace the importance of empiricism in complex environments. Empiricism is the foundation of the Scrum framework, and it is based on the principles of transparency, inspection, and adaptation. The Scrum process relies on continuous inspection and adaptation to ensure that the team is delivering value to the customer and meeting the Sprint goals.
+
+Burn-down charts can provide valuable insights into the progress of work during a Sprint, but they do not capture the full complexity of the work being performed. There may be unexpected events that impact the progress of work, and the team may need to adapt to these changes to stay on track. For example, the team may encounter unforeseen technical issues, or there may be changes in the business environment that require a shift in priorities. These types of events cannot be captured in a burn-down chart alone and require a high level of empiricism to be successfully navigated.
+
+Therefore, while burn-down charts are useful, they do not replace the importance of empiricism in complex environments. Scrum teams must remain committed to the principles of transparency, inspection, and adaptation to ensure that they are delivering value to the customer and meeting their Sprint goals. Burn-down charts are just one tool that can be used to support this process, but they must be used in conjunction with other methods and techniques to ensure that the team is successful in delivering quality software.****
+
+[.ka]
+ka:Empiricism
+
+'''
+

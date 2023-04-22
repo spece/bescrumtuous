@@ -1,0 +1,31 @@
+
+[.question]
+==== Number 63effd2e9ebbe935e4c16afb
+
+****
+
+[.query]
+Which of the following terms are not found in the Scrum Guide?
+
+[.list]
+* [*] A. Agile.
+* [*] B. Points.
+* [ ] C. Lean
+* [*] D. Kanban
+* [ ] E. Empiricism
+* [*] F. Use case
+****
+
+[.answer]
+ABDF
+
+[.explanation]
+While teams doing Scrum often speak about Agile, story points, Kanban boards and use cases, none of these terms appear in the Scrum Guide. When these terms do appear on the Scrum Master Certification exam, they are often red herrings indicating an incorrect answer.
+
+"Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials."****
+
+[.ka]
+ka:Empiricism
+
+'''
+

@@ -1,0 +1,37 @@
+
+[.question]
+==== Number 63effc169ebbe935e4c16ad1
+
+****
+
+[.query]
+Even if multiple, independent Scrum teams with their own unique set of skills are working on the same product, they must all pull from the exact same Product Backlog.
+
+[.list]
+* [*] A. True
+* [ ] B. False
+****
+
+[.answer]
+A
+
+[.explanation]
+This is true.
+
+In Scrum, a Product Backlog is a prioritized list of features, functionalities, and requirements for a product. Every Scrum Team working on the same project must share the same Product Backlog because of the following reasons:
+
+Ensures a single source of truth: A shared Product Backlog ensures that all teams have a single source of truth for the project. This ensures that everyone is working towards the same goals and that there is no duplication of effort or confusion about what needs to be done.
+
+Promotes collaboration and transparency: By sharing the same Product Backlog, all teams have visibility into what each other is working on. This promotes collaboration and transparency between teams and helps to prevent silos from forming.
+
+Supports flexibility and adaptability: With a shared Product Backlog, teams can work on the items that are most important to the project as a whole, rather than just their individual team's priorities. This allows for greater flexibility and adaptability as the project progresses and priorities change.
+
+Facilitates effective Sprint Planning: When all teams are working from the same Product Backlog, Sprint Planning becomes easier and more effective. The teams can work together to select the items that will be worked on in the upcoming Sprint, ensuring that the work is aligned with the overall project goals.
+
+Simplifies product ownership: By having a single Product Owner responsible for the entire Product Backlog, there is clear accountability for the product as a whole. This simplifies product ownership and ensures that there is a single point of contact for stakeholders to communicate with.****
+
+[.ka]
+ka:Product Backlog Management
+
+'''
+

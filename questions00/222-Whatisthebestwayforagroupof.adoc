@@ -1,0 +1,29 @@
+
+[.question]
+==== Number 63effc739ebbe935e4c16ae0
+
+****
+
+[.query]
+What is the best way for a group of 50 newly hired developers to be broken up into multiple Scrum teams of 8 developers or less?
+
+[.list]
+* [*] A. Allow the group to get familiar with the product and with each other, and allow them to divide themselves up into groups
+* [ ] B. Randomly assign individuals into teams and if necessary, adjust the teams after the Sprint Retrospective
+* [ ] C. Have Human Resources assign new hires to groups of 8 developers or less and allow the Product Owner to swap developers between teams over time
+* [ ] D. Create a spreadsheet listing age, experience, skills and competency and use this to create equally qualified teams.
+****
+
+[.answer]
+A
+
+[.explanation]
+Self-managing means self-managing.
+
+Scrum expects their development teams to be self-managing, so nobody should tell the developers how to group themselves other than the developers themselves.****
+
+[.ka]
+ka:self-managing teams
+
+'''
+

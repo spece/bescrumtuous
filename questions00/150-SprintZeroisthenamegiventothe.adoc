@@ -1,0 +1,27 @@
+
+[.question]
+==== Number 63effef09ebbe935e4c16b30
+
+****
+
+[.query]
+Sprint Zero is the name given to the first Sprint in a project, and the last Sprint is known as the Release Sprint.
+
+[.list]
+* [ ] A. True
+* [*] B. False
+****
+
+[.answer]
+B
+
+[.explanation]
+There is no such thing as a Release Sprint, Integration Sprint or a Sprint Zero according to the Scrum Guide. These phrases on the Scrum Master Certification exam will almost always be red herrings that point to an incorrect answer.
+
+****
+
+[.ka]
+ka:Events
+
+'''
+

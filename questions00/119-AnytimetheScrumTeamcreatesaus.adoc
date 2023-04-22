@@ -1,0 +1,29 @@
+
+[.question]
+==== Number 63effd699ebbe935e4c16b02
+
+****
+
+[.query]
+Any time the Scrum Team creates a useable Increment that meets the Definition of Done, the increment must be released into production.
+
+[.list]
+* [ ] A. True
+* [*] B. False
+****
+
+[.answer]
+B
+
+[.explanation]
+This is false.
+
+A Scrum Team is expected to create a usable increment before the end of each Sprint, but there is no requirement to release it into production.
+
+Scrum is a lightweight framework with very few 'hard and fast' rules. Whenever you see the world 'must' on the Scrum Master Certification exam, it's likely an incorrect option.****
+
+[.ka]
+ka:null
+
+'''
+

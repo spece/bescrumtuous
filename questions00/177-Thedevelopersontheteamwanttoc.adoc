@@ -1,0 +1,33 @@
+
+[.question]
+==== Number 63eff9f89ebbe935e4c16a88
+
+****
+
+[.query]
+The developers on the team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
+
+[.list]
+* [ ] A. Inform the developers the Definition of Done cannot be changed mid-project.
+* [*] B. Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner during the Sprint Retrospective.
+* [ ] C. Have the developers discuss the changes they would like to see made to the Definition of Done with you, the stakeholders and the Product Owner during the Sprint Review.
+* [ ] D. Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner at the end of the current Sprint but before the next Sprint begins.
+****
+
+[.answer]
+B
+
+[.explanation]
+Option B is correct.
+
+The Definition of Done can be changed with the agreement of the team during the Sprint Retrospective.
+
+"During the Sprint Retrospective, the Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done."
+
+Teams should keep in mind that "if the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."****
+
+[.ka]
+ka:Done
+
+'''
+

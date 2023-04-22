@@ -1,0 +1,30 @@
+
+[.question]
+==== Number 63efff4f9ebbe935e4c16b3b
+
+****
+
+[.query]
+What actions should a new Scrum Development Team take during the initial Sprint?
+
+[.list]
+* [*] A. Create at least one piece of functionality that will be included in the final product
+* [ ] B. Perform requirements gathering and validate the initial designs so development can take place in subsequent Sprints.
+* [ ] C. With the Product Owner and Scrum Master, examine the Product Backlog and estimate how many Sprints will be required to complete the project.
+* [ ] D. Communicate with external teams to understand how the continuous integration and continuous delivery pipelines work.
+* [*] E. Create a usable product Increment.
+****
+
+[.answer]
+AE
+
+[.explanation]
+Every Sprint in Scrum must produce a usable increment of work, and this increment of work must be something that is intended to become part of the final product.
+
+There is no Sprint Zero in Scrum. There is no 'initial setup Sprint' in Scrum where teams can focus on designs or infrastructure. Every Sprint must produce something of value. Every Sprint must produce an increment of work that will incrementally, over time, lead to a complete and finished product.****
+
+[.ka]
+ka:Product Value
+
+'''
+

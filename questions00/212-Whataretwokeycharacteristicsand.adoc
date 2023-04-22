@@ -1,0 +1,37 @@
+
+[.question]
+==== Number 63effaa49ebbe935e4c16a9e
+
+****
+
+[.query]
+What are two key characteristics and responsibilities of the Product Owner accountability?
+
+[.list]
+* [*] A. The Product Owner the the one who orders and puts the the Product Backlog in a prioritized sequence
+* [*] B. The Product Owner is a single person and the role cannot be shared
+* [ ] C. The Product Owner commits 100% of their time to their Scrum Team.
+* [ ] D. Multiple individuals with product knowledge can share the Product Owner role on a Scrum Team.
+****
+
+[.answer]
+AB
+
+[.explanation]
+The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team. They maintain the product backlog, ensure it is prioritized, and convey product vision to the team. 
+
+The Product Owner is the champion of the project who is the sole person responsible for managing the product backlog. They also ensure that the development team, stakeholders, and others understand the product vision.
+
+The Product Owner is the single point of accountability for the success of the product, and is responsible for making decisions about the priority of work items, defining acceptance criteria, and ensuring that the team is delivering value to the stakeholders.
+
+One of the reasons why only one person is allowed to do the Product Owner's job in Scrum is to ensure clear accountability and ownership. Having multiple people responsible for defining the product backlog can lead to confusion and conflict about priorities and goals. In Scrum, the Product Owner is empowered to make decisions and communicate them to the team, and having a single point of accountability helps to ensure that the team is aligned and focused on the same goals.
+
+Additionally, having a single Product Owner helps to maintain consistency and coherence in the product vision and strategy. The Product Owner is responsible for articulating the product vision and ensuring that the team is working towards the same objectives. If there were multiple people defining the product backlog, it could be difficult to maintain a clear and consistent product vision, which could lead to a lack of focus and direction for the team.
+
+Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.****
+
+[.ka]
+ka:Scrum Team
+
+'''
+

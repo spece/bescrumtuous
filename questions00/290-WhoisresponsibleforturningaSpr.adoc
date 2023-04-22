@@ -1,0 +1,27 @@
+
+[.question]
+==== Number 63efff699ebbe935e4c16b3e
+
+****
+
+[.query]
+Who is responsible for turning a Sprint Backlog Item into a fully usable increment that meets the team's Definition of Done (DoD)?
+
+[.list]
+* [ ] A. The Scrum Master
+* [ ] B. The Product Owner
+* [ ] C. The individual developer who takes responsibility for the Sprint Backlog Item during Sprint Planning.
+* [*] D. The development team as a whole.
+****
+
+[.answer]
+D
+
+[.explanation]
+We recognize individuals in the world of Scrum, but the development team as a whole is responsible for turning Spring Backlog Items into a usable increment of work.****
+
+[.ka]
+ka:Product Value
+
+'''
+

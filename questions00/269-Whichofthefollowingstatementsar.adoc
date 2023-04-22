@@ -1,0 +1,35 @@
+
+[.question]
+==== Number 63effca69ebbe935e4c16ae8
+
+****
+
+[.query]
+Which of the following statements are true about the Scrum Team?
+
+[.list]
+* [ ] A. Every team must have at least one Scrum Master, but the Product Owner is optional.
+* [*] B. A Scrum Developer can work on multiple Scrum Teams at the same time.
+* [ ] C. The Product Owner can only be associated with one Scrum Team at a time.
+* [ ] D. The Scrum Master can only be associated with one Scrum Team at a time.
+****
+
+[.answer]
+B
+
+[.explanation]
+Every team must have one Scrum Master and one Product Owner. 
+
+However, there is no rule that says a developer, Product Owner or Scrum Master can't split their time between multiple teams. In fact, doing so is a very common practice.
+
+Sometimes it's good to think outside of software development in Scrum.
+
+Imagine a construction site had 3 houses under construction, and each house had its own Scrum Team doing the work. You could have one Scrum Master that worked on each house. You could have one Product Owner that helped on each house. And you could have a developer, perhaps someone with plumbing skills, that did the plumbing in more than one house.
+
+So long as the developers do their work, and the Scrum Master and Product Owner are available to participate and contribute when needed, then jumping between teams and projects shouldn't be a problem.****
+
+[.ka]
+ka:Scrum Team
+
+'''
+

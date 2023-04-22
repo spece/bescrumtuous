@@ -1,0 +1,28 @@
+
+[.question]
+==== Number 63effdce9ebbe935e4c16b0e
+
+****
+
+[.query]
+For an Increment of work to be demonstrated to the stakeholders at the Sprint Review, it must be:
+
+[.list]
+* [*] A. Valuable
+* [ ] B. Paid for
+* [ ] C. Peer reviewed
+* [*] D. Usable
+* [*] E. Compatible with past Increments
+****
+
+[.answer]
+ADE
+
+[.explanation]
+An Increment must be both valuable and usable and compatible with all past increments.****
+
+[.ka]
+ka:Proudct Value
+
+'''
+
