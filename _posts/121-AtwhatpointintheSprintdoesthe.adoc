@@ -35,7 +35,7 @@ Focus: The Sprint Backlog helps the Development Team to focus on the work that n
 
 Commitment: The Sprint Backlog is a commitment by the Development Team to complete the items that are included in it. By agreeing to the work in the Sprint Backlog, the team is committing to achieving the Sprint Goal and delivering value to the stakeholders.
 
-Adaptability: The Sprint Backlog is not set in stone, and it can be adjusted throughout the Sprint as needed. If new information or feedback becomes available, the Development Team can adjust.****
+Adaptability: The Sprint Backlog is not set in stone, and it can be adjusted throughout the Sprint as needed. If new information or feedback becomes available, the Development Team can adjust.
 
 [.ka]
 ka:Events

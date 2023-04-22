@@ -25,7 +25,7 @@ D
 [.explanation]
 The Scrum Master cannot cancel a Sprint, they cannot add items to the Sprint Backlog and they cannot assign tasks to members of the development team.
 
-This is a job for the Product Owner to address. Hopefully the PO can negotiate a change to the Sprint Backlog that would allow the critical feature to be implemented without risking the Sprint Goal. If the new information makes the existing Sprint Goal obsolete, then under those conditions the Product Owner has the ability to cancel the Sprint and begin a new Sprint with a new round of Sprint Planning.****
+This is a job for the Product Owner to address. Hopefully the PO can negotiate a change to the Sprint Backlog that would allow the critical feature to be implemented without risking the Sprint Goal. If the new information makes the existing Sprint Goal obsolete, then under those conditions the Product Owner has the ability to cancel the Sprint and begin a new Sprint with a new round of Sprint Planning.
 
 [.ka]
 ka:Coaching and Mentoring

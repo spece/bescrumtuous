@@ -33,7 +33,7 @@ What did you do yesterday?
 What will you do today?
 Are there any blockers or impediments preventing you from doing your work?
 
-Have been removed from the Scrum Guide. These can be used during the Daily Scrum, but they are not required.****
+Have been removed from the Scrum Guide. These can be used during the Daily Scrum, but they are not required.
 
 [.ka]
 ka:Events

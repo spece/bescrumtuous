@@ -39,7 +39,7 @@ Firstly, the Sprint is a timeboxed period of typically 2-4 weeks during which th
 
 Secondly, returning unfinished work to the Product Backlog allows the team to reevaluate the priority of the items and potentially select a different set of items for the next Sprint. This helps to ensure that the team is working on the most valuable work and responding to changing business needs.
 
-Finally, by returning unfinished work to the Product Backlog, the team can take the time to reassess and adjust their estimates and capacity for future Sprints. This helps to ensure that they are setting realistic goals and commitments for each Sprint and continuously improving their performance over time.****
+Finally, by returning unfinished work to the Product Backlog, the team can take the time to reassess and adjust their estimates and capacity for future Sprints. This helps to ensure that they are setting realistic goals and commitments for each Sprint and continuously improving their performance over time.
 
 [.ka]
 ka:Product Backlog Management

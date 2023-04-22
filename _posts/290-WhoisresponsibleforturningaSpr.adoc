@@ -23,7 +23,7 @@ Who is responsible for turning a Sprint Backlog Item into a fully usable increme
 D
 
 [.explanation]
-We recognize individuals in the world of Scrum, but the development team as a whole is responsible for turning Spring Backlog Items into a usable increment of work.****
+We recognize individuals in the world of Scrum, but the development team as a whole is responsible for turning Spring Backlog Items into a usable increment of work.
 
 [.ka]
 ka:Product Value

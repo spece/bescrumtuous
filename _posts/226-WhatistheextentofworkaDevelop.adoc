@@ -26,7 +26,7 @@ D
 The Development Team is expected to work on the selected Product Backlog items during a Sprint. The amount of work they do on an item is not predefined, but it is up to the Development Team to decide based on the time and resources available in the Sprint. The Development Team works in a time-boxed environment, and it tries to achieve the Sprint Goal by completing the Product Backlog items. Hence, the Development Team should do as much work as possible on the selected Product Backlog item within the Sprint. If any work is remaining, it will be added to the Product Backlog and prioritized in future Sprints.
 
 Working hard and pushing undone work into a future sprint highlights the principle of the Development Team to do as much work as possible within the Sprint's time-box. The Development Team needs to identify the amount of work they can fit into a Sprint, and they should complete the work within that period. If there is any incomplete work, it can be added to the Product Backlog for prioritization in a future Sprint. 
-****
+
 
 [.ka]
 ka:Proudct Value

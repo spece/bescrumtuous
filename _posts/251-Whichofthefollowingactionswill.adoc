@@ -31,7 +31,7 @@ It can result in rework or technical debt: If a PBI is marked as complete withou
 
 It can damage trust and transparency: If stakeholders discover that a PBI has been marked as complete without meeting the Definition of Done, it can damage trust and transparency between the Scrum team and its stakeholders. Stakeholders may feel that the team is not being transparent about the work that has been done, which can lead to communication breakdowns and decreased collaboration.
 
-To avoid these issues, it's important for the Scrum team to ensure that each PBI meets the Definition of Done before marking it as complete. This helps to maintain transparency and trust between the Scrum team and its stakeholders and ensures that work is delivered to a high standard of quality.****
+To avoid these issues, it's important for the Scrum team to ensure that each PBI meets the Definition of Done before marking it as complete. This helps to maintain transparency and trust between the Scrum team and its stakeholders and ensures that work is delivered to a high standard of quality.
 
 [.ka]
 ka:Scrum Values

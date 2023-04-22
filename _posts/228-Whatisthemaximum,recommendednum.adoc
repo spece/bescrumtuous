@@ -25,7 +25,7 @@ A
 [.explanation]
 According to the Scrum Guide, an optimal Scrum Team size is 10 or fewer. If there is a dedicated Scrum Master and Product Owner, the number of developers on the team would be 8.
 
-"The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people."****
+"The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people."
 
 [.ka]
 ka:Scrum Team

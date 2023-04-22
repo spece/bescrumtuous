@@ -29,7 +29,7 @@ The Scrum Team should work together, as a whole, to create a product that provid
 
 There are no sub-teams in Scrum, nor are their leaders or managers. 
 
-"Within a Scrum Team, there are no sub-teams or hierarchies. They are also self-managing, meaning they internally decide who does what, when, and how."****
+"Within a Scrum Team, there are no sub-teams or hierarchies. They are also self-managing, meaning they internally decide who does what, when, and how."
 
 [.ka]
 ka:Self-Managing Teams

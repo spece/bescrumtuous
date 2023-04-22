@@ -28,7 +28,7 @@ The Scrum Developers are expected to have all of the skills required to complete
 
 One way to continue to complete Backlog Items while infrastructure or tools are lacking might be to adjust the Definition of Done for certain backlog items so that Sprint Goals can be achieved.
 
-Every Sprint must provide a real, tangible increment of work. There are no 'infrastructure sprints' in Scrum or 'Sprint Zeros.' Every Sprint must have the delivery of an increment of work as its goal.****
+Every Sprint must provide a real, tangible increment of work. There are no 'infrastructure sprints' in Scrum or 'Sprint Zeros.' Every Sprint must have the delivery of an increment of work as its goal.
 
 [.ka]
 ka:Coaching and Mentoring

@@ -31,7 +31,7 @@ The Scrum Guide does not mention the term "use cases" so any reference to them i
 
 "Instilling quality by adhering to a Definition of Done" is actually something the Developers are accountable for according to Scrum.
 
-Note the Developers select Product Backlog Items to work on during the Spring, not the Scrum Master or the Product Owner.****
+Note the Developers select Product Backlog Items to work on during the Spring, not the Scrum Master or the Product Owner.
 
 [.ka]
 ka:Product Backlog Management

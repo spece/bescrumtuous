@@ -34,7 +34,7 @@ Analyze the Root Cause: The team can analyze the root cause of the failure to co
 
 Prioritize the Backlog: The team can review their backlog and prioritize the items based on their importance and value to the product. This can help the team to focus on the most important items and reduce the risk of not completing the work in future sprints.
 
-Revisit the Definition of Done: The team can revisit their Definition of Done to ensure that it is clear and comprehensive. This helps to ensure that everyone on the team understands what needs to be done to consider a backlog item complete.****
+Revisit the Definition of Done: The team can revisit their Definition of Done to ensure that it is clear and comprehensive. This helps to ensure that everyone on the team understands what needs to be done to consider a backlog item complete.
 
 [.ka]
 ka:Facilitation

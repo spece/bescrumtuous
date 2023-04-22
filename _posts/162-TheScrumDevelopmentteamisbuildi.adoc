@@ -29,7 +29,7 @@ In fact, a good strategy on the Scrum Master Certification exam is to reframe a 
 
 If a team of construction workers building a house weren't clear on how to finish the bathroom, they'd consult the homeowner, or at least the person trusted to clarify the requirements. In that scenario, the construction workers would be the developers, and the home owner or builder would be the Product Owner.
 
-The correct answer? Have the developers seek clarification from the Product Owner with regards to requirements.****
+The correct answer? Have the developers seek clarification from the Product Owner with regards to requirements.
 
 [.ka]
 ka:Product Value

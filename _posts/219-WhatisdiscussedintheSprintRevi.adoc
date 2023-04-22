@@ -37,7 +37,7 @@ Collaboration: The Sprint Review encourages collaboration between the Scrum team
 
 Continuous Improvement: The Sprint Review helps the team to continuously improve by identifying areas for improvement in the product, process, or team dynamics.
 
-The Sprint Review is a crucial part of the Scrum framework and plays a significant role in ensuring that the product increment meets the needs of the customer and provides value to the organization.****
+The Sprint Review is a crucial part of the Scrum framework and plays a significant role in ensuring that the product increment meets the needs of the customer and provides value to the organization.
 
 [.ka]
 ka:Product Value

@@ -28,7 +28,7 @@ E
 [.explanation]
 Scrum is self-described as an incomplete framework. That means there is a great deal of flexibility and creatively allowed within the bounds of what constitutes Scrum.
 
-Generally speaking, if Scrum doesn't explicitly forbid it, then teams are free to explore it. Shared Sprint Planning meetings might be a great process for the team to implement.****
+Generally speaking, if Scrum doesn't explicitly forbid it, then teams are free to explore it. Shared Sprint Planning meetings might be a great process for the team to implement.
 
 [.ka]
 ka:Product Backlog Management

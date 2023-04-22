@@ -39,7 +39,7 @@ Transparency: Scrum emphasizes transparency and visibility into the development 
 
 Predictability: Scrum also emphasizes predictability, with the goal of delivering a potentially releasable product increment at the end of each Sprint. By limiting the length of a Sprint, the Development Team can more accurately estimate their capacity and plan their work accordingly.
 
-Overall, the maximum length of 30 days for a Sprint in Scrum is designed to promote adaptability, feedback, transparency and predictability, all of which are key principles of the framework.****
+Overall, the maximum length of 30 days for a Sprint in Scrum is designed to promote adaptability, feedback, transparency and predictability, all of which are key principles of the framework.
 
 [.ka]
 ka:Events

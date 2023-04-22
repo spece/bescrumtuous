@@ -30,7 +30,7 @@ It is up to the developers to decide how to run their Daily Scrum, which include
 
 Furthermore, there are no 'team leads' or 'junior developers' in the eyes of Scrum. 
 
-According to the Scrum Guide: "Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal."****
+According to the Scrum Guide: "Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal."
 
 [.ka]
 ka:Facilitation

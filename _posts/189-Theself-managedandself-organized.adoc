@@ -43,7 +43,7 @@ Identify and address any roadblocks: If there are any roadblocks that are preven
 Consider having the team adjust the format: If the team is finding the Daily Scrum meetings tedious or unproductive, consider adjusting the format. You have them try shortening the meetings, changing the format to make it more interactive, or using new tools to facilitate the meeting.
 
 
-Remember that as a Scrum Master, your role is to facilitate the team's success, so be patient and work with the team to find a solution that works for everyone. ****
+Remember that as a Scrum Master, your role is to facilitate the team's success, so be patient and work with the team to find a solution that works for everyone. 
 
 [.ka]
 ka:Coaching and Mentoring

@@ -39,7 +39,7 @@ Transparency: A shared Definition of Done promotes transparency and open communi
 
 Accountability: With a common Definition of Done, all teams are held accountable for meeting the same standards. This helps to ensure that everyone is working towards the same goals and that no team is allowed to cut corners or take shortcuts.
 
-In summary, a shared Definition of Done promotes consistency, quality, transparency, and accountability among multiple teams working on the same project.****
+In summary, a shared Definition of Done promotes consistency, quality, transparency, and accountability among multiple teams working on the same project.
 
 [.ka]
 ka:Done

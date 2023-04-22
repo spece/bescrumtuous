@@ -28,7 +28,7 @@ A Product Backlog Item (PBI) is a high-level user story or requirement that repr
 
 The process of decomposing a PBI involves analyzing it in more detail, identifying the sub-tasks, dependencies, and other factors involved, and then creating smaller PBIs that can be individually prioritized, estimated, and worked on by the team. This allows the team to better understand the requirements of the PBI and the work involved, which in turn helps with planning and delivering the work effectively.
 
-Decomposition is an ongoing process throughout the Scrum framework. As the team progresses through the sprint, they may discover additional details or dependencies that require further decomposition of PBIs, or they may need to adjust their plan based on feedback from stakeholders or changes in the product's requirements. By continually decomposing PBIs, the team can ensure they have a clear understanding of the work involved and can prioritize, estimate, and deliver the product backlog items more effectively.****
+Decomposition is an ongoing process throughout the Scrum framework. As the team progresses through the sprint, they may discover additional details or dependencies that require further decomposition of PBIs, or they may need to adjust their plan based on feedback from stakeholders or changes in the product's requirements. By continually decomposing PBIs, the team can ensure they have a clear understanding of the work involved and can prioritize, estimate, and deliver the product backlog items more effectively.
 
 [.ka]
 ka:forecasting

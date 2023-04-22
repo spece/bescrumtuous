@@ -30,7 +30,7 @@ The Product Owner
 The Scrum Master
 Developers
 
-Remember, there are no hierarchies or sub-groups on a Scrum team. There are no 'team leads' or 'senior developers.' There are no 'QA teams' or 'testing teams' either. They all fall under the 'developer' accountability.****
+Remember, there are no hierarchies or sub-groups on a Scrum team. There are no 'team leads' or 'senior developers.' There are no 'QA teams' or 'testing teams' either. They all fall under the 'developer' accountability.
 
 [.ka]
 ka:Scrum Team

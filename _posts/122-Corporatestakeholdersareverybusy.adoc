@@ -26,7 +26,7 @@ AC
 
 [.explanation]
 The Scrum Master should use the opportunity to explain the importance of a Sprint Review and the value the team receives from the stakeholders participation in the Sprint Review.
-****
+
 
 [.ka]
 ka:Facilitation

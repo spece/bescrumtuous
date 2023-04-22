@@ -27,7 +27,7 @@ The Daily Scrum is not a status update and nowhere in the Scrum Guide does it su
 
 It is a time for developers to adapt to changes and make changes to the Sprint Backlog if it is necessary to keep the Sprint Goal in focus.
 
-****
+
 
 [.ka]
 ka:Self-Managing Teams

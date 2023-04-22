@@ -38,7 +38,7 @@ Educate the team: The Scrum Master should educate the team on the importance of 
 
 Identify alternative solutions: The Scrum Master can work with the team to identify alternative solutions that address their concerns while still allowing the team to hold the retrospective. For example, if the developers feel that the retrospectives are taking too much time, the team could try shortening the retrospective or adjusting the format to make it more efficient.
 
-Scrum is immutable. That means it must be done in its entirety or not done at all. Sprint Retrospectives cannot be cancelled if you want to describe what you are doing as Scrum.****
+Scrum is immutable. That means it must be done in its entirety or not done at all. Sprint Retrospectives cannot be cancelled if you want to describe what you are doing as Scrum.
 
 [.ka]
 ka:Coaching and Mentoring

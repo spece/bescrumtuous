@@ -29,7 +29,7 @@ In Scrum, the Definition of Done (DoD) is a shared understanding of what it mean
 
 The Product Owner provides input on the specific requirements and acceptance criteria for each item in the Product Backlog. The Development Team contributes their technical expertise and knowledge of best practices to ensure that the Definition of Done includes all necessary steps for each item to be considered complete. The Scrum Master facilitates the process, ensures that the DoD is well-understood by all members of the Scrum Team, and helps the team stay focused on delivering value to the customer.
 
-Ultimately, the Definition of Done should be agreed upon by the entire Scrum Team and should reflect the standards and expectations for delivering a high-quality product to the customer. The DoD should be regularly reviewed and updated throughout the project as necessary to ensure that it continues to reflect the team's evolving knowledge and practices.****
+Ultimately, the Definition of Done should be agreed upon by the entire Scrum Team and should reflect the standards and expectations for delivering a high-quality product to the customer. The DoD should be regularly reviewed and updated throughout the project as necessary to ensure that it continues to reflect the team's evolving knowledge and practices.
 
 [.ka]
 ka:Done

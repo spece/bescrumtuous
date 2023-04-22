@@ -26,7 +26,7 @@ AD
 [.explanation]
 The Product Owner must prioritize the Product Backlog so that developers know which items provide the most value. If possible, the Product Owner will negotiate with the team to ensure these items get developed first.
 
-Also, according to the Scrum Guide, "The Product Owner may represent the needs of many stakeholders in the Product Backlog." So interacting with and collaborating with stakeholders is important.****
+Also, according to the Scrum Guide, "The Product Owner may represent the needs of many stakeholders in the Product Backlog." So interacting with and collaborating with stakeholders is important.
 
 [.ka]
 ka:Stakeholders

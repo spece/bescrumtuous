@@ -38,7 +38,7 @@ Sprint Review: This is a time-boxed event that takes place at the end of each Sp
 
 Spring Retrospective. The Sprint Retrospective is time boxed to 3 hours.
 
-These events are time-boxed to ensure that they are focused, efficient, and effective. By setting a fixed time limit, the team is forced to prioritize their activities, focus on the most important topics, and avoid excessive discussion or debate that could detract from achieving the Sprint Goal. This helps to ensure that the team is able to deliver a potentially releasable increment of the product at the end of each Sprint, and that the team is able to continually inspect and adapt their process to improve their performance over time.****
+These events are time-boxed to ensure that they are focused, efficient, and effective. By setting a fixed time limit, the team is forced to prioritize their activities, focus on the most important topics, and avoid excessive discussion or debate that could detract from achieving the Sprint Goal. This helps to ensure that the team is able to deliver a potentially releasable increment of the product at the end of each Sprint, and that the team is able to continually inspect and adapt their process to improve their performance over time.
 
 [.ka]
 ka:Events

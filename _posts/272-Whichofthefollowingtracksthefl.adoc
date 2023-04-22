@@ -37,7 +37,7 @@ Cumulative flow charts track the flow of work through the project over time. Thi
 
 All three charts provide valuable insight into the progress of the project, allowing the team to identify issues early and make adjustments as needed to ensure that they meet their goals. By tracking progress over time, these charts help the team to stay focused, make data-driven decisions, and continuously improve their processes.
 
-Don't worry too much about these charts for the exam. Burn charts and flow charts are only mentioned briefly in the guide. Just have a basic idea of what they do in case they come up on a question. In depth knowledge of them isn't required.****
+Don't worry too much about these charts for the exam. Burn charts and flow charts are only mentioned briefly in the guide. Just have a basic idea of what they do in case they come up on a question. In depth knowledge of them isn't required.
 
 [.ka]
 ka:forecasting

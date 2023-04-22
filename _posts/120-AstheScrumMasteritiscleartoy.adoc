@@ -25,7 +25,7 @@ B
 [.explanation]
 The development team has full control over the Sprint Backlog during a Sprint. Only the development team has the authority to add or remove items from the Sprint backlog.
 
-Anyone can discuss the Sprint Backlog to the development team and relay any concerns with them, but it is the development team that has the final say.****
+Anyone can discuss the Sprint Backlog to the development team and relay any concerns with them, but it is the development team that has the final say.
 
 [.ka]
 ka:Artifacts

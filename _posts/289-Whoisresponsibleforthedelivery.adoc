@@ -44,7 +44,7 @@ In Scrum, the Development Team is responsible for creating a potentially releasa
 
 The Scrum Development Team is responsible for determining if any technical documentation is required to meet the definition of done, and for creating that documentation as part of the product increment. 
 
-****
+
 
 [.ka]
 ka:Scrum Team

@@ -25,7 +25,7 @@ D
 [.explanation]
 Option D is correct.
 
-All Scrum events happen with the scope of an enclosing Sprint.****
+All Scrum events happen with the scope of an enclosing Sprint.
 
 [.ka]
 ka:Events

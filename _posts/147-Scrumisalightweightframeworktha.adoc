@@ -30,7 +30,7 @@ Yes, Scrum is a framework.
 
 No, Scrum is not only about software development. It can be used in construction, manufacturing, health care and aeronautics.
 
-The purveyors of Scrum are very adamant about stopping people from thinking Scrum is all about software. It's not. Not anymore, anyways.****
+The purveyors of Scrum are very adamant about stopping people from thinking Scrum is all about software. It's not. Not anymore, anyways.
 
 [.ka]
 ka:Empiricism

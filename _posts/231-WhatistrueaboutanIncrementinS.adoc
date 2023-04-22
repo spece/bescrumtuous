@@ -25,7 +25,7 @@ BD
 [.explanation]
 An Increment is indeed a Scrum artifact and it contains, or represents, a commitment to the Definition of Done. An increment is not a commitment to the the Product Goal. The Product Backlog contains a commitment to the Product Goal.
 
-Every increment must be usable, and it must be compatible with all past increments.****
+Every increment must be usable, and it must be compatible with all past increments.
 
 [.ka]
 ka:Product Value

@@ -23,7 +23,7 @@ When Product Backlog items are said to be completed, despite not having met the 
 B
 
 [.explanation]
-Technical debt can impact transparency through both technical debt incurred from code or architecture issues, or from process debt caused by inefficient practices or processes.****
+Technical debt can impact transparency through both technical debt incurred from code or architecture issues, or from process debt caused by inefficient practices or processes.
 
 [.ka]
 ka:Empiricism

@@ -27,7 +27,7 @@ C
 [.explanation]
 The Scrum Developers will hold each other accountable throughout the Sprint, which includes monitoring their progress and tracking their progress throughout the Sprint.
 
-The Scrum Master is responsible for coaching others on Scrum theory, while the Product Owner is the one who articulates the Product Goal.****
+The Scrum Master is responsible for coaching others on Scrum theory, while the Product Owner is the one who articulates the Product Goal.
 
 [.ka]
 ka:Scrum Values

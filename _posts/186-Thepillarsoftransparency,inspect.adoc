@@ -24,7 +24,7 @@ The pillars of transparency, inspection and adaptation help Scrum to be:
 A
 
 [.explanation]
-By looking at how the product is evolving (inspection), being open and honest about progress (transparency) and adapting accordingly is how Scrum maintains an empirical approach to development.****
+By looking at how the product is evolving (inspection), being open and honest about progress (transparency) and adapting accordingly is how Scrum maintains an empirical approach to development.
 
 [.ka]
 ka:Empiricism

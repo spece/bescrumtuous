@@ -34,7 +34,7 @@ The purpose of the Sprint Review is to enable stakeholders to inspect the produc
 
 The Sprint Review also allows stakeholders to evaluate the progress of the project and help the Scrum team make decisions about the next steps. Based on the feedback received during the review, the product owner can re-prioritize the product backlog and the development team can create a targeted Sprint goals for the next sprint. 
 
-This process of inspection and adaptation for the future is at the heart of the Scrum framework and helps to ensure that the product being developed is meeting the needs of the stakeholders and delivering value.****
+This process of inspection and adaptation for the future is at the heart of the Scrum framework and helps to ensure that the product being developed is meeting the needs of the stakeholders and delivering value.
 
 [.ka]
 ka:Events

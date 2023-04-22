@@ -24,7 +24,7 @@ AC
 [.explanation]
 Options A and C are correct.
 
-Every Scrum Developer is considered an equal. There are no sub-teams or sub-groups in Scrum.****
+Every Scrum Developer is considered an equal. There are no sub-teams or sub-groups in Scrum.
 
 [.ka]
 ka:Scrum Team

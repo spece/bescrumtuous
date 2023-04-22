@@ -39,7 +39,7 @@ Courage: When team members do not trust each other, they may be less likely to t
 
 Commitment: Without trust, team members may not feel committed to the project or to each other. This can lead to a lack of motivation, a decrease in productivity, and a lack of engagement with the work.
 
-In summary, a lack of trust can negatively impact the key values of focus, respect, openness, courage, and commitment on a Scrum team. It is essential for team members to build trust with each other in order to work together effectively and achieve their goals.****
+In summary, a lack of trust can negatively impact the key values of focus, respect, openness, courage, and commitment on a Scrum team. It is essential for team members to build trust with each other in order to work together effectively and achieve their goals.
 
 [.ka]
 ka:Scrum Values

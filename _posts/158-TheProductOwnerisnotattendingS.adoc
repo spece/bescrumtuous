@@ -26,7 +26,7 @@ ACD
 [.explanation]
 It is the Scrum Master's job to work with team members and help them understand Scrum theory and practice.
 
-"The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization."****
+"The Scrum Master is accountable for establishing Scrum as defined in the Scrum Guide. They do this by helping everyone understand Scrum theory and practice, both within the Scrum Team and the organization."
 
 [.ka]
 ka:Facilitation

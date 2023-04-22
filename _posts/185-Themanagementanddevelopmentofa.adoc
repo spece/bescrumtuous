@@ -31,7 +31,7 @@ Something created and developed outside the Scrum Team should not be part of the
 
 The Scrum Team is not subject to external management but is instead empowered to self-manage.
 
-From the Scrum Guide: "The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required. They are structured and empowered by the organization to manage their own work."****
+From the Scrum Guide: "The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required. They are structured and empowered by the organization to manage their own work."
 
 [.ka]
 ka:Events

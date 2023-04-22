@@ -27,7 +27,7 @@ BC
 [.explanation]
 The Scrum Team should have all the skills required to meet the definition of done (DoD). If the DoD depends on work performed outside of the team, there is no control over it and it jeopardizes the teams ability to create a full increment.
 
-The development team should also be self-organized and self-managed. Openness and transparency may be problematic if developers are complaining to the Scrum Master in confidence.****
+The development team should also be self-organized and self-managed. Openness and transparency may be problematic if developers are complaining to the Scrum Master in confidence.
 
 [.ka]
 ka:Coaching and Mentoring

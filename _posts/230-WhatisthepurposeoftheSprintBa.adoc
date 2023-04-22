@@ -40,7 +40,7 @@ The Sprint Goal (Why): The Sprint Goal is a high-level objective that the develo
 
 The Product Backlog Items (What): The Product Backlog Items (PBIs) are the individual user stories, features, or other work items that have been selected for the sprint. They are taken from the Product Backlog and broken down into specific tasks that can be completed during the sprint.
 
-An actionable plan to deliver the Sprint (How)****
+An actionable plan to deliver the Sprint (How)
 
 [.ka]
 ka:Artifacts

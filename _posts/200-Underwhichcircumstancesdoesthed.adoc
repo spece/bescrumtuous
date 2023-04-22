@@ -32,7 +32,7 @@ The Product Owner may cancel a sprint if they determine that the sprint goal is 
 
 It's important to note that canceling a sprint should be a rare occurrence in Scrum, as it disrupts the team's ability to deliver a potentially releasable increment of the product. Cancelling a sprint can also be costly and can undermine the team's confidence and trust in the Scrum framework.
 
-In summary, the Product Owner is the only person who has the authority to cancel a sprint in Scrum because they have the responsibility for making decisions about what work should be done to maximize the value of the product. The development team and the Scrum Master should work with the Product Owner to understand the impact of canceling a sprint and to determine the best course of action.****
+In summary, the Product Owner is the only person who has the authority to cancel a sprint in Scrum because they have the responsibility for making decisions about what work should be done to maximize the value of the product. The development team and the Scrum Master should work with the Product Owner to understand the impact of canceling a sprint and to determine the best course of action.
 
 [.ka]
 ka:Events

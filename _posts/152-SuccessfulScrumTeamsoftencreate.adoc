@@ -23,7 +23,7 @@ B
 [.explanation]
 Scrum does not allow hierarchies or sub-teams.
 
-"Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal."****
+"Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal."
 
 [.ka]
 ka:self-managing teams

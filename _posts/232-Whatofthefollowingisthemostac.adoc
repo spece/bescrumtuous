@@ -27,7 +27,7 @@ Scrum is not just for the domain of software development, so any definitions tha
 
 Scrum self-describes as being a purposefully incomplete, lightweight framework designed to help find solutions for complex problems.
 
-From the Scrum Guide: "Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory."****
+From the Scrum Guide: "Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems. The Scrum framework is purposefully incomplete, only defining the parts required to implement Scrum theory."
 
 [.ka]
 ka:Empiricism

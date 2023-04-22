@@ -31,7 +31,7 @@ When the team produces an increment that meets the Definition of Done, they have
 
 The cross-functional nature of the team means that they work together to ensure that each aspect of the product is developed to a high standard. For example, developers might write clean, well-documented code, while testers ensure that the product works as intended and is free of defects. UX designers might work to ensure that the product is intuitive and user-friendly, while project managers ensure that the product is delivered on time and within budget.
 
-Overall, the concept of cross-functionality is essential for a Scrum Development Team to deliver a potentially releasable product increment that meets the Definition of Done. By working together and leveraging their diverse skills and knowledge, the team can ensure that each aspect of the product development process is covered and that the end product is of high quality and meets the needs of the custome****
+Overall, the concept of cross-functionality is essential for a Scrum Development Team to deliver a potentially releasable product increment that meets the Definition of Done. By working together and leveraging their diverse skills and knowledge, the team can ensure that each aspect of the product development process is covered and that the end product is of high quality and meets the needs of the custome
 
 [.ka]
 ka:Scrum Team

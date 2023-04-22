@@ -25,7 +25,7 @@ This is false.
 
 The Product Owner will represent the interests of many stakeholders, and balance their wants and needs by fairly ordering the Product Backlog.
 
-The Scrum Team can only work on one objective at a time, but the Product Owner will represent many stakeholders while doing that.****
+The Scrum Team can only work on one objective at a time, but the Product Owner will represent many stakeholders while doing that.
 
 [.ka]
 ka:Product Backlog Management

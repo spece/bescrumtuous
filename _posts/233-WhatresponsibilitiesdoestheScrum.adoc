@@ -28,7 +28,7 @@ The Scrum Master does not actively participate in the Daily Scrum. The Scrum Mas
 
 With regards to the Daily Scrum, the Scrum Master's responsibility is to make sure it is used properly within the context of Scrum, which means coaching around it being self-managed, self-organized and time-boxed to 15 minutes.
 
-From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work."****
+From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work."
 
 [.ka]
 ka:Coaching and Mentoring

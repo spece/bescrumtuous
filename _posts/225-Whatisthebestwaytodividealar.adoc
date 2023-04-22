@@ -26,7 +26,7 @@ Scrum asks all teams to be self-managing. That means developers should be allowe
 
 Scrum does say teams should not exceed 10 members, so with one Scrum Master and one Product Owner, there shouldn't be more than 8 developers on a team.
 
-"Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how."****
+"Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how."
 
 [.ka]
 ka:self-managing teams

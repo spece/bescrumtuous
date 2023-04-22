@@ -39,7 +39,7 @@ To coordinate between teams and ensure two teams don't work on the same thing, t
 
 In fact, it doesn't hurt to have members of other teams be present at a Sprint Planning meeting. This allows one team to get insight from other teams working on the same project.
 
-****
+
 
 [.ka]
 ka:Product Backlog Management

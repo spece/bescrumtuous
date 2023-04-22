@@ -23,7 +23,7 @@ What are the responsibilities of the Scrum Master?
 When the Product Owner identifies new work.
 
 [.explanation]
-The Scrum Master is responsible for facilitating Scrum ceremonies, ensuring that Scrum values and principles are followed within a Scrum Team, removing any impediments to progress, and protecting the team from external distractions and interferences.****
+The Scrum Master is responsible for facilitating Scrum ceremonies, ensuring that Scrum values and principles are followed within a Scrum Team, removing any impediments to progress, and protecting the team from external distractions and interferences.
 
 [.ka]
 ka:Coaching and Mentoring

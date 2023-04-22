@@ -27,7 +27,7 @@ A trend line through a release burndown chart indicates how fast work is being c
 
 The Scrum Guide only makes a short reference to burndown charts, and even then, it says they are not a replacement for empiricism.
 
-You don't need to be a burndown chart expert. But knowing what one is will keep you from being caught off guard on the Scrum certification exam.****
+You don't need to be a burndown chart expert. But knowing what one is will keep you from being caught off guard on the Scrum certification exam.
 
 [.ka]
 ka:Forecasting and Release Planning

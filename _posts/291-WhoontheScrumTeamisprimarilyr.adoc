@@ -30,7 +30,7 @@ As part of their role, the Product Owner engages with stakeholders and C-suite e
 
 The Product Owner also works closely with the Development Team to ensure that the work being done is aligned with stakeholder needs and priorities. They provide guidance on the direction of the product and make decisions on behalf of the stakeholders regarding the prioritization of work in the Product Backlog.
 
-While the Scrum Master and the Development Team may also interact with stakeholders and C-suite executives from time to time, it is the Product Owner who is primarily responsible for these activities. They are the ones who have the most direct contact with stakeholders and are the key point of communication between the Development Team and the outside world.****
+While the Scrum Master and the Development Team may also interact with stakeholders and C-suite executives from time to time, it is the Product Owner who is primarily responsible for these activities. They are the ones who have the most direct contact with stakeholders and are the key point of communication between the Development Team and the outside world.
 
 [.ka]
 ka:Stakeholders

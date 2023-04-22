@@ -28,7 +28,7 @@ Scrum is a lightweight, incomplete framework with very few actual requirements.
 
 Some of the requirements Scrum does have include Sprint Planning, Sprint Reviews and Sprint Retrospecives. 
 
-Scrum does not have Daily Standups. Scrum has the Daily Scrum. The two concepts are different.****
+Scrum does not have Daily Standups. Scrum has the Daily Scrum. The two concepts are different.
 
 [.ka]
 ka:Events

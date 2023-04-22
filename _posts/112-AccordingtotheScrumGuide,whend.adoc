@@ -26,7 +26,7 @@ D
 A Sprint Retrospective is the last Scrum Event to take place in the Sprint. It takes place after the Sprint Review.
 
 
-"The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."****
+"The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
 
 [.ka]
 ka:Artifacts

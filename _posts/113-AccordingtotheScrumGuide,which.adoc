@@ -25,7 +25,7 @@ D
 [.explanation]
 Anyone can attend the Daily Scrum.
 
-Only developers can participate in the Daily Scrum, but the Scrum Guide does not set any explicit restriction on who is allowed to attend or observe it.****
+Only developers can participate in the Daily Scrum, but the Scrum Guide does not set any explicit restriction on who is allowed to attend or observe it.
 
 [.ka]
 ka:Events

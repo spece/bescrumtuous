@@ -27,7 +27,7 @@ Development teams in Scrum are self-managed and self-organized.
 
 If the team decides a member is impeding progress, they have the final say over whether the team member be allowed to stay on the team or not.
 
-Note, this doesn't mean the person is fired. It just means this team was not the correct fit. The person may end up being a great performer somewhere else in the organization.****
+Note, this doesn't mean the person is fired. It just means this team was not the correct fit. The person may end up being a great performer somewhere else in the organization.
 
 [.ka]
 ka:Scrum Team

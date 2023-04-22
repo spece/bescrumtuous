@@ -37,7 +37,7 @@ Sprint Review: At the end of the sprint, the team holds a sprint review meeting.
 
 Sprint Retrospective: The sprint retrospective is a time-boxed meeting that occurs after the sprint review. The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
 
-Time boxing helps to keep the team focused and ensures that the meetings do not go on longer than necessary. This is important because it helps to maintain the team's productivity, and also ensures that the team is working efficiently and effectively towards its goals.****
+Time boxing helps to keep the team focused and ensures that the meetings do not go on longer than necessary. This is important because it helps to maintain the team's productivity, and also ensures that the team is working efficiently and effectively towards its goals.
 
 [.ka]
 ka:Events

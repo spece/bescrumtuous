@@ -29,7 +29,7 @@ Continually deliver increments of work that fully meet the Definition of Done an
 
 The Scrum Guide does not discuss tools like JIRA, so JIRA related answers will not be correct on the Scrum Certification Exam.
 
-The Scrum Master is not responsible for reporting back to stakeholders, so options that suggest such a strategy are incorrect.****
+The Scrum Master is not responsible for reporting back to stakeholders, so options that suggest such a strategy are incorrect.
 
 [.ka]
 ka:Done

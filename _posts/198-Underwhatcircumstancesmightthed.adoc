@@ -31,7 +31,7 @@ When the Sprint Goal becomes obsolete, the Scrum framework allows for the Sprint
 
 If the Sprint is cancelled, the work that has been completed up to that point is reviewed, and any completed work that can be released is done so. The Product Backlog is then re-prioritized, and a new Sprint Planning meeting is held to define a new Sprint Goal and to plan the work for the next Sprint.
 
-It is important to note that cancelling a Sprint is not something that should be done lightly. If Sprints are cancelled frequently, it can indicate deeper problems with the project that need to be addressed.****
+It is important to note that cancelling a Sprint is not something that should be done lightly. If Sprints are cancelled frequently, it can indicate deeper problems with the project that need to be addressed.
 
 [.ka]
 ka:Events

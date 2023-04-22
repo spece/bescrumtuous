@@ -25,7 +25,7 @@ A
 [.explanation]
 The Sprint Review is where a development team shows stakeholders items that were completed and met the definition of done. The team demonstrates the value they created.
 
-The Sprint Review is not a 'demo', and it is not a time to show everything the team worked on. Items not completed are not discussed at the Sprint Review.****
+The Sprint Review is not a 'demo', and it is not a time to show everything the team worked on. Items not completed are not discussed at the Sprint Review.
 
 [.ka]
 ka:Product Value

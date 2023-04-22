@@ -26,7 +26,7 @@ E
 [.explanation]
 Scrum doesn't discourage communication.
 
-There are no rules in the Scrum Guide that forbid open discussion between a Scrum Master and stakeholders. ****
+There are no rules in the Scrum Guide that forbid open discussion between a Scrum Master and stakeholders. 
 
 [.ka]
 ka:Stakeholders

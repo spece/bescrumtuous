@@ -39,7 +39,7 @@ Improved transparency: When teams integrate their work frequently, it promotes t
 
 Foster a sense of ownership and collaboration: By integrating their work continuously, the teams feel more invested in the project as a whole. It fosters a sense of collaboration, responsibility and ownership, and helps to align everyone towards a common goal.
 
-In summary, continuous integration of work across multiple Scrum teams is essential for ensuring that the project is coherent, of high quality, and completed on time. It also fosters a sense of collaboration and shared ownership among team members.****
+In summary, continuous integration of work across multiple Scrum teams is essential for ensuring that the project is coherent, of high quality, and completed on time. It also fosters a sense of collaboration and shared ownership among team members.
 
 [.ka]
 ka:Forecasting

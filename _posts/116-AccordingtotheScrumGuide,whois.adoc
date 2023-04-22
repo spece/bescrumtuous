@@ -33,7 +33,7 @@ While the Product Owner is responsible for prioritizing the Product Backlog and 
 
 The Scrum Master's role is to facilitate the Scrum process and help the team improve their performance. They are not involved in managing the Sprint Backlog, but they may provide support and guidance to the Development Team as needed.
 
-In summary, the Development Team owns the Sprint Backlog because they are responsible for delivering the product increment and have the technical expertise to plan and execute the work required to achieve that goal. The Product Owner is responsible for prioritizing the Product Backlog and ensuring that the product increment meets the needs of the stakeholders, while the Scrum Master facilitates the Scrum process and helps the team improve their performance.****
+In summary, the Development Team owns the Sprint Backlog because they are responsible for delivering the product increment and have the technical expertise to plan and execute the work required to achieve that goal. The Product Owner is responsible for prioritizing the Product Backlog and ensuring that the product increment meets the needs of the stakeholders, while the Scrum Master facilitates the Scrum process and helps the team improve their performance.
 
 [.ka]
 ka:Artifacts

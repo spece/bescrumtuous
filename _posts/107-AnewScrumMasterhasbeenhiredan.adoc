@@ -50,7 +50,7 @@ The Scrum Master serves the organization in several ways, including:
 ?? Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
 ?? Removing barriers between stakeholders and Scrum Teams.
 
-****
+
 
 [.ka]
 ka:Coaching and Mentoring

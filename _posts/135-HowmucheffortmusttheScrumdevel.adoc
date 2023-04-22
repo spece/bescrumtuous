@@ -29,7 +29,7 @@ The concept of the "definition of done" is also closely related to the amount of
 
 The Development Team's commitment to completing a selected Product Backlog item must be based on their understanding of the definition of done for that item. The team must ensure that they can meet all of the criteria included in the definition of done before they commit to completing the item during the Sprint. The team must also ensure that they have the capacity to complete the work required to meet the definition of done.
 
-Therefore, when a Development Team commits to completing a Product Backlog item during a Sprint, they must ensure that they have a shared understanding of the work required to meet the definition of done. They should also ensure that they have the capacity to complete the work within the Sprint timeframe. This helps the team to deliver a potentially releasable increment of the product at the end of each Sprint, which is a fundamental goal of the Scrum framework.****
+Therefore, when a Development Team commits to completing a Product Backlog item during a Sprint, they must ensure that they have a shared understanding of the work required to meet the definition of done. They should also ensure that they have the capacity to complete the work within the Sprint timeframe. This helps the team to deliver a potentially releasable increment of the product at the end of each Sprint, which is a fundamental goal of the Scrum framework.
 
 [.ka]
 ka:Done

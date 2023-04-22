@@ -31,7 +31,7 @@ If developers complete Product Backlog Items quickly and become underutilized, t
 
 Scrum is pragmatic. Its rules allow for simple solutions to problems that arise.
 
-If developers didn't select enough work, then let them select more work! It's really that simple.****
+If developers didn't select enough work, then let them select more work! It's really that simple.
 
 [.ka]
 ka:forecasting

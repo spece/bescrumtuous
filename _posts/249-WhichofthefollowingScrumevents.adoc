@@ -32,7 +32,7 @@ Sprint Planning is also time-boxed and occurs at the beginning of each Sprint, a
 
 The Daily Scrum is another time-boxed event that occurs daily during the Sprint and allows the team to synchronize their work and plan for the day.
 
-Options A, B, E, and F are not correct because they are not Scrum events. They may be performed by some Scrum Teams, but they are not discussed at all in the Scrum Guide.****
+Options A, B, E, and F are not correct because they are not Scrum events. They may be performed by some Scrum Teams, but they are not discussed at all in the Scrum Guide.
 
 [.ka]
 ka:Events

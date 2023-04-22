@@ -33,7 +33,7 @@ One aspect of self-management is that the team members collectively hold themsel
 
 In such situations, the concept of self-management gives the team the authority to take action and make decisions that are in the best interest of the team and the project. This includes the ability to remove an underperforming member from the team if necessary.
 
-However, it is important to note that this decision should not be taken lightly and should be made collaboratively by the team as a whole. The Scrum Master can also provide guidance and support to the team in these situations to ensure that the decision is made fairly and with the best interests of the team and the project in mind.****
+However, it is important to note that this decision should not be taken lightly and should be made collaboratively by the team as a whole. The Scrum Master can also provide guidance and support to the team in these situations to ensure that the decision is made fairly and with the best interests of the team and the project in mind.
 
 [.ka]
 ka:Facilitation

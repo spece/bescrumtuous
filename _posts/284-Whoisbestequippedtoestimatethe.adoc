@@ -26,7 +26,7 @@ A
 [.explanation]
 Only the developers, the people who actually do the work, have the ability to estimate the time required to complete a PBI.
 
-According to the Scrum Guide, "Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint."****
+According to the Scrum Guide, "Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint."
 
 [.ka]
 ka:Forecasting and Release Planning

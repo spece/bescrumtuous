@@ -23,7 +23,7 @@ AB
 [.explanation]
 This is false.
 
-Two teams working on the same project will work off the same Product Backlog.****
+Two teams working on the same project will work off the same Product Backlog.
 
 [.ka]
 ka:Product Backlog Management

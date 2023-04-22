@@ -34,7 +34,7 @@ A trend line displayed on a release burndown chart indicates the progress of a p
 
 If the trend line is sloping downwards, it indicates that the project is progressing at a rate that is consistent with the plan, and the work is being completed on schedule. If the trend line is sloping upwards, it indicates that the project is falling behind schedule, and the work is not being completed at the expected rate.
 
-It is important to note that the trend line is a projection based on past performance, and it may not accurately predict the future progress of the project. Therefore, it is important to regularly review and update the release burndown chart to ensure that the project is on track to meet its goals.****
+It is important to note that the trend line is a projection based on past performance, and it may not accurately predict the future progress of the project. Therefore, it is important to regularly review and update the release burndown chart to ensure that the project is on track to meet its goals.
 
 [.ka]
 ka:Forecasting and Release Planning

@@ -33,7 +33,7 @@ Autonomy: Self-organizing teams have the autonomy to make decisions about how to
 
 Flexibility: The self-organizing approach allows for flexibility in team composition and size, which can be adjusted as the project evolves.
 
-To implement this approach, the company can provide guidelines and support for the developers to form their teams, but their should not be direct intervention. For example, they can provide a framework for team sizes, communication channels, and decision-making processes. The company can also provide tools and resources to help the teams collaborate effectively, such as project management software or communication platforms.****
+To implement this approach, the company can provide guidelines and support for the developers to form their teams, but their should not be direct intervention. For example, they can provide a framework for team sizes, communication channels, and decision-making processes. The company can also provide tools and resources to help the teams collaborate effectively, such as project management software or communication platforms.
 
 [.ka]
 ka:self-managing teams

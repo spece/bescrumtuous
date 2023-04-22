@@ -30,7 +30,7 @@ BD
 [.explanation]
 You don't cancel a Sprint once it's started.
 
-It's not unusual to pick too much work for a Sprint. If that happens, just make sure everyone on the team is aware, and possibly remove some Sprint Backlog items. Work with the Product Owner when you do that so a change to the Sprint Backlog has the smallest impact on the delivery of value.****
+It's not unusual to pick too much work for a Sprint. If that happens, just make sure everyone on the team is aware, and possibly remove some Sprint Backlog items. Work with the Product Owner when you do that so a change to the Sprint Backlog has the smallest impact on the delivery of value.
 
 [.ka]
 ka:Product Backlog Management

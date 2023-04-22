@@ -25,7 +25,7 @@ AC
 [.explanation]
 The Sprint Goal must be finalized before the end of Sprint Planning, but not the Sprit Backlog.
 
-Also, anyone can attend the Sprint Planning if they are invited. So other teams can come and help with the selection of PBIs. This can be very helpful if multiple teams are working on the same project. ****
+Also, anyone can attend the Sprint Planning if they are invited. So other teams can come and help with the selection of PBIs. This can be very helpful if multiple teams are working on the same project. 
 
 [.ka]
 ka:Artifacts

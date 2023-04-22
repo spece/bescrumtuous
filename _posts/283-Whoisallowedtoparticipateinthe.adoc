@@ -28,7 +28,7 @@ The Daily Scrum is for the development team.
 
 Only the developers are allowed to participate in the Daily Scrum. The only time a Scrum Master or Product Owner is allowed to participate in the Daily Scrum is if they are actually doing some development work on a Product Backlog Item themselves, but even then they would be participating as a developer, not a Product Owner or Scrum Master.
 
-Anyone can attend the Daily Scrum. But only developers can participate.****
+Anyone can attend the Daily Scrum. But only developers can participate.
 
 [.ka]
 ka:Events

@@ -36,7 +36,7 @@ Alignment: When each team has its own backlog and Product Owner, it can be diffi
 
 Efficiency: A common backlog and Product Owner can also help to improve the efficiency of the development process. Teams can work together to identify dependencies and plan their work more effectively, avoiding duplication of effort and ensuring that everyone is working on the most important tasks.
 
-Overall, sharing a common Product Backlog and Product Owner is an essential aspect of successful Scrum projects with multiple teams. It helps to ensure consistency, collaboration, alignment, and efficiency, and enables the organization to work together more effectively towards its goals.****
+Overall, sharing a common Product Backlog and Product Owner is an essential aspect of successful Scrum projects with multiple teams. It helps to ensure consistency, collaboration, alignment, and efficiency, and enables the organization to work together more effectively towards its goals.
 
 [.ka]
 ka:Product Backlog Management

@@ -31,7 +31,7 @@ Sometimes it's good to think outside of software development in Scrum.
 
 Imagine a construction site had 3 houses under construction, and each house had its own Scrum Team doing the work. You could have one Scrum Master that worked on each house. You could have one Product Owner that helped on each house. And you could have a developer, perhaps someone with plumbing skills, that did the plumbing in more than one house.
 
-So long as the developers do their work, and the Scrum Master and Product Owner are available to participate and contribute when needed, then jumping between teams and projects shouldn't be a problem.****
+So long as the developers do their work, and the Scrum Master and Product Owner are available to participate and contribute when needed, then jumping between teams and projects shouldn't be a problem.
 
 [.ka]
 ka:Scrum Team

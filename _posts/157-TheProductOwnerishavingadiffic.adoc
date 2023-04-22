@@ -30,7 +30,7 @@ Option D is correct.
 
 In Scrum, the people who do the work do the estimates of how long it will take to complete the work.
 
-The developers estimate the work, not the Product Owner.****
+The developers estimate the work, not the Product Owner.
 
 [.ka]
 ka:Product Backlog Management

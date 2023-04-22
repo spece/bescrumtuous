@@ -27,7 +27,7 @@ The Product Owner is responsible for maintaining the Product Backlog, including 
 
 The other two options in this question are responsibilities of the Scrum Master.
 
-The Product Owner is also one person. Product Ownership cannot be delegated to a committee.****
+The Product Owner is also one person. Product Ownership cannot be delegated to a committee.
 
 [.ka]
 ka:Product Backlog Management

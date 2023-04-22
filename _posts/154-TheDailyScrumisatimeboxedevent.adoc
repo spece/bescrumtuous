@@ -24,7 +24,7 @@ The Daily Scrum is a timeboxed event. How long is the Daily Scrum's timebox?
 C
 
 [.explanation]
-As per the Scrum Guide, "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint."****
+As per the Scrum Guide, "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint."
 
 [.ka]
 ka:Events

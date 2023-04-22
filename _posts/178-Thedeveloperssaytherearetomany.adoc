@@ -28,7 +28,7 @@ What problems could arise from reducing the frequency of the Daily Scrum?
 ABE
 
 [.explanation]
-If the developers don't meet daily, chances to adapt and inspect are lost, which can cause the Sprint Plan to get outdated and stale, which puts the Sprint Goal at risk.****
+If the developers don't meet daily, chances to adapt and inspect are lost, which can cause the Sprint Plan to get outdated and stale, which puts the Sprint Goal at risk.
 
 [.ka]
 ka:Empiricism

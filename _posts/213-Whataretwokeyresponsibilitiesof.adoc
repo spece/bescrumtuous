@@ -24,7 +24,7 @@ What are two key responsibilities of a self-organized and self-managed Developme
 BC
 
 [.explanation]
-Developers on a Scrum Team will select the best Product Backlog items to work on during the Sprint, and they are given the freedom to plan how best to implement those items.****
+Developers on a Scrum Team will select the best Product Backlog items to work on during the Sprint, and they are given the freedom to plan how best to implement those items.
 
 [.ka]
 ka:self-managing teams

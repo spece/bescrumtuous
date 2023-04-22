@@ -25,7 +25,7 @@ C
 [.explanation]
 A Product Backlog item is considered to be ready for release when there is nothing left to do on it. That means nothing remains in the Product Backlog.
 
-Note that the Sprint Backlog might only include part of a decomposed Product Backlog Item. So just because Sprint Backlog Items related to a PBI are complete doesn't mean the PBI as a whole is completed.****
+Note that the Sprint Backlog might only include part of a decomposed Product Backlog Item. So just because Sprint Backlog Items related to a PBI are complete doesn't mean the PBI as a whole is completed.
 
 [.ka]
 ka:Product Value

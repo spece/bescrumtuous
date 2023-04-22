@@ -31,7 +31,7 @@ By adhering to the definition of "Done," the Development Team ensures that they 
 
 Moreover, adhering to the definition of "Done" promotes transparency and accountability. The Development Team commits to delivering work that meets the agreed-upon criteria, which helps to ensure that they take ownership of the quality of their work. The Product Owner can also track progress more accurately, as they can trust that items that meet the definition of "Done" are truly complete and can be included in the product release.
 
-In short, adherence to the definition of "Done" helps ensure that the Development Team produces high-quality work that meets the needs of the stakeholders and contributes to the overall success of the product.****
+In short, adherence to the definition of "Done" helps ensure that the Development Team produces high-quality work that meets the needs of the stakeholders and contributes to the overall success of the product.
 
 [.ka]
 ka:Done

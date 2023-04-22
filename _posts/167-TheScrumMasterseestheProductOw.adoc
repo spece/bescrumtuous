@@ -37,7 +37,7 @@ Encourage Feedback: The Scrum Master can encourage the Product Owner to seek fee
 Just remember, it's not the Scrum Master's job to do the work of the Product Owner. The order of the product backlog, which is critically important to ensure maximum value gets delivered during development, is the responsibility of the PO.
 
 The Scrum Master's role is to support the team and help them to achieve their goals. By providing coaching, facilitating collaborative sessions, and providing insights and feedback, the Scrum Master can help the Product Owner to effectively prioritize and manage the Product Backlog.
-****
+
 
 [.ka]
 ka:Product Backlog Management

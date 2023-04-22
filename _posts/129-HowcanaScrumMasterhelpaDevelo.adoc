@@ -25,7 +25,7 @@ AD
 [.explanation]
 A Scrum Master can help a Development Team to maintain their highest levels of productivity by continuously removing impediments and enabling the team to work in an environment of self-organization. 
 
-Additionally, the Scrum Master can provide guidance, coaching, and support to ensure the Development Team is taking the most effective approach to their work.****
+Additionally, the Scrum Master can provide guidance, coaching, and support to ensure the Development Team is taking the most effective approach to their work.
 
 [.ka]
 ka:Coaching and Mentoring

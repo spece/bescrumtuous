@@ -29,7 +29,7 @@ The Definition of Done can be changed with the agreement of the team during the 
 
 "During the Sprint Retrospective, the Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done."
 
-Teams should keep in mind that "if the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."****
+Teams should keep in mind that "if the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."
 
 [.ka]
 ka:Done

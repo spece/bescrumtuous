@@ -25,7 +25,7 @@ C
 [.explanation]
 The Daily Scrum is time boxed to 15 minutes, not 30 minutes.
 
-From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings."****
+From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings."
 
 [.ka]
 ka:Events

@@ -24,7 +24,7 @@ AC
 
 [.explanation]
 
-The development team in Scrum should be self-managed and plan to complete the items in the Sprint backlog.****
+The development team in Scrum should be self-managed and plan to complete the items in the Sprint backlog.
 
 [.ka]
 ka:Scrum Team

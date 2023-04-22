@@ -32,7 +32,7 @@ The Sprint Backlog only covers the current Sprint because Scrum is an iterative 
 
 By limiting the scope of the Sprint Backlog to the current Sprint, the Scrum Developers can focus on delivering the most valuable work within a fixed time frame. This allows for better planning, collaboration, and flexibility, as the team can adapt to changing requirements or priorities at the end of each Sprint and adjust the plan accordingly.
 
-The Sprint Backlog is managed by the Scrum Developers because they are the ones responsible for delivering the completed product increment at the end of each Sprint. It only covers the current Sprint to enable better planning, collaboration, and flexibility, and to support Scrum's iterative and incremental approach to software development.****
+The Sprint Backlog is managed by the Scrum Developers because they are the ones responsible for delivering the completed product increment at the end of each Sprint. It only covers the current Sprint to enable better planning, collaboration, and flexibility, and to support Scrum's iterative and incremental approach to software development.
 
 [.ka]
 ka:Artifacts

@@ -33,7 +33,7 @@ Transparency: The definition of "Done" is a way to make the work of the Scrum De
 
 Improved quality: Adhering to the definition of "Done" ensures that the product increment is of high quality. By completing each user story to the agreed-upon criteria, the Scrum Development Team is ensuring that the product is ready for release and that there are no hidden technical debt or issues.
 
-Adhering to the definition of "Done" is essential for ensuring a shared understanding, transparency, high quality, and reliable forecasts, all of which are critical for the success of the Scrum Team and the product they are building.****
+Adhering to the definition of "Done" is essential for ensuring a shared understanding, transparency, high quality, and reliable forecasts, all of which are critical for the success of the Scrum Team and the product they are building.
 
 [.ka]
 ka:Scrum Values

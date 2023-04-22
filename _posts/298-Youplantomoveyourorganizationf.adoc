@@ -30,7 +30,7 @@ One advantage of transitioning from component teams to feature teams is greater 
 
 Additionally, feature teams result in a more flexible development process by allowing teams to enter and exit a project as needed while allowing training on new aspects of the product. 
 
-Lastly, a feature team approach often results in faster delivery times as team goals are focused on value delivery rather than specific components, although the transition may slow development down initially.****
+Lastly, a feature team approach often results in faster delivery times as team goals are focused on value delivery rather than specific components, although the transition may slow development down initially.
 
 [.ka]
 ka:Scrum Team

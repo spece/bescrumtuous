@@ -32,7 +32,7 @@ Resource constraints: With additional teams working on the same project, there m
 
 Learning and adaptation: As new teams are added, there is a period of learning and adaptation required to integrate the new teams into the project. This may involve changes to processes, tools, and workflows, which can also impact productivity.
 
-However, over time, as the teams become more experienced and familiar with each other, these challenges are typically overcome and the teams are able to return to normal productivity levels. In addition, the benefits of having more teams working on the project, such as increased capacity and shared knowledge, can eventually outweigh the initial costs of the learning curve.****
+However, over time, as the teams become more experienced and familiar with each other, these challenges are typically overcome and the teams are able to return to normal productivity levels. In addition, the benefits of having more teams working on the project, such as increased capacity and shared knowledge, can eventually outweigh the initial costs of the learning curve.
 
 [.ka]
 ka:Scrum Team

@@ -24,7 +24,7 @@ What are two methods for creating high-performing Development Teams according to
 BE
 
 [.explanation]
-The two methods for creating high-performing Development Teams according to Scrum are self-organizing teams and cross-functional teams. Self-organizing teams are teams that are empowered to figure out how best to complete their work using their collective experiences, skills, and knowledge. Cross-functional teams are composed of members from multiple disciplines and bring a variety of perspectives to product development.****
+The two methods for creating high-performing Development Teams according to Scrum are self-organizing teams and cross-functional teams. Self-organizing teams are teams that are empowered to figure out how best to complete their work using their collective experiences, skills, and knowledge. Cross-functional teams are composed of members from multiple disciplines and bring a variety of perspectives to product development.
 
 [.ka]
 ka:null

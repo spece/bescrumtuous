@@ -36,7 +36,7 @@ Functional requirements describe what a system should do in terms of specific fe
 
 Non-functional requirements, on the other hand, describe how a system should perform in terms of factors such as reliability, scalability, security, usability, and performance. Non-functional requirements are often more subjective and harder to quantify than functional requirements. They are usually expressed as constraints or quality attributes that the system should exhibit. Examples of non-functional requirements include response time, availability, user experience, and maintainability. Non-functional requirements are important because they help ensure that a system is usable, efficient, and effective, and can be sustained over time.
 
-In summary, the main difference between functional and non-functional requirements is that functional requirements describe what a system should do, while non-functional requirements describe how well the system should do it.****
+In summary, the main difference between functional and non-functional requirements is that functional requirements describe what a system should do, while non-functional requirements describe how well the system should do it.
 
 [.ka]
 ka:Product Value

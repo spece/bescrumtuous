@@ -36,7 +36,7 @@ Agile Values: The Agile Manifesto emphasizes the importance of individuals and i
 
 Continuous Improvement: Agile methodologies emphasize continuous improvement, and this requires a culture of transparency and openness. By raising security concerns immediately, the Scrum Developer is contributing to this culture and encouraging the team to identify areas for improvement.
 
-Overall, discussing security concerns immediately with the development team is essential for maintaining a secure and efficient product development process. It helps to ensure that the team is aware of the issue, and encourages collaboration and problem-solving to find a solution quickly.****
+Overall, discussing security concerns immediately with the development team is essential for maintaining a secure and efficient product development process. It helps to ensure that the team is aware of the issue, and encourages collaboration and problem-solving to find a solution quickly.
 
 [.ka]
 ka:Coaching and Mentoring

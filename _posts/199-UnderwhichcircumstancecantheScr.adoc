@@ -24,7 +24,7 @@ B
 [.explanation]
 Once a Sprint has started, the Sprint length cannot be changed.
 
-If the team wants to change the length of Sprints that is possible, but doing so should be discussed in a Scrum event, agreed upon by the team, and not arbitrarily decided by the Scrum Master. ****
+If the team wants to change the length of Sprints that is possible, but doing so should be discussed in a Scrum event, agreed upon by the team, and not arbitrarily decided by the Scrum Master. 
 
 [.ka]
 ka:Events

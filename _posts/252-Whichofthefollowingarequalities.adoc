@@ -26,7 +26,7 @@ Budget should not be a concern of the developers. Developers should never be ask
 
 Also, developers are expected to have all of the required skills in-house to complete the Definition of Done, so they should not be delegating work to external teams.
 
-Respecting the Definition of Done and turning Product Backlog Items into usable Increments of value is the job of a development team.****
+Respecting the Definition of Done and turning Product Backlog Items into usable Increments of value is the job of a development team.
 
 [.ka]
 ka:Product Value

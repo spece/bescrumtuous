@@ -32,7 +32,7 @@ The "Definition of Done" also helps developers estimate how much work to add to 
 
 Finally, the "Definition of Done" helps developers understand when work is complete. By providing a clear definition of what it means for a product backlog item to be considered complete, the team can avoid confusion or misunderstandings about what is expected from them. This clarity can help prevent issues such as unfinished work being carried over to future sprints or incomplete work being considered "done," leading to potential issues in the final product.
 
-Overall, the "Definition of Done" is a valuable tool in promoting transparency, accurate estimation, and clarity around when work is considered complete in Scrum.****
+Overall, the "Definition of Done" is a valuable tool in promoting transparency, accurate estimation, and clarity around when work is considered complete in Scrum.
 
 [.ka]
 ka:Done

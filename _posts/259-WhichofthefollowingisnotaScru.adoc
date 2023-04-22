@@ -26,7 +26,7 @@ BE
 [.explanation]
 Answers B and E are correct.
 
-The Scrum Pillars are Transparency, Inspection and Adaptation.****
+The Scrum Pillars are Transparency, Inspection and Adaptation.
 
 [.ka]
 ka:Scrum Values

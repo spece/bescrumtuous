@@ -21,7 +21,7 @@ In Scrum, testers, QA personnel and business analysts on a Scrum Team are consid
 A
 
 [.explanation]
-Everyone one on a Scrum Team that is contributing towards building out Product Backlog Items and helping to meet the Definition of Done are considered developers.****
+Everyone one on a Scrum Team that is contributing towards building out Product Backlog Items and helping to meet the Definition of Done are considered developers.
 
 [.ka]
 ka:Scrum Team

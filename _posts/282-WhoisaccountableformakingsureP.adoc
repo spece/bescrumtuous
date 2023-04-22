@@ -29,7 +29,7 @@ The Product Owner is responsible for maintaining the Product Backlog, which is a
 
 During Sprint Planning, the Development Team works with the Product Owner to decompose the selected Product Backlog items into smaller, more manageable pieces of work. The Product Owner is responsible for providing additional information and clarification as needed to help the Development Team understand the requirements of the selected items.
 
-The Product Owner is also responsible for ensuring that the Product Backlog is refined regularly to ensure that it is up to date and contains enough detail for the Development Team to work on. The Product Owner works closely with stakeholders, users, and the Development Team to continuously refine and improve the Product Backlog. This ensures that the Development Team can work on the highest-priority items that deliver the most value to the product.****
+The Product Owner is also responsible for ensuring that the Product Backlog is refined regularly to ensure that it is up to date and contains enough detail for the Development Team to work on. The Product Owner works closely with stakeholders, users, and the Development Team to continuously refine and improve the Product Backlog. This ensures that the Development Team can work on the highest-priority items that deliver the most value to the product.
 
 [.ka]
 ka:Product Backlog Management

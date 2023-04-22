@@ -32,7 +32,7 @@ Complexity: As the complexity of a sprint increases, it becomes more difficult t
 
 Validity of Sprint Goal: The sprint goal is a critical element of any sprint, and it serves as the guiding focus for the team's work during the sprint. If the sprint runs for too long, the sprint goal may become less relevant or may even become invalid as the team learns new information or requirements change. By keeping sprints short, the team can more effectively focus on achieving the sprint goal before it becomes outdated.
 
-In summary, keeping sprints to 30 days or less helps to reduce risk, manage complexity, and maintain the validity of the sprint goal, all of which are critical to the success of Agile development.****
+In summary, keeping sprints to 30 days or less helps to reduce risk, manage complexity, and maintain the validity of the sprint goal, all of which are critical to the success of Agile development.
 
 [.ka]
 ka:Events

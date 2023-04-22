@@ -25,7 +25,7 @@ A highly motivated, self-managed and self-organized development team is best equ
 CE
 
 [.explanation]
-Professional developers with a strong work ethic will be ready to work together so long as they understand the Product Goal and have a strong understanding of what constitutes 'done.'****
+Professional developers with a strong work ethic will be ready to work together so long as they understand the Product Goal and have a strong understanding of what constitutes 'done.'
 
 [.ka]
 ka:Done

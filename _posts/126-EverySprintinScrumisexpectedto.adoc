@@ -35,7 +35,7 @@ Note that the developers have a similar, yet different responsibility:
 
 "Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."
 
-Stay appraised of the subtle difference between the two, as you may get tested in either direction on the exam.****
+Stay appraised of the subtle difference between the two, as you may get tested in either direction on the exam.
 
 [.ka]
 ka:Artifacts

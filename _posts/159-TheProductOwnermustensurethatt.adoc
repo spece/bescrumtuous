@@ -27,7 +27,7 @@ The reason for this is that the Scrum Development Team is the group of individua
 
 The Product Owner is responsible for setting the overall direction and priorities for the project. They work with stakeholders to determine the features and requirements that are most important to the success of the product. However, it is up to the Scrum Development Team to determine how best to implement those requirements, and what items to include in the Sprint Backlog.
 
-By giving the Scrum Development Team the final say over what goes into the Sprint Backlog, Scrum ensures that the team is empowered to take ownership of the work they are responsible for and can work together to deliver the best possible product increment within the given sprint. This promotes collaboration and communication within the team and helps to ensure that the team is fully invested in the success of the project.****
+By giving the Scrum Development Team the final say over what goes into the Sprint Backlog, Scrum ensures that the team is empowered to take ownership of the work they are responsible for and can work together to deliver the best possible product increment within the given sprint. This promotes collaboration and communication within the team and helps to ensure that the team is fully invested in the success of the project.
 
 [.ka]
 ka:null

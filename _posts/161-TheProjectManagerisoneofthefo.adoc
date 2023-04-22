@@ -25,7 +25,7 @@ This is false.
 
 The Scrum Guide does not even mention the term 'Project Manager.'
 
-****
+
 
 [.ka]
 ka:Self-managing teams

@@ -22,7 +22,7 @@ Generally speaking, every Scrum Team should have:
 A
 
 [.explanation]
-As a Certified Scrum Master, I believe every Development Team should have the appropriate environment and culture to foster high performance.****
+As a Certified Scrum Master, I believe every Development Team should have the appropriate environment and culture to foster high performance.
 
 [.ka]
 ka:Scrum Team

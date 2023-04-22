@@ -25,7 +25,7 @@ What is the timebox for the Sprint Planning meeting?
 D
 
 [.explanation]
-According to the Scrum Guide, "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."****
+According to the Scrum Guide, "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
 
 [.ka]
 ka:Events

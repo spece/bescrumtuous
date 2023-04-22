@@ -35,7 +35,7 @@ Nature of the project: Depending on the nature of the project, a shorter or long
 
 The Sprint length other teams use shouldn't impact what the right Sprint length is for your team and for your project.
 
-Ultimately, the ideal length of a Sprint will depend on a variety of factors, and the Scrum Team should consider these criteria and other relevant factors to determine the length of the Sprint that is most appropriate for their specific project and team.****
+Ultimately, the ideal length of a Sprint will depend on a variety of factors, and the Scrum Team should consider these criteria and other relevant factors to determine the length of the Sprint that is most appropriate for their specific project and team.
 
 [.ka]
 ka:Events

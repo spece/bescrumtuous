@@ -33,7 +33,7 @@ Increases team accountability: By having non-functional requirements in the DoD,
 
 Aligns with the Agile manifesto: The Agile manifesto values "working software" and "customer satisfaction," which includes non-functional requirements. By including non-functional requirements in the DoD, the team is working to create a high-quality product that meets the needs of the customer.
 
-Overall, including non-functional requirements in the DoD is essential for creating a high-quality product that meets the needs of the customer. It helps to ensure that the team is accountable for meeting all necessary quality standards and promotes a culture of continuous improvement.****
+Overall, including non-functional requirements in the DoD is essential for creating a high-quality product that meets the needs of the customer. It helps to ensure that the team is accountable for meeting all necessary quality standards and promotes a culture of continuous improvement.
 
 [.ka]
 ka:Done

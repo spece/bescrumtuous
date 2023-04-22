@@ -23,7 +23,7 @@ D
 [.explanation]
 A new, usable increment of working software must be available at the end of each Sprint.
 
-"Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint... An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable."****
+"Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint... An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable."
 
 [.ka]
 ka:Forecasting and Release Planning

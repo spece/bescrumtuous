@@ -24,7 +24,7 @@ What tasks do testers typically undertake on a Development Team?
 BE
 
 [.explanation]
-Testers on a Development Team typically undertake tasks such as designing and executing tests to ensure product quality, troubleshooting any software issues that arise, and working with the rest of the team to ensure the product meets the customer's expectations.****
+Testers on a Development Team typically undertake tasks such as designing and executing tests to ensure product quality, troubleshooting any software issues that arise, and working with the rest of the team to ensure the product meets the customer's expectations.
 
 [.ka]
 ka:Coaching and Mentoring

@@ -36,7 +36,7 @@ Encouraging Collaboration: A well-defined DoD helps to promote collaboration and
 
 Increased Complexity: As the team begins to tackle more complex work, they will naturally need to develop a more detailed and comprehensive DoD. This is because the work may involve multiple layers of testing, integration, and other quality checks, which require a more rigorous approach to ensure that the work is truly "done."
 
-Overall, developing a more stringent DoD is a natural part of the team's maturation process within the Scrum framework. It reflects a growing understanding of the importance of quality and collaboration, and a commitment to continuous improvement.****
+Overall, developing a more stringent DoD is a natural part of the team's maturation process within the Scrum framework. It reflects a growing understanding of the importance of quality and collaboration, and a commitment to continuous improvement.
 
 [.ka]
 ka:Done

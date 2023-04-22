@@ -30,7 +30,7 @@ Clear expectations: The DoD sets clear expectations for what needs to be done fo
 
 Objective criteria: The DoD defines objective criteria that must be met for each Product Backlog item. This helps increase transparency by making it clear what the team needs to do to achieve a particular outcome. Measurable criteria also make it easier to track progress and determine whether a task is truly complete.
 
-Shared understanding: The DoD ensures that all team members have a shared understanding of what "done" means for a particular task. This creates transparency because everyone on the team is working toward the same goal and understands what it takes to achieve it. When everyone is on the same page, it's easier to identify and resolve any issues or roadblocks that arise during the development process.****
+Shared understanding: The DoD ensures that all team members have a shared understanding of what "done" means for a particular task. This creates transparency because everyone on the team is working toward the same goal and understands what it takes to achieve it. When everyone is on the same page, it's easier to identify and resolve any issues or roadblocks that arise during the development process.
 
 [.ka]
 ka:Done

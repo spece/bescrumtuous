@@ -30,7 +30,7 @@ The Scrum Master serves the organization in several ways, including:
 &#9679; Leading, training, and coaching the organization in its Scrum adoption;
 &#9679; Planning and advising Scrum implementations within the organization;
 &#9679; Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
-****
+
 
 [.ka]
 ka:Coaching and Mentoring

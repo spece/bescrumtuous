@@ -23,7 +23,7 @@ According to the Scrum Guide, which of the following statements are true about t
 BC
 
 [.explanation]
-A Product Owner is the role responsible for defining features, deriving the overall product vision and commanding the Product Backlog to optimize the value of work done by the Development Team.****
+A Product Owner is the role responsible for defining features, deriving the overall product vision and commanding the Product Backlog to optimize the value of work done by the Development Team.
 
 [.ka]
 ka:Product Backlog Management

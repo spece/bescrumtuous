@@ -41,7 +41,7 @@ Sprint Retrospective: This is a meeting that occurs at the end of the Sprint, wh
 
 All of these Scrum events happen within a Sprint to help ensure that the development team is working effectively and efficiently to deliver a high-quality product increment. By having a clearly defined Sprint goal, daily synchronization, regular feedback, and continuous improvement, the development team is able to stay focused and motivated throughout the Sprint, while also ensuring that the product being developed is aligned with the needs of the stakeholders.
 
-****
+
 
 [.ka]
 ka:Events

@@ -30,7 +30,7 @@ Scrum developers choose product backlog items for the Sprint because the product
 
 During Sprint Planning, which is one of the Scrum events, the development team works with the Product Owner to select the items that they will work on during the upcoming Sprint. The team considers the highest priority items in the product backlog and assesses whether they are feasible to complete during the Sprint. They take into account factors such as their capacity, the complexity of the items, and any dependencies that may exist between the items.
 
-The development team's goal is to select a set of product backlog items that they can complete within the Sprint, while delivering value to the stakeholders. By selecting items that are high priority and achievable within the Sprint, the team can help ensure that the product is continuously improved and that the stakeholders receive value from the development effort.****
+The development team's goal is to select a set of product backlog items that they can complete within the Sprint, while delivering value to the stakeholders. By selecting items that are high priority and achievable within the Sprint, the team can help ensure that the product is continuously improved and that the stakeholders receive value from the development effort.
 
 [.ka]
 ka:self-managing teams

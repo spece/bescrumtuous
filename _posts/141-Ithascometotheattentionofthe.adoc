@@ -33,7 +33,7 @@ Also, there is nothing after one Sprint and before another. There is no time bet
 
 When one Sprint ends, the next Sprint begins immediately.
 
-****
+
 
 [.ka]
 ka:Events

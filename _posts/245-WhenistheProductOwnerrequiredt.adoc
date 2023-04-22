@@ -25,7 +25,7 @@ A
 [.explanation]
 The Scrum Master or Product Owner can only participate in the Daily Scrum if they are actively working on an item in the Sprint Backlog.
 
-"The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers."****
+"The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers."
 
 [.ka]
 ka:Events

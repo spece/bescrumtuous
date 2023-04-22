@@ -24,7 +24,7 @@ What topics might the Scrum Team address during a Sprint Retrospective?
 E
 
 [.explanation]
-All of these topics are commonly discussed in the Sprint Retrospective.****
+All of these topics are commonly discussed in the Sprint Retrospective.
 
 [.ka]
 ka:Events

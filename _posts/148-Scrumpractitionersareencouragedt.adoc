@@ -32,7 +32,7 @@ By not looking beyond the current Sprint, the development team is able to mainta
 
 Moreover, the Scrum framework provides regular opportunities to inspect and adapt the work done in the current Sprint, and adjust the backlog accordingly. This allows the team to constantly improve the product and respond to feedback from stakeholders. By focusing on the current Sprint, the team can take full advantage of this feedback loop and continuously deliver value to the customer.
 
-In summary, by not looking beyond the current Sprint, the development team can maintain a clear focus on the work at hand, avoid distractions, and deliver high-quality work that meets the needs of the customer. This is an example of how the principle of focus is an essential element of the Scrum framework.****
+In summary, by not looking beyond the current Sprint, the development team can maintain a clear focus on the work at hand, avoid distractions, and deliver high-quality work that meets the needs of the customer. This is an example of how the principle of focus is an essential element of the Scrum framework.
 
 [.ka]
 ka:Scrum Values

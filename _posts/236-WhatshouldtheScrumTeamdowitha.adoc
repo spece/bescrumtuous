@@ -27,7 +27,7 @@ If a Product Backlog item doesn't meet the Definition of Done by the end of the 
 
 The Scrum Team will then decide if work on the backlog item should continue during the next Sprint, and if so, re-estimate the work needed to complete the undone PBI.
 
-Avoid any answer on the Scrum certification exam that talks about 'points.' There is no mention of 'points' in the Scrum guide.****
+Avoid any answer on the Scrum certification exam that talks about 'points.' There is no mention of 'points' in the Scrum guide.
 
 [.ka]
 ka:Product Backlog Management

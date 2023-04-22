@@ -24,7 +24,7 @@ How does Scrum foster the idea of self-organization?
 CDE
 
 [.explanation]
-Scrum promotes self-organization in several ways, such as by harnessing the power of a team to do whatever is necessary to reach their goals, by letting the team figure out their own process, and by implementing short feedback cycles to help the team measure progress, identify improvements, and flow better.****
+Scrum promotes self-organization in several ways, such as by harnessing the power of a team to do whatever is necessary to reach their goals, by letting the team figure out their own process, and by implementing short feedback cycles to help the team measure progress, identify improvements, and flow better.
 
 [.ka]
 ka:Self-Managing Teams

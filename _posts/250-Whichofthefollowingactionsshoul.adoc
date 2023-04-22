@@ -29,7 +29,7 @@ Furthermore, the Scrum Framework does not allow the length of a Sprint to be ext
 
 The Scrum Master does coach teams about the Scrum Framework, so coaching a team to ensure the 15 minute Daily Scrum timebox is not exceeded is a good use of the Scrum Master's time.
 
-****
+
 
 [.ka]
 ka:Facilitation

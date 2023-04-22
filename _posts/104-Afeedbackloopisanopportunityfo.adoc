@@ -32,7 +32,7 @@ The Sprint Review is held at the end of the Sprint, and it is an opportunity for
 
 The Sprint Retrospective is also held at the end of the Sprint, and it is an opportunity for the Scrum Team to reflect on its performance during the Sprint. During this meeting, the team discusses what went well, what did not go well, and how they can improve their process for the next Sprint. The team uses this feedback to make adjustments to its process to improve its performance in future Sprints.
 
-In summary, the Daily Scrum, Sprint Review, and Sprint Retrospective are feedback loops because they provide opportunities for the Scrum Team to inspect and adapt their work based on feedback received during the Sprint. These feedback loops help the team to continuously improve their process and deliver a better product.****
+In summary, the Daily Scrum, Sprint Review, and Sprint Retrospective are feedback loops because they provide opportunities for the Scrum Team to inspect and adapt their work based on feedback received during the Sprint. These feedback loops help the team to continuously improve their process and deliver a better product.
 
 [.ka]
 ka:Events

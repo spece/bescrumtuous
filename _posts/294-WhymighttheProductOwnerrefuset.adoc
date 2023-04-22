@@ -29,7 +29,7 @@ In the context of agile software development, the Product Owner is responsible f
 
 The Product Owner should be responsible for deciding when each incremental change or improvement to the product is ready to be released to users or customers. This decision should be based on various factors, such as the overall impact of the increment on the product's functionality, the level of quality and stability of the increment, and the potential benefits and risks of releasing the increment at a particular time.
 
-The idea is that by releasing small increments of the product regularly, the development team can receive quick feedback from users or customers, which can be used to inform further development and improvements. This approach can also help to reduce the risk of large, complex changes failing or causing problems when released all at once.****
+The idea is that by releasing small increments of the product regularly, the development team can receive quick feedback from users or customers, which can be used to inform further development and improvements. This approach can also help to reduce the risk of large, complex changes failing or causing problems when released all at once.
 
 [.ka]
 ka:Forecasting and Release Planning

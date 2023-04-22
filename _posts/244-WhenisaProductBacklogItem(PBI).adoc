@@ -25,7 +25,7 @@ A
 [.explanation]
 A Product Backlog Item is complete when all of its features are completed and it is not possible to create any further increments of work on it.
 
-A Product Backlog Item is not necessarily associated with a single Increment of Work. A PBI may last for multiple Sprints, with each Sprint producing an Increment of Work that meets a Definition of Done for a given facet of a Product Backlog Item. That's why PBIs are decomposed by the development team - to break it up into manageable pieces of work.****
+A Product Backlog Item is not necessarily associated with a single Increment of Work. A PBI may last for multiple Sprints, with each Sprint producing an Increment of Work that meets a Definition of Done for a given facet of a Product Backlog Item. That's why PBIs are decomposed by the development team - to break it up into manageable pieces of work.
 
 [.ka]
 ka:forecasting

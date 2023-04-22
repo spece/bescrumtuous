@@ -23,7 +23,7 @@ The commitment associated with the Sprint Backlog is:
 B
 
 [.explanation]
-The output from Sprint Planning that the Development Team will use as their goal and general path of direction for the Sprint is the Sprint Goal. The Sprint Goal is the commitment associated with the Sprint Backlog.****
+The output from Sprint Planning that the Development Team will use as their goal and general path of direction for the Sprint is the Sprint Goal. The Sprint Goal is the commitment associated with the Sprint Backlog.
 
 [.ka]
 ka:Artifacts

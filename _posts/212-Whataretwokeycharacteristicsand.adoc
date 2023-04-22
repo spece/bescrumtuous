@@ -33,7 +33,7 @@ One of the reasons why only one person is allowed to do the Product Owner's job 
 
 Additionally, having a single Product Owner helps to maintain consistency and coherence in the product vision and strategy. The Product Owner is responsible for articulating the product vision and ensuring that the team is working towards the same objectives. If there were multiple people defining the product backlog, it could be difficult to maintain a clear and consistent product vision, which could lead to a lack of focus and direction for the team.
 
-Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.****
+Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.
 
 [.ka]
 ka:Scrum Team

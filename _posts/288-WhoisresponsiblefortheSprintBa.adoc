@@ -25,7 +25,7 @@ D
 [.explanation]
 The development team, and only the development team, is responsible for managing and maintaining the Sprint Backlog.
 
-The Product Backlog is managed by the Product Owner. The Sprint Backlog is all about the developers.****
+The Product Backlog is managed by the Product Owner. The Sprint Backlog is all about the developers.
 
 [.ka]
 ka:Artifacts

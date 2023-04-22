@@ -35,7 +35,7 @@ During the Sprint:
 &#9679; No changes are made that would endanger the Sprint Goal;
 &#9679; Quality does not decrease;
 &#9679; The Product Backlog is refined as needed; and,
-&#9679; Scope may be clarified and renegotiated with the Product Owner as more is learned.****
+&#9679; Scope may be clarified and renegotiated with the Product Owner as more is learned.
 
 [.ka]
 ka:Coaching and Mentoring

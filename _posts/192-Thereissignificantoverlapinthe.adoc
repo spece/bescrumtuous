@@ -23,7 +23,7 @@ ACD
 [.explanation]
 This couldn't be more false.
 
-A Scrum Master is a coach, facilitator and servant-leader to the team. This is not in like with the idea of managing a project.****
+A Scrum Master is a coach, facilitator and servant-leader to the team. This is not in like with the idea of managing a project.
 
 [.ka]
 ka:Coaching and Mentoring

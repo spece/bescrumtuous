@@ -28,7 +28,7 @@ According to the Scrum Guide, a Sprint Planning meeting addresses these three qu
 
 - Why is this Sprint valuable?
 - What can be Done this Sprint?
-- How will the chosen work get done?****
+- How will the chosen work get done?
 
 [.ka]
 ka:Forecasting and Release Planning

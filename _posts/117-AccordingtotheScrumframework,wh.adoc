@@ -31,7 +31,7 @@ One the time allotted for the Sprint is met, the Sprint ends and a new Sprint be
 
 Even if Product Backlog items are not finished, or even if the team failed to deliver any value, the Sprint is not extended. When the allotted time-box is met, the Sprint ends.
 
-It's worth nothing that the Scrum Guide does not mention a time-box for a Sprint. It mentions a time-box for Sprint Planning, the Sprint Review and the Sprint Retrospective, but it does not actually use the word 'time-box' when referring to a Sprint.****
+It's worth nothing that the Scrum Guide does not mention a time-box for a Sprint. It mentions a time-box for Sprint Planning, the Sprint Review and the Sprint Retrospective, but it does not actually use the word 'time-box' when referring to a Sprint.
 
 [.ka]
 ka:Events

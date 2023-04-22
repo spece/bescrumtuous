@@ -25,7 +25,7 @@ What techniques can a Scrum Master use to facilitate the prevention or removal o
 ACE
 
 [.explanation]
-****
+
 
 [.ka]
 ka:null

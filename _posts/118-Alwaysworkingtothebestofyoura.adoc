@@ -40,7 +40,7 @@ Openness: The Scrum Team practices openness, transparency, and honesty with each
 
 Respect: Scrum teams treat each other with respect, recognizing the unique contributions of each team member. They create a safe environment where everyone can share their ideas and opinions without fear of judgment.
 
-These values are important because they provide a foundation for a collaborative and productive team environment. When Scrum teams embrace these values, they build trust, increase communication, and work more effectively together. By committing to their goals, being courageous, focusing on their work, practicing openness, and showing respect to each other, Scrum teams can deliver high-quality products and continuously improve.****
+These values are important because they provide a foundation for a collaborative and productive team environment. When Scrum teams embrace these values, they build trust, increase communication, and work more effectively together. By committing to their goals, being courageous, focusing on their work, practicing openness, and showing respect to each other, Scrum teams can deliver high-quality products and continuously improve.
 
 [.ka]
 ka:Scrum Values

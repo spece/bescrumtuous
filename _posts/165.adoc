@@ -26,7 +26,7 @@ AC
 [.explanation]
 The Scrum Guide describes Scrum as both an iterative and incremental framework.
 
-The combination of incremental and iterative development in Scrum allows the team to deliver a product that is both usable and valuable to the customer, while also allowing for changes and adjustments to be made as necessary. The incremental aspect ensures that the product is developed in small, manageable pieces that can be tested and released to the customer, while the iterative aspect ensures that the team is continuously learning and adapting to feedback in order to improve the product and the development process.****
+The combination of incremental and iterative development in Scrum allows the team to deliver a product that is both usable and valuable to the customer, while also allowing for changes and adjustments to be made as necessary. The incremental aspect ensures that the product is developed in small, manageable pieces that can be tested and released to the customer, while the iterative aspect ensures that the team is continuously learning and adapting to feedback in order to improve the product and the development process.
 
 [.ka]
 ka:Product Value

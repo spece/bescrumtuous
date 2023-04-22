@@ -24,7 +24,7 @@ Name the three composite components of the Sprint Backlog?
 ABC
 
 [.explanation]
-The Product Goal is not part of the Sprint, and the term 'Sprint Backlog Item' does not appear anywhere in the Scrum Guide. Instead, Product Backlog Items are selected for the Sprint, but they are not specifically called Sprint Backlog Items in the Guide.****
+The Product Goal is not part of the Sprint, and the term 'Sprint Backlog Item' does not appear anywhere in the Scrum Guide. Instead, Product Backlog Items are selected for the Sprint, but they are not specifically called Sprint Backlog Items in the Guide.
 
 [.ka]
 ka:Artifacts

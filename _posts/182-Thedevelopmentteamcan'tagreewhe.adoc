@@ -41,7 +41,7 @@ Visualization: This involves using diagrams, sketches, or other visual aids to h
 
 Silence: Sometimes, allowing a pause in the conversation can give the speaker time to gather their thoughts and provide a more thoughtful response.
 
-While active listening and open questioning are valuable techniques in communication, incorporating these alternatives can help to build trust and improve collaboration in a Scrum team.****
+While active listening and open questioning are valuable techniques in communication, incorporating these alternatives can help to build trust and improve collaboration in a Scrum team.
 
 [.ka]
 ka:Facilitation

@@ -24,7 +24,7 @@ The Sprint Review is one of Scrum's time-boxed events. What is the maximum amoun
 C
 
 [.explanation]
-From the Scrum Guide: "The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."****
+From the Scrum Guide: "The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
 
 [.ka]
 ka:Events

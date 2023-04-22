@@ -23,7 +23,7 @@ When should new work or additional information about work be added to the Sprint
 A
 
 [.explanation]
-Any time new information that impacts the Sprint Plan is discovered, it should be added to the Sprint Backlog immediately.****
+Any time new information that impacts the Sprint Plan is discovered, it should be added to the Sprint Backlog immediately.
 
 [.ka]
 ka:Events

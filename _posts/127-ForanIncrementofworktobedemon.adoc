@@ -24,7 +24,7 @@ For an Increment of work to be demonstrated to the stakeholders at the Sprint Re
 ADE
 
 [.explanation]
-An Increment must be both valuable and usable and compatible with all past increments.****
+An Increment must be both valuable and usable and compatible with all past increments.
 
 [.ka]
 ka:Proudct Value

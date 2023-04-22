@@ -30,7 +30,7 @@ The Sprint Goal is important because it provides focus and direction to the team
 
 Once the Sprint Goal is set during Sprint Planning, it should not be changed during the Sprint. This is because the Sprint Goal is intended to provide a clear and stable target for the team to work towards, and changing it mid-Sprint could cause confusion and disrupt the team's focus. If the team determines during the Sprint that they need to change the Sprint Goal due to unforeseen circumstances or new information, they should end the Sprint and conduct a new Sprint Planning session to set a new Sprint Goal that reflects the updated understanding of the work that needs to be done.
 
-In summary, the Sprint Goal is an important aspect of Scrum because it provides a clear and stable target for the team to work towards during the Sprint. It cannot be changed during the Sprint to ensure that the team remains focused and aligned throughout the Sprint.****
+In summary, the Sprint Goal is an important aspect of Scrum because it provides a clear and stable target for the team to work towards during the Sprint. It cannot be changed during the Sprint to ensure that the team remains focused and aligned throughout the Sprint.
 
 [.ka]
 ka:Events

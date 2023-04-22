@@ -32,7 +32,7 @@ Extending the Sprint is never an option. The Sprint length is fixed when the Spr
 
 The Definition of Done can always be discussed and updated. However, the Scrum Master does not have the right to unilaterally change the Definition of Done, and changes to the Definition of Done are best discussed in the Sprint Retrospective.
 
-Furthermore, the Definition of Done should not be changed midway through a Sprint to accommodate moving goalposts. Doing so would be antithetical to Scrum.****
+Furthermore, the Definition of Done should not be changed midway through a Sprint to accommodate moving goalposts. Doing so would be antithetical to Scrum.
 
 [.ka]
 ka:self-managing teams

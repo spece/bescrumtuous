@@ -26,7 +26,7 @@ E
 [.explanation]
 Breaking Product Backlog Items into smaller work items is the job of the development team.
 
-"For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. Noone else tells them how to turn Product Backlog items into Increments of value."****
+"For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. Noone else tells them how to turn Product Backlog items into Increments of value."
 
 [.ka]
 ka:Forecasting and Release Planning

@@ -40,7 +40,7 @@ Predictability: The time-boxed nature of the Sprint helps to make the Scrum proc
 
 Continuous feedback and improvement: The Scrum events within a Sprint are designed to provide regular opportunities for inspection and adaptation. By reviewing progress and feedback during each event, the team can make adjustments and improve their processes on an ongoing basis.
 
-Overall, by scheduling all events within a Sprint, Scrum provides a framework that promotes focus, predictability, and continuous improvement.****
+Overall, by scheduling all events within a Sprint, Scrum provides a framework that promotes focus, predictability, and continuous improvement.
 
 [.ka]
 ka:Events
