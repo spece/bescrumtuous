@@ -1,0 +1,43 @@
+---
+layout: default 
+title: "265 - What is a good first questionfor you to "
+---
+
+
+[#question]
+== 265-63effceb9ebbe935e4c16af3.
+
+****
+
+[#query]
+--
+What is most important criteria for developers to think about when they self-organize into development teams?
+--
+
+[#list]
+--
+* [ ] A. Does each team have a strong team lead?
+* [ ] B. Is there a good balance of senior and junior developers?
+* [ ] C. Will each team be able to form a sub-group for QA and testing?
+* [*] D. Will the team have the cross-functional skills needed to build the product?
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+There are not subteams, titles or hierarchies on Scrum Teams.
+
+All that matters when a group of Scrum developers is assembled is whether they have, or do they have the ability to acquire, the cross-functional skills matrix needed to build the product under development and achieve the Product Goal.
+
+From the Scrum Guide: "Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal. Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how."
+--
+
+[#ka]
+Scrum Team
+
+'''
+

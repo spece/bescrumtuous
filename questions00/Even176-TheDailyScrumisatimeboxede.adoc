@@ -1,0 +1,40 @@
+---
+layout: default 
+title: "176 - The timebox for a Daily Scrum Scrum Mast"
+---
+
+
+[#question]
+== 176-63effdee9ebbe935e4c16b12.
+
+****
+
+[#query]
+--
+The Daily Scrum is a timeboxed event. How long is the Daily Scrum's timebox?
+--
+
+[#list]
+--
+* [ ] A. 90 seconds per person.
+* [ ] B. Between 10 and 15 minutes.
+* [*] C. 15 minutes.
+* [ ] D. 30 minutes.
+* [ ] E. 4 hours.
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+As per the Scrum Guide, "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint."
+--
+
+[#ka]
+Events
+
+'''
+

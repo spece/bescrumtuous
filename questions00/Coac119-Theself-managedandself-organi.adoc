@@ -1,0 +1,59 @@
+---
+layout: default 
+title: "119 - Which two are the most appropriate respo"
+---
+
+
+[#question]
+== 119-63effb4e9ebbe935e4c16ab2.
+
+****
+
+[#query]
+--
+The self-managed and self-organized Scrum development team has come to a common agreement that they can increase development velocity by holding the Daily Scrum Monday, Wednesday and Friday, rather than on each day of the week.
+
+What are the two best options for the Scrum Master to react when an issue arises?
+--
+
+[#list]
+--
+* [ ] A. Be Agile and respect the decisions of the self-managed and self-organized development teams and agree to hold the Daily Scrum only. 
+* [*] B. Educate the team on the Scrum Framework and emphasize how the Daily Scrum provides an important opportunity to adapt and update their plan to achieve the Sprint Goal.
+* [ ] C. Agree to the wishes of the development team so long as the Product Owner provides consent.
+* [*] D. Discuss with the team why they want to take this course of action and coach around their objections.
+* [ ] E. Reject the request but promise to take a more active role in leading the Daily Scrum.
+
+--
+****
+
+[#answer]
+BD
+
+[#explanation]
+--
+As a Scrum Master, dealing with a Scrum Team that does not want to do Daily Scrum meetings can be challenging. 
+
+Always keep in mind that the role of the Scrum Master is to coach, facilitate and educate.  With that said, here are a few things you as a Scrum Master can do to address the issue. 
+
+Understand the underlying reason: Start by understanding why the team does not want to do Daily Scrum meetings. Is it because they feel the meetings are a waste of time, or is it because they are facing some other issue? Once you understand the root cause, you can take appropriate actions.
+
+Educate the team on the importance of Daily Scrum meetings: As a Scrum Master, it's essential to educate the team on the importance of Daily Scrum meetings. Help the team understand that these meetings are a crucial part of the Scrum framework and are necessary for keeping everyone on the same page.
+
+Encourage participation: Encourage team members to participate in Daily Scrum meetings by having them make them engaging and interactive. Ask open-ended questions and encourage team members to share their progress and challenges. Coach them to make the meeting a safe space where team members can share their concerns.
+
+Keep in mind that the Scrum Master isn't supposed to take part in the Daily Scrum. The Scrum Master should not be leading it or asking everyone questions. The Daily Scrum is for the developers and it is to be led by the developers.
+
+Identify and address any roadblocks: If there are any roadblocks that are preventing the team from participating in Daily Scrum meetings, identify and address them. For example, if the team is finding it hard to schedule the meetings, find a time that works for everyone. Just keep in mind that the Daily Scrum must take place at the same time and location every day.
+
+Consider having the team adjust the format: If the team is finding the Daily Scrum meetings tedious or unproductive, consider adjusting the format. You have them try shortening the meetings, changing the format to make it more interactive, or using new tools to facilitate the meeting.
+
+
+Remember that as a Scrum Master, your role is to facilitate the team's success, so be patient and work with the team to find a solution that works for everyone. 
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

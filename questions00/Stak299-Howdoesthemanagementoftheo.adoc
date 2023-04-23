@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "299 - What is the role of management in Scrum "
+---
+
+
+[#question]
+== 299-63effe189ebbe935e4c16b17.
+
+****
+
+[#query]
+--
+How does the management of the organization that sponsors a development project support Scrum?
+--
+
+[#list]
+--
+* [*] A. The organization empowers the Scrum Team to manage their own work.
+* [ ] B. The organization responds to daily status updates from the Scrum Master.
+* [*] C. The organization must provide Scrum Teams with resources that allow for continual improvement.
+* [*] D. The organization fully respects and trusts the Product Owner's decisions.
+
+--
+****
+
+[#answer]
+ACD
+
+[#explanation]
+--
+Status updates are antithetical to the Scrum Framework. Scrum provides other artifacts and mechanisms to allow for transparency and openness into the progress of the Scrum Team.
+
+Providing sufficient input and resources for the Scrum Team to improve, allowing the Scrum Team to manage their own work, and respecting the decisions of the Scrum Master are three concrete ways an organization can support teams that practice the Scrum Framework
+--
+
+[#ka]
+Stakeholders
+
+'''
+

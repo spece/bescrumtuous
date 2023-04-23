@@ -1,0 +1,53 @@
+---
+layout: default 
+title: "210 - What do they track Scrum Master PSM1 Exa"
+---
+
+
+[#question]
+== 210-63effd739ebbe935e4c16b03.
+
+****
+
+[#query]
+--
+Which of the following tracks the flow of work through the project over time?
+--
+
+[#list]
+--
+* [ ] A. Burn-down chart
+* [ ] B. Burn-up chart
+* [*] C. Cumulative flow charts
+* [ ] D. Flame charts
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+Burn-down, burn-up, and cumulative flow charts are the only Scrum metrics gathering tools mentioned in the Scrum Guide, and they are only mentioned briefly. 
+
+It makes sense to know their purpose at a very high level. You don't need to be an expert on them, but you might see a question or two about them on the exam.
+
+"Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism."
+
+Burn-down charts track the amount of work remaining in a sprint or iteration over time. This chart shows how much work is left to complete in a sprint, allowing the team to make adjustments as needed to ensure that they meet their goals. The chart typically plots the remaining work on the y-axis and time on the x-axis, and the team updates it daily to reflect progress.
+
+Burn-up charts track the amount of work completed over time. This chart shows how much work has been completed in a sprint, allowing the team to track their progress towards their goals. The chart typically plots the completed work on the y-axis and time on the x-axis, and the team updates it daily to reflect progress.
+
+Cumulative flow charts track the flow of work through the project over time. This chart shows how much work is in progress, how much work has been completed, and how much work remains to be done. The chart typically plots the number of items in each stage of the project on the y-axis and time on the x-axis, and the team updates it regularly to reflect progress.
+
+All three charts provide valuable insight into the progress of the project, allowing the team to identify issues early and make adjustments as needed to ensure that they meet their goals. By tracking progress over time, these charts help the team to stay focused, make data-driven decisions, and continuously improve their processes.
+
+Don't worry too much about these charts for the exam. Burn charts and flow charts are only mentioned briefly in the guide. Just have a basic idea of what they do in case they come up on a question. In depth knowledge of them isn't required.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

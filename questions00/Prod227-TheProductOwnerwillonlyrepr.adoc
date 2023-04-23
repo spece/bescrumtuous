@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "227 - What is the best suited structure for De"
+---
+
+
+[#question]
+== 227-63effbe79ebbe935e4c16ac9.
+
+****
+
+[#query]
+--
+The Product Owner will only represent one set of stakeholders at a time.
+--
+
+[#list]
+--
+* [ ] A. True
+* [*] B. False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.
+
+The Product Owner will represent the interests of many stakeholders, and balance their wants and needs by fairly ordering the Product Backlog.
+
+The Scrum Team can only work on one objective at a time, but the Product Owner will represent many stakeholders while doing that.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

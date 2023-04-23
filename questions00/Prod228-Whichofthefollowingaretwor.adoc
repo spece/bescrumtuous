@@ -1,0 +1,43 @@
+---
+layout: default 
+title: "228 - Which of the following are true about th"
+---
+
+
+[#question]
+== 228-63effc119ebbe935e4c16ad0.
+
+****
+
+[#query]
+--
+Which of the following are two responsibilities of the Product Owner on a Scrum team?
+--
+
+[#list]
+--
+* [*] A. Developing and explicitly communicating the Product Goal
+* [*] B. Ensuring that the Product Backlog is transparent, visible and understood
+* [ ] C. Removing barriers between stakeholders and Scrum Teams
+* [ ] D. Facilitating stakeholder collaboration as requested or needed
+
+--
+****
+
+[#answer]
+AB
+
+[#explanation]
+--
+The Product Owner is responsible for maintaining the Product Backlog, including adding, editing, and prioritizing items. They are also in charge of communicating the Product Backlog with the Development Team, acting as the customer representative and finalizing acceptance criteria.
+
+The other two options in this question are responsibilities of the Scrum Master.
+
+The Product Owner is also one person. Product Ownership cannot be delegated to a committee.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

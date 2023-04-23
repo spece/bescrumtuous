@@ -1,0 +1,51 @@
+---
+layout: default 
+title: "278 - What is the purpose of a Sprint Review S"
+---
+
+
+[#question]
+== 278-63efff9d9ebbe935e4c16b43.
+
+****
+
+[#query]
+--
+Which of the following best describes the goal of the Sprint Review?
+--
+
+[#list]
+--
+* [*] A. To inspect the increment of work delivered with the participation of stakeholders.
+* [ ] B. To discuss how well the Scrum theory and Scrum principles were applied during the Sprint.
+* [ ] C. To introspect on the team's performance during the previous Sprint.
+* [*] D. To collect feedback from interested parties so the team can adapt their plan towards achieving the product goal in the next Sprint.
+
+--
+****
+
+[#answer]
+AD
+
+[#explanation]
+--
+The goal of the Sprint Review in Scrum is to inspect the increment of work completed by the team during the Sprint and to gather feedback from stakeholders. This helps the team to adapt their plan for the next Sprint and to ensure that the product continues to meet the needs of the stakeholders.
+
+During the Sprint Review, the Scrum team demonstrates the work that they completed during the Sprint and gathers feedback from the stakeholders, including the Product Owner and other interested parties. The feedback received during the review helps the team to adapt their plan for the next Sprint and to ensure that they are continuing to deliver value to the stakeholders.
+
+Here are a few ways that the feedback gathered during the Sprint Review can be used to adapt the Scrum team's plan for the next Sprint:
+
+Prioritization of work: Based on the feedback received during the Sprint Review, the Product Owner may decide to adjust the priority of items in the Product Backlog to better reflect the needs of the stakeholders.
+
+Changes to the product: The feedback received during the Sprint Review may reveal opportunities to improve the product or to add new features that better meet the needs of the stakeholders. The team can then adjust their plan for the next Sprint to incorporate these changes.
+
+Process improvement: The feedback gathered during the Sprint Review can also reveal areas where the team can improve their processes or better collaborate with stakeholders. The team can then make adjustments to their working practices during the next Sprint to address these areas of improvement.
+
+Overall, the goal of the Sprint Review in Scrum is to gather feedback from stakeholders and to use that feedback to adapt the Scrum team's plan for the next Sprint. This helps to ensure that the product continues to meet the needs of the stakeholders and that the team is delivering value with each iteration of development work.
+--
+
+[#ka]
+Scrum Values
+
+'''
+

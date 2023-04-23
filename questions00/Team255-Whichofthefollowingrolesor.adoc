@@ -1,0 +1,42 @@
+---
+layout: default 
+title: "255 - A member of the Development Team takes t"
+---
+
+
+[#question]
+== 255-63effa0a9ebbe935e4c16a8b.
+
+****
+
+[#query]
+--
+Which of the following roles or accountabilities are not defined in the Scrum Guide?
+--
+
+[#list]
+--
+* [*] A. Product Manager
+* [*] B. Quality Assurance
+* [ ] C. Product Owner
+* [*] D. Project Manager
+* [ ] E. Scrum Master
+
+--
+****
+
+[#answer]
+ABD
+
+[#explanation]
+--
+There are only three accountabilities listed in the Scrum Guide: Project Owner, Scrum Master and the Scrum Developers.
+
+The Scrum Guide does not mention Product Managers, Quality Assurance personnel or Product Managers.
+--
+
+[#ka]
+Scrum Team
+
+'''
+

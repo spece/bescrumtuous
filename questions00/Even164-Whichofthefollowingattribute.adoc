@@ -1,0 +1,49 @@
+---
+layout: default 
+title: "164 - Which are properties of the Daily Scrum "
+---
+
+
+[#question]
+== 164-63effca19ebbe935e4c16ae7.
+
+****
+
+[#query]
+--
+Which of the following attributes of the Daily Scrum are consistent with the Scrum Guide?
+--
+
+[#list]
+--
+* [ ] A. The Daily Scrum takes place in the morning.
+* [*] B. The Daily Scrum takes place in the same place every day.
+* [ ] C. Every member of the Scrum Team is expected to attend the Daily Scrum.
+* [*] D. The Daily Scrum cannot last longer than 15 minutes.
+* [*] E. The Daily Scrum takes place at the same time every day.
+* [ ] F. The Daily Scrum is the only time during the Sprint when developers are allowed to adjust the Sprint Plan.
+
+--
+****
+
+[#answer]
+BDE
+
+[#explanation]
+--
+The Daily Scrum is a daily 15-minute team meeting to adapt the Sprint Plan to ensure achievement of the Sprint Goal remains on target. 
+
+The Daily Scrum should be conducted at the same time and the same location every day. All developers are expected to attend, but attendance by the Product Owner or Scrum Master is optional.
+
+The Daily Scrum need not take place in the morning. After all, some teams work afternoon shifts!
+
+Also, Developers can change use the Daily Scrum to adjust the Sprint Plan, but it's not the only time developers are allowed to talk and adjust their plans.
+
+"The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint?s work."
+--
+
+[#ka]
+Events
+
+'''
+

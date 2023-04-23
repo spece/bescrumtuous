@@ -1,0 +1,44 @@
+---
+layout: default 
+title: "102 - What is included in the Sprint Backlog S"
+---
+
+
+[#question]
+== 102-63effa999ebbe935e4c16a9d.
+
+****
+
+[#query]
+--
+Which three items are part of the Sprint Backlog?
+--
+
+[#list]
+--
+* [*] A. The Sprint Goal
+* [ ] B. The Product Goal
+* [*] C. An actionable plan
+* [*] D. Product backlog items chosen for the Sprint
+* [ ] E. Sprint backlog items not completed on the previous Sprint
+
+--
+****
+
+[#answer]
+ACD
+
+[#explanation]
+--
+This question right out of the Scrum Guide:
+
+"The Sprint Backlog is composed of the Sprint Goal (why), the set of Product Backlog items selected for the Sprint (what), as well as an actionable plan for delivering the Increment (how)."
+
+Note that Sprint backlot items not completed on a previous Sprint are returned to the Product Backlog. They are not automatically added to the next Sprint. You will get tested on that point.
+--
+
+[#ka]
+Artifacts
+
+'''
+

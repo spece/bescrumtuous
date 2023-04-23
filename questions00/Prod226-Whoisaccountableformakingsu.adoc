@@ -1,0 +1,45 @@
+---
+layout: default 
+title: "226 - Who is responsible for clearly expressin"
+---
+
+
+[#question]
+== 226-63effbe29ebbe935e4c16ac8.
+
+****
+
+[#query]
+--
+Who is accountable for making sure Product Backlog items are described in enough detail for them to be decomposed by the Scrum development team into manageable pieces of work?
+--
+
+[#list]
+--
+* [ ] A. An impartial business analyst external to the team.
+* [ ] B. The stakeholders.
+* [ ] C. The Scrum Master.
+* [*] D. The Product Owner.
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The Product Owner is accountable for making sure that Product Backlog items are described in enough detail for them to be decomposed by the Scrum Development Team into manageable pieces of work.
+
+The Product Owner is responsible for maintaining the Product Backlog, which is a prioritized list of items that the Development Team will work on during the Sprint. Each Product Backlog item should be described in enough detail for the Development Team to understand what needs to be done and how it fits into the overall product vision. This includes providing context about the user, the problem to be solved, and the expected outcomes or value that the item will deliver to the product.
+
+During Sprint Planning, the Development Team works with the Product Owner to decompose the selected Product Backlog items into smaller, more manageable pieces of work. The Product Owner is responsible for providing additional information and clarification as needed to help the Development Team understand the requirements of the selected items.
+
+The Product Owner is also responsible for ensuring that the Product Backlog is refined regularly to ensure that it is up to date and contains enough detail for the Development Team to work on. The Product Owner works closely with stakeholders, users, and the Development Team to continuously refine and improve the Product Backlog. This ensures that the Development Team can work on the highest-priority items that deliver the most value to the product.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

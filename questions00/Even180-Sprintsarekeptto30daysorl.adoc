@@ -1,0 +1,48 @@
+---
+layout: default 
+title: "180 - Which of the following are true about th"
+---
+
+
+[#question]
+== 180-63effe4b9ebbe935e4c16b1d.
+
+****
+
+[#query]
+--
+Sprints are kept to 30 days or less because.
+--
+
+[#list]
+--
+* [*] A. Risk increases with longer Sprints.
+* [ ] B. Shorter Sprints are easier to budget.
+* [*] C. Complexity is likely to rise with longer Sprints.
+* [ ] D. Monthly Sprints integrate easier with reporting and tracking tools like JIRA
+* [*] E. The likelihood that the Sprint Goal will become invalid increases with longer Sprints.
+
+--
+****
+
+[#answer]
+ACE
+
+[#explanation]
+--
+Sprints in Scrum are kept to 30 days or less for several reasons related to risk, complexity, and the validity of the sprint goal:
+
+Risk: The longer a sprint runs, the more risk there is that the team will encounter unforeseen issues that may derail the sprint. By keeping sprints short, the team can identify and mitigate risks more quickly, reducing the likelihood of a major issue causing a significant delay or complete failure of the sprint.
+
+Complexity: As the complexity of a sprint increases, it becomes more difficult to accurately estimate the amount of work that can be completed within a given timeframe. By keeping sprints short, the team can more accurately estimate the amount of work they can complete, reducing the risk of overcommitting and failing to deliver on the sprint goal.
+
+Validity of Sprint Goal: The sprint goal is a critical element of any sprint, and it serves as the guiding focus for the team's work during the sprint. If the sprint runs for too long, the sprint goal may become less relevant or may even become invalid as the team learns new information or requirements change. By keeping sprints short, the team can more effectively focus on achieving the sprint goal before it becomes outdated.
+
+In summary, keeping sprints to 30 days or less helps to reduce risk, manage complexity, and maintain the validity of the sprint goal, all of which are critical to the success of Agile development.
+--
+
+[#ka]
+Events
+
+'''
+

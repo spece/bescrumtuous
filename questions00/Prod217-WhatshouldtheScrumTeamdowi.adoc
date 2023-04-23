@@ -1,0 +1,43 @@
+---
+layout: default 
+title: "217 - At the end of a Sprint Product Backlog i"
+---
+
+
+[#question]
+== 217-63effa3e9ebbe935e4c16a92.
+
+****
+
+[#query]
+--
+What should the Scrum Team do with a Product Backlog item that was added to the Sprint Backlog if it does not meet the Definition of Done at the end of a Sprint?
+--
+
+[#list]
+--
+* [ ] A. The Product Owner can release it with the permission of the stakeholders.
+* [*] B. Return it to the Product Backlog and let the Product Owner reprioritize it.
+* [ ] C. Award partial points for the work done so velocity is recorded and return it what remains to the Product Backlog.
+* [*] D. The item should not be included in the Sprint's Increment
+
+--
+****
+
+[#answer]
+BD
+
+[#explanation]
+--
+If a Product Backlog item doesn't meet the Definition of Done by the end of the Sprint, which means it's not complete, it goes back into the Product Backlog.
+
+The Scrum Team will then decide if work on the backlog item should continue during the next Sprint, and if so, re-estimate the work needed to complete the undone PBI.
+
+Avoid any answer on the Scrum certification exam that talks about 'points.' There is no mention of 'points' in the Scrum guide.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

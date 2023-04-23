@@ -1,0 +1,39 @@
+---
+layout: default 
+title: "147 - Which technical debt impacts transparenc"
+---
+
+
+[#question]
+== 147-63effe529ebbe935e4c16b1e.
+
+****
+
+[#query]
+--
+When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' What Scrum Pillar is hurt most by the existence of technical debt?
+--
+
+[#list]
+--
+* [ ] A. Adaptation
+* [*] B. Transparency
+* [ ] C. Courage
+* [ ] D. Focus
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+Technical debt can impact transparency through both technical debt incurred from code or architecture issues, or from process debt caused by inefficient practices or processes.
+--
+
+[#ka]
+Empiricism
+
+'''
+

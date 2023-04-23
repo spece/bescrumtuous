@@ -1,0 +1,44 @@
+---
+layout: default 
+title: "215 - Which answer best describes the topics c"
+---
+
+
+[#question]
+== 215-63efff879ebbe935e4c16b41.
+
+****
+
+[#query]
+--
+Which topics are addressed during Sprint Planning?
+--
+
+[#list]
+--
+* [*] A. Who on the team will be assigned various Product Backlog items?
+* [*] B. Why is the Sprint valuable?
+* [*] C. What can be done during the Sprint?
+* [ ] D. Why were certain Sprint Backlog items not complete last Sprint?
+* [ ] E. How is work going to get done?
+
+--
+****
+
+[#answer]
+ABC
+
+[#explanation]
+--
+According to the Scrum Guide, a Sprint Planning meeting addresses these three questions:
+
+- Why is this Sprint valuable?
+- What can be Done this Sprint?
+- How will the chosen work get done?
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

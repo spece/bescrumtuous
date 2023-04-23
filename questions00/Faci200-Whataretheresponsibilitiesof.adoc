@@ -1,0 +1,38 @@
+---
+layout: default 
+title: "200 - What would be good advice to give the Pr"
+---
+
+
+[#question]
+== 200-63efff089ebbe935e4c16b33.
+
+****
+
+[#query]
+--
+What are the responsibilities of the Scrum Master?
+--
+
+[#list]
+--
+* [ ] A. Make sure the Scrum developers maintain a high development velocity
+* [*] B. Ensure Scrum is being implemented in accordance with the Scrum Guide
+* [ ] C. Make sure members of the Scrum Team are on time to all meetings
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Scrum Master is responsible for facilitating Scrum ceremonies, ensuring that Scrum values and principles are followed within a Scrum Team, removing any impediments to progress, and protecting the team from external distractions and interferences.
+--
+
+[#ka]
+Facilitation
+
+'''
+

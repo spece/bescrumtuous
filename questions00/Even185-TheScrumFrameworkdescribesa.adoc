@@ -1,0 +1,53 @@
+---
+layout: default 
+title: "185 - What does it mean to say that an event h"
+---
+
+
+[#question]
+== 185-63efff219ebbe935e4c16b36.
+
+****
+
+[#query]
+--
+The Scrum Framework describes a set of time-boxed events, and the Scrum Master is expected to coach the teams on respecting the time-box. What does it mean for an event to be 'time-boxed?'
+--
+
+[#list]
+--
+* [ ] A. It must start at the same time of the day every day the event takes place.
+* [ ] B. The event must take place before a certain hour of the day.
+* [ ] C. There is a minimum amount of time that may transpire between when the event starts and finishes
+* [*] D. There is a maximum amount of time that may transpire between when the event starts and finishes
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+"Time boxing" refers to setting a fixed duration for a specific event or activity. This helps the team to work within a defined period and ensures that the team focuses on the most important work and that the meetings are efficient and effective.
+
+Scrum has several time-boxed events, which are:
+
+Sprint: A sprint is a time-boxed period (usually 1-4 weeks) during which the team works to deliver a potentially releasable increment of the product. The sprint helps the team to focus on a set of goals and ensures that the team has a predictable rhythm for delivering work.
+
+Sprint Planning: The sprint planning is a time-boxed meeting at the beginning of each sprint where the team collaborates to determine what work they will commit to delivering during the upcoming sprint. Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+
+Daily Scrum: The daily scrum is a time-boxed meeting that occurs each day of the sprint, usually 15 minutes long, during which the team meets to discuss progress, identify any obstacles, and plan their work for the next 24 hours.
+
+Sprint Review: At the end of the sprint, the team holds a sprint review meeting. The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+
+Sprint Retrospective: The sprint retrospective is a time-boxed meeting that occurs after the sprint review. The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+
+Time boxing helps to keep the team focused and ensures that the meetings do not go on longer than necessary. This is important because it helps to maintain the team's productivity, and also ensures that the team is working efficiently and effectively towards its goals.
+--
+
+[#ka]
+Events
+
+'''
+

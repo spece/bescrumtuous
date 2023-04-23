@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "118 - What is the Scrum Master responsible Scr"
+---
+
+
+[#question]
+== 118-63effaf39ebbe935e4c16aa7.
+
+****
+
+[#query]
+--
+What are the duties of a Scrum Master?
+--
+
+[#list]
+--
+* [*] A. Participating as an equal member of the Scrum team while also acting as a leader who serves
+* [ ] B. Assigning action items for team members to complete during the Sprint.
+* [ ] C. Communicating the Development Team's answers to stakeholder questions through transcription, email or direct communication.
+* [ ] D. Taking dictation during the Daily Scrum and reporting discussions that take place during the Daily Scrum to management.
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+The Scrum Master is responsible for facilitating Scrum events to ensure that the team is working efficiently and adhering to the Scrum methodology. 
+
+This includes guiding the team on how to use Scrum Practices, protecting the team from external disruptions, and promoting self-organization, collaboration and communication between the development team and other stakeholders. The Scrum Master is also responsible for constructing a safe and trusting environment throughout the project by promoting Scrum values and encouraging decisions that are in line with the pillars of Scrum.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

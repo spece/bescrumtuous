@@ -1,0 +1,51 @@
+---
+layout: default 
+title: "237 - You are the Scrum Master for four Scrum "
+---
+
+
+[#question]
+== 237-63eff9f29ebbe935e4c16a87.
+
+****
+
+[#query]
+--
+Every Sprint in Scrum is expected to create at least one usable increment.
+
+Who is accountable for ensuring the Increment is created?
+--
+
+[#list]
+--
+* [ ] A. The Development Team
+* [ ] B. The Scrum Master
+* [*] C. The Scrum Team
+* [ ] D. The Project Manager
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The entire team is accountable for creating a useful Increment each Sprint.
+
+The developers do the work, but the team as a whole is accountable for creating a useful increment, as it plainly stated in the Scrum Guide.
+
+"The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint."
+
+Note that the developers have a similar, yet different responsibility:
+
+"Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."
+
+Stay appraised of the subtle difference between the two, as you may get tested in either direction on the exam.
+--
+
+[#ka]
+Product Value
+
+'''
+

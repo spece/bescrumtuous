@@ -1,0 +1,48 @@
+---
+layout: default 
+title: "101 - Which statement best describes the Sprin"
+---
+
+
+[#question]
+== 101-63effa249ebbe935e4c16a8f.
+
+****
+
+[#query]
+--
+Which of the following two statements are true about the Sprint Backlog?
+--
+
+[#list]
+--
+* [*] A. It is a list of all the work planned to be done in the Sprint.
+* [ ] B. Every item has a specific developer designated as its owner.
+* [ ] C. Each task is estimated in either hours or story points.
+* [*] D. It is managed by the Scrum developers.
+* [ ] E. It is managed by the Product Owner.
+
+--
+****
+
+[#answer]
+AD
+
+[#explanation]
+--
+The Sprint Backlog is a key artifact in the Scrum framework, which outlines the work that the Development Team plans to complete during the current Sprint. It is created and managed by the Scrum Developers, who are responsible for delivering the completed product increment at the end of the Sprint.
+
+The Sprint Backlog is managed by the Scrum Developers because they are the ones who are responsible for organizing, planning, and executing the work necessary to deliver a potentially releasable product increment at the end of each Sprint. The Developers have the technical knowledge and skills required to create the plan, estimate the work, and track the progress during the Sprint.
+
+The Sprint Backlog only covers the current Sprint because Scrum is an iterative and incremental framework, which means that the work is completed in short cycles of fixed duration. The Sprint is the time-boxed period during which the Development Team delivers a potentially releasable product increment, and the Sprint Backlog outlines the work that they plan to complete during that time.
+
+By limiting the scope of the Sprint Backlog to the current Sprint, the Scrum Developers can focus on delivering the most valuable work within a fixed time frame. This allows for better planning, collaboration, and flexibility, as the team can adapt to changing requirements or priorities at the end of each Sprint and adjust the plan accordingly.
+
+The Sprint Backlog is managed by the Scrum Developers because they are the ones responsible for delivering the completed product increment at the end of each Sprint. It only covers the current Sprint to enable better planning, collaboration, and flexibility, and to support Scrum's iterative and incremental approach to software development.
+--
+
+[#ka]
+Artifacts
+
+'''
+

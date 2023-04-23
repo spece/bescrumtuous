@@ -1,0 +1,46 @@
+---
+layout: default 
+title: "269 - What are three things to consider when d"
+---
+
+
+[#question]
+== 269-63effecf9ebbe935e4c16b2c.
+
+****
+
+[#query]
+--
+You plan to move your organization from teams with highly specialized skills to groups of developers who have a full suite of skills that allow them to build features from end to end.
+
+How would a transition to teams that build end-to-end features differ from an organization that has teams of specialists impact the organization?
+--
+
+[#list]
+--
+* [*] A. Productivity may suffer initially as the transition takes place
+* [*] B. Communication within a feature based team will have less overhead that with specialized teams
+* [ ] C. The company will lose revenue
+* [ ] D. The number of bugs will increase
+* [ ] E. Development velocity will suffer over the long-term
+
+--
+****
+
+[#answer]
+AB
+
+[#explanation]
+--
+One advantage of transitioning from component teams to feature teams is greater integration and collaboration between teams, leading to a greater sense of ownership. 
+
+Additionally, feature teams result in a more flexible development process by allowing teams to enter and exit a project as needed while allowing training on new aspects of the product. 
+
+Lastly, a feature team approach often results in faster delivery times as team goals are focused on value delivery rather than specific components, although the transition may slow development down initially.
+--
+
+[#ka]
+Scrum Team
+
+'''
+

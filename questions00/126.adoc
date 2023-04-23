@@ -1,0 +1,39 @@
+---
+layout: default 
+title: "126 - A Scrum Master is essentially the same t"
+---
+
+
+[#question]
+== 126-63effdb49ebbe935e4c16b0b.
+
+****
+
+[#query]
+--
+Needs Fixing AAAA
+--
+
+[#list]
+--
+* [*] True
+* [ ] False
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+This couldn't be more false.
+
+A Scrum Master is a coach, facilitator and servant-leader to the team. This is not in like with the idea of managing a project.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+
