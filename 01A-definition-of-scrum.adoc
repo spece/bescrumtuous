@@ -3,10 +3,10 @@ I’m going to get you Scrum Certified. I hope you’re ready.
 
 In the process we’re going to:
 
--Go through the whole 2020 Scrum Guide, one line at a time
--Extract as much meaning as possible out of the Scrum Guide’s words
--Discuss how ideas in the Scrum Guide translate into exam questions
--Iteratively and incrementally test you on what you’ve learned
+ - Go through the whole 2020 Scrum Guide, one line at a time
+ - Extract as much meaning as possible out of the Scrum Guide’s words
+ - Discuss how ideas in the Scrum Guide translate into exam questions
+ - Iteratively and incrementally test you on what you’ve learned
 
 When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the Scrum Certification exam.
 
