@@ -31,9 +31,9 @@ AB
 --
 A Scrum Team is expected to be cross-functional and have all the skills needed to address the issues that arise. The team should be able to make decisions without consulting external specialists.
 
-A self-managed, cross-functional team is also expected to resolve conflicts on their own. From the Scrum perspective, and certainly on the Scrum Master certification exam, going to Human Resources to resolve a problem is not the prescribed approach. The Scrum Guide never even mentions the term "Human Resources.'
+A self-managed, cross-functional team is also expected to resolve conflicts on their own. From the Scrum perspective, and certainly on the Scrum Master certification exam, going to Human Resources to resolve a problem is not a prescribed approach. The Scrum Guide never even mentions the term "Human Resources.'
 
-A Scrum Master coaches and facilitates in order to help the development team come to their own conclusions and paths forward.
+A Scrum Master coaches and facilitates in order to help the development team come to their own conclusions and find paths to help them  move forward.
 --
 
 [#ka]
