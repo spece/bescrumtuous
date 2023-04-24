@@ -1,6 +1,7 @@
 ---
 layout: default 
 title: "808 - When should a Sprint Goal be created Scr"
+reviewedby: cm
 ---
 
 
