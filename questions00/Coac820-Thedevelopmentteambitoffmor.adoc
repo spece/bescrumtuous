@@ -38,6 +38,7 @@ It's not unusual to have a Sprint go sideways. When that happens, the Scrum Team
 It's acceptable to clarify and negotiate scope during a Sprint. According to the Scrum Guide:
 
 During the Sprint:
+
 - No changes are made that would endanger the Sprint Goal;
 - Quality does not decrease;
 - The Product Backlog is refined as needed; and,
