@@ -45,16 +45,16 @@ The Scrum Master serves the Scrum Team in several ways, including:
 - Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
 
 The Scrum Master serves the Product Owner in several ways, including:
-?? Helping find techniques for effective Product Goal definition and Product Backlog management;
-?? Helping the Scrum Team understand the need for clear and concise Product Backlog items;
-?? Helping establish empirical product planning for a complex environment; and,
-?? Facilitating stakeholder collaboration as requested or needed.
+- Helping find techniques for effective Product Goal definition and Product Backlog management;
+- Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+- Helping establish empirical product planning for a complex environment; and,
+- Facilitating stakeholder collaboration as requested or needed.
 
 The Scrum Master serves the organization in several ways, including:
-?? Leading, training, and coaching the organization in its Scrum adoption;
-?? Planning and advising Scrum implementations within the organization;
-?? Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
-?? Removing barriers between stakeholders and Scrum Teams.
+- Leading, training, and coaching the organization in its Scrum adoption;
+- Planning and advising Scrum implementations within the organization;
+- Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+- Removing barriers between stakeholders and Scrum Teams.
 
 
 --
