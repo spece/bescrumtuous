@@ -9,12 +9,24 @@ If you're ever asked about the Sprint Backlog on the Scrum certification exam, t
 ____
 The Sprint Backlog is composed of:
 
-- the Sprint Goal (why)
 - the set of Product Backlog items selected for the Sprint (what)
+- the Sprint Goal (why)
 - an actionable plan for delivering the Increment (how)
 
 The Sprint Backlog is a plan by and for the Developers.
 ____
+
+=== Answering the 3 Questions
+
+Notice that the Sprint Backlog answers three questions: what, why and how.
+
+The 'what' is all the items the team hopes to complete during the Sprint. That's all the Product Backlog items the team has 'pulled' and made part of the Sprint Backlog.
+
+The 'why' is the Sprint Goal, which acts as target for the team to aim at during the Sprint.
+
+The 'how' is the Development team's plan for delivering at least one, and hopefully multiple, usable and valuable Increments of work during the Sprint.
+
+=== Who Owns the Sprint Backlog?
 
 The Developers on the Scrum Team completely control the Sprint Backlog.
 
@@ -67,6 +79,14 @@ The Product Owner could then speak with the developers and see if they could inc
 
 '''
 
+=== What gets Updated Throughout the Sprint
+
+Scrum is all about constantly inspecting and adapting. As such, the team is allowed to change their Sprint plan whenever condition change, just so long as the changes don't put the Sprint Goal at risk.
+
+Teams can also add or remove items from the Sprint backlog. Quite often teams choose too much work, or even not enough work, and need to either pull things in or put things back into the Product Backlog. Again, just like changing the plan, messing around with the Sprint Backlog is 'fair dinkum', so long as the Sprint Goal is not put at risk.
+
+What can't change? The Sprint Goal. The Sprint Goal is never allowed to change throughout the Sprint. Once that's finalized in the Sprint Planning meeting, it remains unchanged until the Sprint is over.
+
 [quote, 2020 Scrum Guide page 11]
 ____
 The Sprint Backlog is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal.
@@ -75,6 +95,8 @@ Consequently, the Sprint Backlog is updated throughout the Sprint as more is lea
 
 It should have enough detail that they can inspect their progress in the Daily Scrum.
 ____
+
+=== Transparency, Inspection and Adaptation
 
 One of the pillars of Scrum is transparency.
 
@@ -103,6 +125,8 @@ It should be updated regularly.
 '''
 
 === Sprint Goal
+
+Every arrow needs a target to aim at. For the Sprint, the target is the Sprint Goal.
 
 [quote, 2020 Scrum Guide page 11]
 ____
@@ -143,6 +167,14 @@ The correct answer here is to just keep working towards the Sprint Goal.
 It's not the end of the world if the Sprint Goal is not achieved. Sprints are short. You can create a new Sprint Goal when the current Sprint is finished.
 
 '''
+
+=== Product Owner and Developer Collaboration
+
+If the Developers have bitten off more than they can chew, and they don't think they can complete all of the tasks they've assigned to themselves, they can push items back into the Sprint Backlog.
+
+Of course, when that happens, they should inform the Product Owner. The Product Owner has an expectation as to what will be finished during a Sprint. If certain items aren't going to get finished, the Product Owner should know.
+
+Furthermore, the Product Owner knows which Product Backlog items are most important, so the PO might have a better idea of which backlog items should stay and which ones shouoldn't.
 
 [quote, 2020 Scrum Guide page 11]
 ____
