@@ -1,6 +1,7 @@
 ---
 layout: default 
-title: "805 - What is included in the Sprint Backlog S"
+title: "805 - What is included in the Sprint Backlog"
+reviewedby: cm
 ---
 
 
