@@ -1,0 +1,122 @@
+:pdf-theme: some-theme.yml
+
+== Empiricism Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Done.'
+
+These five questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+****
+
+A Sprint burndown chart can be used to show the amount of work completed versus the work estimated for a project. 
+
+What else is true about burndown charts?
+
+* [ ] Burndown charts were mentioned in previous Scrum Guides but not the current one.
+* [ ] The Scrum Guide discourages the use of burndown charts because they are not Agile.
+* [ ] Burndown charts have always been recommended by the Scrum Guide as a way to gauge progress.
+* [ ] Burndown charts are useful but do not replace the importance of empiricism.
+
+****
+'''
+
+==== Question 2
+
+****
+
+The pillars of transparency, inspection and adaptation help Scrum to be:
+
+* [ ] Empirical
+* [ ] Pragmatic
+* [ ] Lean
+* [ ] Efficient
+
+
+****
+'''
+
+==== Question 3
+
+****
+
+Which of the following terms are not found in the Scrum Guide?
+
+* [ ] Agile
+* [ ] Points
+* [ ] Lean
+* [ ] Kanban
+* [ ] Empiricism
+* [ ] Use case
+
+****
+'''
+
+
+<<<
+
+
+==== Question 1
+
+=== Empiricism Quiz Answers
+
+****
+
+A Sprint burndown chart can be used to show the amount of work completed versus the work estimated for a project. 
+
+What else is true about burndown charts?
+
+* [ ] Burndown charts were mentioned in previous Scrum Guides but not the current one.
+* [ ] The Scrum Guide discourages the use of burndown charts because they are not Agile.
+* [ ] Burndown charts have always been recommended by the Scrum Guide as a way to gauge progress.
+* [ ] Burndown charts are useful but do not replace the importance of empiricism.
+
+****
+D is correct.
+
+Burn-down charts are like any other metric insomuch as they can be helpful for forecasting, but they cannot predict the future, and they should not replace the importance of empiricism.
+
+"Various practices exist to forecast progress, like burn-downs, burn-ups, or cumulative flows. While proven useful, these do not replace the importance of empiricism. In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making."
+
+
+'''
+
+==== Question 2
+
+****
+
+The pillars of transparency, inspection and adaptation help Scrum to be:
+
+* [ ] Empirical
+* [ ] Pragmatic
+* [ ] Lean
+* [ ] Efficient
+
+
+****
+
+By looking at how the product is evolving (inspection), being open and honest about progress (transparency) and adapting accordingly is how Scrum maintains an empirical approach to development.
+
+'''
+
+==== Question 3
+
+****
+
+Which of the following terms are not found in the Scrum Guide?
+
+* [ ] Agile
+* [ ] Points
+* [ ] Lean
+* [ ] Kanban
+* [ ] Empiricism
+* [ ] Use case
+
+****
+
+While teams doing Scrum often speak about Agile, story points, Kanban boards and use cases, none of these terms appear in the Scrum Guide. When these terms do appear on the Scrum Master Certification exam, they are often red herrings indicating an incorrect answer.
+
+
+"Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials."
+'''

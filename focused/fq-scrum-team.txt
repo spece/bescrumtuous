@@ -1,0 +1,251 @@
+:pdf-theme: some-theme.yml
+
+== Scrum Team Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Scrum Teams.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+ 
+
+==== Question 1 
+
+****
+
+The Product Owner will be missing during the next Sprint for personal reasons.
+
+The company is small, with only 3 developers, and the only other person who knows the Product is the Scrum Master.
+
+What is the best course of action in this situation?
+
+* [ ] Make the Scrum Master a co-Product Owner for the next Sprint
+* [ ] Make the Scrum Master the Product Owner as well for the next Sprint
+* [ ] Cancel the next Sprint until the Product Owner returns
+* [ ] Run the next Sprint without a Product Owner
+
+**New**
+
+****
+
+'''
+
+
+==== Question 2
+
+****
+
+Who is responsible for the delivery of technical documentation for a software product in Scrum?
+
+* [ ] The Scrum Master creates all the technical documentation with oversight from the Development Team.
+* [ ] Technical documentation is done by a specialized team external to the Development Team.
+* [ ] Technical documentation is done by a specialized team inside the Development Team.
+* [ ] The Development Team spends their own time creating technical documentation.
+
+****
+
+
+
+'''
+
+==== Question 3
+
+****
+
+Which of the following roles or accountabilities are not defined in the Scrum Guide?
+
+* [ ] Product Manager
+* [ ] Quality Assurance
+* [ ] Product Owner
+* [ ] Project Manager
+* [ ] Scrum Master
+
+****
+
+
+'''
+
+==== Question 4
+
+****
+What are two key characteristics and responsibilities of the Product Owner accountability?
+
+
+* [ ] The Product Owner is one person.
+* [ ] The Product Owner is accountable for ordering the Product Backlog.
+* [ ] Multiple people can share the Product Owner role on a Scrum Team.
+* [ ] The Product Owner commits 100% of their time to their Scrum Team.
+
+
+****
+
+'''
+
+==== Question 5
+
+****
+
+Who has the power and authority to remove an underperforming developer from a Scrum team?
+
+* [ ] Only someone in management or Human Resources has the ability to remove an underperforming developer from a Scrum team. This is not a Scrum responsibility.
+* [ ] The Scrum Master can remove underperforming developers from a Scrum team.
+* [ ] The Development Team has final say over who is allowed to be a member of the team.
+* [ ] The responsibility to remove a developer from the Scrum Team lies outside of the scope of the Scrum Guide.
+
+
+****
+
+'''
+
+
+<<<
+
+=== Scrum Team Quiz Answers
+
+
+==== Question 1 
+
+****
+
+The Product Owner will be missing during the next Sprint for personal reasons.
+
+The company is small, with only 3 developers, and the only other person who knows the Product is the Scrum Master.
+
+What is the best course of action in this situation?
+
+* [ ] Make the Scrum Master a co-Product Owner for the next Sprint
+* [ ] Make the Scrum Master the Product Owner as well for the next Sprint
+* [ ] Cancel the next Sprint until the Product Owner returns
+* [ ] Run the next Sprint without a Product Owner
+
+=== New
+
+****
+
+It's not idea for the Scrum Master to also be the Product Owner, but there are no rules against it.
+
+Other options are incorrect because:
+
+- There can never be two people sharing the Product Owner role
+- A Sprint should not be cancelled because one person is away for a period of time
+- A Sprint cannot run without a Product Owner
+
+Don't overthink Scrum. 
+
+Scrum is pragmatic. In real life, would you ever cancel three weeks of work because one person is away temporarily? 
+
+Of course you wouldn't. 
+
+=== New
+
+'''
+
+
+==== Question 2
+
+****
+
+Who is responsible for the delivery of technical documentation for a software product in Scrum?
+
+* [ ] The Scrum Master creates all the technical documentation with oversight from the Development Team.
+* [ ] Technical documentation is done by a specialized team external to the Development Team.
+* [ ] Technical documentation is done by a specialized team inside the Development Team.
+* [ ] The Development Team spends their own time creating technical documentation.
+
+****
+
+Option D is correct. 
+
+"Developers are the people in the Scrum Team that are committed to creating any aspect of a usable Increment each Sprint."
+
+A Scrum Team is responsible for the creation of an increment that meets the Definition of Done, and it is the developers who do the work. 
+
+If Technical Documentation is included in the Definition of Done, the developers on the Scrum Team is expected to have the skills and time to create it.
+
+"Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint."
+
+Furthermore, there are no 'special teams' in Scrum. "Within a Scrum Team, there are no sub-teams or hierarchies."
+
+In Scrum, the Development Team is responsible for creating a potentially releasable product increment every Sprint that meets the Definition of Done. If user documentation is part of the "Done" criteria, then the Development Team must find a way to produce it.
+
+"The Scrum Team is responsible for all product-related activities from stakeholder collaboration, verification, maintenance, operation, experimentation, research and development, and anything else that might be required."
+
+In Scrum, the Development Team is responsible for creating a potentially releasable increment of the product at the end of each Sprint. If the definition of "potentially releasable" includes the requirement that the product increment includes technical documentation, then it is the responsibility of the Development Team to ensure that technical documentation is created as part of the definition of done.
+
+The Scrum Development Team is responsible for determining if any technical documentation is required to meet the definition of done, and for creating that documentation as part of the product increment. 
+
+
+'''
+
+==== Question 3
+
+****
+
+Which of the following roles or accountabilities are not defined in the Scrum Guide?
+
+* [ ] Product Manager
+* [ ] Quality Assurance
+* [ ] Product Owner
+* [ ] Project Manager
+* [ ] Scrum Master
+
+****
+
+There are only three accountabilities listed in the Scrum Guide: 
+
+- Project Owner 
+- Scrum Master
+- Scrum Developers.
+
+The Scrum Guide does not mention Product Managers, Quality Assurance personnel or Project Managers.
+
+'''
+
+==== Question 4
+
+****
+What are two key characteristics and responsibilities of the Product Owner accountability?
+
+
+* [ ] The Product Owner is one person.
+* [ ] The Product Owner is accountable for ordering the Product Backlog.
+* [ ] Multiple people can share the Product Owner role on a Scrum Team.
+* [ ] The Product Owner commits 100% of their time to their Scrum Team.
+
+
+****
+
+The Product Owner is responsible for maximizing the value of the product resulting from the work of the Development Team. They maintain the product backlog, ensure it is prioritized, and convey product vision to the team. 
+
+The Product Owner is the champion of the project who is the sole person responsible for managing the product backlog. They also ensure that the development team, stakeholders, and others understand the product vision.
+
+The Product Owner is the single point of accountability for the success of the product, and is responsible for making decisions about the priority of work items, defining acceptance criteria, and ensuring that the team is delivering value to the stakeholders.
+
+One of the reasons why only one person is allowed to do the Product Owner's job in Scrum is to ensure clear accountability and ownership. Having multiple people responsible for defining the product backlog can lead to confusion and conflict about priorities and goals. In Scrum, the Product Owner is empowered to make decisions and communicate them to the team, and having a single point of accountability helps to ensure that the team is aligned and focused on the same goals.
+
+Additionally, having a single Product Owner helps to maintain consistency and coherence in the product vision and strategy. The Product Owner is responsible for articulating the product vision and ensuring that the team is working towards the same objectives. If there were multiple people defining the product backlog, it could be difficult to maintain a clear and consistent product vision, which could lead to a lack of focus and direction for the team.
+
+Having a single person responsible for the Product Owner role in Scrum helps to ensure clear accountability, consistency in the product vision, and effective communication with the team.
+
+'''
+
+==== Question 5
+
+****
+
+Who has the power and authority to remove an underperforming developer from a Scrum team?
+
+* [ ] Only someone in management or Human Resources has the ability to remove an underperforming developer from a Scrum team. This is not a Scrum responsibility.
+* [ ] The Scrum Master can remove underperforming developers from a Scrum team.
+* [ ] The Development Team has final say over who is allowed to be a member of the team.
+* [ ] The responsibility to remove a developer from the Scrum Team lies outside of the scope of the Scrum Guide.
+
+
+****
+
+Development teams in Scrum are self-managed and self-organized.
+
+If the team decides a member is impeding progress, they have the final say over whether the team member be allowed to stay on the team or not.
+
+Note, this doesn't mean the person is fired. It just means this team was not the correct fit. The person may end up being a great performer somewhere else in the organization.
+
+'''
+

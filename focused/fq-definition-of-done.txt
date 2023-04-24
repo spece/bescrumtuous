@@ -1,0 +1,227 @@
+:pdf-theme: some-theme.yml
+
+== Definitions of Done Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Done.'
+
+These five questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+****
+The developers on the team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
+
+
+* [ ] Inform the developers the Definition of Done cannot be changed mid-project.
+* [ ] Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner during the Sprint Retrospective.
+* [ ] Have the developers discuss the changes they would like to see made to the Definition of Done with you, the stakeholders and the Product Owner during the Sprint Review.
+* [ ] Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner at the end of the current Sprint but before the next Sprint begins.
+
+****
+
+'''
+
+
+
+==== Question 2
+
+****
+
+How can the delivery of an Increment of Work be used to build trust and make the development process more transparent?
+
+* [ ] Trust and transparency is built when the development team delivers an increment of work that meets all the criteria set out in the Definition of Done.
+* [ ] Trust and transparency is built when the Scrum Master reports the Scrum Team's progress to stakeholders after the conclusion of the Daily Scrum.
+* [ ] Trust and transparency is built by the Scrum Master having open discussions with stakeholders throughout the Sprint with regards to which Backlog Items will not be completed on schedule.
+* [ ] Trust and transparency is built by updating Sprint progress in an electronic tracking tool like JIRA. This provides stakeholders transparency without the need to interrupt the development team with meetings.
+
+
+****
+
+'''
+
+
+
+==== Question 3
+
+****
+
+What are the three primary objectives served by the Definition of Done (DoD)?
+
+
+* [ ] The DoD guides the Development Team on the number of Product Backlog items the should select for the Sprint Backlog.
+* [ ] The DoD creates a common understanding across the team with regards to when development work is completed.
+* [ ] The DoD describes the purpose, reasoning, and time allotment for each Scrum event.
+* [ ] The DoD describes the work that must be done before the Sprint is ended.
+* [ ] The DoD helps to increase transparency throughout the Scrum framework.
+
+****
+
+'''
+
+
+==== Question 4
+
+****
+In the absence of a person with Quality Assurance (QA) training on the team, what should a group of Scrum developers do about all of the QA requirements that are part of the Definition of Done?
+
+
+* [ ] Have the organization form an external team of QA analysts who will take care of QA tasks.
+* [ ] Complete each Product Backlog Item and exclude QA tasks. Allow QA tasks to become part of a future Sprint.
+* [ ] Have the development team train and learn the skills required to perform QA tasks.
+* [ ] Have the Product Owner remove the Quality Assurance requirements from the Definition of Done
+
+
+****
+
+'''
+
+
+==== Question 5
+
+****
+
+How much effort must the Scrum developers put into completing Sprint Backlog items chosen for the Sprint?
+
+* [ ] The developers must put an equal amount of time into requirements gathering, design, implementation, documentation, and troubleshooting.
+* [ ] The developers must put in all the effort required to successfully complete all Sprint Backlog items before the Sprint is complete.
+* [ ] The developers must commit to delivering core functionality but testing and quality assurance is not required.
+* [ ] The developers will put in as much effort as is possible to complete Sprint Backlot items in conformance with the definition of "Done".
+
+****
+
+'''
+
+
+<<<
+
+=== Definition of Done Quiz Answers
+
+==== Question 1
+
+****
+The developers on the team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
+
+
+* [ ] Inform the developers the Definition of Done cannot be changed mid-project.
+* [ ] Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner during the Sprint Retrospective.
+* [ ] Have the developers discuss the changes they would like to see made to the Definition of Done with you, the stakeholders and the Product Owner during the Sprint Review.
+* [ ] Have the developers discuss the changes they would like to see made to the Definition of Done with you and the Product Owner at the end of the current Sprint but before the next Sprint begins.
+
+****
+
+Option B is correct.
+
+The Definition of Done can be changed with the agreement of the team during the Sprint Retrospective.
+
+"During the Sprint Retrospective, the Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done."
+
+Teams should keep in mind that "if the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."
+
+'''
+
+
+
+==== Question 2
+
+****
+
+How can the delivery of an Increment of Work be used to build trust and make the development process more transparent?
+
+* [ ] Trust and transparency is built when the development team delivers an increment of work that meets all the criteria set out in the Definition of Done.
+* [ ] Trust and transparency is built when the Scrum Master reports the Scrum Team's progress to stakeholders after the conclusion of the Daily Scrum.
+* [ ] Trust and transparency is built by the Scrum Master having open discussions with stakeholders throughout the Sprint with regards to which Backlog Items will not be completed on schedule.
+* [ ] Trust and transparency is built by updating Sprint progress in an electronic tracking tool like JIRA. This provides stakeholders transparency without the need to interrupt the development team with meetings.
+
+
+****
+
+Option A is correct.
+
+You build trust when you do what you say you are going to do.
+
+Continually deliver increments of work that fully meet the Definition of Done and trust and transparency will be built.
+
+The Scrum Guide does not discuss tools like JIRA, so JIRA related answers will not be correct on the Scrum Certification Exam.
+
+The Scrum Master is not responsible for reporting back to stakeholders, so options that suggest such a strategy are incorrect.
+
+'''
+
+
+
+==== Question 3
+
+****
+
+What are the three primary objectives served by the Definition of Done (DoD)?
+
+
+* [ ] The DoD guides the Development Team on the number of Product Backlog items the should select for the Sprint Backlog.
+* [ ] The DoD creates a common understanding across the team with regards to when development work is completed.
+* [ ] The DoD describes the purpose, reasoning, and time allotment for each Scrum event.
+* [ ] The DoD describes the work that must be done before the Sprint is ended.
+* [ ] The DoD helps to increase transparency throughout the Scrum framework.
+
+****
+
+Scrum's "Definition of Done" is a shared understanding among the Scrum Team of what it means for a product backlog item to be considered complete. It is an agreed-upon set of criteria that a product backlog item (PBI), or a decomposition of a PBI, must meet before it can be considered "complete."
+
+By establishing a clear "Definition of Done," Scrum increases transparency by providing a shared understanding of what constitutes a completed product backlog item. This shared understanding helps ensure that everyone involved in the development process has the same expectations of what is expected in the final product.
+
+The "Definition of Done" also helps developers estimate how much work to add to the Sprint Backlog. Because the team has a clear understanding of what constitutes a completed product backlog item, they can more accurately estimate how much work needs to be done to achieve that level of completeness. This can help the team better plan their work for the sprint and avoid overcommitting to work they may not be able to complete.
+
+Finally, the "Definition of Done" helps developers understand when work is complete. By providing a clear definition of what it means for a product backlog item to be considered complete, the team can avoid confusion or misunderstandings about what is expected from them. This clarity can help prevent issues such as unfinished work being carried over to future sprints or incomplete work being considered "done," leading to potential issues in the final product.
+
+Overall, the "Definition of Done" is a valuable tool in promoting transparency, accurate estimation, and clarity around when work is considered complete in Scrum.
+
+
+'''
+
+
+==== Question 4
+
+****
+In the absence of a person with Quality Assurance (QA) training on the team, what should a group of Scrum developers do about all of the QA requirements that are part of the Definition of Done?
+
+
+* [ ] Have the organization form an external team of QA analysts who will take care of QA tasks.
+* [ ] Complete each Product Backlog Item and exclude QA tasks. Allow QA tasks to become part of a future Sprint.
+* [ ] Have the development team train and learn the skills required to perform QA tasks.
+* [ ] Have the Product Owner remove the Quality Assurance requirements from the Definition of Done
+
+
+****
+
+Option C is correct.
+
+The Scrum development team must be cross functional and capable of fulfilling all of the requirements that make up the definition of done. If any of those skills are lacking, the team will need to acquire those skills. 
+
+In this case, if QA is required to meet the definition of done, then someone, or everyone, on the development team must learn QA.
+
+'''
+
+
+==== Question 5
+
+****
+
+How much effort must the Scrum developers put into completing Sprint Backlog items chosen for the Sprint?
+
+* [ ] The developers must put an equal amount of time into requirements gathering, design, implementation, documentation, and troubleshooting.
+* [ ] The developers must put in all the effort required to successfully complete all Sprint Backlog items before the Sprint is complete.
+* [ ] The developers must commit to delivering core functionality but testing and quality assurance is not required.
+* [ ] The developers will put in as much effort as is possible to complete Sprint Backlot items in conformance with the definition of "Done".
+
+****
+
+Option D is correct.
+
+When a Development Team selects a Product Backlog item for a Sprint, they need to determine how much work they can commit to completing during that Sprint. The amount of work the team commits to is based on their capacity and their understanding of the requirements of the selected item. The team considers various factors, such as their velocity, capacity, and any dependencies or risks associated with the item. They then commit to completing the work that they believe is achievable in the upcoming Sprint.
+
+The concept of the "definition of done" is also closely related to the amount of work a Development Team commits to during a Sprint. The "definition of done" is a shared understanding among the team of the criteria that must be met for a Product Backlog item to be considered complete. The definition of done typically includes criteria related to functionality, quality, and usability, among other things.
+
+The Development Team's commitment to completing a selected Product Backlog item must be based on their understanding of the definition of done for that item. The team must ensure that they can meet all of the criteria included in the definition of done before they commit to completing the item during the Sprint. The team must also ensure that they have the capacity to complete the work required to meet the definition of done.
+
+Therefore, when a Development Team commits to completing a Product Backlog item during a Sprint, they must ensure that they have a shared understanding of the work required to meet the definition of done. They should also ensure that they have the capacity to complete the work within the Sprint timeframe. This helps the team to deliver a potentially releasable increment of the product at the end of each Sprint, which is a fundamental goal of the Scrum framework.
+
+'''
