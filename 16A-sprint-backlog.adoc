@@ -3,6 +3,8 @@
 == Chapter 16
 === The Sprint Backlog
 
+If you're ever asked about the Sprint Backlog on the Scrum certification exam, there's a good change the answer is 'The Developers.' The Developers own the Sprint Backlog.
+
 [quote, 2020 Scrum Guide page 11]
 ____
 The Sprint Backlog is composed of:
@@ -68,7 +70,9 @@ The Product Owner could then speak with the developers and see if they could inc
 [quote, 2020 Scrum Guide page 11]
 ____
 The Sprint Backlog is a highly visible, real-time picture of the work that the Developers plan to accomplish during the Sprint in order to achieve the Sprint Goal.
+
 Consequently, the Sprint Backlog is updated throughout the Sprint as more is learned. 
+
 It should have enough detail that they can inspect their progress in the Daily Scrum.
 ____
 
