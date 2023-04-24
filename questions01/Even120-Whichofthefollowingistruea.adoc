@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "120"
+---
+
+
+[#question]
+== 120-6445b164221e893e31a49d02.
+
+****
+
+[#query]
+--
+Which of the following is true about the participation of developers at the Sprint Review
+--
+
+[#list]
+--
+* [ ] The developers attend the Sprint Review but only communicate with stakeholders through the Product Owner
+* [*] The developers attend the Sprint Review and collaborate directly with stakeholders
+* [ ] Developers do not attend the Sprint Review
+* [ ] The developers attend the Sprint Review but do not speak directly to stakeholders
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The developers not only attend the Sprint Review, but they are expected to fully collaborate with stakeholders.
+
+"The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed... During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to do next." -The Scrum Guide, page 9
+--
+
+[#ka]
+Events
+
+'''
+

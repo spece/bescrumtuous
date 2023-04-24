@@ -1,0 +1,56 @@
+---
+layout: default 
+title: "973 - What two actions demonstrate the commitm"
+---
+
+
+[#question]
+== 973-63effd269ebbe935e4c16afa.
+
+****
+
+[#query]
+--
+Always working to the best of your abilities in order to achieve the Sprint Goal, and providing assistance to others team members when they struggle, demonstrates which one of the five Scrum values in action?
+--
+
+[#list]
+--
+* [ ] A. Emotional stability.
+* [ ] B. Openness.
+* [ ] C. Focus
+* [ ] D. Extraversion
+* [*] E. Commitment
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+Always working to the best of your abilities to achieve the Sprint Goal shows an ongoing commitment to your team, as does helping others when needed.
+
+Extraversion and emotional stability are not actually Scrum Values.
+
+The five Scrum values are:
+
+Commitment: The Scrum Team commits to achieving its goals and delivering high-quality work. Commitment means that team members hold themselves accountable for their work and take responsibility for delivering what they promised.
+
+Courage: Scrum requires courage to make difficult decisions, to admit mistakes, and to challenge the status quo. The team must be willing to take risks and face their fears to achieve their goals.
+
+Focus: Scrum teams focus on the work that needs to be done to achieve their goals. They prioritize their work and minimize distractions to deliver the most value.
+
+Openness: The Scrum Team practices openness, transparency, and honesty with each other and stakeholders. They share information, progress, and challenges openly and seek feedback to improve.
+
+Respect: Scrum teams treat each other with respect, recognizing the unique contributions of each team member. They create a safe environment where everyone can share their ideas and opinions without fear of judgment.
+
+These values are important because they provide a foundation for a collaborative and productive team environment. When Scrum teams embrace these values, they build trust, increase communication, and work more effectively together. By committing to their goals, being courageous, focusing on their work, practicing openness, and showing respect to each other, Scrum teams can deliver high-quality products and continuously improve.
+--
+
+[#ka]
+Scrum Values
+
+'''
+

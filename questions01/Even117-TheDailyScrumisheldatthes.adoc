@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "117"
+---
+
+
+[#question]
+== 117-6445b163221e893e31a49cfb.
+
+****
+
+[#query]
+--
+The Daily Scrum is held at the same time and place every day:
+--
+
+[#list]
+--
+* [ ] So offshore teams can attend
+* [ ] The Daily Scrum does not have to be held at the same time and place every day
+* [ ] To make sure a conference room is booked for each day of the Sprint
+* [*] To reduce complexity
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Scrum provides the Development team a great deal of autonomy on many issues, but when and where the Daily Scrum is held is not one of them.
+
+
+
+"The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint." -TSG, page 9
+--
+
+[#ka]
+Events
+
+'''
+

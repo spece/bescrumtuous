@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "416"
+---
+
+
+[#question]
+== 416-64456793f43d5412383a20f0.
+
+****
+
+[#query]
+--
+The estimate for how long it will take to complete a Product Backlog item is:
+--
+
+[#list]
+--
+* [*] Created by the Scrum Developers with input from Product Owner
+* [ ] Created by the Scrum Master with input from the Product Owner
+* [ ] Created by the Product Owner with input from the Scrum Developers
+* [ ] Created by the Scrum Master with input from the Scrum Developers
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+The Scrum Developers are wholly responsible for planning how the work that is necessary to create an Increment is estimated and subsequently implemented."For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value." -The Scrum Guide, page 8
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

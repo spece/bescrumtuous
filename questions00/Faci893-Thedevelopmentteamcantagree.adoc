@@ -1,0 +1,57 @@
+---
+layout: default 
+title: "893 - What two techniques could the Scrum Mast"
+---
+
+
+[#question]
+== 893-63effbf69ebbe935e4c16acb.
+
+****
+
+[#query]
+--
+The development team can't agree whether to use Java or Python to develop microservices for their current project.
+
+How can the Scrum Master help the Scrum Team resolve an internal disagreement about whether to build a in Java or Python?
+--
+
+[#list]
+--
+* [ ] A. Have the developers consult an external, impartial expert on the topic and agree to go with the external expert's decision.
+* [ ] B. Have the development team argue both sides to the Scrum Master and have the Scrum Master come to a final, impartial decision.
+* [*] C. Use coaching techniques like reflective listening and visualization to help guide the entire development team towards building a consensus.
+* [ ] D. Teach the development team about collaboriate teachniques to build consensus, such as actively listening and asking open questions.
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+Coaching and teaching are important parts of the Scrum Master's role as a servant-leader.
+
+Active listening and open questioning are important skills in effective communication, particularly in Scrum and other agile frameworks where collaboration and continuous feedback are key. However, there are other techniques and approaches that can also be useful in communication, including:
+
+Reflective listening: This involves reflecting back what the speaker has said to demonstrate that you understand their message. For example, "So what I hear you saying is that you're concerned about the timeline for this project."
+
+Summarizing: This involves summarizing what has been said to ensure that everyone is on the same page. For example, "Let me make sure I understand - you're saying that we need to focus on improving the user experience for this feature."
+
+Paraphrasing: This involves restating what has been said in your own words to show that you understand and to encourage clarification. For example, "If I'm understanding you correctly, you're suggesting that we approach this problem from a different angle."
+
+Nonverbal communication: This includes using body language, eye contact, and facial expressions to show that you are engaged and paying attention.
+
+Visualization: This involves using diagrams, sketches, or other visual aids to help communicate ideas and concepts.
+
+Silence: Sometimes, allowing a pause in the conversation can give the speaker time to gather their thoughts and provide a more thoughtful response.
+
+While active listening and open questioning are valuable techniques in communication, incorporating these alternatives can help to build trust and improve collaboration in a Scrum team.
+--
+
+[#ka]
+Facilitation
+
+'''
+

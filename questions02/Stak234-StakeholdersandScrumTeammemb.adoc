@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "234"
+---
+
+
+[#question]
+== 234-6445678d7b8d73457c9d3ac4.
+
+****
+
+[#query]
+--
+Stakeholders and Scrum Team members collaborate on the next things to do that will create value in which meeting:
+--
+
+[#list]
+--
+* [ ] The Daily Scrum
+* [ ] Sprint Planning
+* [*] Sprint Review
+* [ ] Sprint Retrospective
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+It is during the Sprint Review that stakeholders and the Scrum Team can evaluate what has been completed and talk about which items should be tackled next in order to delivery the greatest amount of value in the next Sprint.
+--
+
+[#ka]
+Stakeholders and Customers
+
+'''
+

@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "230"
+---
+
+
+[#question]
+== 230-6445678c7b8d73457c9d3abc.
+
+****
+
+[#query]
+--
+A Scrum Master must be 100% dedicated to a single Scrum Team
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false. A Scrum Master may split his time between multiple teams.There is no rule that says a Scrum Master must spend 100% of their time with one team.
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

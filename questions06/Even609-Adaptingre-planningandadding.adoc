@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "609"
+---
+
+
+[#question]
+== 609-644567993730ef520188ad54.
+
+****
+
+[#query]
+--
+Adapting, re-planning and adding work to the Spring Backlog
+--
+
+[#list]
+--
+* [ ] Should happen after the Daily Sprint with the consensus of the development team
+* [ ] Should happen after the Daily Sprint with the consent of the Scrum Master
+* [ ] Should happen after the Daily Sprint with the consent of the Product Owner
+* [*] Anytime throughout the day when planning discussions might happen
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Whenever developers identify new work that must be added to the backlog, it should be added to the backlog.When new work is identified, and that work is required to meet the Sprint Goal, a Scrum Developer shouldn't wait for the Daily Scrum or some other official Scrum Event to add that work to the backlog."The Daily Scrum is not the only time Developers are allowed to adjust their plan. They often meet throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint?s work."
+--
+
+[#ka]
+Events
+
+'''
+

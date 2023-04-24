@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "138"
+---
+
+
+[#question]
+== 138-6445b165221e893e31a49d0f.
+
+****
+
+[#query]
+--
+A Scrum Master can only be shared across multiple teams so long as all of those teams are working on the same product.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.
+
+A Scrum Master can be shared across many teams. There is nothing in the Scrum Guide that says a Scrum Master can only work with one team, or on one product at a time.
+
+Having said that, the availability and participation of a Scrum Master plays a big part in the success of Scrum. A Scum Master should never be spread so thin that they cannot effectively do their job.
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

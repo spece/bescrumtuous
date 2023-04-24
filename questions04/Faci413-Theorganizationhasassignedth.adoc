@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "413"
+---
+
+
+[#question]
+== 413-64456792f43d5412383a20e5.
+
+****
+
+[#query]
+--
+The organization has assigned three product specialists to act as the Product Owner for the project. What guidance should the Scrum Master provide to the organization?
+--
+
+[#list]
+--
+* [ ] Inform the organization that all three will be expected to attend the Scrum Events that include the Product Owner
+* [ ] Inform the organization that only one Product Owner will be allowed to attend the Daily Scrum
+* [*] Inform the organization that the Product Owner must be one person
+* [ ] It is not the role of the Scrum Master to coach the organization. The Scrum Master only coaches the Product Owner and the developers
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+According to the Scrum Guide, "the Product Owner is one person, not a committee."In terms of attending the Daily Scrum, the Product Owner is not expected to attend it unless they are actively working on an item in the Spring Backlog, and even then, they attend the Daily Scrum as a 'developer.'"If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers." -The Scrum GuideCoaching the organization is indeed part of the job of a Scrum Master. "The Scrum Master serves the organization in several ways, including: Leading, training, and coaching the organization in its Scrum adoption."
+--
+
+[#ka]
+Facilitation
+
+'''
+

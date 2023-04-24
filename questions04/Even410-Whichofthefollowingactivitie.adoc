@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "410"
+---
+
+
+[#question]
+== 410-64456791f43d5412383a20dc.
+
+****
+
+[#query]
+--
+Which of the following activities should run within an 8 hour timebox?
+--
+
+[#list]
+--
+* [*] Planning for a one-month sprint
+* [ ] The Review of a one-month sprint
+* [ ] The Retrospective for a one-months sprint
+* [ ] The Final Scrum
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+Spring Planning has an 8 hour timebox for a one-month sprint.The Sprint Review has a 4 hour timebox.The Spring Retrospective has a 3 hour timebox.There is no such thing as a 'final scrum.'According to the Scrum Guide: "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
+--
+
+[#ka]
+Events
+
+'''
+

@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "516"
+---
+
+
+[#question]
+== 516-64456797ca886e07fd8927db.
+
+****
+
+[#query]
+--
+To reduce the complexity of the Daily Scrum:
+--
+
+[#list]
+--
+* [*] It is held in the same place every day
+* [ ] The Scrum Master is not allowed to participate
+* [ ] The Product Owner is not allowed to participate
+* [*] It is held at the same time every day
+* [ ] Participants must shut their handheld devices off
+* [ ] Participants must stand
+
+--
+****
+
+[#answer]
+AD
+
+[#explanation]
+--
+The Scrum Guide is held at the exact same time and in the exact same location every day.It is true that the Product Owner and Scrum Master are not allowed to participate, but this is not in order to reduce complexity."The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint." -TSG, page 9
+--
+
+[#ka]
+Events
+
+'''
+

@@ -1,0 +1,48 @@
+---
+layout: default + 
+title: "115"
+---
+
+
+[#question]
+== 115-6445b162221e893e31a49cf2.
+
+****
+
+[#query]
+--
+Which topics would be appropriate to discuss in the Sprint Retrospective?
+--
+
+[#list]
+--
+* [ ] Issues with some developers not returning emails
+* [ ] Lack of sufficient skills to make the team fully cross-functional
+* [ ] The way the team does the Daily Scrum
+* [ ] Issues with the Definition of Done
+* [*] All of the above
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+All of these answers are correct.
+
+The goal of the Sprint Retrospective is to "plan ways to increase quality and effectiveness."
+
+So any issues that arose during the Sprint that need to be resolved are fair dinkum on the Sprint Retrospective.
+
+
+
+"The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done." -TSG, page 10
+--
+
+[#ka]
+Events
+
+'''
+

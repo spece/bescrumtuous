@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "126"
+---
+
+
+[#question]
+== 126-6445b166221e893e31a49d12.
+
+****
+
+[#query]
+--
+On Fridays, developers want to hold the daily in the cafeteria after the lunch crowd empties out.
+--
+
+[#list]
+--
+* [*] Tell the developers that if they want to do it Friday after lunch in the cafeteria, then they'll have to do it every day after lunch in the cafeteria
+* [ ] Tell the developers the daily scrum must take place in the morning
+* [ ] Tell developers the daily scrum cannot take place in the lunchroom
+* [ ] Tell developers the daily scrum occur in the room where development takes place
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+The are no rules in the Scrum Guide about where or when the daily Scrum takes place. The only rule is that is must take place at the same time and in the same place every day. If developers find it productive to do their Daily Scrum on the Whitehouse lawn, then let them, so long as it doesn't impede their ability to complete their Sprint Goals.
+
+From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint."
+--
+
+[#ka]
+Facilitation
+
+'''
+

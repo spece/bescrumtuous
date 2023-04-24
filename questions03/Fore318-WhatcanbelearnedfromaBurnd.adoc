@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "318"
+---
+
+
+[#question]
+== 318-6445679062d2d76c66cca9c6.
+
+****
+
+[#query]
+--
+What can be learned from a Burndown Chart
+--
+
+[#list]
+--
+* [*] The amount of work completed
+* [ ] The velocity of the Sprint
+* [ ] The number of points awarded
+* [*] The total amount of work remaining
+
+--
+****
+
+[#answer]
+AD
+
+[#explanation]
+--
+A Burndown Chart shows the amount of work done and the amount of work remaining.This was mentioned in older Scrum Guides but not the new one. There is a chance you might see a reference to a Burndown Chart on the exam.References to points or velocity are unlikely to be the correct answer on the PSMI exam.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

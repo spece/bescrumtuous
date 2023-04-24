@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "302"
+---
+
+
+[#question]
+== 302-6445678e62d2d76c66cca9b8.
+
+****
+
+[#query]
+--
+It is the job of the Scrum Master to assign tasks that will aid in achieving the Scrum Goal to the Product Owner and Developers
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+It is not the job of the Scrum Master to assign tasks.The Product has a set of responsibilities they are expected to fulfill. And the Developers work towards the Scrum Goal by completing Sprint Backlog items.The Scrum Master is certainly expected to coach team members in self-management, but it is not the job of the Scrum Master to assign tasks.
+--
+
+[#ka]
+Artifacts
+
+'''
+

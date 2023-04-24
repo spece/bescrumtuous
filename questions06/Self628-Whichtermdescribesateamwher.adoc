@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "628"
+---
+
+
+[#question]
+== 628-6445679a3730ef520188ad5d.
+
+****
+
+[#query]
+--
+Which term describes a team where the members have all the skills necessary to create value each Sprint?
+--
+
+[#list]
+--
+* [ ] Self-organized
+* [ ] Self-managing
+* [ ] Self-sustained
+* [*] Cross-functional
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+A cross-functional team is one where everyone on the team, when put together as a group, has all the skills necessary to create value each Sprint."Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint." -The Scrum Guide, page 5
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

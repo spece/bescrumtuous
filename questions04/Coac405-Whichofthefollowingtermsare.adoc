@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "405"
+---
+
+
+[#question]
+== 405-64456793f43d5412383a20f1.
+
+****
+
+[#query]
+--
+Which of the following terms are not found in the Scrum Guide?
+--
+
+[#list]
+--
+* [*] Architect
+* [*] SME
+* [*] Project Manager
+* [ ] Stakeholder
+* [ ] Management
+* [*] Project Owner
+* [ ] Scrum Master
+* [ ] Developers
+
+--
+****
+
+[#answer]
+ABCF
+
+[#explanation]
+--
+Architect, SME (Subject Matter Expert) and Project Manager are not terms used in the Scrum Guide. If you see these options on exam questions, they are typically red herrings trying to get you to choose the wrong answer.The Scrum Guide does not talk about a Project Owner either. It talks about a Product Owner, not Project.The term 'management' shows up several times in the Scrum Guide.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

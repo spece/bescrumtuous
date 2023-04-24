@@ -1,0 +1,44 @@
+---
+layout: default + 
+title: "137"
+---
+
+
+[#question]
+== 137-6445b163221e893e31a49cfd.
+
+****
+
+[#query]
+--
+Any changes or updates to the Sprint Backlog during a Spring must be agreed to by:
+--
+
+[#list]
+--
+* [ ] The stakeholders
+* [ ] The Scrum Master
+* [ ] All of the above
+* [ ] The Product Owner
+* [*] The Developers
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+The Development Team will constantly change and update the Sprint Backlog throughout the Sprint as they work through their initial plan and learn more about the work needed, or not needed, to achieve the Sprint Goal.
+
+
+
+The Scrum Master, Product Owner and stakeholders do not update or change the Sprint Backlog. It is owned entirely by the Development Team
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

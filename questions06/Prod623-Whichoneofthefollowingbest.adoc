@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "623"
+---
+
+
+[#question]
+== 623-6445679b3730ef520188ad6b.
+
+****
+
+[#query]
+--
+Which one of the following best describes the Product Owner's role?
+--
+
+[#list]
+--
+* [ ] Product Owners ensure that developers never interact with stakeholders
+* [*] Product Owners maximize the value of the work the Development Team performs
+* [ ] Product Owners make Product Backlog Items are delivered on time
+* [ ] Product Owners make sure the product is delivered on budget
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The job of the Product Owner is to order the Product Backlog, and ensure the work performed by the Development Team is of maximum value."The Product Owner is responsible for maximizing the value of the product and the work of the Development Team. How this is done may vary widely across organizations, Scrum Teams, and individuals."
+--
+
+[#ka]
+Product Value
+
+'''
+

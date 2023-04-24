@@ -1,0 +1,46 @@
+---
+layout: default + 
+title: "132"
+---
+
+
+[#question]
+== 132-6445b163221e893e31a49cf7.
+
+****
+
+[#query]
+--
+Every Scrum Artifact is associated with a commitment. For the Increment, the commitment is:
+--
+
+[#list]
+--
+* [ ] The Increment Goal
+* [ ] The Product Goal
+* [ ] An Increment is not a Scrum Artifact.
+* [ ] The Sprint Goal
+* [*] The Definition of Done
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+An Increment is created when a Backlog Item meets the Definition of Done. The Definition of Done is the commitment associated with Increment.
+
+"Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:
+
+For the Product Backlog it is the Product Goal.
+For the Sprint Backlog it is the Sprint Goal.
+For the Increment it is the Definition of Done." -The Scrum Guide, page 10
+--
+
+[#ka]
+Product Value
+
+'''
+

@@ -1,0 +1,45 @@
+---
+layout: default + 
+title: "127"
+---
+
+
+[#question]
+== 127-6445b162221e893e31a49cf4.
+
+****
+
+[#query]
+--
+A chart that shows the work completed and the amount of work remaining is known as a:
+--
+
+[#list]
+--
+* [*] Burndown Chart
+* [ ] Kanban Board
+* [ ] ScrumBan Chart
+* [ ] Agile Window
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+A Burndown Chart shows the amount of work done and the amount of work remaining.
+
+This was mentioned in older Scrum Guides but not the new one. 
+
+There is a chance you might see a reference to a Burndown Chart on the exam.
+
+References to Kanban or Agile are unlikely to be the correct answer on the PSMI exam.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

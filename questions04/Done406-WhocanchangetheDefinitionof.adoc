@@ -1,0 +1,44 @@
+---
+layout: default + 
+title: "406"
+---
+
+
+[#question]
+== 406-64456792f43d5412383a20e3.
+
+****
+
+[#query]
+--
+Who can change the Definition of Done
+--
+
+[#list]
+--
+* [ ] The Scrum Master can change the Definition of Done
+* [ ] The Product Owner can change the Definition of Done
+* [ ] The Development Team can change the Definition of Done
+* [*] The Definition of Done can only be changed when there is consensus throughout the Scrum Team
+* [ ] The Definition of Done cannot be changed
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The Definition of Done can be changed if there is consensus from the entire Scrum Team, including the Scrum Master, Product Owner and the Scrum Developers.
+
+"If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product." -The Scrum Guide
+
+Note that the Definition of Done should be changed during the Sprint Retrospective.
+--
+
+[#ka]
+Done
+
+'''
+

@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "324"
+---
+
+
+[#question]
+== 324-6445678e62d2d76c66cca9bb.
+
+****
+
+[#query]
+--
+Which of the following are not Scrum Values?
+--
+
+[#list]
+--
+* [*] Adaptation
+* [ ] Commitment
+* [*] Trust
+* [ ] Courage
+* [*] Inspection
+* [ ] Focus
+
+--
+****
+
+[#answer]
+ACE
+
+[#explanation]
+--
+The three Scrum pillars are: transparency, inspection and adaptation.The Scrum Values are: Commitment, Focus, Openness, Respect, and Courage
+--
+
+[#ka]
+Scrum Values
+
+'''
+

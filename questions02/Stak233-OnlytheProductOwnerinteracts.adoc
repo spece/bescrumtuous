@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "233"
+---
+
+
+[#question]
+== 233-6445678b7b8d73457c9d3ab7.
+
+****
+
+[#query]
+--
+Only the Product Owner interacts directly with stakeholders during the Sprint
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+During the Sprint Review, the entire Scrum Team collaborates with the stakeholders to discuss the Product Goal. Since the Sprint Review is part of the Sprint, it is false to say that only the Product Owner interacts directly with stakeholders during the Sprint."The purpose of the Sprint Review is to inspect the outcome of the Sprint and determine future adaptations. The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed." -The Scrum Guide, page 9
+--
+
+[#ka]
+Stakeholders and Customers
+
+'''
+

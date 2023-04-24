@@ -1,0 +1,43 @@
+---
+layout: default 
+title: "982 - What is the Product Owner responsible Sc"
+---
+
+
+[#question]
+== 982-63effddc9ebbe935e4c16b10.
+
+****
+
+[#query]
+--
+Who is responsible for reporting status updates from the Daily Scrum back to stakeholders?
+--
+
+[#list]
+--
+* [ ] A. The Product Owner.
+* [ ] B. The Scrum Master.
+* [ ] C. The team lead.
+* [*] D. None of the above.
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The Daily Scrum is not a status update and nowhere in the Scrum Guide does it suggest that what happens in the Daily Scrum should be reported to stakeholders.
+
+It is a time for developers to adapt to changes and make changes to the Sprint Backlog if it is necessary to keep the Sprint Goal in focus.
+
+
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

@@ -1,0 +1,49 @@
+---
+layout: default + 
+title: "134"
+---
+
+
+[#question]
+== 134-6445b164221e893e31a49d05.
+
+****
+
+[#query]
+--
+The Definition of Done provides focus against which progress can be measured for:
+--
+
+[#list]
+--
+* [*] An Increment
+* [ ] The Daily Scrum
+* [ ] The Sprint Backlog
+* [ ] The Product Backlog
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+The Definition of Done is the criteria used to test of an Product Backlog item is completed. A completed Product Backlog item creates an Increment. So the Definition of Done is what creates focus for an Increment.
+
+"Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:
+
+- For the Product Backlog it is the Product Goal.
+
+- For the Sprint Backlog it is the Sprint Goal.
+
+- For the Increment it is the Definition of Done."
+
+-The Scrum Guide, page 10
+--
+
+[#ka]
+Product Value
+
+'''
+

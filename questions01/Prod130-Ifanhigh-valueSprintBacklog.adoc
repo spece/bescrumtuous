@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "130"
+---
+
+
+[#question]
+== 130-6445b165221e893e31a49d0a.
+
+****
+
+[#query]
+--
+If an high-value Sprint Backlog item is only partially completed at the end of the Scrum:
+--
+
+[#list]
+--
+* [ ] The partially completed Product Backlog item is automatically added to the next Sprint's Backlog but it is not presented at the Sprint Review
+* [ ] Progress on the high-value Sprint Backlog item is presented at the Sprint Review and automatically returned to the Product Backlog
+* [ ] Progress on the  partially completed Sprint Backlog item is presented at the Sprint Review and automatically added to the next Sprint's Backlog
+* [*] The partially completed Sprint Backlog item is returned to the Product Backlog and it is not presented at the Sprint Review
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Partially completed backlog items are never presented to stakeholders. It causes confusion and stifles progress.
+
+If a Sprint Backlog item is not completed, it is returned to the Product Backlog. Priorities may have changed from when it was first added as a Sprint Backlog item. As such, it should not be automatically added to the next Sprint's Backlog.
+
+"If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration." -TSG, page 12
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

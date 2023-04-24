@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "612"
+---
+
+
+[#question]
+== 612-6445679a3730ef520188ad5e.
+
+****
+
+[#query]
+--
+The term 'Sprint 0' is used by the Scrum Guide to refer to the work that happens before the first Sprint, which includes having the team self-organize and agreeing on a Definition of Done
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Scrum Guide does not use the term Sprint 0.Any reference to Sprint 0 on the certification exam will likely be a red herring trying to trick you into choosing an incorrect answer.
+--
+
+[#ka]
+Events
+
+'''
+

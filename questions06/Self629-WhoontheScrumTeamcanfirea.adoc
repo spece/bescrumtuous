@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "629"
+---
+
+
+[#question]
+== 629-6445679b3730ef520188ad6a.
+
+****
+
+[#query]
+--
+Who on the Scrum Team can fire a developer?
+--
+
+[#list]
+--
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [ ] The Development Team
+* [*] Nobody
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Scrum does not grant any of its members to fire another member.
+
+A development team can choose have a developer removed from the team. But this is not the same as firing a developer.
+
+If a development team chooses to remove a member, that is the right they have as a self-organizing team. Whether a company fires that developer, or allocates them to a different team, is not a concern of the Scrum team.
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

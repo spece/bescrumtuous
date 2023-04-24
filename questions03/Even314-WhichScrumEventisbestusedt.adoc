@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "314"
+---
+
+
+[#question]
+== 314-6445678e62d2d76c66cca9ba.
+
+****
+
+[#query]
+--
+Which Scrum Event is best used to bring up impediments facing the developers?
+--
+
+[#list]
+--
+* [ ] The Sprint Planning
+* [*] The Daily Scrum
+* [ ] The Sprint Review
+* [ ] The Sprint Retrospective
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+"Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings." -The Scrum GuideIt should be noted that it is never a bad time to bring up impediments with the team or with the Scrum Master. But in terms of the Scrum Events, the Daily Scrum is intended to provide developers to communicate issues and identify impediments.
+--
+
+[#ka]
+Events
+
+'''
+

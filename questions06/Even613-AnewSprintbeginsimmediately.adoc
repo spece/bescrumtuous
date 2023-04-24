@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "613"
+---
+
+
+[#question]
+== 613-6445679b3730ef520188ad64.
+
+****
+
+[#query]
+--
+A new Sprint begins immediately after Sprint Planning.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.Some people think a new Sprint starts after Sprint Planning. That is not accurate.A new Sprint starts immediately after the old Sprint finishes. The next Sprint includes the Sprint Planning as its first event.A Sprint includes all of the Scrum Events, including Sprint Planning and the Sprint Retrospective. Those activities do not occur outside of a Sprint.
+--
+
+[#ka]
+Events
+
+'''
+

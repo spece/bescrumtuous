@@ -1,0 +1,42 @@
+---
+layout: default 
+title: "996 - Who is responsible for engaging the stak"
+---
+
+
+[#question]
+== 996-63effbc49ebbe935e4c16ac3.
+
+****
+
+[#query]
+--
+Under what circumstances can the Scrum Master speak with stakeholders?
+--
+
+[#list]
+--
+* [ ] A. After the Product Owner gives the Scrum Master permission to talk with the stakeholders
+* [ ] B. When the Product Owner is failing to fulfill their responsibilities
+* [ ] C. Only during the Sprint Review
+* [ ] D. Only during the Sprint Retrospective
+* [*] E. There are no rules forbidding a Scrum Master from speaking with stakeholders at any time
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+Scrum doesn't discourage communication.
+
+There are no rules in the Scrum Guide that forbid open discussion between a Scrum Master and stakeholders. 
+--
+
+[#ka]
+Stakeholders
+
+'''
+

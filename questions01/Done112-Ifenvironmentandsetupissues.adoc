@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "112"
+---
+
+
+[#question]
+== 112-6445b166221e893e31a49d18.
+
+****
+
+[#query]
+--
+If environment and setup issues are acting as blockers, the team should focus on removing the blockers first instead of trying to deliver an Increment before the end of the Sprint
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+Every Sprint should deliver an increment.
+
+Never should environment or configuration concerns take precedence over the importance of the delivery of an Increment before the completion of a Sprint.
+--
+
+[#ka]
+Done
+
+'''
+

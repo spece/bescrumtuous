@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "518"
+---
+
+
+[#question]
+== 518-64456798ca886e07fd8927df.
+
+****
+
+[#query]
+--
+The first person to speak at the Daily Scrum:
+--
+
+[#list]
+--
+* [ ] Should be selected randomly
+* [ ] Should be selected through a round-robin process that rotates through team members
+* [ ] The Scrum Master
+* [ ] The Product Owner
+* [ ] The Team Lead
+* [*] The Developers decide who speaks first
+
+--
+****
+
+[#answer]
+F
+
+[#explanation]
+--
+Scrum Developers are self-managed and self-organized.The team is allowed to decide how they want to manage the Daily Scrum, which includes how the decide who speaks first at the meeting."The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work." TSG, page 9
+--
+
+[#ka]
+Events
+
+'''
+

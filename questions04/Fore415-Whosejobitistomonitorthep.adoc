@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "415"
+---
+
+
+[#question]
+== 415-64456791f43d5412383a20e2.
+
+****
+
+[#query]
+--
+Whose job it is to monitor the progress developers are making towards completing Sprint Backlog items and achieving the Sprint Goal?
+--
+
+[#list]
+--
+* [ ] The Scrum Master
+* [ ] The Product Owner
+* [*] The Developers
+* [ ] Monitoring progress is a collaborative effort shared by all members of the Scrum team
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+It is the job of the developers to create a plan for the Sprint and adapt their plan each day in an effort to achieve the Sprint Goal.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

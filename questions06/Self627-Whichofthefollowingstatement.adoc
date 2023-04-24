@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "627"
+---
+
+
+[#question]
+== 627-6445679a3730ef520188ad5c.
+
+****
+
+[#query]
+--
+Which of the following statements are true?
+--
+
+[#list]
+--
+* [ ] Scrum Teams are cross-functional but not self-managing
+* [ ] Scrum Teams are not cross-functional but they are self-managing
+* [*] Scrum Teams are cross-functional and self-managing
+* [ ] Scrum Teams are neither cross-functional nor are they self-managing
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+According to the Scrum Guide, Scrum Teams are both cross-functional and self-managing."Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how." -The Scrum Guide, page 5
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "308"
+---
+
+
+[#question]
+== 308-6445678f62d2d76c66cca9be.
+
+****
+
+[#query]
+--
+Which of the following are not coaching techniques the Scrum Guide would recommend when problems within the development team arise?
+--
+
+[#list]
+--
+* [ ] Active listening
+* [*] Consulting an Agile coach from another department
+* [ ] Empathetic listening
+* [*] Consulting a Kanban practitioner from anther department
+* [*] Ask Upper Management to handle the issue
+
+--
+****
+
+[#answer]
+BDE
+
+[#explanation]
+--
+Active listening and empathetic listening are both coaching techniques the Scrum Master can and should use to resolve conflicts and impediments when they arise.The words 'Agile', 'Kanban' and 'Upper Management' do not appear anywhere in the Scrum Guide. Pragmatically speaking, it is understandable that a Scrum Master would want to talk to peers about how to best handle conflict. But in terms of the Scrum Guide and the Scrum Master Certification exam, resolving problems by consulting with practitioners of some other Agile methodology will never be a correct answer.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

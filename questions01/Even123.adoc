@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "123"
+---
+
+
+[#question]
+== 123-6445b166221e893e31a49d14.
+
+****
+
+[#query]
+--
+The Sprint Review:
+--
+
+[#list]
+--
+* [ ] Is attended by only the Scrum Team
+* [*] Is attended by the Scrum Team and stakeholders
+* [ ] Is attended by the Scrum Team and everyone in the company so that progress can be evaluated
+* [ ] Is attended by only the Scrum Master, Product Owner and the stakeholders
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Sprint Review is attended by all members of the Scrum Team as well as stakeholders who have an interest in the application being developed.
+
+The Sprint Review is not attended by all employees of the company or everyone in the organization. That would not create for a focused and productive meeting.
+--
+
+[#ka]
+Events
+
+'''
+

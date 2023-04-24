@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "205"
+---
+
+
+[#question]
+== 205-6445678b7b8d73457c9d3ab6.
+
+****
+
+[#query]
+--
+What value does the Definition of Done bring to the software development process?
+--
+
+[#list]
+--
+* [*] It helps to provide focus
+* [*] It helps to increase transparency
+* [*] It help developers estimate the work required
+* [ ] It provides clarity over when the Sprint will end
+* [ ] It helps to explain why items presented in the Sprint Review aren't completely finished
+
+--
+****
+
+[#answer]
+ABC
+
+[#explanation]
+--
+With a clear definition of the Definition of Done, developers can better estimate how much work will be required to complete a Backlog Item.The Definition of Done will also help provide focus to the developers as they try to complete a Backlog Item and create an Increment.The Definition of Done also provides transparency by setting a common understanding of what is needed to complete a feature.The Definition of Done does not have any impact on when a Sprint will end. A Sprint ends when it is scheduled to end. Any items not completed according to the Definition of Done are put back into the Product Backlog to be continued in a future Sprint.Backlog Items that do not meet the Definition of Done are not presented in the Sprint Review."Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:? For the Product Backlog it is the Product Goal.? For the Sprint Backlog it is the Sprint Goal.? For the Increment it is the Definition of Done."-The Scrum Guide, page 10
+--
+
+[#ka]
+Done
+
+'''
+

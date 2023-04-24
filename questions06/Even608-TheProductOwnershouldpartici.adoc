@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "608"
+---
+
+
+[#question]
+== 608-644567993730ef520188ad52.
+
+****
+
+[#query]
+--
+The Product Owner should participate in the Daily Scrum:
+--
+
+[#list]
+--
+* [ ] If they want to cancel the Sprint
+* [ ] If they are actively working on items in the Product Backlog
+* [*] If they are actively working on items in the Sprint Backlog
+* [ ] If the Scrum Master has asked them to attend
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+According to the Scrum Guide, the only time a Product Owner can participate in the Daily Scrum is if they are actively working on items in the Sprint Backlog."If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers." - The Scrum Guide
+--
+
+[#ka]
+Events
+
+'''
+

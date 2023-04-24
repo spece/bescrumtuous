@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "231"
+---
+
+
+[#question]
+== 231-6445678d7b8d73457c9d3ac6.
+
+****
+
+[#query]
+--
+Whose job is it to maximize the value of the work of the Development Team?
+--
+
+[#list]
+--
+* [*] The Product Owner
+* [ ] The Scrum Master
+* [ ] The Development Team itself
+* [ ] The Stakeholders
+* [ ] All of the above
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+This is actually part of the definition of the Product Owner."The Product Owner is responsible for maximizing the value of the product and the work of theDevelopment Team."
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

@@ -1,0 +1,42 @@
+---
+layout: default + 
+title: "532"
+---
+
+
+[#question]
+== 532-64456796ca886e07fd8927d1.
+
+****
+
+[#query]
+--
+Which of the following terms are not found in the Scrum Guide?
+--
+
+[#list]
+--
+* [*] Sprint 0
+* [*] Scrum Goal
+* [*] Daily Standup
+* [*] Project Owner
+* [ ] Immutable
+* [ ] Stakeholders
+* [ ] Empiricism
+
+--
+****
+
+[#answer]
+ABCD
+
+[#explanation]
+--
+The terms Sprint 0, Scrum Goal, Daily Standup and Project Owner do not appear in the Scrum Guide.If you see these terms as options on the Scrum Master Certification exam, they are likely red herrings trying to trick you into selecting the wrong answer.There is a Sprint Goal in Scrum, just not a Scrum Goal.Scrum has Daily Scrums, not Daily Standups.Scrum has a Product Owner, not a Project Owner.The term 'stakeholders' is used over a dozen times in the Scrum Guide.The term Empiricism is used several times throughout the guide.The last page of the Scrum Guide states that Scrum is immutable, which means all parts of it must be implemented, otherwise, what you're doing is ScrumBut, it isn't Scrum.
+--
+
+[#ka]
+Stakeholders and Customers
+
+'''
+

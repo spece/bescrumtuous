@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "510"
+---
+
+
+[#question]
+== 510-64456797ca886e07fd8927d9.
+
+****
+
+[#query]
+--
+Scrum is based on:
+--
+
+[#list]
+--
+* [ ] Agile philosophies
+* [ ] The Waterfall model
+* [*] Empiricism
+* [ ] Mysticism
+* [*] lean thinking
+
+--
+****
+
+[#answer]
+CE
+
+[#explanation]
+--
+Scrum is considered by many to be an Agile methodology, but you will not find the term Agile anywhere in the Scrum Guide. References to Agile on the PSMI exam are typically wrong.Agile methodologies are the opposite of Waterfall, so Waterfall is definitely incorrect.Scrum is not based on mysticism.Scrum is based on Lean Thinking and empiricism."Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials."
+--
+
+[#ka]
+Empiricism
+
+'''
+

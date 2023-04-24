@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "116"
+---
+
+
+[#question]
+== 116-6445b162221e893e31a49cf5.
+
+****
+
+[#query]
+--
+Which of the following is not considered part of the Sprint?
+--
+
+[#list]
+--
+* [ ] The Sprint Review
+* [ ] Sprint Planning
+* [*] The Daily Standup
+* [ ] The Sprint Retrospective
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+Every Scrum event is considered to be part of the Sprint. That includes the Daily Scrum, the Sprint Retrospective, Sprint Planning and the Sprint Review.
+
+Scrum does not have a Daily Standup. The term is ableist and is discouraged. In Scrum, you have a Daily Scrum, not a Standup.
+
+"The Sprint is a container for all other events... A new Sprint starts immediately after the conclusion of the previous Sprint." - The Scrum Guide
+--
+
+[#ka]
+Events
+
+'''
+

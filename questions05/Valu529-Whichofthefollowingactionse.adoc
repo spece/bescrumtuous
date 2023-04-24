@@ -1,0 +1,44 @@
+---
+layout: default + 
+title: "529"
+---
+
+
+[#question]
+== 529-64456796ca886e07fd8927d5.
+
+****
+
+[#query]
+--
+Which of the following actions embrace the Scrum Values of commitment and respect towards your fellow Scrum Team members?
+--
+
+[#list]
+--
+* [*] Arrive to meetings on time
+* [ ] Work unpaid hours to make sure the Sprint Goal is achieved
+* [*] Show up to work well rested and ready to do maintain a high work standard
+* [ ] Encourage others to put in overtime hours
+* [*] Support other members of your team when help is needed
+
+--
+****
+
+[#answer]
+ACE
+
+[#explanation]
+--
+Being respectful and committed means arriving to work on time, being rested enough to perform at your best, and supporting others.Scrum is meant to be a sustainable development framework. Forcing people to work overtime or work unpaid hours is not consistent with the Scrum Values."Successful use of Scrum depends on people becoming more proficient in living five values:Commitment
+Focus
+Openness
+Respect
+CourageThe Scrum Team commits to achieving its goals and to supporting each other." -The Scrum Guide, page 4
+--
+
+[#ka]
+Scrum Values
+
+'''
+

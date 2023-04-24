@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "417"
+---
+
+
+[#question]
+== 417-64456794f43d5412383a20f6.
+
+****
+
+[#query]
+--
+Which of the following are time boxed to a maximum of 8 hours?
+--
+
+[#list]
+--
+* [*] Planning for a two week Sprint
+* [*] Planning for a four week Sprint
+* [ ] The Sprint Review for a two week Sprint
+* [ ] The Sprint Review for a four week Sprint
+* [ ] The Sprint Retrospective for a two week Sprint
+* [ ] The Sprint Retrospective for a four week Sprint
+
+--
+****
+
+[#answer]
+AB
+
+[#explanation]
+--
+According to the Scrum Guide, "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

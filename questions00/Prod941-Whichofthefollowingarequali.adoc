@@ -1,0 +1,42 @@
+---
+layout: default 
+title: "941 - The Development Team should have all the"
+---
+
+
+[#question]
+== 941-63effc4e9ebbe935e4c16ada.
+
+****
+
+[#query]
+--
+Which of the following are qualities of a successful development team in Scrum?
+--
+
+[#list]
+--
+* [*] A. They are budget conscious and complete work within their given cost projections
+* [ ] B. They always respect the Definition of Done when they turn Product Backlog Items into potentially releasable increments of value
+* [ ] C. They know their limits and delegate difficult work that requires special testing or quality control skills to an external team
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+Budget should not be a concern of the developers. Developers should never be asked to bargain away quality in order to meet a financial budget.
+
+Also, developers are expected to have all of the required skills in-house to complete the Definition of Done, so they should not be delegating work to external teams.
+
+Respecting the Definition of Done and turning Product Backlog Items into usable Increments of value is the job of a development team.
+--
+
+[#ka]
+Product Value
+
+'''
+

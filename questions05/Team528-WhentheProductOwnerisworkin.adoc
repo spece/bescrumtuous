@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "528"
+---
+
+
+[#question]
+== 528-64456797ca886e07fd8927dc.
+
+****
+
+[#query]
+--
+When the Product Owner is working on Sprint Backlog items:
+--
+
+[#list]
+--
+* [ ] The must update the Product Backlog
+* [*] They are expected to attend the Daily Scrum as a developers
+* [ ] They must report to the Scrum Master
+* [ ] Product Owners are not allowed to work on Sprint Backlog items
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The only time a Product Owner or Scrum Master is expected to participate in the Daily Scrum is when they are updating Sprint Backlog items."If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers." -TSG, page 9
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

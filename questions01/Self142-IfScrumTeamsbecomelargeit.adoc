@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "142"
+---
+
+
+[#question]
+== 142-6445b162221e893e31a49cef.
+
+****
+
+[#query]
+--
+If Scrum Teams become large, it is recommended that they:
+--
+
+[#list]
+--
+* [ ] Add an additional Product Owner
+* [*] Reorganize into multiple Scrum Teams
+* [ ] Add an additional Scrum Master
+* [ ] Increase the length of the Sprint
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+A Scrum Team should have 10 or fewer people on it.
+
+If more developers are needed to complete a project, it is recommended that multiple, smaller teams be created.
+
+"If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner." -The Scrum Guide, page 5
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

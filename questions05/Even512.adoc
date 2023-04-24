@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "512"
+---
+
+
+[#question]
+== 512-64456795ca886e07fd8927c5.
+
+****
+
+[#query]
+--
+A new Sprint begins:
+--
+
+[#list]
+--
+* [ ] As soon as a timeboxed Sprint planning event occurs
+* [ ] As soon as the Sprint Retrospective is complete
+* [ ] As soon as the Product Owner has signed off on the Sprint goals
+* [*] Immediately after the conclusion of the previous sprint
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+All of the Scrum events happen within the Sprint. So as soon as a Sprint ends, a new Sprint immediately begins."A new Sprint starts immediately after the conclusion of the previous Sprint." -The Scrum Guide
+--
+
+[#ka]
+Events
+
+'''
+

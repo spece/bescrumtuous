@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "306"
+---
+
+
+[#question]
+== 306-6445678e62d2d76c66cca9b4.
+
+****
+
+[#query]
+--
+The Scrum Master notices the developers are doing the Daily Scrum at 4:45, 15 minutes before the work day ends. What guidance should the Scrum Master provide?
+--
+
+[#list]
+--
+* [ ] Inform the team of the value of having the Daily Scrum take place in the morning
+* [*] Nothing, the developers can do the daily scrum at any time of the day they like
+* [ ] Inform the developers they should allocated more than 15 minutes for the Daily Scrum
+* [ ] Advise the developers to change the time of the Daily Scrum to the morning, as not all developers will be available at the end of the work day
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+There is nothing in the Scrum Guide that demands the Daily Scrum take place in the morning.Scrum Developers should be treated as a self-managed and self-organizing team. The team should be allowed to choose the time and location of the daily scrum that works best for them.According to the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. The Developers can select whatever structure and techniques they want, as long as their Daily Scrum focuses on progress toward the Sprint Goal and produces an actionable plan for the next day of work."
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

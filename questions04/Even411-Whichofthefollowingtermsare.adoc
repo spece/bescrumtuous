@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "411"
+---
+
+
+[#question]
+== 411-64456791f43d5412383a20dd.
+
+****
+
+[#query]
+--
+Which of the following terms are not found in the 2022 Scrum Guide?
+--
+
+[#list]
+--
+* [*] Daily Stand-up
+* [ ] Definition of Done
+* [ ] Creative Commons
+* [ ] Ken Schwaber
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+Scrum does not have a 'Daily Stand-up.' It has a Daily Scrum. The term Daily Stand-up has many connotations that are not in line with Scrum values so the term should be avoided.The Definition of Done is an important concept of Scrum.Ken Schwaber is one of the authors of the Scrum Guide.Creative Commons is how the Scrum Guide is licensed. From the Scrum Guide: "By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons."
+--
+
+[#ka]
+Events
+
+'''
+

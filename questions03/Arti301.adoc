@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "301"
+---
+
+
+[#question]
+== 301-6445678e62d2d76c66cca9b7.
+
+****
+
+[#query]
+--
+During the Sprint:
+--
+
+[#list]
+--
+* [ ] No changes are made that would impact the Sprint Backlog
+* [ ] No changes are made that would impact the scope of the Sprint
+* [ ] No changes to or refinements of the Product Backlog can occur
+* [*] No changes are made that would endanger the Sprint Goal
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+According to the Scrum Guide:
+During the Sprint:No changes are made that would endanger the Sprint Goal;
+Quality does not decrease;
+The Product Backlog is refined as needed;
+Scope may be clarified and renegotiated with the Product Owner as more is learned."No changes are made that would endanger the Sprint Goal" is the correct answer.
+--
+
+[#ka]
+Artifacts
+
+'''
+

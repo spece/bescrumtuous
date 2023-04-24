@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "317"
+---
+
+
+[#question]
+== 317-6445678d62d2d76c66cca9b3.
+
+****
+
+[#query]
+--
+True or false, at least 8 hours should be spent planning a one-month sprint.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+At most 8 hours should be spent planning a one month sprint not least.From the Scrum Guide: "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

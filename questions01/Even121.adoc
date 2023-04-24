@@ -1,0 +1,45 @@
+---
+layout: default + 
+title: "121"
+---
+
+
+[#question]
+== 121-6445b164221e893e31a49d04.
+
+****
+
+[#query]
+--
+When does a new Sprint begin?
+--
+
+[#list]
+--
+* [ ] After the Sprint Review finishes
+* [*] Immediately after the current Sprint finishes
+* [ ] After the Sprint Planning meeting finshes
+* [*] After the Sprint Retrospective finishes
+
+--
+****
+
+[#answer]
+BD
+
+[#explanation]
+--
+All of the Scrum events occur within the Sprint.
+
+A new Sprint begins immediately after the old Sprint ends.
+
+Technically speaking, the end of the Sprint Retrospective marks the end of the current Sprint, so this answer is correct as well.
+
+"Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint." -TSG, page 3
+--
+
+[#ka]
+Events
+
+'''
+

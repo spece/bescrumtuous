@@ -1,0 +1,39 @@
+---
+layout: default 
+title: "991 - What to build Scrum requires no more tha"
+---
+
+
+[#question]
+== 991-63effd459ebbe935e4c16afe.
+
+****
+
+[#query]
+--
+Successful Scrum Teams often create a sub-team of testers and QAs to test increments before they release to production.
+--
+
+[#list]
+--
+* [ ] A. True
+* [*] B. False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+Scrum does not allow hierarchies or sub-teams.
+
+"Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal."
+--
+
+[#ka]
+Self-managing teams
+
+'''
+

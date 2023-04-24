@@ -1,0 +1,44 @@
+---
+layout: default + 
+title: "615"
+---
+
+
+[#question]
+== 615-644567983730ef520188ad50.
+
+****
+
+[#query]
+--
+The team has failed to complete all of the Product Backlog items selected during Sprint Planning for several Sprints in a row. Which of the following actions should a Scrum Master take to resolving the issue:
+--
+
+[#list]
+--
+* [*] Work on estimation approaches, such as the complimentary practice of assigning points to work
+* [ ] Ask the developers to work overtime if the end of the Sprint approaches and extra work is required to meet the Sprint Goal
+* [*] Dedicate more tie to refinement and decomposition activities during the next sprint
+* [*] Spend more time discussing the how at the next Sprint Planning meeting
+* [*] Modify the approach to the Daily Scrum to ensure the team is inspecting progress toward the Sprint Goal and adapting when necessary
+* [ ] Advocate for the development team with management and urge the organization to hire more developers
+
+--
+****
+
+[#answer]
+ACDE
+
+[#explanation]
+--
+In her Scrum.org Blog, Mary Iqbal suggests that teams who regularly fail to complete all Product Backlog items selected for a Sprint:May not have a good understanding of what is possible during a Sprint
+May not have properly refined or decomposed Product Backlog items
+May not be using the Sprint Planning meeting as well as they can
+May not be making the best use of the Daily ScrumThe answers are all responses to these problems.Problems that center around planning and estimation are not solved by hiring more developers. More developers won't fix a team's inability to estimate work effectively.And punishing developers by forcing them to work overtime is not a way to fix the problem of poor Sprint Planning practices.
+--
+
+[#ka]
+Facilitation
+
+'''
+

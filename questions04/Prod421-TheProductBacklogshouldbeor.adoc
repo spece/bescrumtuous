@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "421"
+---
+
+
+[#question]
+== 421-64456794f43d5412383a20f4.
+
+****
+
+[#query]
+--
+The Product Backlog should be ordered according to:
+--
+
+[#list]
+--
+* [ ] What the Developers are capable of completing in the next Sprint
+* [*] Which items will provide the most value
+* [ ] Items that have the least number of blockers associated with them
+* [ ] Which items will take the most time to develop
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Product Backlog is ordered according to which items will provide the most value and improve the product the most."The Product Backlog is an emergent, ordered list of what is needed to improve the product. It is the single source of work undertaken by the Scrum Team." -TSG, page 10
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

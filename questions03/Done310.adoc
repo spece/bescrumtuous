@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "310"
+---
+
+
+[#question]
+== 310-6445678e62d2d76c66cca9b9.
+
+****
+
+[#query]
+--
+The Definition of Done:
+--
+
+[#list]
+--
+* [ ] Can be changed at any time so long as there is consensus from the team
+* [ ] Can be changed during Sprint Planning so long as there is consensus from the team
+* [ ] Can be changed during the Sprint Review so long as there is consensus from the team
+* [*] Can be changed during the Sprint Retrospective so long as there is consensus from the team
+* [ ] Cannot be changed by the Scrum Team
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+If there is consensus from the Team, the Definition of Done can be changed during the Sprint Retrospective.
+--
+
+[#ka]
+Done
+
+'''
+

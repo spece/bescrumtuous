@@ -1,0 +1,48 @@
+---
+layout: default 
+title: "924 - What happens if the Development Team can"
+---
+
+
+[#question]
+== 924-63effb8e9ebbe935e4c16abb.
+
+****
+
+[#query]
+--
+The development failed to complete all the items in the Sprint Backlog before the end of the Sprint. What happens next?
+--
+
+[#list]
+--
+* [ ] A. The Scrum Master extends future Sprints by the amount of time it would have required to complete all Sprint Backlog items.
+* [*] B. The length of the Sprint remains the same, Sprint Backlog items get returned to the Product Backlog, and the Scrum Team tries to learn and adapt from the experience.
+* [ ] C. The current Sprint is temporarily extended to allow all Sprint Backlog items to be completed. Insight is garnered at the Sprint Retrospective and the team adapts to avoid this situation in the future.
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+There is no changing the Sprint length. And it's not uncommon for some Sprint Backlog items to go uncompleted. They just go back into the Product Backlog.
+
+The team should also turn it into a learning experience by doing these things:
+
+Participate in the Sprint Retrospective: The team will conduct a Sprint Retrospective to reflect on what went wrong and what they can do differently in the future. This allows the team to identify areas where they can improve and take actions to address them.
+
+Analyze the Root Cause: The team can analyze the root cause of the failure to complete the work. This helps to identify the underlying issues that led to the failure, and provides insights into what the team can do differently to avoid similar issues in the future.
+
+Prioritize the Backlog: The team can review their backlog and prioritize the items based on their importance and value to the product. This can help the team to focus on the most important items and reduce the risk of not completing the work in future sprints.
+
+Revisit the Definition of Done: The team can revisit their Definition of Done to ensure that it is clear and comprehensive. This helps to ensure that everyone on the team understands what needs to be done to consider a backlog item complete.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

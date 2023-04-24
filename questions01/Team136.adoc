@@ -1,0 +1,47 @@
+---
+layout: default + 
+title: "136"
+---
+
+
+[#question]
+== 136-6445b163221e893e31a49cf9.
+
+****
+
+[#query]
+--
+During Sprint Planning:
+--
+
+[#list]
+--
+* [ ] Developers add Product Backlog items that can be Done within the Sprint are added to the Sprint Backlog
+* [ ] The Product Owner informs the Development Team which Product Backlog items to include in the next Sprint
+* [ ] The Product Owner adds Product Backlog items with the highest priority to the Sprint Backlog
+* [*] Developers add Product Backlog items with the highest priority to the Sprint Backlog
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Developers are the ones who add Product Backlog items to the Sprint Backlog.
+
+The Developers choose the items that can be done. That doesn't always mean the highest priority items or the highest value items. If an external blocker exists that makes it impossible to work on a high-priority Product Backlog item, it would make no sense to add it to the Sprint Backlog.
+
+This is one of the reasons why Sprints are short in Scrum. The shorter the Sprint, the less risk there is.
+
+In this case, if a high-priority item cannot be added to the Sprint because of an external blocker, hopefully the blocker will be gone before the next Sprint begins and work can commence on it.
+
+"Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event." -TSG, page 10
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "208"
+---
+
+
+[#question]
+== 208-6445678a7b8d73457c9d3aaf.
+
+****
+
+[#query]
+--
+Which of the following are not empirical Scrum pillars?
+--
+
+[#list]
+--
+* [*] Commitment
+* [ ] Transparency
+* [*] Openness
+* [ ] Inspection
+* [*] Courage
+* [ ] Adaptation
+
+--
+****
+
+[#answer]
+ACE
+
+[#explanation]
+--
+The three Scrum pillars are: transparency, inspection and adaptation.The Scrum Values are: Commitment, Focus, Openness, Respect, and Courage
+--
+
+[#ka]
+Empiricism
+
+'''
+

@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "409"
+---
+
+
+[#question]
+== 409-64456793f43d5412383a20f3.
+
+****
+
+[#query]
+--
+Scrum is a framework for generating value through adaptive solutions for:
+--
+
+[#list]
+--
+* [ ] The DevOps stack
+* [ ] Multi-layers software
+* [*] Complex problems
+* [ ] Full-stack software
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+"Scrum can be used in a variety of problem domains, not just software development. It is a framework that can be applied to complex projects in a variety of industries." -TSG, page 3
+--
+
+[#ka]
+Empiricism
+
+'''
+

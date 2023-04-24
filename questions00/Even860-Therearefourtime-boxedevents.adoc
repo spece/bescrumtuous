@@ -1,0 +1,54 @@
+---
+layout: default 
+title: "860 - Which three of the following are timebox"
+---
+
+
+[#question]
+== 860-63effbdd9ebbe935e4c16ac7.
+
+****
+
+[#query]
+--
+There are four time-boxed events that happen within a Sprint. Select three of them from the following list:
+--
+
+[#list]
+--
+* [*] A. Sprint Retrospective
+* [ ] B. Release Planning
+* [ ] C. Daily Integration
+* [*] D. Sprint Planning
+* [ ] E. Stakeholder meetings
+* [*] F. Backlog grooming
+* [ ] G. Daily Scrum.
+
+--
+****
+
+[#answer]
+ADF
+
+[#explanation]
+--
+Options A, D and F are correct.
+
+The four time-boxed events that happen within a Sprint are:
+
+Sprint Planning: This is a time-boxed event that takes place at the beginning of each Sprint. The purpose of Sprint Planning is for the Development Team to plan the work they will undertake during the Sprint, and to agree on a Sprint Goal that they will work towards. The time-box for Sprint Planning is typically 4 hours for a one-month Sprint.
+
+Daily Scrum: This is a time-boxed event that takes place every day during the Sprint. The purpose of the Daily Scrum is for the Development Team to synchronize their work, discuss progress, and identify any obstacles that may be preventing them from achieving the Sprint Goal. The time-box for the Daily Scrum is typically 15 minutes.
+
+Sprint Review: This is a time-boxed event that takes place at the end of each Sprint. The purpose of the Sprint Review is to review the work that was completed during the Sprint and to gather feedback from stakeholders. The Development Team presents their work to the stakeholders, and the stakeholders provide feedback that can be used to refine the Product Backlog. The time-box for the Sprint Review is typically 4 hours for a one-month Sprint.
+
+Spring Retrospective. The Sprint Retrospective is time boxed to 3 hours.
+
+These events are time-boxed to ensure that they are focused, efficient, and effective. By setting a fixed time limit, the team is forced to prioritize their activities, focus on the most important topics, and avoid excessive discussion or debate that could detract from achieving the Sprint Goal. This helps to ensure that the team is able to deliver a potentially releasable increment of the product at the end of each Sprint, and that the team is able to continually inspect and adapt their process to improve their performance over time.
+--
+
+[#ka]
+Events
+
+'''
+

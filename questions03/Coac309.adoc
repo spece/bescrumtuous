@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "309"
+---
+
+
+[#question]
+== 309-6445679062d2d76c66cca9c8.
+
+****
+
+[#query]
+--
+The Scrum Master:
+--
+
+[#list]
+--
+* [ ] Must attend the Daily Scrum but is not allowed to participate
+* [ ] Initiates the Daily Scrum but does not participate
+* [*] Is not allowed to participate in the Daily Scrum
+* [ ] Is always expected to participate in the Daily Scrum
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Daily Scrum is for developers only. The Scrum Master is not allowed to participate.The only exception to this rule is if they are working on Sprint Backlog items, but even then, they participate as a developer, not as the Scrum Master."The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint. If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers." -TSG, page 9
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

@@ -1,0 +1,55 @@
+---
+layout: default 
+title: "877 - The length of a Sprint should be Scrum M"
+---
+
+
+[#question]
+== 877-63effdfe9ebbe935e4c16b14.
+
+****
+
+[#query]
+--
+What is the maximum length of a Sprint in Scrum?
+--
+
+[#list]
+--
+* [ ] A. 4 weeks
+* [ ] B. 30 days
+* [*] C. One month.
+* [ ] D. From a couple of weeks to a couple of months
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+According to the Scrum Guide, a Sprint's duration is one month or less.
+
+"They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint."
+
+Note that the phrase "from a couple of weeks to a couple of months" is from the Agile Manifesto.
+
+A Sprint is a Scrum event in which a potentially releasable product increment is created. The length of a Sprint is typically between 1-4 weeks, with a maximum length of 30 days. There are several reasons why the maximum length of a Sprint is set at 30 days:
+
+Adaptability: Scrum is an agile framework that emphasizes adaptability and flexibility. By limiting the length of a Sprint, the Development Team is able to respond quickly to changes in requirements or priorities.
+
+Feedback: One of the key benefits of Scrum is the ability to receive regular feedback from stakeholders. With shorter Sprints, there are more opportunities to gather feedback and make adjustments to the product increment.
+
+Transparency: Scrum emphasizes transparency and visibility into the development process. Shorter Sprints make it easier to see progress and identify potential issues early on.
+
+Predictability: Scrum also emphasizes predictability, with the goal of delivering a potentially releasable product increment at the end of each Sprint. By limiting the length of a Sprint, the Development Team can more accurately estimate their capacity and plan their work accordingly.
+
+Overall, the maximum length of 30 days for a Sprint in Scrum is designed to promote adaptability, feedback, transparency and predictability, all of which are key principles of the framework.
+--
+
+[#ka]
+Events
+
+'''
+

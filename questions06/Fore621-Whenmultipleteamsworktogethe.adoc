@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "621"
+---
+
+
+[#question]
+== 621-6445679b3730ef520188ad69.
+
+****
+
+[#query]
+--
+When multiple teams work together on the same project, each team should maintain a separate Sprint Backlog
+--
+
+[#list]
+--
+* [*] True
+* [ ] False
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+This is true.Each team will be working on a separate set of Product Backlog items, so each team will have a separate Sprint Backlog.However, both teams would share the same Product Backlog. Multiple teams working on the same product share a common Product Backlog.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

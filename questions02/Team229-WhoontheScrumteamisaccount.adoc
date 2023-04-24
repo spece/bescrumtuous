@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "229"
+---
+
+
+[#question]
+== 229-6445678a7b8d73457c9d3aab.
+
+****
+
+[#query]
+--
+Who on the Scrum team is accountable for how much work has been completed, and how much work remains, as the work progresses towards achieving the Sprint Goal
+--
+
+[#list]
+--
+* [ ] Every member of the Scrum Team
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [*] The Developers
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The Scrum Guide states that "Developers are always accountable for adapting their plan each day toward achieving the Sprint Goal." That includes keeping track of the work completed, the work that needs to be completed, and renegotiating the scope of the Sprint with the Product Owner as more information about the team's progress is learned during the Sprint.
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

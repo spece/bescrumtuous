@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "213"
+---
+
+
+[#question]
+== 213-6445678b7b8d73457c9d3ab0.
+
+****
+
+[#query]
+--
+Who must be in attendance for the Sprint Retrospective?
+--
+
+[#list]
+--
+* [*] The development team
+* [*] The Scrum Master
+* [*] The Product Owner
+* [ ] The Project Manager
+* [ ] Stakeholders
+
+--
+****
+
+[#answer]
+ABC
+
+[#explanation]
+--
+The entire Scrum Team attends the Sprint Retrospective. This includes the developers, Scrum Master and Product Owner.According to the Scrum Guide, "the purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness. The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done."
+--
+
+[#ka]
+Events
+
+'''
+

@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "515"
+---
+
+
+[#question]
+== 515-64456797ca886e07fd8927d8.
+
+****
+
+[#query]
+--
+A good team of Developers in Scrum:
+--
+
+[#list]
+--
+* [ ] Will have a good mix of junior and senior developers
+* [ ] Will have a strong team lead
+* [ ] Will have an equal mix of male and female developers
+* [*] Will have the combined skills to complete Spring Backlog items without external help
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+A Scrum Team must have enough combined skills to complete every Sprint Backlog item assigned to them.If a Scrum Team cannot meet the Definition of Done due to a lack of expertise, the team was not assembled properly."Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint." -TSG, page 5
+--
+
+[#ka]
+Events
+
+'''
+

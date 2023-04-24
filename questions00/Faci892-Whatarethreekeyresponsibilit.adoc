@@ -1,0 +1,40 @@
+---
+layout: default 
+title: "892 - Which two of the following are true abou"
+---
+
+
+[#question]
+== 892-63effbd09ebbe935e4c16ac5.
+
+****
+
+[#query]
+--
+What are three key responsibilities of the Scrum Master?
+--
+
+[#list]
+--
+* [*] A. Helping employees and stakeholders understand and enact an empirical approach for complex work.
+* [ ] B. The Scrum Master assigns Product Backlog Items to developers when they are idle
+* [*] C. The Scrum Master helps those outside the Scrum team understand Scrum and how to interact with teams that employ the Scrum framework.
+* [*] D. The Scrum Master ensures that all Scrum events are kept within the timebox
+* [ ] E. The Scrum Master shows stakeholders the features that have met the Definition of Done during the Sprint
+
+--
+****
+
+[#answer]
+ACD
+
+[#explanation]
+--
+The two key responsibilities of the Scrum Master include removing obstacles for the Development Team and protecting the Team from external interruptions. Additionally the Scrum Master ensures that the Scrum process is being followed and encourages self-organization and cross-functionality among the Team members.
+--
+
+[#ka]
+Facilitation
+
+'''
+

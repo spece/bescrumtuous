@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "124"
+---
+
+
+[#question]
+== 124-6445b162221e893e31a49cee.
+
+****
+
+[#query]
+--
+Which of the following are not responsibilities of a Scrum Master?
+--
+
+[#list]
+--
+* [*] Attending the Daily Scrum
+* [*] Performing performance reviews with developers
+* [ ] Making sure the team understands Scrum commitments such as the Definition of Done
+* [*] Establishing a bonus plan for developers who contribute the most to the Sprint
+
+--
+****
+
+[#answer]
+ABD
+
+[#explanation]
+--
+The job of the Scrum Master is to coach the team on how Scrum works, which includes making sure they understand terms like the Definition of Done.
+
+A Scrum Master doesn't actually have to attend the Daily Scrum. The Daily Scrum is owned by the developers, and only the developers need to attend. And even when the Scrum Master does attend, they aren't supposed to participate.
+
+Doing performance reviews or setting up bonus plans are not part of the Scrum Master's role.
+--
+
+[#ka]
+Facilitation
+
+'''
+

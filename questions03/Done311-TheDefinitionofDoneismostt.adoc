@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "311"
+---
+
+
+[#question]
+== 311-6445678f62d2d76c66cca9c1.
+
+****
+
+[#query]
+--
+The Definition of Done is most tightly associated with:
+--
+
+[#list]
+--
+* [*] An Increment
+* [ ] The Product Goal
+* [ ] The Sprint Goal
+* [*] A Product Backlog Item
+
+--
+****
+
+[#answer]
+AD
+
+[#explanation]
+--
+An Increment happens when a Product Backlog Item meets its associated Definition of Done."The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.The moment a Product Backlog item meets the Definition of Done, an Increment is born."-The Scrum Guide, page 12
+--
+
+[#ka]
+Done
+
+'''
+

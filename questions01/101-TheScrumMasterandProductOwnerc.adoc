@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "101"
+---
+
+
+[#question]
+== 101-6445b162221e893e31a49cf3.
+
+****
+
+[#query]
+--
+The Scrum Master and Product Owner can participate in the Daily Scrum:
+--
+
+[#list]
+--
+* [ ] Any time they feel they need to contribute
+* [ ] When they are invited by the development team
+* [*] When they are working on Sprint Backlog Items, but they must participate as developers
+* [ ] Never. The Scrum Master and Product Owner are not allowed to participate in the Daily Scrum
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+Normally, the Product Owner and Scrum Master are not allowed to participate in the Daily Scrum. But if they are working on Sprint Backlog items, they can.
+
+"If the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers."
+--
+
+[#ka]
+
+
+'''
+

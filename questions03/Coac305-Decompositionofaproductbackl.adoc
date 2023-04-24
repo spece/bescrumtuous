@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "305"
+---
+
+
+[#question]
+== 305-6445678d62d2d76c66cca9b2.
+
+****
+
+[#query]
+--
+Decomposition of a product backlog item means:
+--
+
+[#list]
+--
+* [ ] The elimination of backlog item features developers deem unnecessary
+* [*] Breaking a backlog item down into smaller units of work
+* [ ] The incremental completion of a product backlog item
+* [ ] Having developers explain to the Product Owner how a product backlog item will be developed
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The decomposition of a product backlog items means breaking a backlog item down into smaller, more manageable pieces of work.According to the Scrum Guide:?For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value.?
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

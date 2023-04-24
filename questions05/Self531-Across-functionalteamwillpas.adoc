@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "531"
+---
+
+
+[#question]
+== 531-64456796ca886e07fd8927d4.
+
+****
+
+[#query]
+--
+A cross-functional team will pass duties such as testing or analysis off to other cross-functional teams that specialize in those tasks.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.
+
+The idea of a cross-functional team is that it has all of the skills necessary to work on features and complete the in a way that meets the Definition of Done."Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint." -The Scrum Guide, page 5
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

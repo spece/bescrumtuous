@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "423"
+---
+
+
+[#question]
+== 423-64456794f43d5412383a20f7.
+
+****
+
+[#query]
+--
+Who is responsible for the ongoing management of the Sprint Backlog?
+--
+
+[#list]
+--
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [*] The Development Team
+* [ ] The stakeholders
+* [ ] All of the above
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Sprint Backlog is owned and managed entirely by the Development Team.The Development Team creates the Sprint Goal and manages the Sprint Backlog to maximize the odds of the Sprint Goal being achieved.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "224"
+---
+
+
+[#question]
+== 224-6445678b7b8d73457c9d3ab1.
+
+****
+
+[#query]
+--
+Who plans the work needed to be done throughout the course of a Sprint?
+--
+
+[#list]
+--
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [*] The Developers
+* [ ] The Scrum Team as a whole
+* [ ] The Stakeholders
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+According to the Scrum Guide, "the Developers select items from the Product Backlog to include in the current Sprint" and "the Developers plan the work necessary to create an Increment that meets the Definition of Done." (page 8)
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

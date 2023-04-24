@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "618"
+---
+
+
+[#question]
+== 618-6445679a3730ef520188ad61.
+
+****
+
+[#query]
+--
+Which of the following is true about Scrum and software development across multiple teams?
+--
+
+[#list]
+--
+* [ ] Multiple teams working on the same project will share the same Scrum Goal
+* [*] Multiple Scrum teams working on the same project will share the same Product Backlog
+* [ ] Multiple Scrum teams working on the same project will share the same Sprint Backlog
+* [ ] Multiple Scrum teams cannot work on the same project at the same time
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+When multiple teams work on the same project, they all pull from the same Project Backlog. So the Project Backlog can be shared amongst multiple teams."If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner." -The Scrum Guide, page 5
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

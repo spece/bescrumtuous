@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "429"
+---
+
+
+[#question]
+== 429-64456793f43d5412383a20ec.
+
+****
+
+[#query]
+--
+Scrum teams should be
+--
+
+[#list]
+--
+* [ ] Cross-functional and cross-managing
+* [ ] Self-functional and self-managing
+* [*] Cross-functional and self-managing
+* [ ] Self-functional and cross-managing
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+Scrum Teams are expected to be cross-functional and self-managing."Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. They are also self-managing, meaning they internally decide who does what, when, and how." -The Scrum Guide, page 5
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

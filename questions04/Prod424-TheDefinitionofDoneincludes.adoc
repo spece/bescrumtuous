@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "424"
+---
+
+
+[#question]
+== 424-64456792f43d5412383a20e9.
+
+****
+
+[#query]
+--
+The Definition of Done includes quality metrics that must be met. According to the Scrum Guide, who is responsible for quality control and meeting established quality metrics.
+--
+
+[#list]
+--
+* [ ] The Product Owner is responsible for quality control
+* [ ] The Scrum Master is responsible for quality control
+* [ ] The Testing Team is responsible for quality control
+* [*] The Development Team is responsible for quality control
+* [ ] The Scrum Team as a whole is responsible for quality control
+* [ ] Quality control and metrics are handled by teams external to Scrum
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The Developers are responsible for performing all work that is required to meet the Definition of Done.If the Definition of Done includes quality metrics that must be met, then it is the job of the Developers to build an application, test it, and ensure that it meets the quality metrics defined as part of the Definition of Done.
+--
+
+[#ka]
+Product Value
+
+'''
+

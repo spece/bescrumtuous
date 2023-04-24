@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "119"
+---
+
+
+[#question]
+== 119-6445b164221e893e31a49d00.
+
+****
+
+[#query]
+--
+What is the maximum time allotted for the Daily Scrum?
+--
+
+[#list]
+--
+* [ ] The self-managed Scrum Team decides how long the Daily Sprint will last
+* [ ] 3 hours
+* [*] 15 minutes
+* [ ] 90 seconds per developer
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Daily Scrum is a 15 minute event.
+
+"The Daily Scrum is a 15-minute event for the Developers of the Scrum Team." -The Scrum Guide, page 9
+--
+
+[#ka]
+Events
+
+'''
+

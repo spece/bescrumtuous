@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "607"
+---
+
+
+[#question]
+== 607-644567983730ef520188ad51.
+
+****
+
+[#query]
+--
+Which of the following is not considered to be part of the official Sprint
+--
+
+[#list]
+--
+* [ ] Sprint Planning
+* [ ] Sprint Retrospective
+* [*] Daily Standup
+* [ ] Sprint Review
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+All of the Scrum Events are part of the Sprint. None of the Scrum Events happen outside of the Sprint in Scrum.However, Scrum has a Daily Scrum, not a Daily Standup. In fact, the term 'Daily Standup' is discouraged in Scrum.
+--
+
+[#ka]
+Events
+
+'''
+

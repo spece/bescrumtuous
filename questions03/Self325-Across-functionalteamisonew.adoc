@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "325"
+---
+
+
+[#question]
+== 325-6445678f62d2d76c66cca9bf.
+
+****
+
+[#query]
+--
+A cross-functional team is one where
+--
+
+[#list]
+--
+* [ ] The team internally decides who does what, when they do it and how they do it
+* [ ] Each member of the team has the skills to do everything from testing to deployment
+* [ ] Every person on the team is comfortable talking to stakeholders, management and users
+* [*] When their skills are combined together, the team has the skills needed to successfully deliver a Sprint
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+According to the Scrum Guide, "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint."Internally deciding who does what is part of being self-managing, not cross-functional.Only select individuals should be interacting with stakeholders. This is primarily the job of the Product Owner. If coaching on Scrum principles is required, then the Scrum Master might interact with stakeholders. But interacting with stakeholders or end users is not a role to be performed by every member of the team.The idea of a cross-functional team is that when every member of the team works together, their combined skills provide everything needed to produce increments of value during the Sprint and achieve the Sprint Goal.
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

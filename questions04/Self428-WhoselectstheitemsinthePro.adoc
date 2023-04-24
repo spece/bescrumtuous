@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "428"
+---
+
+
+[#question]
+== 428-64456792f43d5412383a20e8.
+
+****
+
+[#query]
+--
+Who selects the items in the Product Backlog to be included in the current Sprint?
+--
+
+[#list]
+--
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [*] The Developers
+* [ ] The Scrum Team as a whole
+* [ ] The Stakeholders
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+It is the Developers who select the Product Backlog items to be included in the current Sprint. This is done with input from the Product Owner, but the Developers have the final say."Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint." -The Scrum Guide, page 8
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

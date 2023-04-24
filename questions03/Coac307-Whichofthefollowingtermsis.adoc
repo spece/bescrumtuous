@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "307"
+---
+
+
+[#question]
+== 307-6445678e62d2d76c66cca9bc.
+
+****
+
+[#query]
+--
+Which of the following terms is not found in the Scrum Guide?
+--
+
+[#list]
+--
+* [ ] Stakeholders
+* [*] Daily Standup
+* [*] Project Manager
+* [*] Agile
+* [ ] Increment of value
+* [ ] Lean thinking
+
+--
+****
+
+[#answer]
+BCD
+
+[#explanation]
+--
+Scrum does not have a daily standup. It has a Daily Scrum.Scrum is not a project management tool, and the term 'project management' cannot be found in the Scrum Guide. In the entire guide, the word 'project' is only seen once.And while Scrum is considered an 'Agile Methodology', the word Agile does not appear in the Scrum Guide at all.The term 'stakeholders' appears more than a dozen times.The Scrum definition uses the term 'Increment of value.' "The Scrum Team turns a selection of the work into an Increment of value during a Sprint."The Scrum Theory uses the term 'lean thinking' twice. "Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials."What's important to know here is that Scrum certification questions will often try to throw you off by adding terms like 'Agile', 'Project Manager' and 'Daily Standup' in to confuse you or throw you off guard. When these options appear, they are typically not the correct answer to a Scrum Master Certification question.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

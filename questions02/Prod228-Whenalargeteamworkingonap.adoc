@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "228"
+---
+
+
+[#question]
+== 228-6445678b7b8d73457c9d3ab8.
+
+****
+
+[#query]
+--
+When a large team working on a project is broken down into multiple, smaller teams:
+--
+
+[#list]
+--
+* [*] Each team should share the same Product Goal
+* [ ] Each team should share the same Sprint Goal
+* [*] The sum of all increments produced by each team should be integrated into every Sprint
+* [*] Each team should share the same Product Owner
+
+--
+****
+
+[#answer]
+ACD
+
+[#explanation]
+--
+When multiple Scrum Teams are working together on the same project, they will share the same Product Goal, Product Backlog and Product Owner. However, the Sprint Goal will be unique to each team, as each team will have their own, unique Sprint Backlog to work on.
+
+All increments should be integrated together throughout the Sprint and certainly before the end of the Sprint so that the results can be properly inspected, and new items can be selected from the Product Backlog without conflict or repeating work.
+--
+
+[#ka]
+Product Value
+
+'''
+

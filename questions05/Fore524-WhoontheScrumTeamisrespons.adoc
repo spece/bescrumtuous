@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "524"
+---
+
+
+[#question]
+== 524-64456797ca886e07fd8927d6.
+
+****
+
+[#query]
+--
+Who on the Scrum Team is responsible for the final estimate to complete a Product Backlog item?
+--
+
+[#list]
+--
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [*] The Scrum Developers
+* [ ] The Scrum Team as a whole
+* [ ] The Project's stakeholders
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The software developers are responsible for estimating how long a Backlog Item will take to create. This obviously comes with plenty of insight, communication and clarification from the Product Owner, but in the end, it is the Developers who know how to develop, and they are the ones who create the estimates."For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value."
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

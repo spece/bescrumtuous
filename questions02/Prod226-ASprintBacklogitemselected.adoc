@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "226"
+---
+
+
+[#question]
+== 226-6445678a7b8d73457c9d3aaa.
+
+****
+
+[#query]
+--
+A Sprint Backlog item selected, but not completed during the current Sprint:
+--
+
+[#list]
+--
+* [ ] Automatically goes into the Sprint Backlog of the next Sprint
+* [*] Automatically goes into the Product Backlog at the end of the Sprint
+* [ ] Is presented at the Sprint Review as the product of a partially-completed increment
+* [ ] Is evaluated by the Product Owner for completeness
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+Any item Product Backlog item selected during the Sprint Planning that is not completed during the current Sprint is returned to the Product Backlog. If the team wants to add the incomplete item into the next Sprint, that is their choice.Backlog Items that do not meet the Definition of Done are never presented at a Sprint Review.And if a Backlog Item has not met the accepted Definition of Done, there is no need for the Product Owner to review it.Find out more info on what happens to Product Backlog items selected during a Sprint that cannot be completed from Mary Iqbal's Scrum Blog.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

@@ -1,0 +1,63 @@
+---
+layout: default + 
+title: "129"
+---
+
+
+[#question]
+== 129-6445b163221e893e31a49cf8.
+
+****
+
+[#query]
+--
+Who on the Scrum team has the authority to add new work to the sprint backlog?
+--
+
+[#list]
+--
+* [ ] The Scrum Master and the developers
+* [*] The developers
+* [ ] The Product Owner
+* [ ] The Scrum Master
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Scrum guide states:
+
+
+
+Developers are always accountable for:
+
+- Creating a plan for the Sprint, the Sprint Backlog;
+
+- Instilling quality by adhering to a Definition of Done;
+
+- Adapting their plan each day toward the Sprint Goal; and,
+
+- Holding each other accountable as professionals.
+
+
+
+Remember, the Product Owner is responsible for the Product Backlog, not the Sprint Backlog.
+
+
+
+https://youtu.be/rmyL2BNYvKY
+
+
+
+This is a link
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

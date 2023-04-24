@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "506"
+---
+
+
+[#question]
+== 506-64456795ca886e07fd8927cb.
+
+****
+
+[#query]
+--
+The Definition of Done is not working with the Scrum Team. The team is frustrated and would like the way Done is defined to be changed. What guidance would you as a Scrum Master provide?
+--
+
+[#list]
+--
+* [ ] The Definition of Done cannot be changed. The team must self-manage and work with it as best as they can.
+* [ ] The Definition of Done can be changed at the Daily Scrum if there is consensus from the rest of the team.
+* [ ] The Definition of Done can be changed at the Sprint Review if there is consensus from the rest of the team.
+* [*] The Definition of Done can be changed at the Sprint Retrospective if there is consensus from the rest of the team.
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The Definition of Done can only be changed during the Sprint Retrospective.
+--
+
+[#ka]
+Done
+
+'''
+

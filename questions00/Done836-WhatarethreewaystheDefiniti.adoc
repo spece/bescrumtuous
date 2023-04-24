@@ -1,0 +1,46 @@
+---
+layout: default 
+title: "836 - Which three purposes does the definition"
+---
+
+
+[#question]
+== 836-63effc869ebbe935e4c16ae3.
+
+****
+
+[#query]
+--
+What are three ways the Definition of Done helps to increase transparency throughout the organization?
+--
+
+[#list]
+--
+* [*] A. The Definition of Done provides clear expectations for developers and stakeholders alike
+* [ ] B. The Definition of Done helps the Product Owner identify when developers are underperforming.
+* [*] C. The Definition of Done provides objective criteria that allows teams to know when a Product Backlog Item is complete and can be released
+* [ ] D. The Definition of Done helps stakeholders know when a task or feature will be complete
+* [*] E. The Definition of Done provides a shared understanding throughout the organization
+
+--
+****
+
+[#answer]
+ACE
+
+[#explanation]
+--
+The Definition of Done (DoD) in Scrum is an agreement among team members on the requirements that must be met for a Product Backlog item to be considered "done". Here are three ways the DoD helps increase transparency in Scrum:
+
+Clear expectations: The DoD sets clear expectations for what needs to be done for each Product Backlog item to be considered complete. This creates transparency because everyone on the team knows what is expected of them and what they need to do to complete a task. This helps eliminate confusion and miscommunications, which can increase transparency.
+
+Objective criteria: The DoD defines objective criteria that must be met for each Product Backlog item. This helps increase transparency by making it clear what the team needs to do to achieve a particular outcome. Measurable criteria also make it easier to track progress and determine whether a task is truly complete.
+
+Shared understanding: The DoD ensures that all team members have a shared understanding of what "done" means for a particular task. This creates transparency because everyone on the team is working toward the same goal and understands what it takes to achieve it. When everyone is on the same page, it's easier to identify and resolve any issues or roadblocks that arise during the development process.
+--
+
+[#ka]
+Done
+
+'''
+

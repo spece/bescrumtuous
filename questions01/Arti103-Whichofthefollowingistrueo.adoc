@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "103"
+---
+
+
+[#question]
+== 103-6445b164221e893e31a49d03.
+
+****
+
+[#query]
+--
+Which of the following is true of the Sprint Backlog
+--
+
+[#list]
+--
+* [ ] Items cannot be removed from the Sprint Backlog once Sprint Planning is complete and the Sprint has begun
+* [*] Only developers can remove items in the Sprint Backlog during the Sprint
+* [ ] Only the Product Owner can remove items in the Sprint Backlog during the Sprint
+* [ ] Only the Scrum Master can remove items in the Sprint Backlog during the Sprint
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+According to the Scrum Guide, "Developers are always accountable for adapting their plan each day toward the Sprint Goal... The Sprint Backlog is a plan by and for the Developers."
+
+It is expected that items in the Sprint Backlog will change through the Sprint. According to the Scrum Guide, "the Sprint Backlog is updated throughout the Sprint as more is learned."
+--
+
+[#ka]
+Artifacts
+
+'''
+

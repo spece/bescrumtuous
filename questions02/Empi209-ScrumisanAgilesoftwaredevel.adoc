@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "209"
+---
+
+
+[#question]
+== 209-6445678c7b8d73457c9d3abe.
+
+****
+
+[#query]
+--
+Scrum is an Agile software development methodology
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+While most people in the world refer to Scrum as a software development methodology, Scrum rejects this and demands that you call it a framework."Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems."-TSG, page 3
+--
+
+[#ka]
+Empiricism
+
+'''
+

@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "227"
+---
+
+
+[#question]
+== 227-6445678c7b8d73457c9d3aba.
+
+****
+
+[#query]
+--
+Which of the following statements are true?
+--
+
+[#list]
+--
+* [ ] The Product Owner creates the Product Backlog item's estimate
+* [ ] The Scrum Master creates the Product Backlog item's estimate
+* [*] The Development Team creates the Product Backlog item's estimate
+* [*] The Product Owner is responsible for communicating the Product Goal to developers
+* [ ] The Scrum Master is responsible for communicating the Product Goal to developers
+* [ ] The Scrum Developers create the Product Goal at the start of every Sprint
+
+--
+****
+
+[#answer]
+CD
+
+[#explanation]
+--
+The Scrum Developers are the ones who estimate the work required to complete a Product Backlog item. But this is done in collaboration with the Product Owner whose job it is to communicate the requirements of the Product Backlog item to the developers.Creation of the Product Goal and communicating that Product Goal to the rest of the team is the job of the Product Owner, not the Scrum Master or developers.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "113"
+---
+
+
+[#question]
+== 113-6445b163221e893e31a49cfc.
+
+****
+
+[#query]
+--
+According to the Scrum Guide, Scrum is a:
+--
+
+[#list]
+--
+* [ ] methodology
+* [ ] philosophy
+* [ ] process
+* [*] framework
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Scrum demands that you refer to it as a framework.
+
+"Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems." -TSG, page 3
+--
+
+[#ka]
+Empiricism
+
+'''
+

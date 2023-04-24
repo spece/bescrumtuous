@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "118"
+---
+
+
+[#question]
+== 118-6445b163221e893e31a49cfe.
+
+****
+
+[#query]
+--
+Problems with how the Jenkins CI/CD server was used during the Sprint is a valid point of discussion in a Sprint Retrospective.
+--
+
+[#list]
+--
+* [ ] False
+* [*] True
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+That's true!
+
+Any ways developers think think they can improve the development process, or issues they had with tools they used, are valid topics of discussion in a Sprint Retrospective.
+
+"The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. Inspected elements often vary with the domain of work." -TSG, page 10
+--
+
+[#ka]
+Events
+
+'''
+

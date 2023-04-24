@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "419"
+---
+
+
+[#question]
+== 419-64456793f43d5412383a20ef.
+
+****
+
+[#query]
+--
+Multiple Scrum Teams who are actively developing features for the same project:
+--
+
+[#list]
+--
+* [*] Will share the same Product Owner
+* [ ] Will have a different Product owner
+* [*] Will pick items from the same Product Backlogs
+* [ ] Will maintain their own, separate Product Backlogs
+* [*] Will maintain their own, separate Sprint Backlogs
+
+--
+****
+
+[#answer]
+ACE
+
+[#explanation]
+--
+When multiple teams work on the same project, they will have a common Product Backlog and a common Product Owner. However, they will maintain a separate Sprint Backlog because each team will be working on different things at the same time."If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner." -The Scrum Guide, page 5
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

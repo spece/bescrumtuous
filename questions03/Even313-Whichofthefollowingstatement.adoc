@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "313"
+---
+
+
+[#question]
+== 313-6445678e62d2d76c66cca9b5.
+
+****
+
+[#query]
+--
+Which of the following statements is true about the sprint?
+--
+
+[#list]
+--
+* [ ] Sprint planning is not part of the Sprint
+* [ ] The Sprint Review is not part of the Sprint
+* [ ] The Sprint Retrospective is not part of the Sprint
+* [*] None of these statements are true
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+All of the Scrum Events are considered to be part of the Sprint, including the review, retrospective and planning."All the work necessary to achieve the Product Goal, including Sprint Planning, Daily Scrums, Sprint Review, and Sprint Retrospective, happen within Sprints" -The Scrum Guide
+--
+
+[#ka]
+Events
+
+'''
+

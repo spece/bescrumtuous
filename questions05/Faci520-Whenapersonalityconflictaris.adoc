@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "520"
+---
+
+
+[#question]
+== 520-64456795ca886e07fd8927c9.
+
+****
+
+[#query]
+--
+When a personality conflict arises between developers that puts the Sprint Goal at risk, the Scrum Master should:
+--
+
+[#list]
+--
+* [ ] Inform the Product Owner of the issue
+* [ ] Inform the Project Manager of the issue
+* [*] Coach the developers on Scrum Values, self-management and the importance of being accountable as professionals
+* [ ] Escalate the problem to management and human resources
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The development team is expected to self-manage and be accountable to each other. As professionals, they are expected to resolve interpersonal conflicts on their own and choose their own avenues of resolution.When conflicts arise, the Scrum Master can coach developers on the Scrum Values of "Commitment, Focus, Openness, Respect, and Courage."If an individual developer wants to escalate issues to HR or upper management, they have the right to do so. But doing so is not the Scrum Master's responsibility.According to the Scrum Guide, "developers are always accountable for holding each other accountable as professionals."The Scrum Master can help coach the team on how to be self-managing, but problem escalation to management is not a topic covered by the Scrum Guide.
+--
+
+[#ka]
+Facilitation
+
+'''
+

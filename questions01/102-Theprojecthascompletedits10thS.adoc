@@ -1,0 +1,42 @@
+---
+layout: default + 
+title: "102"
+---
+
+
+[#question]
+== 102-6445b165221e893e31a49d0d.
+
+****
+
+[#query]
+--
+The project has completed its 10th Sprint, but the stakeholders are unhappy with the progress and are not seeing the results they want. Who is most accountable for this issue?
+--
+
+[#list]
+--
+* [ ] The Stakeholders
+* [*] The Scrum Master
+* [ ] The Development Team
+* [ ] The Product Owner
+* [ ] The Scrum Team as a whole
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Scrum Master is responsible for coaching the entire team, and the stakeholders, about Scrum Values and Scrum adoption.
+
+If transparency into the project and the process has deteriorated over time to a point where stakeholders are unhappy, frustrated and feel there is not enough transparency in the process, then the responsibility falls on the shoulders of the Scrum Master for not coaching everyone effectively on the use of the Scrum framework.
+--
+
+[#ka]
+
+
+'''
+

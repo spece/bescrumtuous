@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "202"
+---
+
+
+[#question]
+== 202-6445678b7b8d73457c9d3ab3.
+
+****
+
+[#query]
+--
+A valuable increment:
+--
+
+[#list]
+--
+* [*] Should be created before the end of every Sprint
+* [ ] Happens every second Sprint
+* [ ] Is created when unit testing completes successfully
+* [ ] Must be agreed upon by a consensus of stakeholders in the Sprint Review
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+According to page 5 of the Scrum Guide, "the entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint."Technically speaking, an increment occurs every time a Product Backlog item meets the Definition of Done. Increments can happen any time throughout a Sprint, but must happen at some time before the Sprint ends.
+--
+
+[#ka]
+Artifacts
+
+'''
+

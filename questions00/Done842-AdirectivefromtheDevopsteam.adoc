@@ -1,0 +1,49 @@
+---
+layout: default 
+title: "842 - How should a Development Team deal with "
+---
+
+
+[#question]
+== 842-63efffa59ebbe935e4c16b44.
+
+****
+
+[#query]
+--
+A directive from the Devops team states products cannot be released unless non-functional requirements for latency, performance, security and reliability are met. How should the Scrum Team deal with non-functional requirements.
+--
+
+[#list]
+--
+* [ ] A. Create a separate team outside of Scrum to handle non-functional requirements.
+* [ ] B. Create a second Scrum team to address non-functional requirements.
+* [ ] C. Create an 'Integration Sprint' where non-functional requirements are tested and validated.
+* [*] D. Include non-functional requirements in the Definition of Done and make sure every increment satisfies them.
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+If non-functional requirements are part of the products they are building, then the Scrum team must include non-functional requirements in the definition of done (DoD). This helps ensure that the final product meets all of the necessary quality standards and is fully functional. Non-functional requirements, also known as "quality requirements," are typically related to the performance, security, usability, and maintainability of the product.
+
+Here are a few reasons why non-functional requirements should be included in the DoD:
+
+Ensures product quality: By including non-functional requirements in the DoD, the team is ensuring that the final product meets all of the necessary quality standards. This helps to reduce the risk of technical debt and avoid issues that could arise during production use.
+
+Increases team accountability: By having non-functional requirements in the DoD, the team takes on the responsibility of ensuring that these requirements are met. This increases team accountability and encourages a culture of continuous improvement.
+
+Aligns with the Agile manifesto: The Agile manifesto values "working software" and "customer satisfaction," which includes non-functional requirements. By including non-functional requirements in the DoD, the team is working to create a high-quality product that meets the needs of the customer.
+
+Overall, including non-functional requirements in the DoD is essential for creating a high-quality product that meets the needs of the customer. It helps to ensure that the team is accountable for meeting all necessary quality standards and promotes a culture of continuous improvement.
+--
+
+[#ka]
+Done
+
+'''
+

@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "322"
+---
+
+
+[#question]
+== 322-6445678f62d2d76c66cca9c4.
+
+****
+
+[#query]
+--
+A Scrum Team:
+--
+
+[#list]
+--
+* [*] Should be small enough to remain nimble
+* [*] Large enough to complete a significant amount of work
+* [ ] Be 7 or fewer people
+* [ ] Never share the Scrum Master or Product Owner with other Scrum Teams
+* [*] Reorganized into smaller teams when they become too large
+
+--
+****
+
+[#answer]
+ABE
+
+[#explanation]
+--
+The Scrum team should be small enough to respond to change easily but big enough to get work done. And when a team grows too big, which is more than 10 people, it should be reorganized into smaller groups.When teams are reorganized, they will share the same Product Owner if they are working on the same product."The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive. If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product. Therefore, they should share the same Product Goal, Product Backlog, and Product Owner." -The Scrum Guide, page 5
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

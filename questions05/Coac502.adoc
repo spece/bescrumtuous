@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "502"
+---
+
+
+[#question]
+== 502-64456794ca886e07fd8927c4.
+
+****
+
+[#query]
+--
+From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint."
+--
+
+[#list]
+--
+* [*] The daily standup must take place at the same time and place every working day of the Sprint
+* [ ] The daily standup must take place in the same location every working day of the Sprint, although the time can change
+* [ ] The daily standup must take place at the same time every working day of the Sprint, although the location can change
+* [ ] The time and location of the daily standup can change throughout the sprint so long as all Scrum Team members are notified
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+Throughout the Sprint, the location and time of the Daily Scrum must not change.From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint."
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

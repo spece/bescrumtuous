@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "605"
+---
+
+
+[#question]
+== 605-6445679b3730ef520188ad65.
+
+****
+
+[#query]
+--
+This approach to process management reduces waste and helps users focus on what is essential:
+--
+
+[#list]
+--
+* [ ] Agile
+* [*] Lean
+* [ ] Kanban
+* [ ] Waterfall
+* [ ] XP
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Scrum Guide says Scrum is founded on empiricism and lean thinking.Waterfall, Kanban, Agile and XP are not mentioned in the Scrum Guide and are unlikely to be correct answers on the PSMI exam."Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed. Lean thinking reduces waste and focuses on the essentials."-TSC, page 3
+--
+
+[#ka]
+Empiricism
+
+'''
+

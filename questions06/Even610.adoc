@@ -1,0 +1,44 @@
+---
+layout: default + 
+title: "610"
+---
+
+
+[#question]
+== 610-644567993730ef520188ad55.
+
+****
+
+[#query]
+--
+The Daily Scrum:
+--
+
+[#list]
+--
+* [ ] Must include the three 'today, tomorrow and yesterday' questions
+* [ ] Must include the three 'today, tomorrow and impediments' questions
+* [ ] Must include the three 'when, where and why' questions
+* [*] Has no set structure with regards to questions that must be asked or answered.
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+There was a time when each developer in the Daily Scrum was required to answer:1.
+What will I be working on next?
+2.
+What did I do yesterday and what did I learn from it?
+3.
+What impediments are blocking my Sprint Goal attainment?These are all good questions, and they do help developers inspect their own progress as they work towards the Sprint Goal. However, they are no longer required. Developers are encourages to come up with their own questions.Nevertheless, these are good questions and many successful Scrum teams still use them.
+--
+
+[#ka]
+Events
+
+'''
+

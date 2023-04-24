@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "606"
+---
+
+
+[#question]
+== 606-644567983730ef520188ad4f.
+
+****
+
+[#query]
+--
+The break after a four week Sprint before a new Sprint begins is timeboxed to:
+--
+
+[#list]
+--
+* [ ] No more than one week
+* [ ] No more than 8 hours
+* [ ] No more than 4 hours
+* [*] There is not break after a Sprint
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+There is no break after a Sprint. All of the Sprint Events happen within the Sprint, so when one Sprint completes, a new Sprint immediately begins.
+
+"They are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint." -The Scrum Guide
+--
+
+[#ka]
+Events
+
+'''
+

@@ -1,0 +1,45 @@
+---
+layout: default 
+title: "831 - What enhances the transparency of an inc"
+---
+
+
+[#question]
+== 831-63effa859ebbe935e4c16a9a.
+
+****
+
+[#query]
+--
+How can the delivery of an Increment of Work be used to build trust and make the development process more transparent?
+--
+
+[#list]
+--
+* [*] A. Trust and transparency is built when the development team delivers an increment of work that meets all the criteria set out in the Definition of Done.
+* [ ] B. Trust and transparency is built when the Scrum Master reports the Scrum Team's progress to stakeholders after the conclusion of the Daily Scrum.
+* [ ] C. Trust and transparency is built by the Scrum Master having open discussions with stakeholders throughout the Sprint with regards to which Backlog Items will not be completed on schedule.
+* [ ] D. Trust and transparency is built by updating Sprint progress in an electronic tracking tool like JIRA. This provides stakeholders transparency without the need to interrupt the development team with meetings.
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+You build trust when you do what you say you are going to do.
+
+Continually deliver increments of work that fully meet the Definition of Done and trust and transparency will be built.
+
+The Scrum Guide does not discuss tools like JIRA, so JIRA related answers will not be correct on the Scrum Certification Exam.
+
+The Scrum Master is not responsible for reporting back to stakeholders, so options that suggest such a strategy are incorrect.
+--
+
+[#ka]
+Done
+
+'''
+

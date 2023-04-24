@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "111"
+---
+
+
+[#question]
+== 111-6445b166221e893e31a49d11.
+
+****
+
+[#query]
+--
+Regulatory compliance issues pertinent to a product feature:
+--
+
+[#list]
+--
+* [ ] Are a concern external to the Scrum team
+* [*] Should be included as part of the Definition of Done
+* [ ] Should be handled by the legal team after the Increment is created
+* [ ] Should be handled by the legal team before the item is added to the backlog
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+If there is a regulatory compliance issue associated with a Product Backlog item, include it in the item's definition of done so that it is addressed during development.
+--
+
+[#ka]
+Done
+
+'''
+

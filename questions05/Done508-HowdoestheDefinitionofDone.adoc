@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "508"
+---
+
+
+[#question]
+== 508-64456796ca886e07fd8927d2.
+
+****
+
+[#query]
+--
+How does the Definition of Done create transparency?
+--
+
+[#list]
+--
+* [ ] Everyone can see the JIRA ticket associated with the Definition of Done, which creates transparency
+* [ ] The Definition of Done provides a shared understanding of all the work performed during the Sprint, thus creating transparency
+* [*] The Definition of Done provides a shared understanding of the work completed as part of an increment, thus creating transparency
+* [ ] Transparency is not a attribute associated with the Definition of Done
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+Page 12 of the Scrum Guide says it best: "The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment."
+--
+
+[#ka]
+Done
+
+'''
+

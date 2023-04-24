@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "503"
+---
+
+
+[#question]
+== 503-64456795ca886e07fd8927c6.
+
+****
+
+[#query]
+--
+Developers have realized they are not on track to deliver all of the Product Backlog Items selected for the Sprint. The developers should?
+--
+
+[#list]
+--
+* [*] Remove lower ordered Product Backlog items from the Sprint
+* [*] Focus on delivering Product Backlog Items which are most valuable to the Sprint Goal
+* [ ] Ask the Product Owner to remove low-priority Backlog items from the current Sprint
+* [ ] Work as much time as is required to complete the selected Product Backlog items and meet the Definition of Done
+
+--
+****
+
+[#answer]
+AB
+
+[#explanation]
+--
+It's not uncommon to incorrectly estimate the amount of time it will take to complete the Backlog items selected for a Sprint.If the developers realize they are not on track to complete every backlog item, "the team may decide to remove lower ordered Product Backlog Items from the Sprint in order to allow the team to focus on delivering the Product Backlog Items which are most valuable to the Sprint Goal," says Mary Iqbal in her Scrum.org blog.Only developers can remove items from the Sprint Backlog. The Product Owner cannot.It is not a good practice to punish developers and force them to work overtime hours simply because a Sprint was poorly estimated. Demanding overtime from developers to fix planning problems is not part of the sustainable development model Scrum advocates.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

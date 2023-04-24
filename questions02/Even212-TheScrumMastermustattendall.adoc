@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "212"
+---
+
+
+[#question]
+== 212-6445678a7b8d73457c9d3aac.
+
+****
+
+[#query]
+--
+The Scrum Master must attend all Scrum Events
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Scrum Master must attend Sprint Planning, the Sprint Review and the Sprint Retrospective, but there is no requirement for the Scrum Master to attend the Daily Scrum.
+--
+
+[#ka]
+Events
+
+'''
+

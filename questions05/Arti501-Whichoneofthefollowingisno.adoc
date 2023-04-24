@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "501"
+---
+
+
+[#question]
+== 501-64456794ca886e07fd8927c2.
+
+****
+
+[#query]
+--
+Which one of the following is not considered part of the Sprint Backlog:
+--
+
+[#list]
+--
+* [ ] The Sprint Goal
+* [ ] Selected product backlog items
+* [*] The Sprint Review
+* [ ] The Sprint delivery plan
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Sprint Review is not part of the Spring Backlog.From the Scrum Guide: "The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog."
+--
+
+[#ka]
+Artifacts
+
+'''
+

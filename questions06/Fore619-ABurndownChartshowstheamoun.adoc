@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "619"
+---
+
+
+[#question]
+== 619-6445679b3730ef520188ad63.
+
+****
+
+[#query]
+--
+A Burndown Chart shows the amount of work that has been completed in an epic or sprint, and the total work remaining.
+--
+
+[#list]
+--
+* [*] True
+* [ ] False
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+A Burndown Chart shows the amount of work done and the amount of work remaining.This was mentioned in older Scrum Guides but not the new one. There is a chance you might see a reference to a Burndown Chart on the exam."A burndown chart shows the amount of work that has been completed in an epic or sprint, and the total work remaining. Burndown charts are used to predict your team's likelihood of completing their work in the time available." -Atlassian Tutorials
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

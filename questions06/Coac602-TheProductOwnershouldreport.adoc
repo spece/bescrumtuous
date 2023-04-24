@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "602"
+---
+
+
+[#question]
+== 602-644567993730ef520188ad58.
+
+****
+
+[#query]
+--
+The Product Owner should report the issues raised during the Sprint Retrospective back to the stakeholders they represent in the form of a Sprint Retrospective Summary.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.The Sprint Review is the opportunity for the stakeholders to inspect progress.The Scrum Team must be allowed to speak honestly and openly during the Sprint Retrospective without feeling as though every statement they make will be reported back to the stakeholders.Communication throughout the team is important, and that includes the stakeholders, but a full report of what occurs during the Sprint Retrospective would not be productive.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

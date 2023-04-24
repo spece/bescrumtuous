@@ -1,0 +1,46 @@
+---
+layout: default + 
+title: "114"
+---
+
+
+[#question]
+== 114-6445b162221e893e31a49cf0.
+
+****
+
+[#query]
+--
+Which of the following are true about the Daily Scrum?
+--
+
+[#list]
+--
+* [ ] Everyone stands up
+* [ ] It takes place every morning at the same time
+* [*] It takes place in the same location every day
+* [ ] The Scrum Master is required to attend
+* [ ] The Product Owner is required to attend
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Daily Scrum is for developers, so the Scrum Master and Product Owner need not attend.
+
+The Daily Scrum is not a 'Daily Standup.' Participants are not expected to stand.
+
+There is no requirement to hold the Daily Scrum in the morning or at the start of the day. All that is required that it happens at the same time and in the same place every day.
+
+So the answer to this question is that it must take place in the same location every day.
+--
+
+[#ka]
+Events
+
+'''
+

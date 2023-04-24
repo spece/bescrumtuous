@@ -1,0 +1,54 @@
+---
+layout: default 
+title: "816 - A Scrum Master is introducing Scrum to a"
+---
+
+
+[#question]
+== 816-63effabd9ebbe935e4c16aa1.
+
+****
+
+[#query]
+--
+You're the Scrum Master and you've run into a problem with your team.
+
+- Developers think Retrospectives are not productive
+- Developers do not want to attend Retrospectives anymore
+
+How should the Scrum Master respond?
+--
+
+[#list]
+--
+* [ ] A. Bring human resources in to talk to the developers about their roles and responsibilities.
+* [ ] B. Respect the decision of the self-managed and self-organized team and skip the Sprint Retrospectives.
+* [ ] C. Consult the Product Owner, as they have final say over whether a Sprint Retrospective needs to be done
+* [*] D. Educate the team on how Sprint Retrospectives help reinforce Scrum values, and help to facilitate more productive Retrospectives.
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+As a certified Scrum Master, it's important to recognize that the Sprint Retrospective is a critical ceremony in the Scrum framework. The retrospective provides the team with an opportunity to reflect on their work during the previous sprint, identify areas for improvement, and make adjustments to their process for the next sprint.
+
+If developers want to cancel the Sprint Retrospective, it's important to understand their reasoning and address their concerns. Here are some steps that a Scrum Master could take:
+
+Understand the reasons: The Scrum Master should have a conversation with the developers to understand why they want to cancel the Sprint Retrospective. There may be valid concerns or issues that the team needs to address.
+
+Educate the team: The Scrum Master should educate the team on the importance of the Sprint Retrospective and the benefits that can come from holding the ceremony. The Scrum Master can explain that canceling the retrospective could lead to missed opportunities for process improvement and may negatively impact team morale.
+
+Identify alternative solutions: The Scrum Master can work with the team to identify alternative solutions that address their concerns while still allowing the team to hold the retrospective. For example, if the developers feel that the retrospectives are taking too much time, the team could try shortening the retrospective or adjusting the format to make it more efficient.
+
+Scrum is immutable. That means it must be done in its entirety or not done at all. Sprint Retrospectives cannot be cancelled if you want to describe what you are doing as Scrum.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

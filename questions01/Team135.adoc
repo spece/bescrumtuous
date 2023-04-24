@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "135"
+---
+
+
+[#question]
+== 135-6445b163221e893e31a49cf6.
+
+****
+
+[#query]
+--
+A Scrum Team:
+--
+
+[#list]
+--
+* [ ] Can share their Scrum Master only with teams working on the same project
+* [*] Can share their Scrum Master with other teams
+* [ ] Must have a Scrum Master who is committed to it 100% of the time
+* [ ] Can have more than one Scrum Master
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+There is no rule that says a Scrum Master can only work on one team. Many teams, working on many different projects can share a Scrum Master. Whether that is a good system to use is up to the team and the organization to decide.
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

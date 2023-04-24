@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "220"
+---
+
+
+[#question]
+== 220-6445678d7b8d73457c9d3ac5.
+
+****
+
+[#query]
+--
+What is the maximum length of a Sprint?
+--
+
+[#list]
+--
+* [ ] Two months
+* [ ] 8 weeks
+* [*] One month
+* [ ] Four weeks
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Scrum Guide states that a Sprint should be no more than a single month in length.
+--
+
+[#ka]
+Events
+
+'''
+

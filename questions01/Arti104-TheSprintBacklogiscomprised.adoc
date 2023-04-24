@@ -1,0 +1,42 @@
+---
+layout: default + 
+title: "104"
+---
+
+
+[#question]
+== 104-6445b164221e893e31a49d06.
+
+****
+
+[#query]
+--
+The Sprint Backlog is comprised of:
+--
+
+[#list]
+--
+* [ ] The Sprint and the plan for delivering
+* [ ] The Product Backlog items selected for the Sprint and the Sprint Goal
+* [*] The Product Backlog items selected for the Sprint, the Spring Goal and the plan for delivering them
+* [ ] The Product Backlog items selected for the Sprint
+* [ ] The Product Backlog items selected for the Sprint and the plan for delivering them
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Sprint Backlog is made up of the Sprint Goal, Product Backlog items added to the Sprint, and the plan for delivering.
+
+"The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog." -TSG, page 9
+--
+
+[#ka]
+Artifacts
+
+'''
+

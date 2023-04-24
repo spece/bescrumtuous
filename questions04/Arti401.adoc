@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "401"
+---
+
+
+[#question]
+== 401-64456791f43d5412383a20e0.
+
+****
+
+[#query]
+--
+During the Sprint:
+--
+
+[#list]
+--
+* [ ] Developers may renegotiate the scope of the Sprint Backlog with the Scrum Master
+* [*] Developers may renegotiate the scope of the Sprint Backlog with the Product Owner
+* [ ] Developers may renegotiate the scope of the Sprint Backlog with each other
+* [ ] The scope of the Sprint Backlog cannot be renegotiated without putting the Sprint Goal at risk
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+According to the Scrum Guide, "during the Sprint, scope may be clarified and renegotiated with the Product Owner as more is learned." Furthermore, ". If the work turns out to be different than the developers expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal."
+--
+
+[#ka]
+Artifacts
+
+'''
+

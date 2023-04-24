@@ -1,0 +1,48 @@
+---
+layout: default + 
+title: "108"
+---
+
+
+[#question]
+== 108-6445b163221e893e31a49cfa.
+
+****
+
+[#query]
+--
+Which of the following software development roles are not discussed within the Scrum Guide?
+--
+
+[#list]
+--
+* [ ] Product Owners
+* [*] Team Leads
+* [*] Senior Developers
+* [ ] Developers
+* [*] Testers
+* [*] Sys Admins
+* [*] Project Managers
+
+--
+****
+
+[#answer]
+BCEFG
+
+[#explanation]
+--
+The only three roles discussed in the Scrum Guide are Developers, Product Owners and the Scrum Master.
+
+The Scrum Guide also describes the people who are interested in the success of the project as Stakeholders, although Stakeholder is not a recognized Scrum Role.
+
+Scrum believes in self-organized teams. That means the development team itself can decide who will do testing, analysis, architecture and core development.
+
+Who does what and how much of it in terms of development is not a concern of Scrum. What Scrum does concern itself with is the development team self-organizing in such a way that all of the things that are required to meet the Definition of Done get completed. How this is done is up to the team.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

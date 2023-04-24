@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "408"
+---
+
+
+[#question]
+== 408-64456792f43d5412383a20ea.
+
+****
+
+[#query]
+--
+The purpose of which Scrum Event is to adapt the Sprint Backlog and adjust the planned, upcoming work?
+--
+
+[#list]
+--
+* [*] Daily Scrum
+* [ ] Sprint Planning
+* [ ] Sprint Review
+* [ ] Sprint Retrospective
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+According to the Scrum Guide, "the purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work."
+--
+
+[#ka]
+Empiricism
+
+'''
+

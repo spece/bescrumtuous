@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "320"
+---
+
+
+[#question]
+== 320-6445678f62d2d76c66cca9bd.
+
+****
+
+[#query]
+--
+Every Sprint must:
+--
+
+[#list]
+--
+* [*] Create a useful increment
+* [ ] Create a useful iteration
+* [ ] Complete every item in the Sprint backlog
+* [ ] Complete every item in the Product backlog
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+According to the Scrum Guide, "the entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint."The Scrum Guide doesn't actually use the term iteration.Not every item in the Sprint Backlog gets completed in a Sprint. Anything left unfinished at the end of the Sprint goes back into the Product Backlog to potentially be added into the next Sprint.
+--
+
+[#ka]
+Product Value
+
+'''
+

@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "507"
+---
+
+
+[#question]
+== 507-64456796ca886e07fd8927cf.
+
+****
+
+[#query]
+--
+Final say over how the Definition of Done is defined is given to:
+--
+
+[#list]
+--
+* [ ] The Organization
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [ ] The development team
+* [*] The Scrum Team as a whole
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+The Definition of Done is created and agreed upon by the Scrum Team as a whole.If the Organization has their own Definition of Done, this is used as a foundation, but the team has the right to improve upon this definition and create a Definition of Done that works best for them.But the creation of the Definition of Done is a team responsibility. It is not the job of the Product Owner."If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product." -The Scrum Guide, page 12.
+--
+
+[#ka]
+Done
+
+'''
+

@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "420"
+---
+
+
+[#question]
+== 420-64456793f43d5412383a20f2.
+
+****
+
+[#query]
+--
+The Product Owner must be 100% dedicated to a single Scrum Team
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.
+
+A Product Owner may work with multiple Scrum Teams.In fact, if two Scrum Teams are working on the same project, a single Product Owner must be shared between them.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

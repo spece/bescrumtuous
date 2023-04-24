@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "133"
+---
+
+
+[#question]
+== 133-6445b164221e893e31a49d01.
+
+****
+
+[#query]
+--
+The definition of done cannot be changed during the Sprint.
+--
+
+[#list]
+--
+* [*] False
+* [ ] True
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+This is true.
+
+The Definition of Done can be changed during the Sprint Retrospective.
+
+Some thing the Sprint Retrospective happens after the Sprint. This is not true.
+
+A Sprint incorporates all of the Scrum Events, including the Daily Scrums, Scrum Review and Scrum Retrospective.
+--
+
+[#ka]
+Product Value
+
+'''
+

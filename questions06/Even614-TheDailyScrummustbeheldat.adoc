@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "614"
+---
+
+
+[#question]
+== 614-6445679b3730ef520188ad67.
+
+****
+
+[#query]
+--
+The Daily Scrum must be held at the same time and place every day.
+--
+
+[#list]
+--
+* [*] True
+* [ ] False
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+This is true."To reduce complexity, it is held at the same time and place every working day of the Sprint." -TSG, page 9
+--
+
+[#ka]
+Events
+
+'''
+

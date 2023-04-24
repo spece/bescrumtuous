@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "624"
+---
+
+
+[#question]
+== 624-644567993730ef520188ad53.
+
+****
+
+[#query]
+--
+Who has the right to cancel the Sprint?
+--
+
+[#list]
+--
+* [*] The Product Owner
+* [ ] The Scrum Master
+* [ ] A consensus of Developers
+* [ ] The Scrum Master with the consent of the Product Owner
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+Only the Product Owner can cancel a Sprint.
+"A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint." -The Scrum Guide
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

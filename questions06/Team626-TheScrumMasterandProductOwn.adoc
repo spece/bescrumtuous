@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "626"
+---
+
+
+[#question]
+== 626-6445679a3730ef520188ad62.
+
+****
+
+[#query]
+--
+The Scrum Master and Product Owner must be 100% committed to a single Scrum Team.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.There is no rule that states a Scrum Master or a Product Owner can't work with multiple teams at the same time.
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

@@ -1,0 +1,66 @@
+---
+layout: default 
+title: "813 - A Scrum Team has been working on a produ"
+---
+
+
+[#question]
+== 813-63eff9e39ebbe935e4c16a85.
+
+****
+
+[#query]
+--
+A new Scrum Master has been hired and is unclear about exactly what they are supposed to do. 
+
+Which three tasks are considered essential for the Scrum Master to perform according to the Scrum Guide? 
+--
+
+[#list]
+--
+* [ ] A. Ensure every developer gets a chance to speak at the Daily Scrum
+* [ ] B. Ensure all stakeholders, developers and the Product Owner attend the Sprint Retrospective
+* [*] C. Coach the team members in self-management and cross-functionality
+* [*] D. Remove barriers between stakeholders and Scrum Teams
+* [*] E. Facilitate stakeholder collaboration
+
+--
+****
+
+[#answer]
+CDE
+
+[#explanation]
+--
+The Scrum Master does not participate in the Daily Scrum, and in fact, the Scrum Guide does not even require that they attend the Daily Scrum.
+
+Also, stakeholders do not attend the Sprint Retrospective. They attend the Sprint Review, but not the retrospective.
+
+The correct options were all taken directly out of the Scrum Guide:
+
+The Scrum Master serves the Scrum Team in several ways, including:
+- Coaching the team members in self-management and cross-functionality;
+- Helping the Scrum Team focus on creating high-value Increments that meet the Definition of Done;
+- Causing the removal of impediments to the Scrum Team?s progress; and,
+- Ensuring that all Scrum events take place and are positive, productive, and kept within the timebox.
+
+The Scrum Master serves the Product Owner in several ways, including:
+?? Helping find techniques for effective Product Goal definition and Product Backlog management;
+?? Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+?? Helping establish empirical product planning for a complex environment; and,
+?? Facilitating stakeholder collaboration as requested or needed.
+
+The Scrum Master serves the organization in several ways, including:
+?? Leading, training, and coaching the organization in its Scrum adoption;
+?? Planning and advising Scrum implementations within the organization;
+?? Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
+?? Removing barriers between stakeholders and Scrum Teams.
+
+
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

@@ -1,0 +1,55 @@
+---
+layout: default 
+title: "839 - Which three phrases best describe the pu"
+---
+
+
+[#question]
+== 839-63effe7c9ebbe935e4c16b23.
+
+****
+
+[#query]
+--
+Which of the following is true about the Definition of Done(DoD)?
+--
+
+[#list]
+--
+* [*] A. The Definition of Done is a formal description of the state of the Increment when it meets the quality measures required for the product.
+* [ ] B. Product Backlog Items that do not meet the Definition of Done can be integrated and released with the consent of the Product Owner.
+* [ ] C. Product Backlog Items that do not meet the Definition of Done can be integrated and released with the consent of the Scrum Master
+* [*] D. The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment.
+* [ ] E. Multiple Scrum Teams working together on a product must individually define and comply with their own Definition of Done.
+* [*] F. Multiple Scrum Teams working together on a product must mutually define and comply with the same Definition of Done.
+
+--
+****
+
+[#answer]
+ADF
+
+[#explanation]
+--
+A, D and F are all quotes taken directly out of the Scrum Guide.
+
+Not even the Product Owner or Scrum Master can release something into production if the Definition of Done is not met.
+
+Defining and complying with the same "Definition of Done" (DoD) is important for multiple teams working on the same project for several reasons:
+
+Consistency: When multiple teams are working on the same project, it is essential that they maintain consistency in their approach to the work. A clear, agreed-upon Definition of Done helps ensure that all teams have a common understanding of what is expected of them and what the final product should look like.
+
+Quality: The Definition of Done sets the quality standards for the project. By defining what it means to be "done" with a task, the teams can focus on meeting those standards and ensuring that the product is of high quality. If each team has its own definition of "done," there may be discrepancies in the quality of the work produced.
+
+Transparency: A shared Definition of Done promotes transparency and open communication between teams. By having a common understanding of what it means to be "done," it is easier for teams to track progress and identify any potential roadblocks or areas of concern. This helps to prevent misunderstandings or missed deadlines.
+
+Accountability: With a common Definition of Done, all teams are held accountable for meeting the same standards. This helps to ensure that everyone is working towards the same goals and that no team is allowed to cut corners or take shortcuts.
+
+In summary, a shared Definition of Done promotes consistency, quality, transparency, and accountability among multiple teams working on the same project.
+--
+
+[#ka]
+Done
+
+'''
+

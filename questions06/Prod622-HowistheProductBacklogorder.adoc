@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "622"
+---
+
+
+[#question]
+== 622-6445679a3730ef520188ad60.
+
+****
+
+[#query]
+--
+How is the Product Backlog ordered?
+--
+
+[#list]
+--
+* [ ] FIFO (First In, First Out)
+* [ ] LILO (Last In, Last Out)
+* [ ] By which are most difficult
+* [*] By which are most valuable
+* [ ] The order is randomized at the start of each Sprint Planning meeting.
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Product Backlog items are prioritized according to which ones are most valuable, with the most important items prioritized at the top.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

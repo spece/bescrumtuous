@@ -1,0 +1,40 @@
+---
+layout: default 
+title: "961 - Every Development Team should have Choos"
+---
+
+
+[#question]
+== 961-63effc3c9ebbe935e4c16ad7.
+
+****
+
+[#query]
+--
+What are two essential characteristic of a successful Scrum Team?
+--
+
+[#list]
+--
+* [*] A. The team has been given the freedom to self-manage
+* [ ] B. The team has specialized sub-teams to do QA or Unit Testing
+* [*] C. The team has the ability to self-organize
+
+--
+****
+
+[#answer]
+AC
+
+[#explanation]
+--
+Options A and C are correct.
+
+Every Scrum Developer is considered an equal. There are no sub-teams or sub-groups in Scrum.
+--
+
+[#ka]
+Scrum Team
+
+'''
+

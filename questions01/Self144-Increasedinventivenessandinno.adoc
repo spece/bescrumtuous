@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "144"
+---
+
+
+[#question]
+== 144-6445b164221e893e31a49cff.
+
+****
+
+[#query]
+--
+Increased inventiveness and innovation is a characteristic of:
+--
+
+[#list]
+--
+* [ ] Teams where roles are well defined
+* [ ] Scrum Masters
+* [ ] Patriarchal hierarchies
+* [*] Self-managed teams
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Scrum does not break down roles on the Development Team to anything more specific than just 'developer.'
+
+The Scrum Guide does not describe testers or analysts or team leads. This is because it is believed that self-managed teams are more innovative, accountable and committed to the success of the project.
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

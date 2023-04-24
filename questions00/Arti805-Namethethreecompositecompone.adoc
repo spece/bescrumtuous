@@ -1,0 +1,40 @@
+---
+layout: default 
+title: "805 - What is included in the Sprint Backlog S"
+---
+
+
+[#question]
+== 805-63effc0c9ebbe935e4c16acf.
+
+****
+
+[#query]
+--
+Name the three composite components of the Sprint Backlog?
+--
+
+[#list]
+--
+* [*] A. Product Backlog Items selected for the sprint
+* [*] B. The Sprint Plan
+* [*] C. The Sprint Goal
+* [ ] D. Sprint Backlog Items selected for the Sprint
+* [ ] E. The Product Goal
+
+--
+****
+
+[#answer]
+ABC
+
+[#explanation]
+--
+The Product Goal is not part of the Sprint, and the term 'Sprint Backlog Item' does not appear anywhere in the Scrum Guide. Instead, Product Backlog Items are selected for the Sprint, but they are not specifically called Sprint Backlog Items in the Guide.
+--
+
+[#ka]
+Artifacts
+
+'''
+

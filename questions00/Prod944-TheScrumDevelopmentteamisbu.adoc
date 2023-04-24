@@ -1,0 +1,45 @@
+---
+layout: default 
+title: "944 - When a Development Team is having troubl"
+---
+
+
+[#question]
+== 944-63effd049ebbe935e4c16af6.
+
+****
+
+[#query]
+--
+The Scrum Development team is building a house, and the requirements for how the bathroom should be laid out are unclear. What should the Scrum Developers do?
+--
+
+[#list]
+--
+* [ ] A. Outsource the building of the bathroom to a third party.
+* [*] B. Ask the Product Owner for clarification on the requirements.
+* [ ] C. Ask the Scrum Master to seek clarification of the requirements from the home builder.
+* [ ] D. Scrum cannot be used outside of software development.
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+Scrum isn't just for software development.
+
+In fact, a good strategy on the Scrum Master Certification exam is to reframe a question as though it was in the construction domain or the manufacturing domain.
+
+If a team of construction workers building a house weren't clear on how to finish the bathroom, they'd consult the homeowner, or at least the person trusted to clarify the requirements. In that scenario, the construction workers would be the developers, and the home owner or builder would be the Product Owner.
+
+The correct answer? Have the developers seek clarification from the Product Owner with regards to requirements.
+--
+
+[#ka]
+Product Value
+
+'''
+

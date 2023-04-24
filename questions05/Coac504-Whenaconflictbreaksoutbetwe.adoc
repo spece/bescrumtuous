@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "504"
+---
+
+
+[#question]
+== 504-64456796ca886e07fd8927d0.
+
+****
+
+[#query]
+--
+When a conflict breaks out between two developers over how to proceed and achieve the Scrum Goal, what option would be most in line with the Scrum Guide?
+--
+
+[#list]
+--
+* [ ] Defer the two developers to Human Resources
+* [ ] Remove the two developers from the team until the Sprint completes
+* [ ] Have the Scrum Master remove the least productive of the two programmers from the Scrum Team
+* [ ] Have the self-managed development team choose to remove one of the two programmers from the team
+* [*] Involve the complete Scrum Team in making a decision about how to proceed towards the Scrum Goal
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+Conflicts are always a challenge to deal with, regardless of whether you are a developer, Scrum Master or Product Owner.When a conflict does arise, try to involve the entire Scrum Team in decision making, and use active and empathetic listening techniques to try and hear each party's point of view and facilitate a resolution.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

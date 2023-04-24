@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "143"
+---
+
+
+[#question]
+== 143-6445b162221e893e31a49cf1.
+
+****
+
+[#query]
+--
+When developers are split up into teams, what should be the highest priority?
+--
+
+[#list]
+--
+* [*] Each team has the skills required to meet all the Definitions of Done
+* [ ] Each team is approximately the same size
+* [ ] Each team has a designated Team Lead
+* [ ] Each team has an equal mix of junior and senior developers
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+When building a Scrum Team we do not worry about team leads, or testers or SMEs (Subject Matter Experts). What matters is the teams have the skills necessary to complete the project.
+
+If a team doesn't have the combined skills to achieve the Definition of Done, what point is there having them work on a Backlog Item?
+
+"Within a Scrum Team, there are no sub-teams or hierarchies." -TSG, page 5
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "319"
+---
+
+
+[#question]
+== 319-6445678e62d2d76c66cca9b6.
+
+****
+
+[#query]
+--
+A Product Backlog item selected during Sprint Planning, but not completed during the current Sprint, Automatically gets added to the next Sprint's Sprint Backlog
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.Items not completed during a Sprint are returned to the Product Backlog.Circumstances may have changed since the prior Sprint began. As such, the team should evaluate whether an item not completed in a previous Sprint is still a priority in the next Sprint.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

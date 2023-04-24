@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "525"
+---
+
+
+[#question]
+== 525-64456798ca886e07fd8927e1.
+
+****
+
+[#query]
+--
+Which of the following is not mentioned within the Scrum Guide?
+--
+
+[#list]
+--
+* [*] Release planning
+* [*] Sprint 0
+* [ ] Sprint Retrospective
+* [*] Burndown charts
+* [ ] Product Goal
+
+--
+****
+
+[#answer]
+ABD
+
+[#explanation]
+--
+The Sprint Retrospective and the Product Goal are important parts of the 2020 Scrum Guide.Release planning, Sprint 0 and Burndown charts are not.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "219"
+---
+
+
+[#question]
+== 219-6445678d7b8d73457c9d3ac3.
+
+****
+
+[#query]
+--
+The Product Backlog is generated during the Sprint Planning session.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.Sprint Planning generates a Sprint Backlog, not a Product Backlog."The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog.", TSG, page 9
+--
+
+[#ka]
+Events
+
+'''
+

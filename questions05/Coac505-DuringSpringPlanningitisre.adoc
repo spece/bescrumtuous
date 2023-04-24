@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "505"
+---
+
+
+[#question]
+== 505-64456797ca886e07fd8927dd.
+
+****
+
+[#query]
+--
+During Spring Planning, it is realized that the highest-priority Product Backlog item cannot be completed in the Sprint being planned due to problems with an external dependency. What should the developers do?
+--
+
+[#list]
+--
+* [ ] Tell the Product Owner to reorder the backlog
+* [*] Choose lower priority items Product Backlog items to add to the Spring Backlog during the Sprint Planning meeting
+* [ ] Add the high-priority Product Backlog item to the next Sprint's Backlog, even though you know it will not get completed
+* [ ] Ask the stakeholders to reprioritize the features being developed
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+If it's impossible to work on a given Product Backlog item, that item should not be added to the Sprint Backlog. Instead, add other, lower priority items."Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event." -TSG,The Product Owner should never be told to reorder the backlog based on development needs. The order of the Product Backlog. The Product Backlog is an ordered list of what is needed to improve the product. That order should not be influenced by what the development team is capable of working on at a given point in time.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

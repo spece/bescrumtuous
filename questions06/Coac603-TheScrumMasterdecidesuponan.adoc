@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "603"
+---
+
+
+[#question]
+== 603-644567993730ef520188ad59.
+
+****
+
+[#query]
+--
+The Scrum Master decides upon and directs the developers on how to perform work during the Sprint
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+According to the Scrum Guide, "the Developers select items from the Product Backlog to include in the current Sprint" and "the Developers plan the work necessary to create an Increment that meets the Definition of Done." (page 8)
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

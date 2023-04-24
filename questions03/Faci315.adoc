@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "315"
+---
+
+
+[#question]
+== 315-6445679062d2d76c66cca9c5.
+
+****
+
+[#query]
+--
+A Scrum Master:
+--
+
+[#list]
+--
+* [ ] Can work with only one Scrum Team at a time
+* [ ] Can only work on one project at a time
+* [ ] Can work on many Scrum Teams as long as they are all working on the same project
+* [*] Can work on many different Projects and many different Scrum Teams at the same time
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+There is no rule that says a Scrum Master must be 100% dedicated to a single team.The availability of the Scrum Master and the Product Owner is important to a team's success. But there is no rule in the Scrum Guide that says a Scrum Master must be 100% dedicated to only one team or one project.
+--
+
+[#ka]
+Facilitation
+
+'''
+

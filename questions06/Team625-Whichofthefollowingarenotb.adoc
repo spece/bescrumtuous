@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "625"
+---
+
+
+[#question]
+== 625-6445679a3730ef520188ad5b.
+
+****
+
+[#query]
+--
+Which of the following are not benefits associated with self-managing teams?
+--
+
+[#list]
+--
+* [*] Reduced compliance requirements
+* [ ] Improved innovation and originality
+* [ ] An increased feeling of responsibility and dedication to the process
+* [*] A smaller Product Backlog
+* [*] Reduction in the number of unit test required
+
+--
+****
+
+[#answer]
+ADE
+
+[#explanation]
+--
+Individuals on self-managed teams tend to be more innovative, original, creative, responsible, dedicated and accountable for their actions.But despite the many benefits of self-management and self-organization, it won't reduce compliance requirements, create a smaller Product Backlog or reduce the number of unit tests developers should be writing.
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

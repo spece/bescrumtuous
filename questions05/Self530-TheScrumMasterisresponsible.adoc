@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "530"
+---
+
+
+[#question]
+== 530-64456795ca886e07fd8927c7.
+
+****
+
+[#query]
+--
+The Scrum Master is responsible for keeping track of how much work remains towards the achievement of the Sprint Goal.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+False.The developers are accountable for tracking the work that remains in their quest to achieve the Sprint Goal.
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

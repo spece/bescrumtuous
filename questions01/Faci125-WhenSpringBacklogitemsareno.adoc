@@ -1,0 +1,45 @@
+---
+layout: default + 
+title: "125"
+---
+
+
+[#question]
+== 125-6445b165221e893e31a49d0b.
+
+****
+
+[#query]
+--
+When Spring Backlog items are not completed, and the Sprint Goal is not achieved by the end of the Sprint:
+--
+
+[#list]
+--
+* [ ] The Sprint is extended until the Sprint Goal is achieved
+* [ ] The Sprint is extended until the Sprint Backlog items are completed
+* [*] The team adapts and learns how to better estimate work
+* [*] Sprint Backlog items are returned to the Product Backlog
+
+--
+****
+
+[#answer]
+CD
+
+[#explanation]
+--
+Sprint Goals are sometimes not realized.
+
+And it's not uncommon for Sprint Backlog items to go unfinished.
+
+When this happens, unfinished items are returned to the Product Backlog and the team learns and adapts.
+
+"Sprints are fixed length events of one month or less to create consistency. A new Sprint starts immediately after the conclusion of the previous Sprint." -TSG, page 7
+--
+
+[#ka]
+Facilitation
+
+'''
+

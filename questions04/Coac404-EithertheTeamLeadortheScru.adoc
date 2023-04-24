@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "404"
+---
+
+
+[#question]
+== 404-64456793f43d5412383a20eb.
+
+****
+
+[#query]
+--
+Either the Team Lead or the Scrum Master can start the Daily Scrum
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.The term 'Team Lead' is not used at all in the Scrum Guide, so any reference to a 'Team Lead' in the Scrum Guide is likely a red herring to be avoided.Secondly, the Scrum Master is not even required to attend the Daily Scrum, so that part of the question is wrong as well.The developers are self-managed. They decide on their own how to start the Daily Scrum.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

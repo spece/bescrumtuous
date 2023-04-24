@@ -1,0 +1,42 @@
+---
+layout: default + 
+title: "145"
+---
+
+
+[#question]
+== 145-6445b165221e893e31a49d08.
+
+****
+
+[#query]
+--
+A cross functional team:
+--
+
+[#list]
+--
+* [*] Will have the skills to work on multiple layers in the software stack
+* [*] Are skilled enough to develop components that require a diverse skillset
+* [ ] Will only work on specialized components that require a specific set of skills
+* [ ] Will specialize in one, specific layer in the software stack
+* [ ] Will write code and build applications, and then pass testing off to a specialized team.
+
+--
+****
+
+[#answer]
+AB
+
+[#explanation]
+--
+A cross functional team will build a variety of different components that will operate on various layers in the software stack.
+
+"Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint." -The Scrum Guide, page 5
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

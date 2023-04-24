@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "527"
+---
+
+
+[#question]
+== 527-64456796ca886e07fd8927ce.
+
+****
+
+[#query]
+--
+The Product Owner does not take part in the Sprint Retrospective
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false. All members of the development team take part in the Sprint Retrospective.
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

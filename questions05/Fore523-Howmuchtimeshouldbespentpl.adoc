@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "523"
+---
+
+
+[#question]
+== 523-64456794ca886e07fd8927c3.
+
+****
+
+[#query]
+--
+How much time should be spent planning a 2 month sprint
+--
+
+[#list]
+--
+* [ ] At least 8 hours
+* [ ] At least 4 hours
+* [*] Significantly less than 8 hours
+* [ ] A self-organizing team will decide how much time to spend planning a sprint.
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+For a month long sprint the Scrum Guide states that Sprint Planning should take no more than 8 hours. For a 2 week sprint, the amount of time spent sprint-planning should be significantly shorter.From the Scrum Guide: "Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

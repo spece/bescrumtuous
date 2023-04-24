@@ -1,0 +1,42 @@
+---
+layout: default + 
+title: "225"
+---
+
+
+[#question]
+== 225-6445678d7b8d73457c9d3ac7.
+
+****
+
+[#query]
+--
+Who estimates the work required to complete a Product Backlog Item?
+--
+
+[#list]
+--
+* [ ] The Product Owner
+* [ ] The Scrum Master
+* [*] The Development Team
+* [ ] The Stakeholders
+* [ ] All of the above
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+It is the job of the people who perform the work to estimate the time it will take to complete it.
+
+In Scrum, the Developers do the work, so it is the developers on the Development Team who will create the estimates.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

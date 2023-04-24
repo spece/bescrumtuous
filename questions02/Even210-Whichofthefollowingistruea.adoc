@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "210"
+---
+
+
+[#question]
+== 210-6445678a7b8d73457c9d3aa8.
+
+****
+
+[#query]
+--
+Which of the following is true about the daily stand-up?
+--
+
+[#list]
+--
+* [ ] The daily standup must take place at the same time and place every working day of the Sprint
+* [ ] The daily standup must take place in the same location every working day of the Sprint, although the time can change
+* [ ] The daily standup must take place at the same time every working day of the Sprint, although the location can change
+* [*] Scrum does not have a daily standup
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Scrum does not have a Daily Standup. The term itself is ableist. The term is ableist and does not embrace Scrum values.Scrum does have a Daily Scrum. The time and location of the Daily Standup should not change throughout the sprint.From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. To reduce complexity, it is held at the same time and place every working day of the Sprint."
+--
+
+[#ka]
+Events
+
+'''
+

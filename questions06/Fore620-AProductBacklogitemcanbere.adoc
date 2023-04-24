@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "620"
+---
+
+
+[#question]
+== 620-6445679b3730ef520188ad66.
+
+****
+
+[#query]
+--
+A Product Backlog item can be released when:
+--
+
+[#list]
+--
+* [*] It meets the Definition of Done
+* [ ] When the Product Owner agrees to its release
+* [ ] When all user testing is complete
+* [ ] When all continuous integration tests are complete
+* [ ] When all non-functional requirements, like security and performance, are met
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+The only criteria for the release of a Product Backlog item to users or stakeholders is whether it meets the Scum Team's Definition of Done.If testing, integration and non-functional requirements are not included as part of the Scrum Team's Definition of Done, then there is no obligation on the team to perform those duties or fulfill those requirements.Scrum embraces lean thinking, which means doing only what is necessary."If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration." -TSG, page 12
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

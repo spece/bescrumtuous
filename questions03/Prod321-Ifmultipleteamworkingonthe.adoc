@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "321"
+---
+
+
+[#question]
+== 321-6445678f62d2d76c66cca9c3.
+
+****
+
+[#query]
+--
+If multiple team working on the same project do not integrate their increments together before the end of each Sprint:
+--
+
+[#list]
+--
+* [*] The results of the work performed cannot be properly inspected during the Sprint Review
+* [ ] Developers cannot properly discuss how to improve their processes during the Sprint Retrospective
+* [*] Sprint Planning will become difficult as teams will not know which Product Backlog items have been completed.
+* [ ] Developers on separate teams will not be able to speak about how they will adapt their work to meet the Scrum Goal during the Daily Scrum
+
+--
+****
+
+[#answer]
+AC
+
+[#explanation]
+--
+It is important to integrate Increments together before the end of the Sprint so that the work completed can be properly inspected during the Sprint Review, and so the Scrum Teams know what work has been completed as the Sprint Planning event takes place.
+--
+
+[#ka]
+Product Value
+
+'''
+

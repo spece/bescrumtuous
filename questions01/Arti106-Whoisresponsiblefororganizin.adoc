@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "106"
+---
+
+
+[#question]
+== 106-6445b166221e893e31a49d16.
+
+****
+
+[#query]
+--
+Who is responsible for organizing the work that needs to be performed to achieve the Sprint Goal?
+--
+
+[#list]
+--
+* [ ] The Scrum Master
+* [ ] The Product Owner
+* [*] The Development Team
+* [ ] The Stakeholders
+* [ ] All of the above
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Development Team owns the Sprint Backlog and the Sprint Goal, so they are entirely responsible for organizing and planning the work required to achieve the Sprint Goal.
+--
+
+[#ka]
+Artifacts
+
+'''
+

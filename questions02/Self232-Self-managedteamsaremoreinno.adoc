@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "232"
+---
+
+
+[#question]
+== 232-6445678b7b8d73457c9d3ab4.
+
+****
+
+[#query]
+--
+Self-managed teams are more innovative, but less dedicated, which is why Scrum uses Product Goals and Sprint Goals to motivate developers.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false. 
+
+Self-managed teams tend to be more innovative and more dedicated.
+--
+
+[#ka]
+Self-Managing Teams
+
+'''
+

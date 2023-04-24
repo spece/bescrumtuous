@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "993 - Scrum has a role called Project Manager "
+---
+
+
+[#question]
+== 993-63efffb79ebbe935e4c16b46.
+
+****
+
+[#query]
+--
+The Project Manager is one of the four Scrum roles, or more accurately, "accountabilities," defined in the Scrum Guide.
+--
+
+[#list]
+--
+* [ ] A. True
+* [*] B. False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.
+
+The Scrum Guide does not even mention the term 'Project Manager.'
+
+
+--
+
+[#ka]
+Self-managing teams
+
+'''
+

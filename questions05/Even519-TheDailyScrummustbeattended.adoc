@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "519"
+---
+
+
+[#question]
+== 519-64456798ca886e07fd8927e0.
+
+****
+
+[#query]
+--
+The Daily Scrum must be attended by:
+--
+
+[#list]
+--
+* [*] The Developers
+* [ ] The Developers and the Scrum Master
+* [ ] The Developers, the Product Owner
+* [ ] The Developers, the Product Owner and the Scrum Master
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+
+--
+
+[#ka]
+Events
+
+'''
+

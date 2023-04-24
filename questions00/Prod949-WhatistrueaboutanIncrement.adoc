@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "949 - Which of these may a Development Team de"
+---
+
+
+[#question]
+== 949-63effe5a9ebbe935e4c16b1f.
+
+****
+
+[#query]
+--
+What is true about an Increment in Scrum?
+--
+
+[#list]
+--
+* [ ] A. The increment contains, or represents, a commitment to the Product Goal.
+* [*] B. It must be usable.
+* [ ] C. It is not considered a Scrum artifact.
+* [*] D. It must be compatible with each and every past increment.
+
+--
+****
+
+[#answer]
+BD
+
+[#explanation]
+--
+An Increment is indeed a Scrum artifact and it contains, or represents, a commitment to the Definition of Done. An increment is not a commitment to the the Product Goal. The Product Backlog contains a commitment to the Product Goal.
+
+Every increment must be usable, and it must be compatible with all past increments.
+--
+
+[#ka]
+Product Value
+
+'''
+

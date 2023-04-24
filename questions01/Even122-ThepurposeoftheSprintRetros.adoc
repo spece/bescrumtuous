@@ -1,0 +1,42 @@
+---
+layout: default + 
+title: "122"
+---
+
+
+[#question]
+== 122-6445b165221e893e31a49d0e.
+
+****
+
+[#query]
+--
+The purpose of the Sprint Retrospective is to increase
+--
+
+[#list]
+--
+* [ ] Openness
+* [ ] Focus
+* [*] Effectiveness
+* [ ] Commitment
+* [*] Quality
+
+--
+****
+
+[#answer]
+CE
+
+[#explanation]
+--
+According to the Scrum Guide, "the purpose of the Sprint Retrospective is to plan ways to increase quality and effectiveness."
+
+Focus, commitment and openness are all Scrum Values, and are part of increasing quality and being effective. But in the Scrum Guide, quality and effectiveness are explicitly stated as the purpose of the Sprint Retrospective.
+--
+
+[#ka]
+Events
+
+'''
+

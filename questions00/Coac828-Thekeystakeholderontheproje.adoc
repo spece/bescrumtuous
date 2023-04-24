@@ -1,0 +1,41 @@
+---
+layout: default 
+title: "828 - What should the Development Team do Scru"
+---
+
+
+[#question]
+== 828-63effe109ebbe935e4c16b16.
+
+****
+
+[#query]
+--
+The key stakeholder on the project has told you the continuation of the project is dependent upon the completion of a 'critical feature' that is currently not part of the Sprint Backlog. If the feature is not completed before the end of this Sprint, the project and the continued employment of the team is at risk. What course of action should you, as the Scrum Master, take?
+--
+
+[#list]
+--
+* [ ] A. Cancel the Sprint and have them team expend all development efforts on the critical feature
+* [ ] B. Add the critical feature to the Sprint Backlog and assign it to the Scrum Team.
+* [ ] C. Add the new feature to the Sprint Backlog and assign it to the Team Lead.
+* [*] D. Discuss the situation with the Product Owner and allow the PO to negotiate a solution with the Development Team
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The Scrum Master cannot cancel a Sprint, they cannot add items to the Sprint Backlog and they cannot assign tasks to members of the development team.
+
+This is a job for the Product Owner to address. Hopefully the PO can negotiate a change to the Sprint Backlog that would allow the critical feature to be implemented without risking the Sprint Goal. If the new information makes the existing Sprint Goal obsolete, then under those conditions the Product Owner has the ability to cancel the Sprint and begin a new Sprint with a new round of Sprint Planning.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

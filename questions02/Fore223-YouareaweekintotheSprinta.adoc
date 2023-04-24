@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "223"
+---
+
+
+[#question]
+== 223-6445678a7b8d73457c9d3aad.
+
+****
+
+[#query]
+--
+You are a week into the Sprint and the developers feel they may not have enough time to complete all of the Sprint Backlog items in the allocated time. Which of the following are not strategies that would be consistent with the Scrum Guide:
+--
+
+[#list]
+--
+* [ ] Cancel the Sprint and perform Sprint Planning again
+* [ ] Push management to temporarily hire more developers
+* [ ] Have the developer work overtime and weekends
+* [*] Remove some of the selected Product Backlog items so long as the Sprint Goal is not compromised
+* [*] Renegotiate the Sprint Scope with the product Owner
+
+--
+****
+
+[#answer]
+DE
+
+[#explanation]
+--
+Only the Product Owner can cancel a Sprint, and it can only because the Sprint Goal no longer makes sense for some reason.Temporarily hiring workers or having developers work overtime is not a solution to poor planning or estimations. A better solution is to learn from the mistakes that have been made and correct them in future Sprints.Things will change during the Sprint, and it is common for the work required to complete a Sprint Backlog item to be underestimated. You can change the Sprint Backlog and even renegotiate the Sprint Scope with the Product Owner, just as long as the Sprint Goal is not compromised.From the Scrum Guide:"During the Sprint:No changes are made that would endanger the Sprint Goal;
+Quality does not decrease;
+The Product Backlog is refined as needed; and,
+Scope may be clarified and renegotiated with the Product Owner as more is learned."
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

@@ -1,0 +1,42 @@
+---
+layout: default + 
+title: "139"
+---
+
+
+[#question]
+== 139-6445b167221e893e31a49d1a.
+
+****
+
+[#query]
+--
+How many developers should there be on a Scrum Team that has a full-time Scrum Master and a full-time Product Owner?
+--
+
+[#list]
+--
+* [ ] 10 or less
+* [ ] There is no suggested, upper limit on how many developers should be on a Scrum Team
+* [*] 8 or less
+* [ ] 5 or less
+* [ ] 7 plus or minus 3
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+A Scrum Team should have 10 or less members, which includes the Scrum Master and Product Owner. That leaves room for 8 developers.
+
+"The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive." -The Scrum Guide, page 5
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

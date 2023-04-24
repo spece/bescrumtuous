@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "521"
+---
+
+
+[#question]
+== 521-64456795ca886e07fd8927ca.
+
+****
+
+[#query]
+--
+Which of the following statements is most correct?
+--
+
+[#list]
+--
+* [ ] The Scrum Master should monitor the progress of Developers during a Sprint
+* [ ] The Scrum Master should monitor the progress of the Product Owner as they create Product Backlog items
+* [ ] The Product Owner should monitor the progress of Developers towards achieving the Sprint Goal
+* [*] The Scrum Master should remove impediments to the Scrum Team's progress
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Self-management is an important concept in the field of Scrum. That idea of one role monitoring the work of another is not in line with the Scrum values of openness and respect.However, if there is an impediment to the team's progress, it is the job of the Scrum Master to do what they can to remove that impediment."The Scrum Master serves the Scrum Team in several ways, including: Causing the removal of impediments to the Scrum Team?s progress." -The Scrum Guide
+--
+
+[#ka]
+Facilitation
+
+'''
+

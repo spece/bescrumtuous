@@ -1,0 +1,43 @@
+---
+layout: default + 
+title: "418"
+---
+
+
+[#question]
+== 418-64456793f43d5412383a20ee.
+
+****
+
+[#query]
+--
+Which Scrum Role is responsible for ordering the Product Backlog?
+--
+
+[#list]
+--
+* [*] The Product Owner
+* [ ] The Scrum Master
+* [ ] The Development Team
+* [ ] The Scrum Team as a whole
+* [ ] The stakeholders
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+The Product Owner is accountable for Product Backlog management. That includes ordering the Product Backlog."The Product Owner is also accountable for effective Product Backlog management, which includes:Developing and explicitly communicating the Product Goal;
+Creating and clearly communicating Product Backlog items;
+Ordering Product Backlog items; and,
+Ensuring that the Product Backlog is transparent, visible and understood."
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

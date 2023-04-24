@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "412"
+---
+
+
+[#question]
+== 412-64456791f43d5412383a20de.
+
+****
+
+[#query]
+--
+When a Sprint ends:
+--
+
+[#list]
+--
+* [*] A new Sprint immediately begins
+* [ ] The Scrum Retrospective happens, followed by the Scrum Review
+* [ ] The Scrum Review happens, followed by the Scrum Retrospective
+* [ ] The team takes time to perform Sprint planning
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+All of the Scrum events happen within a Sprint. That includes the review, planning and the retrospective.So, when a Scrum ends, a new Scrum immediately begins."A new Sprint starts immediately after the conclusion of the previous Sprint." -The Scrum Guide
+--
+
+[#ka]
+Events
+
+'''
+

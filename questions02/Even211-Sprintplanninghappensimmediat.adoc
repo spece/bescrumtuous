@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "211"
+---
+
+
+[#question]
+== 211-6445678a7b8d73457c9d3aa9.
+
+****
+
+[#query]
+--
+Sprint planning happens immediately after the Sprint competes
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false, because Sprint Planning is part of the Sprint. All Scrum Events are considered to be part of the Sprint."The Sprint is a container for all other events." -The Scrum Guide
+--
+
+[#ka]
+Events
+
+'''
+

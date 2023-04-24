@@ -1,0 +1,45 @@
+---
+layout: default + 
+title: "617"
+---
+
+
+[#question]
+== 617-644567993730ef520188ad57.
+
+****
+
+[#query]
+--
+The development team is midway through the current Sprint, but discussing which backlog items they think should go into the next Sprint. Which one of the Scrum values are they violating?
+--
+
+[#list]
+--
+* [ ] Commitment
+* [ ] Transparency
+* [ ] Honesty
+* [*] Focus
+* [ ] Truth
+* [ ] Respect
+* [ ] Inspection
+* [ ] Adaptation
+* [ ] Openness
+* [ ] Courage
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Focus is one of the five Scrum Values. When a team spends too much time during the current Sprint thinking about future Sprints, they have lost focus. The current Sprint should be the primary focus of the Scrum team.Scrum has five values: Commitment, Focus, Openness, Respect, and Courage.Scrum has 3 pillars: transparency, inspection, and adaptationThe Agile Manifesto has 4 values and 12 principles.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

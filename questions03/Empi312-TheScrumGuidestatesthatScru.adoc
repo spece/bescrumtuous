@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "312"
+---
+
+
+[#question]
+== 312-6445679062d2d76c66cca9c7.
+
+****
+
+[#query]
+--
+The Scrum Guide states that Scrum is immutable. This means:
+--
+
+[#list]
+--
+* [ ] Scrum is the best software development methodology
+* [ ] Practitioners can pick and choose which parts of Scrum work best for them
+* [ ] That all communication remain confidential within the team
+* [*] The users cannot pick and choose which parts of Scrum they want to use
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+Scrum demands that you follow the steps and processes that are outlined in the Scrum Guide. And if you skip certain steps, then what you are doing is not Scrum."The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices." -TSG, page 13
+--
+
+[#ka]
+Empiricism
+
+'''
+

@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "604"
+---
+
+
+[#question]
+== 604-644567993730ef520188ad56.
+
+****
+
+[#query]
+--
+An Increment is born when:
+--
+
+[#list]
+--
+* [*] A Product Backlog item meets the Definition of Done
+* [ ] A Sprint completes and all Sprint Backlog items meet the Definition of Done
+* [ ] When the Sprint Goal is achieved
+* [ ] When a common set of features meet the Definition of Done.
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+According to the Scrum Guide, "the moment a Product Backlog item meets the Definition of Done, an Increment is born."
+--
+
+[#ka]
+Done
+
+'''
+

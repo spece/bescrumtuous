@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "522"
+---
+
+
+[#question]
+== 522-64456795ca886e07fd8927cc.
+
+****
+
+[#query]
+--
+An open impediment that cannot be resolved by the development team alone. What path of action does the Scrum Guide recommend?
+--
+
+[#list]
+--
+* [ ] The impediment should be added to the Product Backlog by the Product Owner
+* [ ] The impediment should be added to the Sprint Backlog by the Scrum Master
+* [ ] The developers should be coached on how self-managing individuals and teams should be able to remove impediments on their own
+* [*] The Scrum Master should seeks ways to remove the impediment
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+According to the Scrum Guide, "The Scrum Master serves the Scrum Team by causing the removal of impediments to the Scrum Team?s progress."If an impediment arises that cannot reasonably be resolved by the Scrum Developers, the Scrum Master should seek out ways to fix the issue.
+--
+
+[#ka]
+Facilitation
+
+'''
+

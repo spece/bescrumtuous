@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "201"
+---
+
+
+[#question]
+== 201-644567897b8d73457c9d3aa6.
+
+****
+
+[#query]
+--
+Which of the following is true:
+--
+
+[#list]
+--
+* [ ] The sprint backlog does not change during a sprint
+* [ ] During a sprint, changes to the sprint backlog must be approved by the Scrum Master
+* [*] New work required to achieve the spring goal should be added to the sprint backlog immediately
+* [ ] During a sprint, changes to the sprint backlog must be approved by the product owner
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The sprint backlog is owned entirely by the developers.The Scrum Master and the Product Owner have no say in whether something is added or removed from the sprint backlog. That's entirely up to the developers.And when should new work required to achieve the sprint goal be added to the sprint backlog? Immediately, of course. As Agile practitioners, we embrace change. And as Scrum developers, we update the sprint backlog as soon as the plan changes.KA:ART
+--
+
+[#ka]
+Artifacts
+
+'''
+

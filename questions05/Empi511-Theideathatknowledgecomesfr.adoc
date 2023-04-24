@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "511"
+---
+
+
+[#question]
+== 511-64456797ca886e07fd8927da.
+
+****
+
+[#query]
+--
+The idea that knowledge comes from experience and decision making is known as:
+--
+
+[#list]
+--
+* [*] Empiricism
+* [ ] Mysticism
+* [ ] Lean thinking
+* [ ] Short sprints
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+"Scrum is founded on empiricism and lean thinking. Empiricism asserts that knowledge comes from experience and making decisions based on what is observed." -TSG, page 3
+--
+
+[#ka]
+Empiricism
+
+'''
+

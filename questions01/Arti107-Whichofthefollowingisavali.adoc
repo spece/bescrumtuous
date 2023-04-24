@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "107"
+---
+
+
+[#question]
+== 107-6445b167221e893e31a49d19.
+
+****
+
+[#query]
+--
+Which of the following is a valid reason for cancelling a Sprint
+--
+
+[#list]
+--
+* [ ] The Product Owner has changed their mind about what should be included in the Sprint Backlog
+* [ ] The Sprint Goal has become obsolete
+* [*] Sprint Backlog estimation was done poorly and it is clear the Sprint Goal is not going to be met
+* [ ] The Scrum Master has taken ill and cannot attend the Daily Scrums
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The only justification for cancelling a Sprint is the situation in which the Product Owner has decided the Sprint Goal has become obsolete.
+
+"A Sprint could be cancelled if the Sprint Goal becomes obsolete. Only the Product Owner has the authority to cancel the Sprint." -The Scrum Guide
+--
+
+[#ka]
+Artifacts
+
+'''
+

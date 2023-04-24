@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "403"
+---
+
+
+[#question]
+== 403-64456791f43d5412383a20e1.
+
+****
+
+[#query]
+--
+The Scrum Master:
+--
+
+[#list]
+--
+* [ ] Can only assign tasks to Scrum Developers
+* [ ] Can only assign tasks to Product Owners
+* [ ] Can assign tasks to both Scrum Developers and Product Owners
+* [*] Does not assign tasks to Scrum Developers or Product Owners
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+According to the Scrum Guide, the Scrum Master serves the development team by "coaching the team members in self-management and cross-functionality." The Scrum Master serves the Product Owner by "helping find techniques for effective Product Goal definition and Product Backlog management."However, the idea of the Scrum Master assigning tasks to Product Owners or Developers is antithetical to the Scrum Guide.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

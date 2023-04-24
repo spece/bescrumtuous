@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "601"
+---
+
+
+[#question]
+== 601-6445679a3730ef520188ad5f.
+
+****
+
+[#query]
+--
+The Scrum Guide stresses the importance of focus. Which of the following is intended to keep developers focused as they work through the Sprint backlog?
+--
+
+[#list]
+--
+* [ ] The Scrum Goal
+* [ ] The Product Goal
+* [*] The Sprint Goal
+* [ ] The Sprint Retrospective
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+The Sprint Goal, not Scrum Goal,  is intended to keep developers more focused throughout the Sprint."Each artifact contains a commitment to ensure it provides information that enhances transparency and focus against which progress can be measured:? For the Product Backlog it is the Product Goal.? For the Sprint Backlog it is the Sprint Goal.? For the Increment it is the Definition of Done."-The Scrum Guide, page 10
+--
+
+[#ka]
+
+
+'''
+

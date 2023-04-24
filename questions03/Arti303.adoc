@@ -1,0 +1,42 @@
+---
+layout: default + 
+title: "303"
+---
+
+
+[#question]
+== 303-6445678f62d2d76c66cca9c0.
+
+****
+
+[#query]
+--
+The Scrum Goal is created:
+--
+
+[#list]
+--
+* [ ] During Spring 0
+* [ ] Before the end of Sprint Planning
+* [ ] After Sprint Planning concludes but before the Sprint begins
+* [ ] Each day during the Daily Scrum
+* [*] Scrum does not define a Scrum Goal
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+Trick question!
+
+There is no such thing as a Scrum Goal. The Scrum Guide defines a Sprint Goal. Sprint, not Scrum.As for the actual Sprint Goal, it is created during the Sprint Planning meeting. Before Sprint Planning concludes, the team must have a Sprint Goal to drive the project.According to page 8 of the Scrum Guide, "The Product Owner proposes how the product could increase its value and utility in the current Sprint. The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning."
+--
+
+[#ka]
+Artifacts
+
+'''
+

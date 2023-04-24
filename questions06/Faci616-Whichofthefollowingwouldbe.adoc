@@ -1,0 +1,41 @@
+---
+layout: default + 
+title: "616"
+---
+
+
+[#question]
+== 616-6445679b3730ef520188ad68.
+
+****
+
+[#query]
+--
+Which of the following would be appropriate actions for a Scrum Master to take with regards to the Daily Scrum?
+--
+
+[#list]
+--
+* [ ] Make sure every developer has had a chance to speak
+* [*] Make sure the Daily Scrum is in the same location as it was the day before
+* [ ] Update management on the issues raised during the Daily Scrum
+* [ ] Make sure every developer has been given an equal amount of time to speak
+* [ ] Take notes and email a status report to the team
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Daily Scrum is owned by the Developers, so the Scrum Master has no duties or tasks to perform other than coaching the team with regards to the rules put forth in the Scrum Guide.
+The Scrum Guide demands that the Daily Scrum take place at the same time and in the same location each day. If this is not happening, this becomes a teaching point for the Scrum Master.
+--
+
+[#ka]
+Facilitation
+
+'''
+

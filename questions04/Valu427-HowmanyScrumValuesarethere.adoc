@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "427"
+---
+
+
+[#question]
+== 427-64456792f43d5412383a20e4.
+
+****
+
+[#query]
+--
+How many Scrum Values are there?
+--
+
+[#list]
+--
+* [ ] 3
+* [ ] 4
+* [*] 5
+* [ ] 12
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+Scrum has five values: Commitment, Focus, Openness, Respect, and Courage.Scrum has 3 pillars: transparency, inspection, and adaptationThe Agile Manifesto has 4 values and 12 principles.
+--
+
+[#ka]
+Scrum Values
+
+'''
+

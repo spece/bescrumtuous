@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "513"
+---
+
+
+[#question]
+== 513-64456795ca886e07fd8927c8.
+
+****
+
+[#query]
+--
+The Daily Scrum must be attended by:
+--
+
+[#list]
+--
+* [*] The Developers
+* [ ] The Developers and the Scrum Master
+* [ ] The Developers and the Product Owner
+* [ ] The entire Scrum Team
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+The Daily Scrum is for developers. Only the developers are required to attend.According to the Scrum Guide, "if the Product Owner or Scrum Master are actively working on items in the Sprint Backlog, they participate as Developers."
+--
+
+[#ka]
+Events
+
+'''
+

@@ -1,0 +1,47 @@
+---
+layout: default + 
+title: "105"
+---
+
+
+[#question]
+== 105-6445b164221e893e31a49d07.
+
+****
+
+[#query]
+--
+The Sprint Goal
+--
+
+[#list]
+--
+* [ ] Is the term used to refer to all of the items in the Scrum Backlog
+* [ ] Must be achieved before the Sprint ends
+* [ ] Is initially defined during Sprint 0 and can be updated during the Sprint Retrospective
+* [*] Provides a specific target for members of the development team to aim for
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The purpose of the Sprint Goal is to provide developers a clear target to shoot for during the Sprint.
+
+The Scrum Guide does not use the term Sprint 0, so this option is unlikely to be a correct answer on the Scrum Master Certification exam.
+
+The Scrum Goal represents the commitment being made by the Sprint Backlog, but it is not simply a listing of all Scrum Backlog items.
+
+And while it would be nice to accomplish the Sprint Goal every time we start a Sprint, that reality doesn't always come to fruition. So we cannot say that the Sprint Goal must be achieved before the Sprint ends.
+
+Many Sprints end without the Sprint Goal being achieved. Not Sprints I've ever worked on, but I've heard about such things happening with lesser Scrum Masters. :)
+--
+
+[#ka]
+Artifacts
+
+'''
+

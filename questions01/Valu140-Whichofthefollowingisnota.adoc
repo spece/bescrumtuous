@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "140"
+---
+
+
+[#question]
+== 140-6445b165221e893e31a49d09.
+
+****
+
+[#query]
+--
+Which of the following is not a Scrum value?
+--
+
+[#list]
+--
+* [ ] Respect
+* [*] Trust
+* [ ] Focus
+* [ ] Commitment
+* [ ] Courage
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+The Five Scrum Values are Commitment, Focus, Openness, Respect, and Courage. Trust is not listed as one of Scrum's Five Values.
+--
+
+[#ka]
+Scrum Values
+
+'''
+

@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "207"
+---
+
+
+[#question]
+== 207-6445678c7b8d73457c9d3abf.
+
+****
+
+[#query]
+--
+An item cannot presented to stakeholders at the Sprint Review until
+--
+
+[#list]
+--
+* [ ] It has been thoroughly tested
+* [ ] It has been thoroughly integrated
+* [ ] It has gone through User Acceptance Testing
+* [ ] It conforms with the company's non-functional requirements
+* [*] It meets the Definition of Done
+
+--
+****
+
+[#answer]
+E
+
+[#explanation]
+--
+An Backlog Item cannot be presented in the Sprint Review until it has met the Definition of Done and has graduated into an Increment of Value.The Scrum Team defines the Definition of Done.The Definition of Done doesn't have to include non-functional requirements. It can, but it doesn't have to.The Definition of Done doesn't have to include integration. It can, but it doesn't have to. Remember, Scrum can be applied in many domains, not just software. In some domains, the term 'integration' may not even make sense.If there are non-functional requirements that need to be met, they are added to the Definition of Done. But perhaps the team has been told non-functional requirements are not their concern? Then the non-functional requirements are not part of the Definition of Done and software can be presented to stakeholders without meeting them. The same logic applies for User Acceptance Testing.The Scrum Team defines the definition of done. A Product Backlog item only needs to meet the team's Definition of Done to be released to stakeholders. What goes into the Definition of Done is entirely up to the team."If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration." -TSG, page 12
+--
+
+[#ka]
+Done
+
+'''
+

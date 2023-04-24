@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "414"
+---
+
+
+[#question]
+== 414-64456791f43d5412383a20db.
+
+****
+
+[#query]
+--
+A product backlog item should be broken down into smaller, individual pieces:
+--
+
+[#list]
+--
+* [ ] That can be validated with a single unit test
+* [*] That represent one day of work or less
+* [ ] That can be completed before the end of the sprint
+* [ ] That represent a single feature or use case
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+When decomposing a backlog item, the goal is to break the backlog item down into a unit of work that can be completed in one day or less."For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less."
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

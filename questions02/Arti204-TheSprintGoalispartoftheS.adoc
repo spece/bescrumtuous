@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "204"
+---
+
+
+[#question]
+== 204-6445678d7b8d73457c9d3ac1.
+
+****
+
+[#query]
+--
+The Sprint Goal is part of the Sprint Backlog
+--
+
+[#list]
+--
+* [*] True
+* [ ] False
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+The Sprint Backlog is made up of the Sprint Goal, Product Backlog items added to the Sprint, and the plan for delivering."The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog." -TSG, page 9
+--
+
+[#ka]
+Artifacts
+
+'''
+

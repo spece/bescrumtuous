@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "425"
+---
+
+
+[#question]
+== 425-64456792f43d5412383a20e6.
+
+****
+
+[#query]
+--
+When the roles of Scrum Master and Product Owner are combined, they replace the need for a Project Manager.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false. False, false, false, false, false.
+
+Don't ever fall for the myth that Scrum is a project management methodology. It is not.No Scrum role replaces the need for a Project Manager.And no combination of Scrum Roles add up to the job a Project Manager performs.Scrum and Project Management are two very different and separate job functions. Any question or option that infers otherwise is just plain wrong.
+--
+
+[#ka]
+Scrum Teams
+
+'''
+

@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "214"
+---
+
+
+[#question]
+== 214-6445678b7b8d73457c9d3ab2.
+
+****
+
+[#query]
+--
+The purpose of which Scrum Event is to inspect progress towards the Sprint Goal?
+--
+
+[#list]
+--
+* [*] Daily Scrum
+* [ ] Sprint Planning
+* [ ] Sprint Review
+* [ ] Sprint Retrospective
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+According to the Scrum Guide, "the purpose of the Daily Scrum is to inspect progress toward the Sprint Goal and adapt the Sprint Backlog as necessary, adjusting the upcoming planned work."
+--
+
+[#ka]
+Events
+
+'''
+

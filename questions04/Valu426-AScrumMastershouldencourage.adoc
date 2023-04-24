@@ -1,0 +1,37 @@
+---
+layout: default + 
+title: "426"
+---
+
+
+[#question]
+== 426-64456791f43d5412383a20df.
+
+****
+
+[#query]
+--
+A Scrum Master should encourage Scrum Developers to work overtime if it appears that Product Backlog items selected during the Sprint Planning may not meet the Definition of Done by the time the Sprint ends
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.Both Agile and Scrum promote sustainable development practices.If Product Backlog items selected during the Sprint are not being completed on time, then the process of selection and estimation should be evaluated during the Sprint Retrospective.Poor planning and estimation practices should not be remedied by forcing developers to work overtime.
+--
+
+[#ka]
+Scrum Values
+
+'''
+

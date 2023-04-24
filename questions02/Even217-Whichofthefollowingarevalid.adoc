@@ -1,0 +1,40 @@
+---
+layout: default + 
+title: "217"
+---
+
+
+[#question]
+== 217-6445678c7b8d73457c9d3ac0.
+
+****
+
+[#query]
+--
+Which of the following are valid topics of discussion during the Sprint Retrospective?
+--
+
+[#list]
+--
+* [ ] Which items to add to the next Sprint Backlog
+* [*] Issues with the Product Owner responding to emails
+* [*] Assumptions made at the start of the project that led the development team astray
+* [*] The things that went well during the Sprint
+* [*] The things that went wrong during the Sprint
+
+--
+****
+
+[#answer]
+BCDE
+
+[#explanation]
+--
+All of these are valid items to discuss at the Sprint Retrospective, with the exception of items to add to a future Sprint Backlog. That would violate the Scrum Value of focus. Always try to keep focus on the task at hand."The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done. Inspected elements often vary with the domain of work. Assumptions that led them astray are identified and their origins explored. The Scrum Team discusses what went well during the Sprint, what problems it encountered, and how those problems were (or were not) solved." -TSG, page 10
+--
+
+[#ka]
+Events
+
+'''
+

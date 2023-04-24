@@ -1,0 +1,45 @@
+---
+layout: default + 
+title: "141"
+---
+
+
+[#question]
+== 141-6445b166221e893e31a49d15.
+
+****
+
+[#query]
+--
+How much time must developers put into completing a Product Backlog item selected as part of the current Sprint?
+--
+
+[#list]
+--
+* [ ] As much time as is required to complete the item according to the team's Definition of Done
+* [ ] No more time than a developer can reasonably expected to work. If the Sprint Review decides the item does not meet the Definition of Done, it will become part of the next Sprint Backlog.
+* [*] No more time than a developer can reasonably expected to work. If it's not finished, it will go back into the Product Backlog.
+* [ ] No more time than a developer can reasonably expected to work. If it's not finished, it will become part of the next Sprint's backlog.
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+A sustainable software development pace is a key tenant of Agile and Scrum. Pushing a developer to 'spend as much time as is required to complete an item' is not a sustainable development practice. You shouldn't have to violate labor laws and work standards to complete a Sprint Backlog item.
+
+If a Sprint Backlog item can't be completed during the current Sprint, it just goes back into the Product Backlog. Then, during the next Sprint Planning meeting the team can decide if it should be again part of the next Sprint or not. It certainly does not 'automatically' go into the next Sprint's Backlog.
+
+If a Product Backlog item does not meet the Definition of Done, it cannot even be presented at the Sprint Review, let alone a decision of that review meeting decide whether the item is done or not.
+
+If an item is not completed during a Sprint, "the team should return any uncompleted Product Backlog Items to the Product Backlog." -Mary Iqbal, Scrum.org Blog
+--
+
+[#ka]
+Scrum Values
+
+'''
+

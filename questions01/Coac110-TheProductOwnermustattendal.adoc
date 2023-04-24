@@ -1,0 +1,39 @@
+---
+layout: default + 
+title: "110"
+---
+
+
+[#question]
+== 110-6445b165221e893e31a49d10.
+
+****
+
+[#query]
+--
+The Product Owner must attend all Scrum events.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This is false.
+
+The Product Owner is not required to attend the Daily Scrum, although they are expected to attend the Sprint Review, Sprint Planning and Sprint Retrospective.
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+
