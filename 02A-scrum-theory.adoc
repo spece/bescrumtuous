@@ -18,19 +18,21 @@ Fundamentally, empiricism means using your six senses to understand the situatio
 
 In the context of Scrum, empiricism means understanding the situation you are in based on knowledge, experience, and verifiable facts.
 
+Empiricism also ties in tightly with the Scrum Pillars of transparency, inspection and adaptations. That is, if you can see exactly what is happening (transparency), you can honestly assess your progress (inspection) and based on this real knowledge, you can adapt. Empirical analysis of your current situation is more effective way to make decisions than is following a plan that was written up six months ago, or making decisions based on trendlines on a historical chart.
+
 === Empirical Example
 
 Here's an example of the application of empiricism.
 
 Imagine you have a burndown chart that says you are completing 10 stories a Sprint. How many stories do you think you'll complete in the next Sprint?
 
-You'd probably say 10, but that's an answer based on a chart. Charts don't have six senses.
+You'd probably say 10, but that's an answer based on a chart. Charts don't have six senses. Charts may be predictive, but they're not empirical.
 
 Now say you know half the developers have gone back to India to be with their families during the next Sprint?
 
 You'll probably reduce your projection by 50 percent. That decision is based on empirical evidence that a chart simply couldn't provide.
 
-Lean thinking is also important. Avoid waste and embrace minimalist thinking when you're working on a project. That's Lean thinking.
+Lean thinking is also an important concept in Scrum. Avoid waste and embrace minimalist thinking when you're working on a project. That's Lean thinking.
 
 === Empiricism and Lean Thinking
 
