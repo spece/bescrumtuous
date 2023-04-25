@@ -20,6 +20,9 @@ In the context of Scrum, empiricism means understanding the situation you are in
 
 Empiricism also ties in tightly with the Scrum Pillars of transparency, inspection and adaptations. That is, if you can see exactly what is happening (transparency), you can honestly assess your progress (inspection) and based on this real knowledge, you can adapt. Empirical analysis of your current situation is more effective way to make decisions than is following a plan that was written up six months ago, or making decisions based on trendlines on a historical chart.
 
+.Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
+image::images/bet-the-habs.png["There are many learning modalities. "]
+
 === Empirical Example
 
 Here's an example of the application of empiricism.
