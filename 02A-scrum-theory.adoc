@@ -207,7 +207,8 @@ ____
 
 You will often get questions on the Scrum Certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
 
-
+.The three pillars of Scrum are transparency, inspection and adaptation.
+image::images/scrum-pillars.png["Three pillars of Scrum "]
 
 ==== Test Yourself
 
