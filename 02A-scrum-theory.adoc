@@ -211,7 +211,7 @@ You will often get questions on the Scrum Certification exam about what the purp
 image::images/scrum-pillars.png["Three pillars of Scrum "]
 
 ==== Test Yourself
-
+ 
 ****
 When does a new Sprint begin?
 
