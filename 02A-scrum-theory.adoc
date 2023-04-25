@@ -117,7 +117,8 @@ Scrum is incremental. That's referenced in the second step of the iterative proc
 
 The idea of Scrum being incremental means that small victories, small units of value, and small pieces of the final product get created and added together slowly over time until the product is finally finished. Piece by piece, through the delivery of value-added upon value, the product gets built. That's the incremental process.
 
-
+.Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
+image::images/800px-Scrum_process.png["There are many learning modalities. "]
 
 === Cross-Functional Teams
 
