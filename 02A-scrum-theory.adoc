@@ -166,6 +166,10 @@ If your team outsources work to a third party, then the work in question is no l
 
 '''
 
+.The four timeboxed events in Scrum all occur inside a fifth event known as the Sprint.
+image::images/timebox-bw.png["All Scrum events occur within a Sprint. "]
+
+
 ==== The All-Encompassing Sprint
 
 [quote, 2020 Scrum Guide page 3]
