@@ -280,7 +280,14 @@ Empiricism means decisions are made on factual evidence, verifiable observations
 
 Empiricism is an approach to knowledge and decision-making based on empirical evidence and experience. In the context of Scrum, empiricism refers to the idea that decisions should be based on observations and experimentation rather than on assumptions and speculation.
 
-Scrum is an empirical process framework that operates on the principles of transparency, inspection, and adaptation. This means that the Scrum Team continuously inspects and adapts its work based on the feedback and evidence it gathers from the ongoing work, to meet the goals of the project. The Scrum Team does this through regular events and activities, such as Sprint Planning, Daily Scrums, Sprint Reviews, and Sprint Retrospectives.
+Scrum is an empirical process framework that operates on the principles of transparency, inspection, and adaptation. This means that the Scrum Team continuously inspects and adapts its work based on the feedback and evidence it gathers from the ongoing work, to meet the Sprint Goal and the Product Goal. The Scrum Team does this through regular events and activities, such as: 
+
+- Sprint Planning
+- Daily Scrums
+- Sprint Reviews
+- Sprint Retrospectives
+
+==== Pillars of Scrum
 
 The three pillars of Scrum -- transparency, inspection, and adaptation -- embody the principles of empiricism in Scrum. They are:
 
