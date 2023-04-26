@@ -26,17 +26,17 @@ According to Scrum, the term 'developer' refers to anyone on the team who is add
 
 - In construction, a developer could be the person painting the walls
 - For castaways on a desert island, a developer could be the person digging a trench for irrigation
-- In bee keeping a developer might be the person who disposes of the slumgum
+- In beekeeping, a developer might be the person who disposes of the slumgum
 
 As you read this section about the 'developer', it is easy to fall into the trap of thinking that Scrum is specifically talking about a 'software developer.'
 
-They're not. And quite often, framing a scenario or exam question outside of the world of software development will help you choose the correct option .
+They're not. And quite often, framing a scenario or exam question outside the world of Software development will help you choose the correct option.
 
-=== Aspects vs Accountability
+=== Aspects v/s Accountability
 
 The Scrum Certification exam will likely ask you one of these two questions:
 
-- Who is accountable for creating a useful Increment?
+- Who is accountable for creating useful Increment?
 - Who is committed to creating aspects of a usable Increment?
 
 The two questions sound very similar, and if you're unprepared, the nuance between the job of the Developers and the duties of the team might lose you a mark.
@@ -62,14 +62,14 @@ ____
 
 The whole point of Scrum is to deliver value to the stakeholders, and it is the developers who create all aspects of the Increment, which is the additive unit of value in Scrum.
 
-Yet despite the importance of the Developer to the framework, the Scrum Guide only dedicates 84 words to them.
+Yet despite the importance of the developer to the framework, the Scrum Guide only dedicates 84 words to them.
 
-The remaining verbiage about the Developers in Scrum simply outlines the tasks they are accountable for:
+The remaining verbiage about the Developers in Scrum outlines the tasks they are accountable for:
 
 [quote, 2020 Scrum Guide - Developer Section]
 ____
 
-The specific skills needed by the Developers are often broad and will vary with the domain of work. 
+The specific skills needed by the Developers are often broad and will vary with the domain of the work. 
 
 However, the Developers are always accountable for:
 
@@ -81,21 +81,21 @@ ____
 
 === Developer Accountabilities
 
-Let's take a look at the accountabilities of the Developer one point at a time.
+Let's take a look, At the accountabilities of the Developer one point at a time.
 
 [quote, 2020 Scrum Guide - Developer Section]
 ____
 
-Developers are always accountable for creating a plan for the Sprint: the Sprint Backlog.
+Developers are always accountable for creating a plan for Sprint: the Sprint Backlog.
 ____
 
 
 There are two backlogs in Scrum:
 
-- There's the Product Backlog, which is owned by the Product Owner, and it outlines all of the work necessary to build the product
-- and there's the Sprint backlog, which is owned by the developers. 
+- One is the Product Backlog owned by a Product Owner. It outlines all of the work necessary to build the product.
+- Second, is the Sprint backlog owned by the developers. 
 
-The Sprint Backlog is the developer's plan of what then intend to get done during the Sprint. 
+The Sprint Backlog is the developer's plan of what they intend to get done during the Sprint. 
 
 The developers own it, and nobody tells them how to manage it, not even the Scrum Master.
 
@@ -111,7 +111,7 @@ Who on the Scrum Team has the right to add new items to the Sprint Backlog?
 
 The answer is D.
 
-Only the Developers have the authority to add or remove items from the Sprint Backlog.
+Only the Developers have the authority, to add or remove items from the Sprint Backlog.
 
 In contrast, only the Product Owner can add or remove items from the *Product* Backlog.
 
@@ -127,7 +127,7 @@ ____
 
 Notice the connection between quality and the Definition of Done. 
 
-Any time the Scrum Master certification asks about how to enforce quality, the answer will usually get mapped to the application of the Definition of Done.
+Any time the Scrum Master certification asks how to enforce quality, the answer will usually get mapped to the application of the Definition of Done.
 
 ****
 The gatekeeper of quality for the Scrum Framework is:
@@ -150,12 +150,12 @@ ____
 
 
 
-It's assumed that things will change and plans will go awry during a Sprint. 
+It is an assumption that things will change and plans will go away during a Sprint. 
 
-Developers are expected to constantly adapt their plan to adjust to changes. And since the developer's plan is the Sprint Backlog, that means the developers will be tinkering with, adding, deleting and managing their Sprint Backlog constantly throughout a Sprint.
+Developers are expected to constantly adapt their plans to adjust to changes. And since the developer's plan is the Sprint Backlog, that means the developers will be tinkering with, adding, deleting, and managing their Sprint Backlog constantly throughout a Sprint.
 
 ****
-When are developers allowed to adapt their plan by changing the Sprint Backlog
+When are developers allowed to adapt their plan by changing the Sprint Backlog?
 
 * [ ] Any time during the sprint
 * [ ] During Sprint Planning
@@ -175,7 +175,7 @@ ____
 Developers are always accountable for holding each other accountable as professionals.
 ____
 
-You are guarnateed to get a question on the Scrum Certificaiton exam about who holds the developers accountable for monitoring or tracking their progress. 
+You are guaranteed to get a question on the Scrum Certification exam about who holds the developers accountable for monitoring or tracking their progress. 
 
 The answer is the developers. The developers hold themselves accountable.
 
@@ -190,7 +190,7 @@ Who holds the development team accountable for their work?
 
 The answer is D. The development team holds themselves accountable for their progress.
 
-This four item list actually ends the 'Developers' section in the Scrum Guide. This covers the basic responsibility as far as the Scrum Guide goes.
+This four-item list ends the 'Developers' section in the Scrum Guide. This covers the basic responsibility as far as the Scrum Guide goes.
 
 '''
 
@@ -198,7 +198,7 @@ This four item list actually ends the 'Developers' section in the Scrum Guide. T
 
 About 90% of the question on the Scrum Certification exam come directly out of the Scrum Guide. However, there are a few questions that require some additional knowledge.
 
-Two topics you'll want to familiarize yourself with in regards to Developers is:
+Two topics you'll want to familiarize yourself with in regarding Developers are:
 
 - The fact that adding developers sometimes slows down the team's velocity
 - New developers can be added any time you need them.
@@ -211,11 +211,11 @@ When should you add new developers to a Team?
 - During the Sprint Review?
 - During the Sprint Retrospective?
 
-The Scrum Guide doesn't say anything difinitive about this subject, but it also doesn't need to.
+The Scrum Guide doesn't say anything decisive about this subject, but it also doesn't need to.
 
 You can add new developers to a project any time you need them.
 
-If you're half way through a Sprint, and the HR team has just hired four new programmers that you've wanted for months, it wouldn't make sense to just keep those developers on the bench for two weeks so they can start at the beginning of the next Sprint. Start them right away!
+If you're halfway through a Sprint, and the HR team has just hired four new programmers that you've wanted for months, it wouldn't make sense to just keep those developers on the bench for two weeks so they can start at the beginning of the next Sprint. Start them right away!
 
 So you can add new developers to the team any time they become available.
 
@@ -231,9 +231,9 @@ In terms of Scrum, developers can be added to a project any time they are needed
 
 One reality of adding new developers to a team is that it tends to slow the rest of the team down.
 
-When new developers are onboarded, they usually take other developers away from their work, as they are given help setting up printers, finding out where the washrooms are, learning about the project and figuring out how to connect to GitHub and kick of a continuous integration build.
+When new developers are onboarded, they usually take other developers away from their work, as they are given help setting up printers, finding out where the washrooms are, learning about the project, and figuring out how to connect to GitHub and kick off a continuous integration build.
 
-That's just the reality of adding new people to the team. For the short term, the productivity of individual members of the team will dip, although over time, it will go back to normal.
+That's just the reality of adding new people to the team. For the short term, the productivity of individual members of the team will dip, although, over time, it will go back to normal.
 
 Just be aware of that fact on the Scrum Certification exam.
 
