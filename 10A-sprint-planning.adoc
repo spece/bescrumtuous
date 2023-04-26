@@ -470,7 +470,7 @@ The Sprint Backlog is composed of:
 
 Option C is correct. 
 
-The Sprint Backlog is consist of the Product Backlog items selected for the Sprint, the Sprint Goal and the Sprint Plan.
+The Sprint Backlog consists of the Product Backlog items selected for the Sprint, the Sprint Goal and the Sprint Plan.
 
 '''
 
