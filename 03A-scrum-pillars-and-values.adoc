@@ -3,7 +3,7 @@
 == Chapter 3 
 === Scrum Pillars and Values
 
-'Scrum values' is one of the 13 categories upon which your Scrum Certification exam is graded. It's an imnportant topic.
+'Scrum values' is one of the 13 categories upon which your Scrum Certification exam is graded. It's an important topic.
 
 The 'Scrum Pillars' often arise as answers to questions that ask why an event or artifact is important.
 
@@ -11,7 +11,7 @@ Memorize the values and pay close attention to the pillars. They are key to pass
 
 === The Scrum Pillars
 
-We've actually already seen a reference to the Scrum Pillars in the Guide:
+We've already seen a reference to the Scrum Pillars in the Guide:
 
 [quote, 2020 Scrum Guide page 3]
 ____
@@ -25,13 +25,13 @@ ____
 These events work because they implement the empirical Scrum pillars of transparency, inspection, and adaptation.
 ____
 
-It' can't be emphasized enought. The three pillars of Scrum are:
+It can't be emphasized enough. The three pillars of Scrum are:
 
 - Transparency
 - Inspection
 - Adaptation
 
-Everthing that happens in Scrum harps back to these values and pillars. The question as to why a particilar event happens or artifiact is required typically harps back to the Scrum Pillars, with the Scrum values providing further support.
+Everything that happens in Scrum harks back to these values and pillars. The question as to why a particular event happens or artifact is required typically harks back to the Scrum Pillars, with the Scrum values providing further support.
 
 === Scrum Values
 
@@ -60,7 +60,7 @@ What of the following are Scrum pillars?
 
 Options B and E are correct.
 
-The Scrum pillars are transparency, inspection and adaptation.
+The Scrum pillars are transparency, inspection, and adaptation.
 
 '''
 
@@ -83,15 +83,15 @@ The Scrum artifacts and the progress toward agreed goals must be inspected frequ
 
 To help with inspection, Scrum provides cadence in the form of its five events.
 
-Inspection enables adaptation. Inspection without adaptation is considered pointless. 
+An inspection enables adaptation. Inspection without adaptation is considered pointless. 
 
 Scrum events are designed to provoke change.
 
 ____
 
-Inspection is all about taking a look at what you and your team is doing so you can figure out if it's working or not.
+Inspection is all about taking a look at what you and your team are doing so you can figure out if it's working or not.
 
-- Why do we do the Daily Scrum? We do it so the developers can 'inspect' their work and change change their plans if they need to.
+- Why do we do the Daily Scrum? We do it so the developers can 'inspect' their work and change their plans if they need to.
 
 - Why do we do the Sprint Review? We do it so the team and the stakeholders can 'inspect' what's been done and see if it's good or not.
 
@@ -141,7 +141,7 @@ ____
 
 One of the Scrum values is openness. One of the ways to be open is to be transparent about the work being done and transparent about the progress being made.
 
-The Sprint Backlog creates transparency because it lists everything the Scrum Team is working on, what their goal is during this Sprint and their plan for achieving that goal. If anyone wants to know what the Scrum Team is working on, they can look at the Sprint Backlog. It provides transparency.
+The Sprint Backlog creates transparency because it lists everything the Scrum Team is working on, what their goal is during this Sprint, and their plan for achieving that goal. If anyone wants to know what the Scrum Team is working on, they can look at the Sprint Backlog. It provides transparency.
 
 What is the quality standard the team is using? Transparency into that is provided by the team's definition of done.
 
@@ -152,17 +152,17 @@ Like inspection, the Scrum pillar of transparency is woven into all of the Scrum
 ==== Test Yourself 
 
 ****
-Scrum allows important decisions to be made emprically by basing those decisions on:
+Scrum allows important decisions to be made empirically by basing those decisions on:
 
 * [ ]  The Scrum values of Commitment, Focus, Openness, Respect, and Courage
 * [ ] Lean thinking
-* [ ] The Scrum pillars of transparency, inspection and adaptation
+* [ ] The Scrum pillars of transparency, inspection, and adaptation
 * [ ] The perceived state of the three formal artifacts.
 ****
 
-Empiricism requires decicions to be made on facts and evidence. In Scrum, evidence comes from the state of Scrum's three formal artifacts, namely the Product Backlog, the Sprint Backlog and the Increment.
+Empiricism requires decisions to be made on facts and evidence. In Scrum, evidence comes from the state of Scrum's three formal artifacts, namely the Product Backlog, the Sprint Backlog, and the Increment.
 
-The state of these artifacts must be transparent to all, otherwise the team and the stakeholders don't have all of the facts they need to make the right decisions for the future of the product.
+The state of these artifacts must be transparent to all, otherwise, the team and the stakeholders don't have all of the facts they need to make the right decisions for the future of the product.
 
 '''
 
@@ -170,9 +170,9 @@ The state of these artifacts must be transparent to all, otherwise the team and 
 
 Things never go according to plan. 
 
-That's one of the reason we don't spend months planning things in Scrum. 
+That's one of the reasons we don't spend months planning things in Scrum. 
 
-It's more important to produce something of value than it is to waste time planning, because nothing ever goes according to plan.
+It's more important to produce something of value than it is to waste time planning because nothing ever goes according to plan.
 
 And when plans do go awry, Scrum developers adapt. That's how they achieve their goals.
 
@@ -184,24 +184,24 @@ The adjustment must be made as soon as possible to minimize further deviation.
 
 Adaptation becomes more difficult when the people involved are not empowered or self-managing. 
 
-A Scrum Team is expected to adapt the moment it learns anything new through inspection.
+A Scrum Team is expected to adopt the moment it learns anything new through inspection.
 ____
 
-It's understood that in the world of software development things change quickly.
+It's understood that in the world of software development, things change quickly.
 
 Things also change quickly in the field of construction, manufacturing, banking, etc.
 
-The ability for teams to quickly adjust and change thier plan when things go sideways is a core tenent of Scrum. It's one of the reasons we have the Daily Scrum - it allows developers to collectively discuss problems and adapt as needed.
+The ability for teams to quickly adjust and change their plan when things go sideways is a core tenant of Scrum. It's one of the reasons we have the Daily Scrum - it allows developers to collectively discuss problems and adapt as needed.
 
 ==== Always Adapt
 
-The Scrum Guide provides a number of artifacts and time boxed events that provide an opportunity to adapt. However, these are not the only times the team is allowed to meet, speak and adapt.
+The Scrum Guide provides several artifacts and time-boxed events that provide an opportunity to adapt. However, these are not the only times the team is allowed to meet, speak and adapt.
 
-If a problems comes up during the day, a developer doesn't have to wait until the next day's Daily Scrum to adapt. Nor does a developer have to wait until the next day's Daily Scrum to discuss issues with fellow developers.
+If a problem comes up during the day, a developer doesn't have to wait until the next day's Daily Scrum to adapt. Nor does a developer have to wait until the next day's Daily Scrum to discuss issues with fellow developers.
 
 If a problem arises, teams are encouraged to inspect and adapt immediately.
 
-If the team's war room catches fire, don't wait until tomorrow's Daily Scrum to leave the building. Ongoing inspection and adaption is a requirement in Scrum. 
+If the team's war room catches fire, don't wait until tomorrow's Daily Scrum to leave the building. Ongoing inspection and adaption are requirements in Scrum. 
 
 
 ==== Test Yourself 
@@ -212,28 +212,28 @@ If the process used to track development throughout the Sprint deviates outside 
 * [ ] End the Sprint early and begin a new round of Sprint Planning
 * [ ] End the Sprint early and do a Sprint Review with all stakeholders
 * [ ] End the Sprint early and do an internal Sprint Retrospective to see what went wrong
-* [ ] Adapt during the Sprint and contunue to push towards the Sprint goal.
+* [ ] Adapt during the Sprint and continue to push towards the Sprint goal.
 ****
 
 Scrum is all about adaptation. If things don't go according to plan, the team should adapt. They certainly shouldn't end the Sprint. For the most part, Scrum doesn't allow them to.
 
-- The developers do not have the ability to end a Sprint early in Scrum.
-- The Scrum Master does not have the ability to end a Sprint early in Scrum.
+- The developers cannot end a Sprint early in Scrum.
+- The Scrum Master cannot end a Sprint early in Scrum.
 
 Only the Product Owner can do that, and only under the very special condition under which the Sprint Goal has become obsolete. 
 
 If things go sideways during a Sprint, the solution is not to cancel the Sprint or end the Sprint early. The solution is to adapt and continue to work towards the Sprint goal.
 
-Sprints are short, typically between 2 to 4 weeks. Even if things go completely sideways, it won't be too long before a new Sprint begins, so continue to work hard towards the Sprint Goal. A new Sprint is always just around the corner.
+Sprints are short, typically between 2 to 4 weeks. Even if things go completely sideways, it won't be too long before a new Sprint begins, so continue to work hard toward the Sprint Goal. A new Sprint is always just around the corner.
 
 '''
 
 ==== Test Yourself 
 
 ****
-A serious security related bug has appeared in the code written by a fellow developer and you need more details about it in order to fix it. When should this issue be discussed with the developer?
+A serious security-related bug has appeared in the code written by a fellow developer and you need more details about it to fix it. When should this issue be discussed with the developer?
 
-* [ ] When the Scrum Master can coordinate a meeting betweeen the two of you
+* [ ] When the Scrum Master can coordinate a meeting between the two of you
 * [ ] After the Quality Assurance (QA) team has time to investigate
 * [ ] During the next scheduled Daily Scrum
 * [ ] You should go over to the developer's desk and discuss it now
@@ -241,7 +241,7 @@ A serious security related bug has appeared in the code written by a fellow deve
 
 Option D is correct.
 
-There are scheduled invents in Scrum that provide opportunities to inspect and adapt, but those should never be used limit communication and interaction between members of the team.
+There are scheduled invents in Scrum that provide opportunities to inspect and adapt, but those should never be used to limit communication and interaction between members of the team.
 
 If a problem arises in Scrum, there's no requirement to wait until a Scrum event happens to address it. Address problems immediately and adapt.
 
@@ -265,15 +265,15 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 
 The Scrum Team commits to achieving its goals and to supporting each other. 
 
-Their primary focus is on the work of the Sprint to make the best possible progress toward these goals. 
+Their primary focus is on the work of Sprint to make the best possible progress toward these goals. 
 
 The Scrum Team and its stakeholders are open about the work and the challenges. 
 
-Scrum Team members respect each other to be capable, independent people, and are respected as such by the people with whom they work. 
+Scrum Team members respect each other to be capable, independent people and are respected as such by the people with whom they work. 
 
-The Scrum Team members have the courage to do the right thing, to work on tough problems.
+The Scrum Team members dare to do the right thing, to work on tough problems.
 
-These values give direction to the Scrum Team with regard to their work, actions, and behavior. 
+These values give direction to the Scrum Team about their work, actions, and behavior. 
 
 The decisions that are made, the steps taken, and the way Scrum is used should reinforce these values, not diminish or undermine them. 
 
@@ -282,9 +282,9 @@ The Scrum Team members learn and explore the values as they work with the Scrum 
 When these values are embodied by the Scrum Team and the people they work with, the empirical Scrum pillars of transparency, inspection, and adaptation come to life building trust.
 ____
 
-Like the Scrum pillars, the Scrum values provide justification for doing the various Scrum events and the creation of various Scrum artifacts.
+Like the Scrum pillars, the Scrum values justify doing the various Scrum events and the creation of various Scrum artifacts.
 
-Quite often when a Scrum Master, Product Owner or Scrum Developer is faced with a difficult challenge, the answer to problem lies in how to conjur up a solution that is in line with these Scrum values.
+Quite often when a Scrum Master, Product Owner, or Scrum Developer is faced with a difficult challenge, the answer to the problem lies in how to conjure up a solution that is in line with these Scrum values.
 
 For the exam, know the Scrum values and how each of them is defined. There is usually a question or two that will test to see if you know what the Scrum values are and how they are generally defined.
 
@@ -305,11 +305,11 @@ According to the Scrum Guide, which of the following is not a Scrum Value?
 * [ ] Honesty
 ****
 
-The five Scrum values are Commitment, Focus, Openness, Respect and Courage.
+The five Scrum values are Commitment, Focus, Openness, Respect, and Courage.
 
 Honestly is not one of them, but that's not to say you shouldn't be honest. Always be honest!
 
-The other traits, extraversion (also often spelled extroversion), agreeableness, openness, emotional stability (neuroticism) and conscientiousness are together known as the Big 5 personality traits. Big 5 personality traits are worth looking into if you're into psychology and human behavior, but you won't be tested on them in the Scrum Master exam.
+The other traits, extraversion (also often spelled extroversion), agreeableness, openness, emotional stability (neuroticism), and conscientiousness are together known as the Big 5 personality traits. Big 5 personality traits are worth looking into if you're into psychology and human behavior, but you won't be tested on them in the Scrum Master exam.
 
 '''
 
@@ -319,7 +319,7 @@ The other traits, extraversion (also often spelled extroversion), agreeableness,
 
 How does the incremental and iterative nature of Scrum optimize predictability and control risk?
 
-The incremental and iterative nature of Scrum, along with it's short-sprints and empirical nature, helps optimize predictability and control risk in several ways:
+The incremental and iterative nature of Scrum, along with its short-sprints and empirical nature, helps optimize predictability and control risk in several ways:
 
 Regular inspection and adaptation: Scrum provides regular opportunities for the Scrum team to inspect the work that has been done and to adapt their plan for the next iteration. This allows the team to make necessary adjustments to their process, product, and priorities to optimize their ability to deliver value and minimize risks.
 
