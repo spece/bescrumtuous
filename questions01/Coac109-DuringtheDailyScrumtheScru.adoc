@@ -1,24 +1,26 @@
 ---
 layout: default + 
 title: "109"
+id: 109-6445b165221e893e31a49d0c.
 ---
 
 
 [#question]
-== 109-6445b165221e893e31a49d0c.
+
 
 ****
 
 [#query]
 --
-During the Daily Scrum, the Scrum Master should:
+With regards to the Daily Scrum, the Scrum Master should:
 --
 
 [#list]
 --
-* [*] Coach they team so they keep focus and stay within the 15 minute timebox
+
 * [ ] Make sure the three questions about yesterday, today and impediments are answered by all developers
 * [ ] Take specific notes about what each developer's daily action plan is
+* [*] Coach the team on how to keep focus stay within the 15 minute timebox
 * [ ] Take general notes about what the team's daily action plan is
 * [ ] All of the above
 
@@ -26,7 +28,7 @@ During the Daily Scrum, the Scrum Master should:
 ****
 
 [#answer]
-A
+C
 
 [#explanation]
 --

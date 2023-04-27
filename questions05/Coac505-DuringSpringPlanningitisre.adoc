@@ -1,11 +1,12 @@
 ---
 layout: default + 
 title: "505"
+id: 505-64456797ca886e07fd8927dd.
 ---
 
 
 [#question]
-== 505-64456797ca886e07fd8927dd.
+
 
 ****
 

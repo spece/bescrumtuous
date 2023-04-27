@@ -42,7 +42,7 @@ Who does what and how much of it in terms of development is not a concern of Scr
 --
 
 [#ka]
-Coaching and Mentoring
+Empiricism
 
 '''
 

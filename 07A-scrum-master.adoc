@@ -18,7 +18,7 @@ Most of what a Scrum Master does revolves around coaching and educating people a
 - The Scrum Master can't make changes to the work planned for the Sprint
 - The Scrum Master can't hire or fire people
 
-Even when the Scrum Master does do something of substance, such as helping to remove impediments or acting as a servant-leader, they typically achieve this by educating others about how Scrum is supposed to work, and coaching people about how to properly embrace the ideas expressed in the Scrum Guide.
+Even when the Scrum Master does do something of substance, such as helping to remove impediments or acting as a servant-leader, they typically achieve this by educating others about how Scrum is supposed to work and coaching people about how to properly embrace the ideas expressed in the Scrum Guide.
 
 
 ==== Scrum Requires a Scrum Master
@@ -48,22 +48,22 @@ The developers say they don't feel ready to start development and would like to 
 
 Option D is correct.
 
-The job of the Scrum Master is largely to coach, facilitate and help both the Scrum Team and the organization understand how Scrum works.
+The job of the Scrum Master is large to coach, facilitate and help both the Scrum Team and the organization understand how Scrum works.
 
 A Scrum Master does not:
 
 - Manage the project
 - Assign tasks to members of the team
-- Tell devleopers what to do
-- Cancel, delay or extend Sprints
-- Assign developers into teams
+- Tell developers what to do
+- Cancel, delay, or extend Sprints
+- Assign developers to teams
 - Manage budget money
 
 
 
 ==== Scrum Masters and Servant Leadership
 
-Previous editions of the Scrum Guide talked about servent leadership. Yet the 2020 Scrum Guide removes all references to the term 'servant leader.'
+Previous editions of the Scrum Guide talked about servant leadership. Yet the 2020 Scrum Guide removes all references to the term 'servant leader.'
 
 Instead, the 2020 Scrum Guide includes this line that spins the idea of servant leadership around a bit:
 
@@ -72,11 +72,11 @@ ____
 Scrum Masters are true leaders who serve the Scrum Team and the larger organization.
 ____
 
-The Scrum Guide always tries to be very precise in its working.
+The Scrum Guide always tries to be very precise in its work.
 
 The stewards of the Scrum framework want everyone to know that a Scrum Master is a leader first, and then a servant to the team. They are a leader who serves, not a servant who leads.
 
-It's a persnikity distinction, but an important one nevertheless.
+It's a persnickety distinction, but an important one nevertheless.
 
 ==== Test Yourself
 
@@ -92,7 +92,7 @@ Which of the following statements is most true about a Scrum Master?
 
 Option B is correct.
 
-The Scrum Master is a leader first who also serves the other member of their team.
+The Scrum Master is a leader first who also serves the other member of the team.
 
 '''
 
@@ -112,13 +112,13 @@ The Scrum Master serves the Scrum Team in several ways, including:
 
 ____
 
-The first two bullet points emphasize the point made by the Scrum Guide earlier that the Scrum Master helps the team by coaching them on how Scrum  work, and how Scrum Teams should behaves within the scope of the Scrum framework.
+The first two bullet points emphasize the point made by the Scrum Guide earlier that the Scrum Master helps the team by coaching them on how Scrum work, and how Scrum Teams should behave within the scope of the Scrum framework.
 
 Notice the use of terms such as 'coaching' and 'helping.'
 
 On the Scrum Certification exam, if you ever see an option that implies a Scrum Master will force somebody to do something, or tell somebody to do something, that option will typically be wrong.
 
-A Scrum Master is a coach, a diplomat, a leader who serves and a facilitator. They are not managers or commanders who coerce others into productivity through intimidation or Macheavellian tactics.
+A Scrum Master is a coach, a diplomat, a leader who serves, and a facilitator. They are not managers or commanders who coerce others into productivity through intimidation or Machiavellian tactics.
 
 
 ==== Test Yourself
@@ -136,31 +136,31 @@ Blah, blah, blah Developer problem. Blah, blah, blah what should the Scrum Maste
 
 Options B and D are correct.
 
-There will be questions on the Scrum Certification exam where some of the options include the Scrum Master telling, instructing, insisting or demanding a Developer does something. Answers like that will always be wrong, and can be disqualified immediately.
+There will be questions on the Scrum Certification exam where some of the options include the Scrum Master telling, instructing, insisting, or demanding a Developer does something. Answers like that will always be wrong and can be disqualified immediately.
 
-A Scrum Master is a coach, facilitator and a leader who serves. They are not managers or army generals.
+A Scrum Master is a coach, facilitator, and a leader who serves. They are not managers or army generals.
 
 '''
 
 ==== Removal of Impediments
 
-The Scrum Guide says the Scrum Master should work to cause the removal of impediments to the team's progress. 
+The Scrum Guide says the Scrum Master should work to cause the removal of impediments to the progress of the team. 
 
 [quote, 2020 Scrum Guide page 6]
 ____
 
-The Scrum Master serves the Scrum Team by causing the removal of impediments to the Scrum Team’s progress
+The Scrum Master serves the Scrum Team by causing removal of impediments to the Scrum Team’s progress
 ____
 
 So what's an impediment?
 
 It's important to keep in mind that we are talking about impediments within the context of the Scrum framework.
 
-For example, if a manager starts asking for daily status reports from the developers detailing what they're working on, that infrines on the development team's ability to self-manage. The need to needleslly fill out status reports that zap the dev team's productivity is an impediment that the Scrum Master should work to remove.
+For example, if a manager starts asking for daily status reports from the developers detailing what they're working on, that infringes on the development team's ability to self-manage. The need to needlessly fill out status reports that zap the dev team's productivity is an impediment that the Scrum Master should work to remove.
 
 In this case, the Scrum Master would coach management on the need to allow developers to manage themselves, while at the same time showing the managers how the Sprint Backlog and the Sprint Review are much better ways to gain insight into the progress the development team is making.
 
-Similarly, if a manager is trying to attend the Daily Scrum, or the Product Owner is not clearly communicating the requirements of their Product Backlog items, these are impediments the Scrum Master can work to remove.
+Similarly, if a manager is trying to attend the Daily Scrum, or the Product Owner is not communicating the requirements of their Product Backlog items, these are impediments the Scrum Master can work to remove.
 
 ==== In the Context of Scrum
 
@@ -168,7 +168,7 @@ Impediments that fall outside of the context of Scrum are not typically things t
 
 For example, if a developer can't figure out how to book a conference room for the Daily Scrum, that's not exactly a blocker for the Scrum Master to solve. Or if the computer hosting the Git repository goes up in flames and the team needs a new computer, that's not a blocker the Scrum Master would be expected to address either.
 
-The Scrum Master works to cause the removal of blockers that slow the team down, but only within the context of the Scrum Framework, which tyipcally involves coaching and educating others about Scrum.
+The Scrum Master works to cause the removal of blockers that slow the team down, but only within the context of the Scrum Framework, which typically involves coaching and educating others about Scrum.
 
 
 ==== Test Yourself
@@ -179,20 +179,20 @@ A developer who has taken on the task of booking a conference room for the daily
 * [ ] The Scrum Master should remove the blocker by learning the booking system and booking the room for the developer
 * [ ] Allow the developer to book a different room each day for the daily Scrum
 * [ ] Coach the developer on the importance of Scrum Events always taking place at the same time and location
-* [ ] Have the developer only schedule the Daily Scrum on days where the same room is available
+* [ ] Have the developer only schedule the Daily Scrum on days when the same room is available
 ****
 
 Option C is correct.
 
-The booking system may be a blocker or impediment to the developer, but it's not an impediment in terms of the Scrum framework. It's not the Scrum Master's job to teach a developer how to use their tools. 
+The booking system may be a blocker or impediment to the developer, but it does not impede in terms of the Scrum framework. It's not the Scrum Master's job to teach a developer how to use their tools. 
 
-Perhaps a Scrum Master could advise the developer on how to find training that would teach them how to better use the tool, or facilitate a learning session with other developers where knowledge sharing about the booking system could happen. But actually doing the developer's work for them is not what the Scrum Guide means when it talks about removing impediments.
+Perhaps a Scrum Master could advise the developer on how to find training that would teach them how to better use the tool, or facilitate a learning session with other developers where knowledge sharing about the booking system could happen. But doing the developer's work for them is not what the Scrum Guide means when it talks about removing impediments.
 
 In this case, the only correct option is for the Scrum Master to coach the developer on the importance of having Scrum Events take always take place at the same time and location, so long as it's reasonable to do so. 
 
 '''
 
-The types of impediments a Scrum Master is expected to help solve are typically things that go beyond issues that self-managed and self-organized teams can solve on their own, while at the same time fall within the context of Scrum. Examples include:
+The types of impediments a Scrum Master is expected to help solve are typically things that go beyond issues that self-managed and self-organized teams can solve on their own, while at the same time falling within the context of Scrum. Examples include:
 
 - Availability of the Product Owner
 - The team being pushed beyond a sustainable pace
@@ -201,11 +201,11 @@ The types of impediments a Scrum Master is expected to help solve are typically 
 - Poorly described backlog items
 - Unclear Sprint and Product Goals
 
-All of these issues are impediments for which the Scrum Master should be able to help remove the cause through coaching, facilitation and educating people about the proper application of the Scrum framework.
+All of these issues are impediments for which the Scrum Master should be able to help remove the cause through coaching, facilitation, and educating people about the proper application of the Scrum framework.
 
-=== Positive, Productive and Timeboxed
+=== Positive, Productive, and Timeboxed
 
-The final point here emphasizes the Scrum Master's role in making sure all Scrum Events happen throughout the Sprint, that they are productive, and they are time boxed.
+The final point here emphasizes the Scrum Master's role in making sure all Scrum Events happen throughout the Sprint, that they are productive, and that they are time-boxed.
 
 
 [quote, 2020 Scrum Guide page 6]
@@ -216,16 +216,16 @@ ____
 
 When answering questions on the certification exam, remember that according to this point:
 
-- It's the Scrum Master's job ensure that all Scrum Events take place
-- It's the Scrum Master's job ensure that all Scrum Events fall within their timebox
-- It's the Scrum Master's job ensure all Scrum Events are positive
+- It's the Scrum Master's job to ensure that all Scrum Events take place
+- It's the Scrum Master's job to ensure that all Scrum Events fall within their timebox
+- It's the Scrum Master's job to ensure all Scrum Events are positive
 
 
-=== Positivity, Occurrence and Timeboxing
+=== Positivity, Occurrence, and Timeboxing
 
 There will be questions on the exam that state the developers don't want to do the Daily Scrum every day, or they want to hold the Daily Scrum in different locations on a Friday. 
 
-In these situations, the Scrum Master much coach the team on the importance of taking part in all Scrum events, and making sure they take place at the same time and in the same location every time.
+In these situations, the Scrum Master much coach the team on the importance of taking part in all Scrum events and making sure they take place at the same time and in the same location every time.
 
 There will also be questions about whose job it is to keep Scrum Events within their allotted time. In situations like these, it is the Scrum Master's job to coach the team about the importance of keeping within the timebox.
 
@@ -235,7 +235,7 @@ And other questions will say that developers are not enjoying the Daily Scrum, o
 ==== Test Yourself
 
 ****
-The Scrum Developers are frustrated, not clear on what they are developing and do not want to attending the Daily Scrum. What should the Scrum Master do?
+The Scrum Developers are frustrated, not clear on what they are developing, and do not want to attend the Daily Scrum. What should the Scrum Master do?
 
 * [ ] Cancel the Daily Scrum so the developers can focus on their work.
 * [ ] Coach the team on the value the Daily Scrum brings to the team.
@@ -245,7 +245,7 @@ The Scrum Developers are frustrated, not clear on what they are developing and d
 
 The Scrum Master can't cancel any Scrum Events.
 
-The Scrum Master must coach the team ensure all Scrum Events take place, are positive and are productive, so option A is incorrect.
+The Scrum Master must coach the team to ensure all Scrum Events take place, are positive, and are productive, so option A is incorrect.
 
 The Scrum Master also doesn't have the authority to reprimand anyone, so option C is incorrect.
 
@@ -266,7 +266,7 @@ The Scrum Master serves the Product Owner in several ways, including:
 ____
 
 
-Notice how the term 'helping' is used repeatedly with regards to how the Scrum Maser serves the Product Owner. Furthermore, each item the Scrum Master his helping with is an element of Scrum, such as:
+Notice how the term 'helping' is used repeatedly about how the Scrum Master serves the Product Owner. Furthermore, each item the Scrum Master is helping with is an element of Scrum, such as:
 
 - The Product Goal
 - The Product Backlog
@@ -274,7 +274,7 @@ Notice how the term 'helping' is used repeatedly with regards to how the Scrum M
 
 Furthermore, helping the Product Owner with these things works to remove impediments for the team.
 
-For example, poorly defined Product Backlog items make it difficult for the developers to understand what is required of them. So encouraging the Product Owner to create clear Product Backlog items removes and impediment from the team.
+For example, poorly defined Product Backlog items make it difficult for the developers to understand what is required of them. So encouraging the Product Owner to create clear Product Backlog items removes an impediment from the team.
 
 ==== Product Owner Impediments
 
@@ -291,11 +291,11 @@ Many people approach Scrum with the assumption that the framework employs some t
 
 Nothing could be further from the truth.
 
-Developers, Scrum Masters, Product Owners, stakeholders and even customers are encouraged to talk to each other. There are absolutely no rules in Scrum about stakeholders only talking to Product Owners, or developers not being allowed to talk to customers.
+Developers, Scrum Masters, Product Owners, stakeholders, and even customers are encouraged to talk to each other. There are no rules in Scrum about stakeholders only talking to Product Owners, or developers not being allowed to talk to customers.
 
-Scrum promotes the exact opposite type of approach. Scrum values opennes and transparency.
+Scrum promotes the exact opposite type of approach. Scrum values openness and transparency.
 
-In fact, one of the Scrum Master's main responsibilities is to remove barriers between the stakeholders and the Scrum Team, helping to open up channels of communication and enhance transparency in the process.
+One of the Scrum Master's main responsibilities is to remove barriers between the stakeholders and the Scrum Team, helping to open up channels of communication and enhance transparency in the process.
 
 === Removing Barriers Between Stakeholders and Teams
 
@@ -306,11 +306,11 @@ Imagine a small startup where the office has 8 desks for the following people:
 - One Scrum Master
 - Four developers
 
-Do you think the stakeholders and the developers should never talk to each other in that situation? Do you think there should be some rule that says the owners should but noise cancelling headsets on any time two developers talk about the project?
+Do you think the stakeholders and the developers should never talk to each other in that situation? Do you think there should be some rule that says the owners should buy noise-cancelling headsets any time two developers talk about the project?
 
 Or do you think it would improve transparency if the developers and the stakeholders talked to each other all the time?
 
-In fact, one of the jobs of the Scrum Master is to remove barriers between stakeholders and Scrum Teams. It's always preferable tho have open and healthy lines of communication between everyone on a project.
+One of the jobs of the Scrum Master is to remove barriers between stakeholders and Scrum Teams. It's always preferable to have open and healthy lines of communication between everyone on a project.
 
 [quote, 2020 Scrum Guide page 6]
 ____
@@ -320,7 +320,7 @@ ____
 
 Some people also get the incorrect impression that developers can only talk to stakeholders during the Sprint Review.
 
-The Sprint Review is a scheduled event that makes sure the stakeholders and the Scrum Team get a chance to talk, but it is not the only time such communication is allowed. Openness and transparency is always better than secrecy and ambiguity.
+The Sprint Review is a scheduled event that makes sure the stakeholders and the Scrum Team get a chance to talk, but it is not the only time such communication is allowed. Openness and transparency are always better than secrecy and ambiguity.
 
 === Planning and Advising
 
@@ -332,7 +332,7 @@ ____
 The Scrum Master serves the organization by planning and advising Scrum implementations within the organization
 ____
 
-And along with helping to get Scrum up and running, the Scrum Master is also expected to help the organization as a whole by coaching others about how Scrum works and how Scrum's empirical approach to problem solving can aid in product development.
+And along with helping to get Scrum up and running, the Scrum Master is also expected to help the organization as a whole by coaching others about how Scrum works and how Scrum's empirical approach to problem-solving can aid in product development.
 
 [quote, 2020 Scrum Guide page 6]
 ____
@@ -342,7 +342,7 @@ The Scrum Master serves the organization in several ways, including:
 - Helping employees and stakeholders understand and enact an empirical approach for complex work; and,
 ____
 
-The job of the Scrum Master is to teach people how to do Scrum, how to implement Scrum, and how to improve on Scrum based practices.
+The job of the Scrum Master is to teach people how to do Scrum, how to implement Scrum, and how to improve on Scrum-based practices.
 
 ==== Test Yourself
 
@@ -361,9 +361,9 @@ Option D is incorrect.
 
 In this case, there is an issue between the Stakeholders and the Scrum Team.
 
-Hopefully management can be coached on the transparency built into Scrum, and gain enough value from the Sprint Review to remove the request for additional meetings with the Scrum Teams.
+Hopefully, Management can be coached on the transparency built into Scrum, and gain enough value from the Sprint Review to remove the request for additional meetings with the Scrum Teams.
 
-Also, by keeping the Scrum Developers out of an unneeded meeting, the Scrum Master has removed a potential impedemint for the developers.
+Also, by keeping the Scrum Developers out of an unneeded meeting, the Scrum Master has removed potential impediments for the developers.
 
 '''
 

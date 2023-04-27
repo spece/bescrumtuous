@@ -1,0 +1,44 @@
+---
+layout: default + 
+title: "103"
+id: newquestion
+---
+
+****
+
+[#query]
+--
+Every Scrum Artifact has a commitment tied to it. What is the commitment tied to the Product Backlog?
+--
+
+[#list]
+--
+
+* [ ] The commitment to the Definition of Done
+* [ ] The Increment commitment
+* [ ] The Sprint commitment
+* [ ] The Sprint Goal
+* [ ] The Product commitment
+* [*] The Product goal
+
+--
+****
+
+[#answer]
+F
+
+[#explanation]
+--
+The Product goal is the commitment associated with the Product Backlog.
+
+The idea is that once the everything in the Product Backlog is done, the Product Goal will have been achieved, and the Product has been completed.
+
+Of course, development is always in flux, so as Product Backlog items get completed, more get added. So the Product Goal may never actually be achieved so long as ongoing development happens, but regardless, the goal is always being strived for.
+
+--
+
+[#ka]
+Artifacts
+
+'''
+

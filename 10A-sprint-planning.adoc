@@ -7,7 +7,7 @@ Scrum is simple. It really is.
 
 I often hear people say they hate Scrum because it's too complicated, but I just don't see how that's possible.
 
-At the heart of it, Scrum basically just says this:
+At the heart of it, Scrum just says this:
 
 - Teams should take a bit of time every month or so to plan out the work they're going to do
 - Developers should meet for 15 minutes every workday just to get the ball rolling again
@@ -16,9 +16,9 @@ At the heart of it, Scrum basically just says this:
 
 That's it. That's the basics of Scrum right there.
 
-I honestly don't know how anyone could say a strategy like that is a bad thing. It seems pretty basic, pretty reasonable and pretty straight-forward to me.🤷‍
+I honestly don't know how anyone could say a strategy like that is a bad thing. It seems pretty basic, pretty reasonable, and pretty straightforward to me.🤷‍
 
-And it all starts off with Sprint Planning.
+And it all starts with Sprint Planning.
 
 [quote, 2020 Scrum Guide page 8]
 ____
@@ -26,7 +26,7 @@ Sprint Planning initiates the Sprint by laying out the work to be performed for 
 This resulting plan is created by the collaborative work of the entire Scrum Team.
 ____
 
-Harping back to a theme we've crowed about before, note that Sprint Planning happens within the Sprint, not before the Sprint begins.
+Harking back to a theme we've crowed about before, note that Sprint Planning happens within the Sprint, not before the Sprint begins.
 
 Many questions on the Scrum Master certification exam will suggest that Sprint Planning happens before the Sprint, but that's always a red herring.
 
@@ -51,17 +51,17 @@ ____
 The Scrum Team may also invite other people to attend Sprint Planning to provide advice.
 ____
 
-Notice how anyone can be invited to participate in the Sprint Planning meeting. That's a significant point, and a concept you'll be tested on often.
+Notice how anyone can be invited to participate in the Sprint Planning meeting. That's a significant point and a concept you'll be tested on often.
 
 There are often multiple Scrum teams working on a single project.
 
-Remember, the maximum size of a Scrum team is 10 people, but it's not unusual for an enterprise software development project to have thirty or forty developers working on it. That's means there will be at least four or five Scrum teams allo working on the same product at the same time.
+Remember, the maximum size of a Scrum team is 10 people, but it's not unusual for an enterprise software development project to have thirty or forty developers working on it. That means there will be at least four or five Scrum teams all working on the same product at the same time.
 
 === Minimizing Inter-team Dependencies
 
-So how do multiple teams avoid stepping on each other's toes and working on the same backlog items? How to teams avoid being blocked by a dependency their chosen work has on something that has to be completed by another team first?
+So how do multiple teams avoid stepping on each other's toes and working on the same backlog items? How do teams avoid being blocked by a dependency their chosen work has on something that has to be completed by another team first?
 
-One way to manage these issues is to have representatives from other Scrum Teams attend your Sprint Planning meeting. Representatives from other teams can share their progress, insights and even deliverable dates for dependencies your project might have on them.
+One way to manage these issues is to have representatives from other Scrum Teams attend your Sprint Planning meeting. Representatives from other teams can share their progress, insights, and even deliverable dates for dependencies your project might have on them.
 
 Or better yet, if you know that certain Product Backlog items have dependencies on work that might not get completed by another team, then you can just pick different backlog items altogether. The fewer the dependencies your work has on other teams the better.
 
@@ -84,32 +84,32 @@ Option E is correct.
 
 There is nothing in the Scrum Guide that forbids Scrum Developers from inviting people outside the team to the Sprint Planning meeting.
 
-If someone outside the Scrum Team can provide guidance on how to best plan the Sprint, they are more than welcome to speak up during Sprint Planning.
+If someone outside the Scrum Team can guide how to best plan the Sprint, they are more than welcome to speak up during Sprint Planning.
 
 '''
 
 ==== Test Yourself
 
 ****
-True or False: It is the Scrum Master's responsibility to ensure all Sprint Planning attendees are ready and prepared to discuss the Produt Backlog.
+True or False: It is the Scrum Master's responsibility to ensure all Sprint Planning attendees are ready and prepared to discuss the Product Backlog.
 ****
 
 This is false.
 
-It's actually the Product Owner who ensures attendees are prepared to discuss how Product Backlog items map to the Product Goal.
+It's the Product Owner who ensures attendees are prepared to discuss how Product Backlog items map to the Product Goal.
 
 '''
 
-=== Answering Why, What and How
+=== Answering Why, What, and How
 
-The goal of Sprint Planning is to come up with good answers to the questions of why, what and how. You'll be tested on these questions on the exam.
+The goal of Sprint Planning is to come up with good answers to the questions of why, what, and how. You'll be tested on these questions on the exam.
 
 [quote, 2020 Scrum Guide page 8]
 ____
 Sprint Planning addresses the following topics:
 
 - Topic One: Why is this Sprint valuable?
-- Topic Two: What can be Done this Sprint?
+- Topic Two: What can be Done in this Sprint?
 - Topic Three: How will the chosen work get done?
 
 Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. 
@@ -121,10 +121,10 @@ ____
 
 To pass the Scrum certification exam have to know the time boxes for Scrum events like the back of your hand:
 
-- Sprint Planning is time boxed to a maximum of 8 hours for a one-month Sprint
-- The Daily Scrum is time boxed to a maximum of 15 minutes
-- The Sprint Review is time boxed to a maximum of 4 hours
-- The Sprint Retrospective is time boxed to a maximum of 3 hours
+- Sprint Planning is time-boxed to a maximum of 8 hours for a one-month Sprint
+- The Daily Scrum is time-boxed to a maximum of 15 minutes
+- The Sprint Review is time-boxed to a maximum of 4 hours
+- The Sprint Retrospective is time-boxed to a maximum of 3 hours
 
 
 ==== Test Yourself
@@ -136,18 +136,18 @@ Which of the Scrum events can last the longest?
 * [ ] Sprint Review
 * [ ] Sprint Planning
 * [ ] Sprint Retrospective
-* [ ] The Review, Planning and Retrospective are all time boxed to 4 hours
+* [ ] The Review, Planning, and Retrospective are all time-boxed to 4 hours
 * [ ] There is no time limit for the Sprint Planning
 
 ****
 
 The answer to this question is C, Sprint Planning.
 
-Sprint Planning is timeboxed to a maximum of 8 hours. Hopefully your team can get it done a bit faster.
+Sprint Planning is timeboxed to a maximum of 8 hours. Hopefully, your team can get it done a bit faster.
 
 '''
 
-=== Why is the Sprint valuable?
+=== Why is Sprint valuable?
 [quote, 2020 Scrum Guide page 8]
 ____
 The Product Owner proposes how the product could increase its value and utility in the current Sprint.
@@ -155,11 +155,11 @@ ____
 
 It is the Product Owner who is responsible for ensuring the work of the Scrum Team produces the greatest amount of value.
 
-The Product Owner knows what needs to be built to in order to make the product better.
+The Product Owner knows what needs to be built to make the product better.
 
 ==== Negotiating Product Backlog Item Selection
 
-Note that the Product Owner simply makes a proposal with regards to what should be built next. The Scrum Team may have pragmatic objections and push for other Product Backlog items to be made part of the current Sprint.
+Note that the Product Owner simply proposes with regards to what should be built next. The Scrum Team may have pragmatic objections and push for other Product Backlog items to be made part of the current Sprint.
 
 Just think about a Scrum Team constructing a house. The Product Owner would likely want the kitchens and the bathrooms done, but the foundation of the house may not be laid. In that case, the developers would need to explain how the kitchen and the bathrooms will need to wait for a future Sprint.
 
@@ -178,7 +178,7 @@ Who on the Scrum Team is responsible for maximizing the value of the work perfor
 
 Option B is correct.
 
-Maximizing the value of the work performed by the Scrum Team is the job of Product Owner.
+Maximizing the value of the work performed by the Scrum Team is the job of the Product Owner.
 
 '''
 
@@ -196,37 +196,37 @@ Who first proposes an initial plan for the Sprint at the Sprint Planning meeting
 ****
 Option B is correct.
 
-It is the Product Owner who proposes how the product could increase its value and utility in the current Sprint. This becomes the starting point for negotiations, suggestions and compromises during Sprint Planning.
+It is the Product Owner who proposes how the product could increase its value and utility in the current Sprint. This becomes the starting point for negotiations, suggestions, and compromises during Sprint Planning.
 
 '''
 
 === Sprint Planning and the Sprint Goal
 
-The Sprint Goal must be finalized by the end of the Sprint Planning meeting, and while other things may change during a Sprint, the Sprint Goal is one of the Scrum Artifacts that is not allowed to be edited, adjusted or changed once Sprint Planning has concluded.
+The Sprint Goal must be finalized by the end of the Sprint Planning meeting, and while other things may change during a Sprint, the Sprint Goal is one of the Scrum Artifacts that is not allowed to be edited, adjusted, or changed once Sprint Planning has concluded.
 
 [quote, 2020 Scrum Guide page 8]
 ____
 The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders.
 
-The Sprint Goal must be finalized prior to the end of Sprint Planning.
+The Sprint Goal must be finalized before the end of Sprint Planning.
 ____
 
 Each Sprint needs a Sprint Goal. The Sprint Goal keeps the developers focussed throughout the Sprint.
 
-The Sprint Goal also provides another important function - it provides transparency into the Sprint, as it allows stakeholders know what the developers are working on during the Sprint.
+The Sprint Goal also provides another important function - it provides transparency into the Sprint, as it allows stakeholders to know what the developers are working on during the Sprint.
 
 Again, the Sprint Goal must be finalized before the Sprint Planning meeting ends. The Sprint Goal cannot change throughout the Sprint.
 
-The Sprint Plan can change, and the items in the Sprint Backlog can change. In fact, it's expected that those things will change as conditions change throughout the Sprint. But the Sprint Goal must be finalized before the Sprint Planning meeting ends, and it cannot change during the Sprint.
+The Sprint Plan can change, and the items in the Sprint Backlog can change. It's expected that those things will change as conditions change throughout the Sprint. But the Sprint Goal must be finalized before the Sprint Planning meeting ends, and it cannot change during the Sprint.
 
 ==== Test Yourself
 
 ****
 
-What happens if it becomes clear towards the end of the Sprint that the team will not achive the Sprint Goal?
+What happens if it becomes clear towards the end of the Sprint that the team will not achieve the Sprint Goal?
 
-* [ ] The Sprint is cancelled and a new Sprint Planning meeting takes place
-* [ ] The next Sprint adopts the current Sprint's Goal continulally until the goal is achieved
+* [ ] The Sprint is canceled and a new Sprint Planning meeting takes place
+* [ ] The next Sprint adopts the current Sprint's Goal continuosly until the goal is achieved
 * [ ] The developers update the Sprint Goal so that it is achievable by the end of the Sprint
 * [ ] The developers talk about the Sprint Goal during the Sprint Retrospective
 
@@ -234,13 +234,13 @@ What happens if it becomes clear towards the end of the Sprint that the team wil
 
 The last option is correct.
 
-It's not unusual for a Sprint Goal to go unfullfilled. Sometimes things just don't go according to plan.
+It's not unusual for a Sprint Goal to go unfulfilled. Sometimes things just don't go according to plan.
 
 If the Sprint Goal is not achieved, the Scrum Team talks about what they can do better during the Sprint Retrospective meeting.
 
 Nothing ever gets automatically rolled over from one Sprint into the next. 
 
-Each Sprint starts new with an empty Sprint Backlog, as it's assumed that since conditions, expectations and realities are constantly changing, what made sense when the prior Sprint was planned won't necessarily make sense for the current one.
+Each Sprint starts new with an empty Sprint Backlog, as it's assumed that since conditions, expectations, and realities are constantly changing, what made sense when the prior Sprint was planned won't necessarily make sense for the current one.
 
 '''
 
@@ -294,13 +294,13 @@ Through discussion with the Product Owner, the Developers select items from the 
 The Scrum Team may refine these items during this process, which increases understanding and confidence.
 ____
 
-During Sprint Planning, the Product Owner proposes what they believe think should be built during the Spring. The Product Owner explains what they believe will provide the most value to stakeholders and customers. However, it's the developers who actually decide which Product Backlog items get added to the Sprint.
+During Sprint Planning, the Product Owner proposes what they believe think should be built during the Spring. The Product Owner explains what they believe will provide the most value to stakeholders and customers. However, it's the developers who decide which Product Backlog items get added to the Sprint.
 
-Going back to the home construction analogy, the construction workers know more about how to build a house than the home owner.
+Going back to the home construction analogy, the construction workers know more about how to build a house than the homeowner.
 
 The developers know what dependencies exist, what order certain Product Backlog items need to be created in, and what's the best path to move forward to create the highest value Product Backlog Items.
 
-For example, the Product Owner might think building a bathroom will provide the most value, but the developers might know that a foundation of the house must be laid down first. In that case, the developers would select laying down the foundation as something to do during the Sprint, despite the foundation not being as important a feature to the stakeholders as a nice bathroom would be.
+For example, the Product Owner might think building a bathroom will provide the most value, but the developers might know that the foundation of the house must be laid down first. In that case, the developers would select laying down the foundation as something to do during the Sprint, despite the foundation not being as important a feature to the stakeholders as a nice bathroom would be.
 
 The developers, not the Scrum Master or the Product Owner, have the final say over what gets added to the Sprint.
 
@@ -308,7 +308,7 @@ The developers, not the Scrum Master or the Product Owner, have the final say ov
 
 It's also worth noting that, while Sprint Planning is an opportunity for the developers to talk about the Product Backlog items, clarify them and refine them, this is not the only time developers are allowed to talk with the Product Owner.
 
-The developers can call up the Product Owner at any time during the Sprint to clafify Product Backlog items. 
+The developers can call up the Product Owner at any time during the Sprint to clarify Product Backlog items. 
 
 Quite often the Scrum Master resides in the same war room as the developers so they can answer questions about the product any time they arise.
 
@@ -339,11 +339,11 @@ This is false.
 
 The Product Owner should always be available to answer questions about the product.
 
-Conversation between the Product Owner, the developers, the Scrum Master and the stakeholders should happen freely and openly. Nothing in the Scrum Guide forbids it.
+Conversations between the Product Owner, the developers, the Scrum Master, and the stakeholders should happen freely and openly. Nothing in the Scrum Guide forbids it.
 
 '''
 
-=== What can be Done this Sprint?
+=== What can be Done in this Sprint?
 
 [quote, 2020 Scrum Guide page 8]
 ____
@@ -360,9 +360,9 @@ ____
 
 According to this paragraph, it is the Developers who are expected to estimate how much can be done in a Sprint.
 
-It is up to the developers to know about their capacity, past performance and ability to follow through on the Definition of Done in order to estimate how much work they can accomplish.
+It is up to the developers to know about their capacity, past performance, and ability to follow through on the Definition of Done to estimate how much work they can accomplish.
 
-This makes sense. After all, it is the developers who choose the Backlog Items they plan to implment in the Sprint. If they were unable to estimate their own work capacity, they wouldn't know how many Product Backlog items to choose.
+This makes sense. After all, it is the developers who choose the Backlog Items they plan to implement in the Sprint. If they were unable to estimate their work capacity, they wouldn't know how many Product Backlog items to choose.
 
 
 ==== Test Yourself
@@ -379,7 +379,7 @@ Who estimates how much work can be accomplished in a Sprint?
 
 ****
 
-The developers are the one who select how many Product Backlog items to include in the Sprint, so they are the ones who are estimating how much they believe can be accomplished.
+The developers are the ones who select how many Product Backlog items to include in the Sprint, so they are the ones who are estimating how much they believe can be accomplished.
 
 '''
 
@@ -387,7 +387,7 @@ The developers are the one who select how many Product Backlog items to include 
 
 ****
 
-Which of the follwing three are the most empirical measures of how much the Scrum Developers can accomplish in a given Sprint?
+Which of the following three are the most empirical measures of how much the Scrum Developers can accomplish in a given Sprint?
 
 * [ ] Burndown charts
 * [ ] Past performance
@@ -396,7 +396,7 @@ Which of the follwing three are the most empirical measures of how much the Scru
 
 ****
 
-Upcoming capacity, and knowledge of past performance are more empirical measures than burndown or burnup charts.
+Upcoming capacity and knowledge of past performance are more empirical measures than burndown or burnup charts.
 
 
 '''
@@ -415,7 +415,7 @@ ____
 
 A Product Backlog item may take months to complete.
 
-In Scrum, the developers need to compose Product Backlog items down into smaller pieces. This is known as decomposition.
+In Scrum, the developers need to compose Product Backlog items into smaller pieces. This is known as decomposition.
 
 The goal is to break each Product Backlog item down into a series of chunks that can be estimated to take a day or less to complete.
 
@@ -423,7 +423,7 @@ Note that the Scrum Guide never talks about points or stories.
 
 Quite often you will see a question on the Scrum Master Certification exam where one of the answers talks about breaking user stories down into a certain number of points. Those answers are always wrong.
 
-The closest the Scrum Guide ever gets to talking about stories and points is where it recommends that developers break down, or decompose, Product Backlog Items into a days worth of work or less.
+The closest the Scrum Guide ever gets to talking about stories and points is where it recommends that developers break down, or decompose, Product Backlog Items into days worth of work or less.
 
 ==== Test Yourself
 
@@ -433,7 +433,7 @@ What is the best way for a developer to approach a complicated Product Backlog i
 
 * [ ] Have the development team break the Product Backlog item down into smaller user stories.
 * [ ] Have the Product Owner team break the Product Backlog item down into smaller user stories.
-* [ ] Break the Product Backlog item down into 1 point increments, representing 1 day of work.
+* [ ] Break the Product Backlog item down into 1-point increments, representing 1 day of work.
 * [ ] Break the Product Backlog items into multiple work items of one day or less
 
 ****
@@ -442,7 +442,7 @@ Option D is correct.
 
 There are no user stories in Scrum, and there's no such thing as points, which makes the first three options wrong.
 
-Given a complicated epic, the Scrum Developers should try to decompose those items into multipe work items of one day or less.
+Given a complicated epic, the Scrum Developers should try to decompose those items into multiple work items in one day or less.
 
 '''
 
@@ -462,15 +462,15 @@ Note that the Sprint Backlog is more than just the set of Product Backlog items 
 The Sprint Backlog is composed of:
 
 * [ ] The Product Backlog items selected for the Sprint
-* [ ] The Product Backlog items selected for the Sprint and the Sprint Goal
-* [ ] The Product Backlog items selected for the Sprint, the Sprint Goal and the Sprint Plan
-* [ ] The Product Backlog items selected for the Sprint, the Sprint Goal the Sprint Plan and the Product Goal
+* [ ] The Product Backlog items selected for the Sprint, and the Sprint Goal
+* [ ] The Product Backlog items selected for the Sprint, the Sprint Goal, and the Sprint Plan
+* [ ] The Product Backlog items selected for the Sprint, the Sprint Goal the Sprint Plan, and the Product Goal
 
 ****
 
 Option C is correct. 
 
-The Sprint Backlog is composed of the Product Backlog items selected for the Sprint, the Sprint Goal and the Sprint Plan.
+The Sprint Backlog consists of the Product Backlog items selected for the Sprint, the Sprint Goal and the Sprint Plan.
 
 '''
 

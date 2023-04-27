@@ -1,11 +1,8 @@
 ---
 layout: default + 
 title: "132"
+id: 132-6445b163221e893e31a49cf7.
 ---
-
-
-[#question]
-== 132-6445b163221e893e31a49cf7.
 
 ****
 

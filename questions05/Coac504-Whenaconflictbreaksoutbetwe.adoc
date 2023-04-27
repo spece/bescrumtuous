@@ -1,11 +1,12 @@
 ---
 layout: default + 
 title: "504"
+id: 504-64456796ca886e07fd8927d0.
 ---
 
 
 [#question]
-== 504-64456796ca886e07fd8927d0.
+
 
 ****
 
@@ -16,7 +17,7 @@ When a conflict breaks out between two developers over how to proceed and achiev
 
 [#list]
 --
-* [ ] Defer the two developers to Human Resources
+* [ ] Refer the two developers to Human Resources
 * [ ] Remove the two developers from the team until the Sprint completes
 * [ ] Have the Scrum Master remove the least productive of the two programmers from the Scrum Team
 * [ ] Have the self-managed development team choose to remove one of the two programmers from the team

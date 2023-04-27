@@ -1,17 +1,18 @@
 ---
 layout: default + 
 title: "603"
+id: 603-644567993730ef520188ad59.
 ---
 
 
 [#question]
-== 603-644567993730ef520188ad59.
+
 
 ****
 
 [#query]
 --
-The Scrum Master decides upon and directs the developers on how to perform work during the Sprint
+The Scrum Master decides upon and directs the developers on how to perform work during the Sprint:
 --
 
 [#list]
