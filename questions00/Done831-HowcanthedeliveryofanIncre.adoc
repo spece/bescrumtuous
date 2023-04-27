@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "831 - What enhances the transparency of an inc"
+id: 831-63effa859ebbe935e4c16a9a.
 ---
 
 
 [#question]
-== 831-63effa859ebbe935e4c16a9a.
+
 
 ****
 

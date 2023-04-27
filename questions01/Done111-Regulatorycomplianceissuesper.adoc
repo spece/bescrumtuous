@@ -11,7 +11,7 @@ title: "111"
 
 [#query]
 --
-Regulatory compliance issues pertinent to a product feature:
+Regulatory compliance issues pertinent to all aspects of the product:
 --
 
 [#list]

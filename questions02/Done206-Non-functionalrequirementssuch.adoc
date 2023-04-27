@@ -1,11 +1,12 @@
 ---
 layout: default + 
 title: "206"
+id: 206-6445678c7b8d73457c9d3ab9.
 ---
 
 
 [#question]
-== 206-6445678c7b8d73457c9d3ab9.
+
 
 ****
 
@@ -16,9 +17,9 @@ Non-functional requirements such as security and regulatory compliance:
 
 [#list]
 --
-* [*] Should be added to the Product Backlog so long as they include some business functionality
-* [*] Are dealt with in the same way functional requirements are dealt
-* [*] Should be part of the Definition of Done
+* [*] Should be added to the Product Backlog when they apply to specific Product Backlog items
+* [*] Are generally dealt with in the same way functional requirements are dealt
+* [*] Should be part of the Definition of Done if they apply globally to the product
 * [ ] Do not need to be addressed in order for an Increment to be considered complete
 * [ ] Need to be validated by an external team with specialized skills in these non-functional areas
 
