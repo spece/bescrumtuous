@@ -11,7 +11,7 @@ title: "101"
 
 [#query]
 --
-The Scrum Master and Product Owner can participate in the Daily Scrum:
+The Scrum Master and Product Owner are required to participate in the Daily Scrum:
 --
 
 [#list]
