@@ -1,4 +1,4 @@
-
+:pdf-theme: some-theme.yml
 
 == Scrum Master Coaching Techniques Quiz
 
@@ -8,11 +8,11 @@ These questions will give you an idea of the scope and difficulty of these exam 
 
 ==== Question 1
 
-include::../questions01/Coac109-DuringtheDailyScrumtheScru.adoc[]
+include::../questions01/Coac109-DuringtheDailyScrumtheScru.adoc.adoc[]
 
 ==== Question 2
 
-include::../questions01/Faci126-OnFridaysdeveloperswanttoh.adoc[]
+include::../questions01/Arti142-Commitmentofproductbacklog.adoc[]
 
 ==== Question 3
 
@@ -24,4 +24,4 @@ include::../questions05/Coac504-Whenaconflictbreaksoutbetwe.adoc[]
 
 ==== Question 5
 
-include::../questions06/Coac603-TheScrumMasterdecidesuponan.adoc[]
+include::../questions05/Arti103-Coac505-DuringSpringPlanningitisre.adoc[]
