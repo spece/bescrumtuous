@@ -9,7 +9,7 @@ id: 103-6445b164221e893e31a49d03.
 
 [#query]
 --
-Which of the following is true of the Sprint Backlog
+Which of the following is true of the Sprint Backlog?
 --
 
 [#list]
