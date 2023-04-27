@@ -1,237 +1,25 @@
-:pdf-theme: some-theme.yml
-
 == Product Backlog Management Quiz
 
 One of the 13 tested categories on the Scrum Master exam is 'Product Backlog Management.'
 
-These five questions will give you an idea of the scope and difficulty of these exam questions.
+These questions will give you an idea of the scope and difficulty of these exam questions.
 
 ==== Question 1
 
-****
-
-What should the Scrum Team do with a Product Backlog item if it does not meet the Definition of Done at the end of a Sprint? 
-
-(Choose 2)
-
-* [ ] The Product Owner can release it with the permission of the stakeholders.
-* [ ] Return it to the Product Backlog and let the Product Owner reprioritize it.
-* [ ] Award partial points for the work done so velocity is recorded and return it what remains to the Product Backlog.
-* [ ] The item should not be included in the Sprint's Increment
-
-
-****
-
-'''
+include::../questions01/Prod129-WhoontheScrumteamhastheau.adoc[]
 
 ==== Question 2
 
-****
-
-Creating and clearly communicating Product Backlog items is an important activity within the Scrum Framework. 
-
-Who's job it it to create clear Product Backlog items?
-
-* [ ] The Scrum Master.
-* [ ] The Scrum Master, or someone the Scrum Master delegates to.
-* [ ] The Product Owner.
-* [ ] The Product Owner, or someone the Product Owner delegates to.
-
-****
-
-'''
-
+include::../questions01/Prod131-Whichofthefollowingstatement.adoc[]
 
 ==== Question 3
 
-****
-
-Five teams working separately to build the same product should maintain separate Product Backlogs.
-
-* [ ] True
-* [ ] False
-
-****
-'''
-
-
+include::../questions02/Prod227-Whichofthefollowingstatement.adoc[]
 
 ==== Question 4
 
-****
-
-The Scrum Master sees the Product Owner (PO) struggle with the task of ordering the Product Backlog. 
-
-What action would a certified Scrum Master take in these circumstances?
-
-* [ ] Suggest the Product Owner extend the duration of the Sprint to have more time to order the Product Backlog.
-* [ ] Inform the Product owner that it is the Development Team's responsibility to order the Product Backlog.
-* [ ] Coach the Product Owner on the importance of ordering the Product Backlog and how the PO is responsible for an order that will deliver the greatest value.
-* [ ] The Scrum Master should provide the Product Owner with Product Backlog that was ordered by the Scrum Development Team with the Scrum Master's oversight and guidance.
-* [ ] Tell the Product Owner to work with the Development Team to prioritize Backlog Items based on which items will be the easiest and fastest to implement.
-
-****
-'''
-
+include::../questions04/Prod419-MultipleScrumTeamswhoareact.adoc[]
 
 ==== Question 5
 
-****
-
-You have been hired to be the Scrum Master for five Scrum Development Teams working to develop the same product. As a Scrum Master intent on facilitating and coaching around Scrum best practices, what would you recommend?
-
-* [ ] There should be five Product Owners, with each one 100% dedicated to their team.
-* [ ] There should be five Scrum Masters, with each one 100% dedicated to their team.
-* [ ] There should be five Product Backlogs, one for each team.
-* [ ] There should be one Product Backlog shared across all teams.
-* [ ] There should be one Product Owner, shared across all teams.
-
-****
-
-'''
-
-<<<
-
-=== Product Backlog Management Quiz Answers
-
-==== Question 1
-
-****
-
-What should the Scrum Team do with a Product Backlog item if it does not meet the Definition of Done at the end of a Sprint? 
-
-(Choose 2)
-
-* [ ] The Product Owner can release it with the permission of the stakeholders.
-* [ ] Return it to the Product Backlog and let the Product Owner reprioritize it.
-* [ ] Award partial points for the work done so velocity is recorded and return it what remains to the Product Backlog.
-* [ ] The item should not be included in the Sprint's Increment
-
-
-****
-
-If a Product Backlog item doesn't meet the Definition of Done by the end of the Sprint, which means it's not complete, it goes back into the Product Backlog.
-
-
-The Scrum Team will then decide if work on the feature should continue during the next Spring, and if so, re-estimate the work needed to complete the undone PBI.
-
-
-'''
-
-==== Question 2
-
-****
-
-Creating and clearly communicating Product Backlog items is an important activity within the Scrum Framework. 
-
-Who's job it it to create clear Product Backlog items?
-
-* [ ] The Scrum Master.
-* [ ] The Scrum Master, or someone the Scrum Master delegates to.
-* [ ] The Product Owner.
-* [ ] The Product Owner, or someone the Product Owner delegates to.
-
-****
-
-According to the Scrum Guide, the Product Owner is accountable for creating Product Backlog Items, but they do not have to personally create them. They can delegate this responsibility to others.
-
-The Product Owner is also accountable for effective Product Backlog management, which includes:
-- Developing and explicitly communicating the Product Goal;
-- Creating and clearly communicating Product Backlog items;
-- Ordering Product Backlog items; and,
-- Ensuring that the Product Backlog is transparent, visible and understood.
-The Product Owner may do the above work or may delegate the responsibility to others. Regardless, the Product Owner remains accountable.
-
-'''
-
-
-==== Question 3
-
-****
-
-Five teams working separately to build the same product should maintain separate Product Backlogs.
-
-* [ ] True
-* [ ] False
-
-****
-
-False
-
-When multiple Scrum teams are working on the same project, they are typically working towards a common goal or set of objectives. Each team may have their own specific area of responsibility or focus, but ultimately they are all working towards the same end product.
-
-Using a single Product Backlog for all teams ensures that everyone is working from the same set of priorities and requirements. This helps to avoid duplication of effort and ensures that each team is working on the most important items at any given time. It also provides a clear and consistent view of progress across all teams and allows for better collaboration and coordination between teams.
-
-In addition, having a shared Product Backlog encourages a cross-functional approach to development, where teams work together to deliver working software in small increments, and are focused on delivering value to the customer. This can help to improve the overall quality of the product and reduce the time to market.
-
-Overall, using a single Product Backlog for multiple Scrum teams is an effective way to ensure alignment, focus, and collaboration across the entire development effort.
-
-'''
-
-
-
-==== Question 4
-
-****
-
-The Scrum Master sees the Product Owner (PO) struggle with the task of ordering the Product Backlog. 
-
-What action would a certified Scrum Master take in these circumstances?
-
-* [ ] Suggest the Product Owner extend the duration of the Sprint to have more time to order the Product Backlog.
-* [ ] Inform the Product owner that it is the Development Team's responsibility to order the Product Backlog.
-* [ ] Coach the Product Owner on the importance of ordering the Product Backlog and how the PO is responsible for an order that will deliver the greatest value.
-* [ ] The Scrum Master should provide the Product Owner with Product Backlog that was ordered by the Scrum Development Team with the Scrum Master's oversight and guidance.
-* [ ] Tell the Product Owner to work with the Development Team to prioritize Backlog Items based on which items will be the easiest and fastest to implement.
-
-****
-
-Option C is correct.
-
-The Scrum Master is a coach and facilitator, and it is the Scrum Master's job to coach and motivate members of the Scrum Team when they need guidance or direction as it pertains to implementing the directives, roles and accountabilities as described within the Scrum Guide.
-
-The Scrum Master has the responsibility to support and help the team, including the Product Owner, to maximize the value delivered by the product. If the Scrum Master sees the Product Owner struggling with the task of ordering the Product Backlog, there are several actions they can take to assist:
-
-Coach the Product Owner: The Scrum Master can provide coaching to the Product Owner on effective Product Backlog management practices, such as prioritization techniques, user story writing, and backlog refinement sessions. They can also provide guidance on how to involve stakeholders in the prioritization process and how to manage dependencies between Product Backlog items.
-
-Encourage Feedback: The Scrum Master can encourage the Product Owner to seek feedback from stakeholders and the development team on the order of the Product Backlog items. This feedback can help the Product Owner refine the prioritization and ensure that the team is aligned with the product vision.
-
-Just remember, it's not the Scrum Master's job to do the work of the Product Owner. The order of the product backlog, which is critically important to ensure maximum value gets delivered during development, is the responsibility of the PO.
-
-The Scrum Master's role is to support the team and help them to achieve their goals. By providing coaching, facilitating collaborative sessions, and providing insights and feedback, the Scrum Master can help the Product Owner to effectively prioritize and manage the Product Backlog.
-
-
-'''
-
-
-==== Question 5
-
-****
-
-You have been hired to be the Scrum Master for five Scrum Development Teams working to develop the same product. As a Scrum Master intent on facilitating and coaching around Scrum best practices, what would you recommend?
-
-* [ ] There should be five Product Owners, with each one 100% dedicated to their team.
-* [ ] There should be five Scrum Masters, with each one 100% dedicated to their team.
-* [ ] There should be five Product Backlogs, one for each team.
-* [ ] There should be one Product Backlog shared across all teams.
-* [ ] There should be one Product Owner, shared across all teams.
-
-****
-
-Options D and E are correct.
-
-In Scrum, the Product Backlog is the single, prioritized list of items that define what needs to be done to achieve the project's goal. The Product Owner is responsible for managing the Product Backlog, ensuring that it is constantly refined and prioritized, and that the development team has a clear understanding of what needs to be built and why.
-
-When multiple teams are working on the same Scrum project, it is important for them to share a common Product Backlog and a common Product Owner for several reasons:
-
-Consistency: By having a common Product Backlog and Product Owner, all teams are working towards the same set of goals and priorities. This ensures that everyone is on the same page and working towards the same objectives.
-
-Collaboration: By sharing a common Product Backlog and Product Owner, teams can collaborate more easily and share information more effectively. They can work together to refine and prioritize the backlog, ensuring that it reflects the needs of all stakeholders.
-
-Alignment: When each team has its own backlog and Product Owner, it can be difficult to ensure that everyone is aligned and working towards the same goals. By having a common backlog and Product Owner, the entire organization is more likely to work towards the same objectives.
-
-Efficiency: A common backlog and Product Owner can also help to improve the efficiency of the development process. Teams can work together to identify dependencies and plan their work more effectively, avoiding duplication of effort and ensuring that everyone is working on the most important tasks.
-
-Overall, sharing a common Product Backlog and Product Owner is an essential aspect of successful Scrum projects with multiple teams. It helps to ensure consistency, collaboration, alignment, and efficiency, and enables the organization to work together more effectively towards its goals.
-
-'''
+include::../questions04/Prod421-TheProductBacklogshouldbeor.adoc[]

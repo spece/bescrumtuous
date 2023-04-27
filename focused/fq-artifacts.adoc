@@ -19,7 +19,7 @@ include::../questions02/Arti202.adoc[]
 
 ==== Question 4
 
-include::../questions01/Prod132-EveryScrumArtifactisassociat.adoc[]
+include::../questions01/Arti130-Ifanhigh-valueSprintBacklog.adoc[]
 
 ==== Question 5
 

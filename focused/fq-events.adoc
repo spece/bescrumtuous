@@ -1,5 +1,3 @@
-:pdf-theme: some-theme.yml
-
 == Scrum Events Quiz
 
 One of the 13 tested categories on the Scrum Master exam is 'Events.'
@@ -9,230 +7,23 @@ These five questions will give you an idea of the scope and difficulty of these 
 
 ==== Question 1
 
-****
-Under what circumstances can the Scrum Master extend the length of a Sprint in progress?
-
-* [ ] If more time is needed to achieve the Sprint Goal, the Sprint can be extended
-* [ ] If the Product Owner and developers consent, the Scrum Master can extend the Sprint 
-* [ ] Only the Product Owner can extend the Sprint
-* [ ] A Sprint in progress can never be extended
-
-****
-
-'''
+include::../questions01/Even114-Whichofthefollowingaretrue.adoc[]
 
 ==== Question 2
 
-****
-
-Which of the following Scrum events are time-boxed to limit the amount of time spent on them?
-
-* [ ] Standup Meetings
-* [ ] The Release Sprint
-* [ ] The Sprint Retrospective
-* [ ] Sprint Planning
-* [ ] Stakeholder Meetings
-* [ ] Sprint Zero
-* [ ] The Daily Scrum
-
-
-****
-
-'''
+include::../questions01/Even115-Whichtopicswouldbeappropriat.adoc[]
 
 ==== Question 3
 
-****
-
-Which of the following is true about the Product Owner's attendance at the Daily Scrum?
-
-* [ ] The Product Owner must always attend the Daily Scrum to help remove any impediments that exist that jeopardize the Sprint Goal
-* [ ] The Product Owner must always attend the Daily Scrum to help remove any impediments that exist that jeopardize the Product Goal
-* [ ] The Product Owner must always attend the Daily Scrum to present the stakeholder's point of view.
-* [ ] The Product Owner doesn't need to attend the Daily Scrum.
-
-
-****
-
-
-'''
+include::../questions01/Even116-Whichofthefollowingisnotco.adoc[]
 
 ==== Question 4
 
-****
-
-The project has kicked off and the first Sprint was a great success.
-
-According to the Scrum Guide, when does the second Sprint begin?
-
-* [ ] Immediately after the Sprint Review for the first Sprint is completed.
-* [ ] Immediately after Sprint Planning for the second Sprint is completed.
-* [ ] The second Sprint begins immediately after the first Sprint is finished.
-* [ ] When the Scrum Master declares the start of the new Sprint in JIRA.
-
-
-****
-
-
-'''
+include::../questions01/Even122-ThepurposeoftheSprintRetros.adoc[]
 
 ==== Question 5
 
-****
-
-Which of the following best describes the purpose of the Sprint Review in Scrum?
-
-
-* [ ] The Sprint Review is used to recognize the work of top performing developers, and change to guide the activities of underperforming developers in future Sprints.
-* [ ] The Sprint Review is a demo at the end of the Sprint for everyone in the organization to check on the work done.
-* [ ] The Sprint Review is a way for the Product Owner and Scrum Master to critique the Development Team's activities during a Sprint.
-* [ ] The Sprint Review is when the Scrum Team and stakeholders inspect the outcomes of a Sprint and decide how to adapt in both the next, and in future Sprint.
-
-****
-
-'''
-
-<<<
-
-=== Events Quiz Answers
-
-==== Question 1
-
-****
-Under what circumstances can the Scrum Master extend the length of a Sprint in progress?
-
-* [ ] If more time is needed to achieve the Sprint Goal, the Sprint can be extended
-* [ ] If the Product Owner and developers consent, the Scrum Master can extend the Sprint 
-* [ ] Only the Product Owner can extend the Sprint
-* [ ] A Sprint in progress can never be extended
-
-****
-
-'''
-
-==== Question 2
-
-****
-
-Which of the following Scrum events are time-boxed to limit the amount of time spent on them?
-
-* [ ] Standup Meetings
-* [ ] The Release Sprint
-* [ ] The Sprint Retrospective
-* [ ] Sprint Planning
-* [ ] Stakeholder Meetings
-* [ ] Sprint Zero
-* [ ] The Daily Scrum
-
-
-****
-
-Options C, D and G are correct.
-
-The Sprint Retrospective is a time-boxed event that occurs at the end of each Sprint and allows the team to reflect on their processes and identify areas for improvement. 
-
-Sprint Planning is also time-boxed and occurs at the beginning of each Sprint, allowing the team to plan and prioritize their work for the upcoming Sprint. 
-
-The Daily Scrum is another time-boxed event that occurs daily during the Sprint and allows the team to synchronize their work and plan for the day.
-
-Options A, B, E, and F are not correct because they are not Scrum events. They may be performed by some Scrum Teams, but they are not discussed at all in the Scrum Guide.
-
-'''
-
-==== Question 3
-
-****
-
-Which of the following is true about the Product Owner's attendance at the Daily Scrum?
-
-* [ ] The Product Owner must always attend the Daily Scrum to help remove any impediments that exist that jeopardize the Sprint Goal
-* [ ] The Product Owner must always attend the Daily Scrum to help remove any impediments that exist that jeopardize the Product Goal
-* [ ] The Product Owner must always attend the Daily Scrum to present the stakeholder's point of view.
-* [ ] The Product Owner doesn't need to attend the Daily Scrum.
-
-
-****
-
-Option D is correct.
-
-The Product Owner does not attend the Daily Scrum.
-
-Not even the Scrum Master is required to attend the Daily Scrum.
-
-The Daily Scrum is for the development team.
-
-Unless the Scrum Master or Product Owner is actually doing development for some reason and acting as a developer working on a backlog item, then they should not participate in the Daily Scrum. The Daily Scrum is for the developers only.
-
-'''
-
-==== Question 4
-
-****
-
-The project has kicked off and the first Sprint was a great success.
-
-According to the Scrum Guide, when does the second Sprint begin?
-
-* [ ] Immediately after the Sprint Review for the first Sprint is completed.
-* [ ] Immediately after Sprint Planning for the second Sprint is completed.
-* [ ] The second Sprint begins immediately after the first Sprint is finished.
-* [ ] When the Scrum Master declares the start of the new Sprint in JIRA.
-
-
-****
-
-Answer C is correct.
-
-All Scrum Events happen with a Sprint. Nothing happens 'outside of a Sprint'.
-
-A Sprint is a timeboxed period of one to four weeks during which the development team works to create a potentially releasable product increment. Within a Sprint, there are several key Scrum events that occur to facilitate the successful completion of the Sprint.
-
-The following are the Scrum events that happen within a Sprint, and why they are important:
-
-Sprint Planning: This is a collaborative meeting where the development team, Scrum Master, and Product Owner work together to identify and prioritize the work that needs to be completed during the upcoming Sprint. The purpose of Sprint Planning is to ensure that everyone is aligned on the Sprint goal and the work that needs to be done to achieve it.
-
-Daily Scrum: This is a brief, timeboxed meeting that occurs daily during the Sprint. The purpose of the Daily Scrum is to provide an opportunity for the development team to synchronize and plan their work for the day. During the Daily Scrum, each team member provides a brief update on their progress, discusses any obstacles they are facing, and identifies any potential risks to the Sprint goal.
-
-Sprint Review: This is a meeting that occurs at the end of the Sprint, where the development team demonstrates the work they have completed to the Product Owner and other stakeholders. The purpose of the Sprint Review is to get feedback on the product increment that has been developed, and to identify any necessary changes or adjustments to the product backlog.
-
-Sprint Retrospective: This is a meeting that occurs at the end of the Sprint, where the development team reflects on their process and identifies opportunities for improvement. The purpose of the Sprint Retrospective is to help the team continuously improve their process and performance.
-
-All of these Scrum events happen within a Sprint to help ensure that the development team is working effectively and efficiently to deliver a high-quality product increment. By having a clearly defined Sprint goal, daily synchronization, regular feedback, and continuous improvement, the development team is able to stay focused and motivated throughout the Sprint, while also ensuring that the product being developed is aligned with the needs of the stakeholders.
-
-
-
-'''
-
-==== Question 5
-
-****
-
-Which of the following best describes the purpose of the Sprint Review in Scrum?
-
-
-* [ ] The Sprint Review is used to recognize the work of top performing developers, and change to guide the activities of underperforming developers in future Sprints.
-* [ ] The Sprint Review is a demo at the end of the Sprint for everyone in the organization to check on the work done.
-* [ ] The Sprint Review is a way for the Product Owner and Scrum Master to critique the Development Team's activities during a Sprint.
-* [ ] The Sprint Review is when the Scrum Team and stakeholders inspect the outcomes of a Sprint and decide how to adapt in both the next, and in future Sprint.
-
-****
-
-Option D is correct.
-
-The Sprint Review is a crucial event in the Scrum framework that helps stakeholders to inspect the outcomes of the just-concluded sprint and decide how to adapt in future sprints.
-
-During the Sprint Review, the Scrum team presents the increment of the product that was developed during the sprint to the stakeholders. The presentation may include a demonstration of the product features that were completed during the sprint, but a demo is not explicitly prescribed by the Scrum Guide. 
-
-"The Scrum Team presents the results of their work to key stakeholders and progress
-toward the Product Goal is discussed. During the event, the Scrum Team and stakeholders review what was accomplished in the Sprint and what has changed in their environment. Based on this information, attendees collaborate on what to donext. The Product Backlog may also be adjusted to meet new opportunities. The Sprint Review is a working session and the Scrum Team should avoid limiting it to a presentation."
-
-The purpose of the Sprint Review is to enable stakeholders to inspect the product increment and provide feedback to the Scrum team. The feedback may be related to the features that were developed during the sprint, or it may be related to the overall product vision or direction. The Scrum team can then take this feedback and use it to improve the product and adapt their approach in future sprints.
-
-The Sprint Review also allows stakeholders to evaluate the progress of the project and help the Scrum team make decisions about the next steps. Based on the feedback received during the review, the product owner can re-prioritize the product backlog and the development team can create a targeted Sprint goals for the next sprint. 
-
-This process of inspection and adaptation for the future is at the heart of the Scrum framework and helps to ensure that the product being developed is meeting the needs of the stakeholders and delivering value.
-
-'''
+include::../questions01/Even123-Thesprintreviewisattendedbythescrumteamandtakeholders.adoc[]
 
 
 
