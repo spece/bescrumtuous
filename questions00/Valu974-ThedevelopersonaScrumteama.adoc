@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "974 - Who is responsible for tracking the rema"
+id: 974-63effd539ebbe935e4c16b00.
 ---
 
 
 [#question]
-== 974-63effd539ebbe935e4c16b00.
+
 
 ****
 

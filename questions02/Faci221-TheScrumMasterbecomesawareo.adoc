@@ -1,11 +1,12 @@
 ---
 layout: default + 
 title: "221"
+id: 221-6445678a7b8d73457c9d3aae.
 ---
 
 
 [#question]
-== 221-6445678a7b8d73457c9d3aae.
+
 
 ****
 
@@ -29,7 +30,12 @@ B
 
 [#explanation]
 --
-When presented with a list of impediments, a Scrum Master should work with the team to prioritize them and then work to have the impediments that can't be resolved by the development team removed.The development team should not be allowing impediments to grow. Impediments should be brought up in the Daily Scrum as soon as they appear. But coaching the team on how to run the Daily Scrum is secondary to dealing with the issue.
+When presented with a list of impediments, a Scrum Master should work with the team to prioritize them and then work to have the impediments that can't be resolved by the development team removed.
+
+The development team should not be allowing impediments to grow. 
+
+Impediments should be brought up in the Daily Scrum as soon as they appear, but coaching the team on how to run the Daily Scrum is secondary to dealing with the issue.
+
 --
 
 [#ka]

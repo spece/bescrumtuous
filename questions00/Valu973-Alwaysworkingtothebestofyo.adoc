@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "973 - What two actions demonstrate the commitm"
+id: 973-63effd269ebbe935e4c16afa.
 ---
 
 
 [#question]
-== 973-63effd269ebbe935e4c16afa.
+
 
 ****
 

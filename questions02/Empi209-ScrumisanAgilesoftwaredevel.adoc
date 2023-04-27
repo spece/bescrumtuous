@@ -1,17 +1,18 @@
 ---
 layout: default + 
 title: "209"
+id: 209-6445678c7b8d73457c9d3abe.
 ---
 
 
 [#question]
-== 209-6445678c7b8d73457c9d3abe.
+
 
 ****
 
 [#query]
 --
-Scrum is an Agile software development methodology
+Scrum is best described as an Agile software development methodology.
 --
 
 [#list]

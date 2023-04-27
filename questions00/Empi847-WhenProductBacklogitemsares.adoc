@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "847 - Which technical debt impacts transparenc"
+id: 847-63effe529ebbe935e4c16b1e.
 ---
 
 
 [#question]
-== 847-63effe529ebbe935e4c16b1e.
+
 
 ****
 

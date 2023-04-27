@@ -1,30 +1,33 @@
 ---
 layout: default 
 title: "851 - What happens if the Development Team can"
+id: 851-63eff9fd9ebbe935e4c16a89.
 ---
 
 
 [#question]
-== 851-63eff9fd9ebbe935e4c16a89.
+
 
 ****
 
 [#query]
 --
-Under which circumstance can the Scrum Master extend the length of the Sprint once development work has started?
+Under which circumstance can the Scrum Master extend the length of the Sprint once the Sprint has started?
 --
 
 [#list]
 --
 * [ ] A. The Sprint can be extended equal to the number of days a Product Owner is absent
-* [*] B. The Sprint can be extended equal to the number of holidays that occurred during the Sprint
-* [ ] C. The Spring length cannot be changed after it has been started
+* [ ] B. The Sprint can be extended equal to the number of holidays that occurred during the Sprint
+* [ ] C. The Spring length can be changed any time prior to the end of the Sprint Planning meeting
+* [*] D. The Spring length cannot be changed after it has been started
+
 
 --
 ****
 
 [#answer]
-B
+D
 
 [#explanation]
 --

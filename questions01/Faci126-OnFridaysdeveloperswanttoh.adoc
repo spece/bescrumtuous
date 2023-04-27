@@ -12,7 +12,8 @@ id: 126-6445b166221e893e31a49d12
 
 [#query]
 --
-On Fridays, developers want to hold the daily in the cafeteria after the lunch crowd empties out.
+On Fridays, developers want to hold the Daily Scrum in the cafeteria after the lunch crowd empties out. How would you respond to this request as a Scrum Master?
+
 --
 
 [#list]

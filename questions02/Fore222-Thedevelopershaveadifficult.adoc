@@ -19,7 +19,7 @@ The developers have a difficult, 4-week long sprint ahead of the and would like 
 * [ ] The Scrum Master should inform the team that Scrum processes promote sustainable development, so they should not be working weekend planning.
 * [ ] The Scrum Master should verify with HR that weekend hours will be paid for the extra work performed.
 * [ ] The Scrum Masters should encourage the self-organized team of developers to do the sprint planning in whatever way they see fit.
-* [*] The Scrum Master should inform the team that a one month Sprint should take less than  8 hours to plan, not an entire weekend.
+* [*] The Scrum Master should inform the team that a one month Sprint should take less than 8 hours to plan, not an entire weekend.
 
 --
 ****

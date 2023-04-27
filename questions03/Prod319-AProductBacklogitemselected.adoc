@@ -11,7 +11,7 @@ title: "319"
 
 [#query]
 --
-A Product Backlog item selected during Sprint Planning, but not completed during the current Sprint, Automatically gets added to the next Sprint's Sprint Backlog
+A Product Backlog item selected during Sprint Planning, but not completed during the current Sprint, automatically gets added to the next Sprint's Sprint Backlog.
 --
 
 [#list]

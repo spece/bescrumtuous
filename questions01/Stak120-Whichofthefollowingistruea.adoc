@@ -35,7 +35,7 @@ The developers not only attend the Sprint Review, but they are expected to fully
 --
 
 [#ka]
-Events
+Stakeholders and Customers
 
 '''
 

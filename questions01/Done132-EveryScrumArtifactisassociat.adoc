@@ -37,7 +37,7 @@ For the Increment it is the Definition of Done." -The Scrum Guide, page 10
 --
 
 [#ka]
-Product Value
+Done
 
 '''
 

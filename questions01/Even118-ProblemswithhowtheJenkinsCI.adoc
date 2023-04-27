@@ -16,14 +16,15 @@ Problems with how the Jenkins CI/CD server was used during the Sprint is a valid
 
 [#list]
 --
-* [ ] False
+
 * [*] True
+* [ ] False
 
 --
 ****
 
 [#answer]
-B
+A
 
 [#explanation]
 --

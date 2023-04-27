@@ -1,17 +1,18 @@
 ---
 layout: default + 
 title: "116"
+id: 116-6445b162221e893e31a49cf5.
 ---
 
 
 [#question]
-== 116-6445b162221e893e31a49cf5.
+
 
 ****
 
 [#query]
 --
-Which of the following is not considered part of the Sprint?
+Which of the following is not part of a Scrum based Sprint?
 --
 
 [#list]
