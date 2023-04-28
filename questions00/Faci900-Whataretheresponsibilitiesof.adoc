@@ -19,6 +19,7 @@ What are the responsibilities of the Scrum Master?
 * [ ] A. Make sure the Scrum developers maintain a high development velocity
 * [*] B. Ensure Scrum is being implemented in accordance with the Scrum Guide
 * [ ] C. Make sure members of the Scrum Team are on time to all meetings
+* [ ] D. Take notes during the Daily Scrum and schedule Zoom calls or book meeting rooms
 
 --
 ****

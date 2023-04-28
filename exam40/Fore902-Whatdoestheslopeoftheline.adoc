@@ -1,0 +1,43 @@
+---
+layout: default 
+title: "902 - If burndown charts are used to visualize"
+---
+
+
+[#question]
+== 902-63effa2c9ebbe935e4c16a90.
+
+****
+
+[#query]
+--
+What does the slope of the line in a burndown chart demonstrate?
+--
+
+[#list]
+--
+* [ ] A. The evolution over time of the money spent on the project.
+* [ ] B. When all work will be completed so the Scrum Team can be released for other work.
+* [*] C. When the work remaining will likely be completed if nothing changes on the Product Backlog or the Development Team.
+* [ ] D. When the project will be over if the Product Owner removes work that is equal in effort to any new work that is added.
+
+--
+****
+
+[#answer]
+C
+
+[#explanation]
+--
+A trend line through a release burndown chart indicates how fast work is being completed relative to the original plan, and can help visualize progress toward completion of a Release Goal.
+
+The Scrum Guide only makes a short reference to burndown charts, and even then, it says they are not a replacement for empiricism.
+
+You don't need to be a burndown chart expert. But knowing what one is will keep you from being caught off guard on the Scrum certification exam.
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

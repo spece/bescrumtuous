@@ -16,16 +16,16 @@ When is the Product Owner required to participate in the Daily Scrum?
 
 [#list]
 --
-* [*] A. When they need to represent the interests of the stakeholders.
+* [ ] A. When they need to represent the interests of the stakeholders.
 * [ ] B. When the Scrum Master is unable to attend.
-* [ ] C. When they are working on a Sprint Backlog Item, but even then they participate as a developer.
+* [*] C. When they are working on a Sprint Backlog Item, but even then they participate as a developer.
 * [ ] D. When the Sprint Goal has changed and the development team needs to be updated.
 
 --
 ****
 
 [#answer]
-A
+C
 
 [#explanation]
 --

@@ -11,21 +11,22 @@ title: "878 - Which technique is the best way the Scru"
 
 [#query]
 --
-Which of the following best describes the purpose of the Sprint Review in Scrum?
+The Sprint Review is one of Scrum's time-boxed events. Which of the following statements do you feel best describes the reasons why a Sprint Review takes place in Scrum?
 --
 
 [#list]
 --
 * [ ] A. The Sprint Review is a demo at the end of the Sprint for everyone in the organization to check on the work done.
-* [ ] B. The Sprint Review is used to recognize the work of top performing developers, and change to guide the activities of underperforming developers in future Sprints.
-* [ ] C. The Sprint Review is a way for the Product Owner and Scrum Master to critique the Development Team's activities during a Sprint in a psychologically safe environment
-* [*] D. The Sprint Review is when the Scrum Team and stakeholders inspect the outcomes of a Sprint and decide how to adapt in both the next, and in future Sprint.
+* [*] B. The Sprint Review is when the Scrum Team and stakeholders inspect new, usable Increments and adapt accordingly
+* [ ] C. The Sprint Review is used to recognize the work of top performing developers, and change to guide the activities of underperforming developers in future Sprints.
+* [ ] D. The Sprint Review is a way for the Product Owner and Scrum Master to critique the Development Team's activities during a Sprint in a psychologically safe environment
+
 
 --
 ****
 
 [#answer]
-D
+B
 
 [#explanation]
 --

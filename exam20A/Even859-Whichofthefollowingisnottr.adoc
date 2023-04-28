@@ -1,0 +1,49 @@
+---
+layout: default 
+title: "859 - Which are properties of the Daily Scrum "
+---
+
+
+[#question]
+== 859-63effb629ebbe935e4c16ab5.
+
+****
+
+[#query]
+--
+Which of the following is not true about the Daily Scrum?
+--
+
+[#list]
+--
+* [ ] A. The Daily Scrum is time boxed to 15 minutes.
+* [*] B. The Daily Scrum is held first thing in the morning.
+* [ ] C. Developers are not expected to stand during the Daily Scrum.
+* [*] D. Developers are expected to answer the three 'yesterday, today and impediments' questions during the Daily Scrum.
+* [ ] E. The Daily Scrum always starts at the same time.
+* [ ] F. The Daily Scrum's location is always the same.
+
+--
+****
+
+[#answer]
+BD
+
+[#explanation]
+--
+The Daily Scrum can be held at any time and any location, so long as the time and location don't change.
+
+Also, the three questions of:
+
+What did you do yesterday?
+What will you do today?
+Are there any blockers or impediments preventing you from doing your work?
+
+Have been removed from the Scrum Guide. These can be used during the Daily Scrum, but they are not required.
+--
+
+[#ka]
+Events
+
+'''
+

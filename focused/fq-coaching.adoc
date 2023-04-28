@@ -24,4 +24,4 @@ include::../questions05/Coac504-Whenaconflictbreaksoutbetwe.adoc[]
 
 ==== Question 5
 
-include::../questions06/Coac603-TheScrumMasterdecidesuponan.adoc[]
+include::../questions00/Coac813-AnewScrumMasterhasbeenhire.adoc[]

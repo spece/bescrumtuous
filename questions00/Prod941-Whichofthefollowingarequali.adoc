@@ -16,15 +16,15 @@ Which of the following are qualities of a successful development team in Scrum?
 
 [#list]
 --
-* [*] A. They are budget conscious and complete work within their given cost projections
-* [ ] B. They always respect the Definition of Done when they turn Product Backlog Items into potentially releasable increments of value
+* [ ] A. They are budget conscious and complete work within their given cost projections
+* [*] B. They always respect the Definition of Done when they turn Product Backlog Items into potentially releasable increments of value
 * [ ] C. They know their limits and delegate difficult work that requires special testing or quality control skills to an external team
 
 --
 ****
 
 [#answer]
-A
+B
 
 [#explanation]
 --
