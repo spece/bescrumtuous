@@ -12,16 +12,17 @@ include::../questions01/Self145-Acrossfunctionalteam.adoc[]
 
 ==== Question 2
 
-include::../questions04/Self428-WhoselectstheitemsinthePro.adoc[]
+include::../questions00/SelfX979-ThegoalofeveryScrumTeamis.adoc[]
+
 
 ==== Question 3
 
-include::../questions06/Self629-WhoontheScrumTeamcanfirea.adoc[]
+include::../questions00/SelfX982-Whoisresponsibleforreporting.adoc[]
 
 ==== Question 4
 
-include::../questions00/Self979-ThegoalofeveryScrumTeamis.adoc[]
+include::../questions04/Self428-WhoselectstheitemsinthePro.adoc[]
 
 ==== Question 5
 
-include::../questions00/Self982-Whoisresponsibleforreporting.adoc[]
+include::../questions06/Self629-WhoontheScrumTeamcanfirea.adoc[]

@@ -21,8 +21,8 @@ include::../questions05/Valu529-Whichofthefollowingactionse.adoc[]
 
 ==== Question 4
 
-include::../questions00/Valu973-Alwaysworkingtothebestofyo.adoc[]
+include::../questions00/ValuX973-Alwaysworkingtothebestofyo.adoc[]
 
 ==== Question 5
 
-include::../questions00/Valu974-ThedevelopersonaScrumteama.adoc[]
+include::../questions00/ValuX974-ThedevelopersonaScrumteama.adoc[]

@@ -20,15 +20,15 @@ What is the best way to organize the members of a Scrum Team to make them most p
 [#list]
 --
 * [ ] A. Have a strong Team Lead delegate work to team members based on their skills and abilities.
-* [ ] B. Create sub-teams that specialize on a specific layer of the tech stack.
-* [*] C. Have the entire Scrum Team be accountable and decide internally how to proceed.
+* [*] B. Have the Scrum Team be self-organize and collectively accountable for their productivity
+* [ ] C. Create sub-teams that specialize on a specific layer of the tech stack.
 * [ ] D. Have individuals specialize on the components with which they are most familiar.
 
 --
 ****
 
 [#answer]
-C
+B
 
 [#explanation]
 --

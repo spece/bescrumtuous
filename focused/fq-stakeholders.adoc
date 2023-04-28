@@ -16,12 +16,12 @@ include::../questions02/Stak233-OnlytheProductOwnerinteracts.adoc[]
 
 ==== Question 3
 
-include::../questions00/Stak994-WhoontheScrumTeamisprimari.adoc[]
+include::../questions00/StakX994-WhoontheScrumTeamisprimari.adoc[]
 
 ==== Question 4
 
-include::../questions00/Stak996-Underwhatcircumstancescanthe.adoc[]
+include::../questions00/StakX996-Underwhatcircumstancescanthe.adoc[]
 
 ==== Question 5
 
-include::../questions00/Stak997-Managementandstakeholdersare.adoc[]
+include::../questions00/StakX997-Managementandstakeholdersare.adoc[]
