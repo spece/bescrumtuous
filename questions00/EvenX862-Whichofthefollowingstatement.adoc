@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "862 - When does the second Sprint start Scrum "
+id: 862-63effc059ebbe935e4c16ace.
 ---
 
 
 [#question]
-== 862-63effc059ebbe935e4c16ace.
+
 
 ****
 

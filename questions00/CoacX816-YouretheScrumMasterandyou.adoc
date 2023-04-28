@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "816 - A Scrum Master is introducing Scrum to a"
+id: 816-63effabd9ebbe935e4c16aa1.
 ---
 
 
 [#question]
-== 816-63effabd9ebbe935e4c16aa1.
+
 
 ****
 

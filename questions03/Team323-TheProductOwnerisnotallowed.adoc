@@ -18,6 +18,8 @@ The Product Owner is not allowed to participate in the Daily Scrum:
 * [ ] Unless invited by the development team
 * [ ] Unless accompanied by the Scrum Master
 * [*] Unless they are working on a Sprint Backlog item.
+* [ ] None of the above, as the Product Owner is required to attend the Daily Scrum
+
 
 --
 ****

@@ -12,7 +12,7 @@ id: 320-6445678f62d2d76c66cca9bd.
 
 [#query]
 --
-Every Sprint must:
+According to the Scrum Guide, every Sprint must create value. Each Sprint should also
 --
 
 [#list]

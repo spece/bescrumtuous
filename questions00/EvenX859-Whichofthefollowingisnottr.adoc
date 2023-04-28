@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "859 - Which are properties of the Daily Scrum "
+id: 859-63effb629ebbe935e4c16ab5.
 ---
 
 
 [#question]
-== 859-63effb629ebbe935e4c16ab5.
+
 
 ****
 

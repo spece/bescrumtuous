@@ -1,4 +1,4 @@
----
+--
 layout: default 
 title: "927 - What is the best suited structure for De"
 ---
@@ -11,7 +11,7 @@ title: "927 - What is the best suited structure for De"
 
 [#query]
 --
-The Product Owner will only represent one set of stakeholders at a time.
+The Product Owner, through the Ordering of the Product Backlog, represents the interests of only one set of stakeholders at a time.
 --
 
 [#list]

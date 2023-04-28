@@ -18,8 +18,8 @@ Which of the following statements are true?
 [#list]
 --
 * [ ] The Product Owner is responsible for estimating and choosing which Product Backlog items go into a Sprint
-* [ ] The Product Owner is responsible for developing and estimating Product Backlog items
-* [*] The Product Owner is responsible for developing and ordering Product Backlog items
+* [ ] The Product Owner is responsible for creating and estimating Product Backlog items
+* [*] The Product Owner is responsible for creating and ordering Product Backlog items
 * [ ] The Product Owner is responsible for ordering and estimating Product Backlog items
 
 --

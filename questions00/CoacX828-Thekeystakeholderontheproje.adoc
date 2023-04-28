@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "828 - What should the Development Team do Scru"
+id: 828-63effe109ebbe935e4c16b16.
 ---
 
 
 [#question]
-== 828-63effe109ebbe935e4c16b16.
+
 
 ****
 

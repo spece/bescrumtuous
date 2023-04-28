@@ -12,16 +12,16 @@ include::../questions01/Coac109-DuringtheDailyScrumtheScru.adoc[]
 
 ==== Question 2
 
-include::../questions01/Faci126-OnFridaysdeveloperswanttoh.adoc[]
+include::../questions00/CoacX819-Theself-managedandself-organi.adoc[]
 
 ==== Question 3
 
-include::../questions04/Coac403.adoc[]
+include::../questions00/CoacX816-YouretheScrumMasterandyou.adoc[]
 
 ==== Question 4
 
-include::../questions05/Coac504-Whenaconflictbreaksoutbetwe.adoc[]
+include::../questions00/CoacX828-Thekeystakeholderontheproje.adoc[]
 
 ==== Question 5
 
-include::../questions00/Coac813-AnewScrumMasterhasbeenhire.adoc[]
+include::../questions00/CoacX813-AnewScrumMasterhasbeenhire.adoc[]

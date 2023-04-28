@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "927 - What is the best suited structure for De"
+id: 927-63effbe79ebbe935e4c16ac9.
 ---
 
 
 [#question]
-== 927-63effbe79ebbe935e4c16ac9.
+
 
 ****
 

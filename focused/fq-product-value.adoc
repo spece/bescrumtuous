@@ -9,11 +9,11 @@ The following questions will give you an idea of the scope and difficulty of the
 
 ==== Question 1
 
-include::../questions02/Prod228-Whenalargeteamworkingonap.adoc[]
+include::../questions06/Prod623-Whichoneofthefollowingbest.adoc[]
 
 ==== Question 2
 
-include::../questions03/Prod321-Ifmultipleteamworkingonthe.adoc[]
+include::../questions06/Prod622-HowistheProductBacklogorder.adoc[]
 
 ==== Question 3
 
@@ -21,8 +21,8 @@ include::../questions03/Prod320-Everysprintmustcreateavaluable.adoc[]
 
 ==== Question 4
 
-include::../questions06/Prod623-Whichoneofthefollowingbest.adoc[]
+include::../questions02/Prod228-Whenalargeteamworkingonap.adoc[]
 
 ==== Question 5
 
-include::../questions06/Prod622-HowistheProductBacklogorder.adoc[]
+include::../questions03/Prod321-Ifmultipleteamworkingonthe.adoc[]

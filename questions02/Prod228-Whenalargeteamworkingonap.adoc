@@ -21,6 +21,8 @@ When a large team working on a project is broken down into multiple, smaller tea
 * [ ] Each team should share the same Sprint Goal
 * [*] The sum of all increments produced by each team should be integrated into every Sprint
 * [*] Each team should share the same Product Owner
+* [ ] Each team should start their Sprints on the same day
+* [ ] Each team should have the same Sprint length
 
 --
 ****

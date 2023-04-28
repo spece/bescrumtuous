@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "840 - Which outcome is expected as Scrum Teams"
+id: 840-63efff2b9ebbe935e4c16b37.
 ---
 
 
 [#question]
-== 840-63efff2b9ebbe935e4c16b37.
+
 
 ****
 

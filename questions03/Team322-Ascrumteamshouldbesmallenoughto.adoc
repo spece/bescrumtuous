@@ -12,16 +12,16 @@ id: 322-6445678f62d2d76c66cca9c4.
 
 [#query]
 --
-How big a development team is always a controversial topic. According to the Scrum Guide, a Scrum Team:
+The optimal size of a development team is always a controversial topic. According to the Scrum Guide, a Scrum Team:
 --
 
 [#list]
 --
 * [*] Should be small enough to remain nimble
-* [*] Large enough to complete a significant amount of work
-* [ ] Be 7 or fewer people
-* [ ] Never share the Scrum Master or Product Owner with other Scrum Teams
-* [*] Reorganized into smaller teams when they become too large
+* [*] Should be large enough to complete a significant amount of work
+* [ ] Should e 7 or fewer people
+* [ ] Should never share the Product Owner with other Scrum Teams
+* [*] Should be eorganized into smaller teams when they become too large
 
 --
 ****

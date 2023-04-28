@@ -21,7 +21,7 @@ On Fridays, developers want to hold the Daily Scrum in the cafeteria after the l
 * [*] Tell the developers that if they want to do it Friday after lunch in the cafeteria, then they'll have to do it every day after lunch in the cafeteria
 * [ ] Tell the developers the daily scrum must take place in the morning
 * [ ] Tell developers the daily scrum cannot take place in the lunchroom
-* [ ] Tell developers the daily scrum occur in the room where development takes place
+* [ ] Tell developers the daily scrum must happen in the same room where development takes place
 
 --
 ****

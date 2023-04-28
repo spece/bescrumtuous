@@ -17,16 +17,16 @@ Which of the following are not responsibilities of a Scrum Master?
 
 [#list]
 --
-* [*] Attending the Daily Scrum
-* [*] Performing performance reviews with developers
-* [ ] Making sure the team understands Scrum commitments such as the Definition of Done
-* [*] Establishing a bonus plan for developers who contribute the most to the Sprint
+* [ ] Attending the Daily Scrum
+* [ ] Performing performance reviews with developers
+* [*] Making sure the team understands Scrum commitments such as the Definition of Done
+* [ ] Establishing a bonus plan for developers who contribute the most to the Sprint
 
 --
 ****
 
 [#answer]
-ABD
+C
 
 [#explanation]
 --

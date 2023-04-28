@@ -12,7 +12,7 @@ include::../questions02/Empi208-Whichofthefollowingarenote.adoc[]
 
 ==== Question 2
 
-include::../questions02/Empi209-ScrumisanAgilesoftwaredevel.adoc[]
+include::../questions00/EmpiX848-Thedeveloperssaythereareto.adoc[]
 
 ==== Question 3
 
@@ -24,4 +24,4 @@ include::../questions05/Empi510.adoc[]
 
 ==== Question 5
 
-include::../questions00/Empi847-WhenProductBacklogitemsares.adoc[]
+include::../questions00/EmpiX847-WhenProductBacklogitemsares.adoc[]

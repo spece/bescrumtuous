@@ -12,22 +12,22 @@ id: 223-6445678a7b8d73457c9d3aad.
 
 [#query]
 --
-You are a week into the Sprint and the developers feel they may not have enough time to complete all of the Sprint Backlog items in the allocated time. Which of the following are not strategies that would be consistent with the Scrum Guide:
+You are a week into the Sprint things have gone sour. The developers feel they may not have enough time to complete all of the Sprint Backlog items in the Sprint Plan. Which of the following are not strategies that would be consistent with the Scrum Guide:
 --
 
 [#list]
 --
-* [ ] Cancel the Sprint and perform Sprint Planning again
-* [ ] Push management to temporarily hire more developers
-* [ ] Have the developer work overtime and weekends
-* [*] Remove some of the selected Product Backlog items so long as the Sprint Goal is not compromised
-* [*] Renegotiate the Sprint Scope with the product Owner
+* [*] Cancel the Sprint and perform Sprint Planning again
+* [*] Push management to temporarily hire more developers
+* [*] Have the developers work overtime and weekends
+* [ ] Remove some of the selected Product Backlog items so long as the Sprint Goal is not compromised
+* [ ] Renegotiate the Sprint Scope with the product Owner
 
 --
 ****
 
 [#answer]
-DE
+ABC
 
 [#explanation]
 --

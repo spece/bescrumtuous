@@ -8,15 +8,15 @@ These five questions will give you an idea of the scope and difficulty of these 
 
 ==== Question 1
 
-include::../questions00/Done830-Thedevelopersontheteamwant.adoc[]
+include::../questions00/DoneX830-Thedevelopersontheteamwant.adoc[]
 
 ==== Question 2
 
-include::../questions00/Done831-HowcanthedeliveryofanIncre.adoc[]
+include::../questions00/DoneX836-WhatarethreewaystheDefiniti.adoc[]
 
 ==== Question 3
 
-include::../questions02/Done205-WhatvaluedoestheDefinitiono.adoc[]
+include::../questions00/DoneX842-AdirectivefromtheDevopsteam.adoc[]
 
 ==== Question 4
 
@@ -24,4 +24,4 @@ include::../questions02/Done206-Non-functionalrequirementssuch.adoc[]
 
 ==== Question 5
 
-include::../questions02/Done207-Anitemcannotpresentedtostak.adoc[]
+include::../questions00/DoneX840-OvertimeasaScrumTeambecom.adoc[]
