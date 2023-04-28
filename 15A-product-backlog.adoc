@@ -360,6 +360,6 @@ The Product Owner believes the Scrum Team has enough capacity to work on two sep
 
 Option D is correct.
 
-A Scrum Team must fulfill or abandoned one objective before taking on the next.
+A Scrum Team must fulfill or abandon one objective before taking on the next.
 
 '''
