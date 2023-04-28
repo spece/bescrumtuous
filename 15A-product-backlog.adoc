@@ -18,16 +18,16 @@ ____
 
 This definition makes it clear that the Product Backlog is a list of the features that need to be built to complete the project.
 
-This definition also demands that the list be ordered, in a proprity sequence. The most important items are at the top.
+This definition also demands that the list be ordered, in a prioprity sequence. The most important items are at the top.
 
 ==== Test Yourself
 
 ****
-True or False: The Product Backlog is a prioritized lists the things that are needed to improve the product.
+True or False: The Product Backlog is a prioritized list of the things that are needed to improve the product.
 
 ****
 
-This is true. This precicely describes the purpose of the Product Backlog.
+This is true. This precisely describes the purpose of the Product Backlog.
 
 
 === Single Source of Work
@@ -38,7 +38,7 @@ ____
 The Product Backlog is the single source of work undertaken by the Scrum Team.
 ____
 
-The fact that this is the single source or work to be undertaken by the Scrum Team indicates that it is also the only source of work undertaken by the Scrum team.
+The fact that this is the single source of work to be undertaken by the Scrum Team indicates that it is also the only source of work undertaken by the Scrum team.
 
 If the Scrum Team is going to work on something, then it has to first be part of the Product Backlog.
 
@@ -59,7 +59,7 @@ The Product Backlog is the only source of work for the Scrum Team.
 [quote, 2020 Scrum Guide page 10]
 ____
 
-Product Backlog items that can be Done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. 
+Product Backlog items that can be done by the Scrum Team within one Sprint are deemed ready for selection in a Sprint Planning event. 
 
 They usually acquire this degree of transparency after refining activities. 
 
@@ -70,9 +70,9 @@ This is an ongoing activity to add details, such as a description, order, and si
 Attributes often vary with the domain of work.
 ____
 
-Developers may see a high priority Product Backlog item that is far too complex to complete in a 3 or 4 week Sprint. When this happens, the developers work with the Product Owner to break the item down into something more manageable.
+Developers may see a high-priority Product Backlog item that is far too complex to complete in a 3 or 4-week Sprint. When this happens, the developers work with the Product Owner to break the item down into something more manageable.
 
-The goal is always to break a Product Backlog item into something that can be completed within a Sprint. And remember that druing Spritn planning, the developers are expected to break all of the selected Product Backlog items down into units of work that can be completed in a day or less.
+The goal is always to break a Product Backlog item into something that can be completed within a Sprint. And remember that during Sprint planning, the developers are expected to break all of the selected Product Backlog items down into units of work that can be completed in a day or less.
 
 [quote, Sprint Planning page 8]
 ____
@@ -86,7 +86,7 @@ ____
 ****
 When picking Product Backlog items for the current Spring, Scrum Developers must:
 
-* [ ] Only choose Product Backlog items they believe the can complete within Sprint
+* [ ] Only choose Product Backlog items they believe they can complete within Sprint
 * [ ] Refine large Product Backlog items down until they are large enough to complete in a Sprint
 * [ ] Not be afraid to choose Product Backlog items that may span multiple Sprints
 * [ ] Decompose large Product Backlog items down until they are large enough to complete in a day
@@ -115,7 +115,7 @@ Breaking Product Backlog items selected for the Sprint down into smaller work it
 
 Option C is correct.
 
-The Scrum Guide desribes decomposition as breaking Product Backlog items into smaller work items of one day or less.
+The Scrum Guide describes decomposition as breaking Product Backlog items into smaller work items of one day or less.
 
 '''
 
@@ -133,7 +133,7 @@ Breaking large Product Backlog items down into smaller, more precise items is kn
 
 Option B is correct.
 
-The Scrum Guide defines Product Backlog refinement as: the act of breaking down and further defining Product Backlog items into smaller more precise items.
+The Scrum Guide defines Product Backlog refinement as the act of breaking down and further defining Product Backlog items into smaller more precise items.
 
 '''
 
@@ -151,9 +151,9 @@ When does Product Backlog refinement occur:
 
 Option D is correct.
 
-The Scrum Guide has very few rules about what should happen when.
+The Scrum Guide has very few rules about what should happen and when.
 
-If a Product Backlog item needs more details, be refined, be decomposed or anything else, then just do it!
+If a Product Backlog item needs more details, refined, decomposed, or anything else, then just do it!
 
 When work needs to be done, don't wait for an official Scrum event to do it. Just get the work done!
 
@@ -162,7 +162,7 @@ When work needs to be done, don't wait for an official Scrum event to do it. Jus
 ==== Test Yourself
 
 ****
-The developers are not happy with how the Sprint framework has being implemented. When is the best time to discuss this?
+The developers are not happy with how the Sprint framework has been implemented. When is the best time to discuss this?
 
 * [ ] During the Sprint Review
 * [ ] During the Daily Scrum
@@ -173,7 +173,7 @@ The developers are not happy with how the Sprint framework has being implemented
 
 Option D is correct.
 
-Discussions about how things are working, how various processes are being implemented, and even discussion about how to do Scrum better should happen during the Sprint Retrospective.
+Discussions about how things are working, how various processes are being implemented, and even discussions about how to do Scrum better should happen during the Sprint Retrospective.
 
 '''
 
@@ -213,13 +213,13 @@ The developers are the experts. Only the developers know how long it will take t
 ==== Test Yourself
 
 ****
-True or false: Taking into account upcoming vacation time is more empirical than estimating productivity based on burndown charts?
+True or false: Taking into account upcoming vacation time is more empirical than estimating productivity based on burndown charts.
 
 ****
 
 This is true.
 
-Burndown charts and velocity calculations are great, but they are not a replacement for actualy knowledge and real-world experience.
+Burndown charts and velocity calculations are great, but they are not a replacement for actual knowledge and real-world experience.
 
 '''
 
@@ -229,7 +229,7 @@ Burndown charts and velocity calculations are great, but they are not a replacem
 [quote, 2020 Scrum Guide page 11]
 ____
 
-The Product Goal describes a future state of the product which can serve as a target for the Scrum Team to plan against.
+The Product Goal describes the future state of the product which can serve as a target for the Scrum Team to plan against.
 ____
 
 Every arrow needs a target.
@@ -268,7 +268,7 @@ ____
 The Product Backlog is an emergent, ordered list of what is needed to improve the product.
 ____
 
-So does this statement mean the Product Goal is one of the items in the list?
+So does this statement mean the Product Goal is one of the items on the list?
 
 
 ****
@@ -276,13 +276,13 @@ The Product Backlog has many items that have never been assessed and likely won'
 What should the Product Owner do to clean up the Product Backlog?
 
 * [ ] Create a second Product Backlog and moved these items there
-* [ ] Delete the old items items from the Product Backlog
+* [ ] Delete the old items from the Product Backlog
 * [ ] Prioritize these Product Backlog items so the developers complete them
 * [ ] Leave the Product Backlog items in the Product Backlog as they are
 
 ****
 
-Options D is correct.
+Option D is correct.
 
 The Product Backlog contains everything needed to create the product and achieve the Product Goal.
 
@@ -308,7 +308,7 @@ ____
 
 The people behind the Scrum Guide have worked hard to get people out of the mindset that Scrum is just for software development.
 
-This section further emphases the point that Scrum can be used to develop more than just software.
+This section further emphasizes the point that Scrum can be used to develop more than just software.
 
 ==== Test Yourself!
 
@@ -331,7 +331,7 @@ Option D is incorrect because the Scrum Guide insists that the product being bui
 '''
 
 
-=== One and Only Objective
+=== Only Objective
 
 [quote, 2020 Product Backlog Definition page 11]
 ____
@@ -349,30 +349,17 @@ I've quite often seen UI designers who have only a small part to play on a set o
 ==== Test Yourself!
 
 ****
-The Product Owner beleves the Scrum Team has enough capacity to work on two separate projects concurrently. How do you, as the Scrum Master, advise the Product Owner to go forward with this plan?
+The Product Owner believes the Scrum Team has enough capacity to work on two separate projects concurrently. How do you, as the Scrum Master, advise the Product Owner to go forward with this plan?
 
 * [ ] Double the timebox for all Scrum events
 * [ ] Create a second Product Backlog for the new project
 * [ ] Add features for the new Project into the current Product Backlog
-* [ ] Inform the Product Owner that a Scrum team can only work on one product at time
+* [ ] Inform the Product Owner that a Scrum team can only work on one product at a time
 
 ****
 
 Option D is correct.
 
-A Scrum Team must fullfill or abandone one objective before taking on the next.
+A Scrum Team must fulfill or abandone one objective before taking on the next.
 
 '''
-
-
-
- 
-
-
-
-
-
-
-
-
-
