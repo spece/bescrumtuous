@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "996 - Who is responsible for engaging the stak"
+id: 996-63effbc49ebbe935e4c16ac3.
 ---
 
 
 [#question]
-== 996-63effbc49ebbe935e4c16ac3.
+
 
 ****
 
 [#query]
 --
-Under what circumstances can the Scrum Master speak with stakeholders?
+Under what circumstances can the Scrum Master speak directly with stakeholders?
 --
 
 [#list]

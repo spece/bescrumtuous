@@ -34,7 +34,7 @@ Individuals on self-managed teams tend to be more innovative, original, creative
 --
 
 [#ka]
-Scrum Teams
+Self-managing teams
 
 '''
 

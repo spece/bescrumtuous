@@ -1,17 +1,18 @@
 ---
 layout: default + 
 title: "528"
+id: 528-64456797ca886e07fd8927dc.
 ---
 
 
 [#question]
-== 528-64456797ca886e07fd8927dc.
+
 
 ****
 
 [#query]
 --
-When the Product Owner is working on Sprint Backlog items:
+When the Product Owner is working on and developing Sprint Backlog items:
 --
 
 [#list]

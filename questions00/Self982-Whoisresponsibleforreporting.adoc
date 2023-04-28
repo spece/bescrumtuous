@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "982 - What is the Product Owner responsible Sc"
+id: 982-63effddc9ebbe935e4c16b10.
 ---
 
 
 [#question]
-== 982-63effddc9ebbe935e4c16b10.
+
 
 ****
 

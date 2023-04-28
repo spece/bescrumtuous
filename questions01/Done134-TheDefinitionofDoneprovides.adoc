@@ -43,7 +43,7 @@ The Definition of Done is the criteria used to test of an Product Backlog item i
 --
 
 [#ka]
-Product Value
+Done
 
 '''
 

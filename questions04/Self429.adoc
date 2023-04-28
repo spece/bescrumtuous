@@ -11,7 +11,7 @@ title: "429"
 
 [#query]
 --
-Scrum teams should be
+Scrum teams should be:
 --
 
 [#list]

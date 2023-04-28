@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "981 - Which two ways of creating Development T"
+id: 981-63effdab9ebbe935e4c16b0a.
 ---
 
 
 [#question]
-== 981-63effdab9ebbe935e4c16b0a.
+
 
 ****
 

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "997 - What is the Scrum Master responsible Scr"
+id: 997-63effc499ebbe935e4c16ad9.
 ---
 
 
 [#question]
-== 997-63effc499ebbe935e4c16ad9.
+
 
 ****
 

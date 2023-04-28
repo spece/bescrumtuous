@@ -11,7 +11,7 @@ title: "325"
 
 [#query]
 --
-A cross-functional team is one where
+A cross-functional team is one where:
 --
 
 [#list]

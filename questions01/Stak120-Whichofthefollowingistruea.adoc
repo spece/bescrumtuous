@@ -1,17 +1,19 @@
 ---
 layout: default + 
 title: "120"
+id: 120-6445b164221e893e31a49d02.
 ---
 
 
+
 [#question]
-== 120-6445b164221e893e31a49d02.
+
 
 ****
 
 [#query]
 --
-Which of the following is true about the participation of developers at the Sprint Review
+Which of the following is true about the participation of developers at the Sprint Review?
 --
 
 [#list]

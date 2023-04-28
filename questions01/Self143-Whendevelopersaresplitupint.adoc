@@ -1,16 +1,19 @@
 ---
 layout: default + 
 title: "143"
+id: 143-6445b162221e893e31a49cf1.
 ---
 
 
 [#question]
-== 143-6445b162221e893e31a49cf1.
+
 
 ****
 
 [#query]
 --
+Your company has just acquired 33 new developers from a corporate merger. These new developers must be split up into teams.
+
 When developers are split up into teams, what should be the highest priority?
 --
 

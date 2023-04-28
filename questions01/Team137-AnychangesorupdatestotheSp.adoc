@@ -11,7 +11,7 @@ title: "137"
 
 [#query]
 --
-Any changes or updates to the Sprint Backlog during a Spring must be agreed to by:
+Any changes or updates to the Sprint Backlog during a Sprint must be agreed to by:
 --
 
 [#list]

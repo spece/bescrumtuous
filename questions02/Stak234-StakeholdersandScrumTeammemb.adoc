@@ -1,11 +1,12 @@
 ---
 layout: default + 
 title: "234"
+id: 234-6445678d7b8d73457c9d3ac4.
 ---
 
 
 [#question]
-== 234-6445678d7b8d73457c9d3ac4.
+
 
 ****
 
