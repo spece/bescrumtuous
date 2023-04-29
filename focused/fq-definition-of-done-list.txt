@@ -1,0 +1,27 @@
+:pdf-theme: some-theme.yml
+
+== Definitions of Done Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Done.'
+
+These five questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+include::../questions00/DoneX830-Thedevelopersontheteamwant.adoc[]
+
+==== Question 2
+
+include::../questions00/DoneX836-WhatarethreewaystheDefiniti.adoc[]
+
+==== Question 3
+
+include::../questions00/DoneX842-AdirectivefromtheDevopsteam.adoc[]
+
+==== Question 4
+
+include::../questions02/Done206-Non-functionalrequirementssuch.adoc[]
+
+==== Question 5
+
+include::../questions00/DoneX840-OvertimeasaScrumTeambecom.adoc[]

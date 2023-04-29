@@ -1,0 +1,50 @@
+---
+layout: default 
+title: "901 - Which of the following two actions shoul"
+---
+
+
+[#question]
+== 901-63efff7c9ebbe935e4c16b40.
+
+****
+
+[#query]
+--
+The Product Owner and the development team are at loggerheads over which Product Backlog items should be selected for the Sprint. 
+
+The Product Owner wants the highest priority items completed, but the development team insists existing impediments make the highest priority ones impossible to start on. 
+
+The development team has selected slightly lower priority items that can be completed this Sprint. The only thing the development team and the Product Owner have agreed upon is the Sprint Goal. What should the Scrum Master do?
+--
+
+[#list]
+--
+* [ ] A. Have the Product Owner choose the Sprint Backlog items for the development team to work on, as the Product Owner is the one who prioritized the Product Backlog.
+* [*] B. Allow the development team to choose which Product Backlog items to make part of the development Sprint.
+* [ ] C. Extend the Sprint Planning meetings beyond its 8-hour time box to allow the development team and the Product Owner to come to an agreement.
+* [*] D. End the Sprint Planning meeting and start development after the 8-hour Sprint Planning timebox ends, even if the disagreement persists.
+* [*] E. Discuss why the disagreement happened, how it impacted the development process and come up with ways to avoid such disagreements in the future during the Sprint Retrospective.
+
+--
+****
+
+[#answer]
+BDE
+
+[#explanation]
+--
+You don't ever extend a Scrum event beyond its timebox.
+
+Disagreements will happen. When they do, move forward and start development. 
+
+A Sprint will only last at most a month. And teams can adapt daily during the Daily Scrum as the situation changes. That includes potentially adding new PBIs or removing PBIs from the Scrum backlog.
+
+The development team must be trusted to choose what is right in terms of what to develop over the short term. And the term is 'short', and adaptation happens daily, so if the Sprint Goal goes out of focus, the team can change to bring the goal back on target.
+--
+
+[#ka]
+Facilitation
+
+'''
+

@@ -1,0 +1,27 @@
+
+
+== Scrum Master Coaching Techniques Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Coaching.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+include::../questions01/Coac109-DuringtheDailyScrumtheScru.adoc[]
+
+==== Question 2
+
+include::../questions00/CoacX819-Theself-managedandself-organi.adoc[]
+
+==== Question 3
+
+include::../questions00/CoacX816-YouretheScrumMasterandyou.adoc[]
+
+==== Question 4
+
+include::../questions00/CoacX828-Thekeystakeholderontheproje.adoc[]
+
+==== Question 5
+
+include::../questions00/CoacX813-AnewScrumMasterhasbeenhire.adoc[]

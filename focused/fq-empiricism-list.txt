@@ -1,0 +1,27 @@
+:pdf-theme: some-theme.yml
+
+== Empiricism Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Done.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+include::../questions02/Empi208-Whichofthefollowingarenote.adoc[]
+
+==== Question 2
+
+include::../questions00/EmpiX848-Thedeveloperssaythereareto.adoc[]
+
+==== Question 3
+
+include::../questions03/Empi312-TheScrumGuidestatesthatScru.adoc[]
+
+==== Question 4
+
+include::../questions05/Empi510.adoc[]
+
+==== Question 5
+
+include::../questions00/EmpiX847-WhenProductBacklogitemsares.adoc[]

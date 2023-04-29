@@ -1,6 +1,9 @@
 
-
 = Scrum Certification Guide
+:media: prepress
+:doctype: book
+:toc:
+
 
 
 image::images/cover-page.png["Scrum Certification Guide. "]
@@ -134,11 +137,15 @@ include::focused/fq-stakeholders.adoc[]
 
 <<<
 
-//// include::final-exam-1.adoc[]
+include::exam25A/file/exam20A.adoc[]
 
 <<<
 
-//// include::final-exam-2.adoc[]
+include::exam25B/file/exam20B.adoc[]
+
+<<<
+
+include::exam40/file/exam40.adoc[]
 
 
 

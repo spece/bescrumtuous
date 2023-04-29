@@ -1,0 +1,28 @@
+:pdf-theme: some-theme.yml
+
+== Scrum Values Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Scrum Values.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+==== Question 1
+
+include::../questions01/Valu140-Whichofthefollowingisnota.adoc[]
+
+==== Question 2
+
+include::../questions01/Valu141-Howmuchtimemustdeveloperspu.adoc[]
+
+==== Question 3
+
+include::../questions05/Valu529-Whichofthefollowingactionse.adoc[]
+
+==== Question 4
+
+include::../questions00/ValuX973-Alwaysworkingtothebestofyo.adoc[]
+
+==== Question 5
+
+include::../questions00/ValuX974-ThedevelopersonaScrumteama.adoc[]

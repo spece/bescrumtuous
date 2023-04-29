@@ -1,0 +1,28 @@
+:pdf-theme: some-theme.yml
+
+== Self-Managed Teams Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Self-Managed Teams.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+include::../questions01/Self145-Acrossfunctionalteam.adoc[]
+
+==== Question 2
+
+include::../questions00/SelfX979-ThegoalofeveryScrumTeamis.adoc[]
+
+
+==== Question 3
+
+include::../questions00/SelfX982-Whoisresponsibleforreporting.adoc[]
+
+==== Question 4
+
+include::../questions04/Self428-WhoselectstheitemsinthePro.adoc[]
+
+==== Question 5
+
+include::../questions06/Self629-WhoontheScrumTeamcanfirea.adoc[]

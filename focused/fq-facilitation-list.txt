@@ -1,0 +1,26 @@
+== Scrum Master Facilitation and Coaching Quiz
+ 
+One of the 13 tested categories on the Scrum Master exam is 'Facilitation and Coaching.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+==== Question 1
+
+include::../questions01/Faci124-Whichofthefollowingarenotr.adoc[]
+
+==== Question 2
+
+include::../questions00/CoacX824-WhatresponsibilitiesdoestheS.adoc[]
+
+==== Question 3
+
+include::../questions01/Faci126-OnFridaysdeveloperswanttoh.adoc[]
+
+==== Question 4
+
+include::../questions03/Faci315-Ascrummastercanworkonmanyteams.adoc[]
+
+==== Question 5
+
+include::../questions03/Faci316-TheProductOwnerfeelsthatDev.adoc[]

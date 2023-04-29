@@ -1,0 +1,45 @@
+---
+layout: default 
+title: "834 - How much work must a Development Team do"
+---
+
+
+[#question]
+== 834-63effbb29ebbe935e4c16ac0.
+
+****
+
+[#query]
+--
+How much effort must the Scrum developers put into completing Sprint Backlog items chosen for the Sprint?
+--
+
+[#list]
+--
+* [*] A. The developers will work at a sustainable pace in order to complete as may Sprint Backlot items as possible in conformance with the definition of "Done".
+* [ ] B. The developers must put in all the effort required to successfully complete all Sprint Backlog items before the Sprint is complete.
+* [ ] C. The developers must commit to delivering core functionality but testing and quality assurance is not required.
+* [ ] D. The developers must put an equal amount of time into requirements gathering, design, implementation, documentation, and troubleshooting.
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+When a Development Team selects a Product Backlog item for a Sprint, they need to determine how much work they can commit to completing during that Sprint. The amount of work the team commits to is based on their capacity and their understanding of the requirements of the selected item. The team considers various factors, such as their velocity, capacity, and any dependencies or risks associated with the item. They then commit to completing the work that they believe is achievable in the upcoming Sprint.
+
+The concept of the "definition of done" is also closely related to the amount of work a Development Team commits to during a Sprint. The "definition of done" is a shared understanding among the team of the criteria that must be met for a Product Backlog item to be considered complete. The definition of done typically includes criteria related to functionality, quality, and usability, among other things.
+
+The Development Team's commitment to completing a selected Product Backlog item must be based on their understanding of the definition of done for that item. The team must ensure that they can meet all of the criteria included in the definition of done before they commit to completing the item during the Sprint. The team must also ensure that they have the capacity to complete the work required to meet the definition of done.
+
+Therefore, when a Development Team commits to completing a Product Backlog item during a Sprint, they must ensure that they have a shared understanding of the work required to meet the definition of done. They should also ensure that they have the capacity to complete the work within the Sprint timeframe. This helps the team to deliver a potentially releasable increment of the product at the end of each Sprint, which is a fundamental goal of the Scrum framework.
+--
+
+[#ka]
+Done
+
+'''
+

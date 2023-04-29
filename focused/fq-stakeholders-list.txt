@@ -1,0 +1,27 @@
+:pdf-theme: some-theme.yml
+
+== Stakeholders and Customers Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Stakeholders and Customers.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+include::../questions01/Stak120-Whichofthefollowingistruea.adoc[]
+
+==== Question 2
+
+include::../questions02/Stak233-OnlytheProductOwnerinteracts.adoc[]
+
+==== Question 3
+
+include::../questions00/StakX994-WhoontheScrumTeamisprimari.adoc[]
+
+==== Question 4
+
+include::../questions00/StakX996-Underwhatcircumstancescanthe.adoc[]
+
+==== Question 5
+
+include::../questions00/StakX997-Managementandstakeholdersare.adoc[]

@@ -1,0 +1,42 @@
+---
+layout: default 
+title: "912 - Who creates a Product Backlog items esti"
+---
+
+
+[#question]
+== 912-63effe619ebbe935e4c16b20.
+
+****
+
+[#query]
+--
+Who is best equipped to estimate the amount of time required to complete a Product Backlog Item(PBI)?
+--
+
+[#list]
+--
+* [ ] A. The Product Owner, after adding the PBI to the Product Backlog.
+* [ ] B. The Scrum Master, after reading the description of the PBI.
+* [ ] C. The Project Manager, after assigning the PBI to the project.
+* [ ] D. The individual developer tasked with working on the PBI.
+* [*] E. The Development Team, after discussions with the Product Owner about the PBI.
+
+--
+****
+
+[#answer]
+A
+
+[#explanation]
+--
+Only the developers, the people who actually do the work, have the ability to estimate the time required to complete a PBI.
+
+According to the Scrum Guide, "Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint."
+--
+
+[#ka]
+Forecasting and Release Planning
+
+'''
+

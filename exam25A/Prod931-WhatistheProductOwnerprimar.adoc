@@ -1,0 +1,47 @@
+---
+layout: default 
+title: "931 - Which statement best describes a Product"
+---
+
+
+[#question]
+== 931-63effd369ebbe935e4c16afc.
+
+****
+
+[#query]
+--
+What is the Product Owner primary accountable for?
+--
+
+[#list]
+--
+* [ ] A. Working with the Scrum Master to select Product Backlog items to work on during the Sprint.
+* [ ] B. Instilling quality by adhering to a Definition of Done.
+* [ ] C. Turning Product Backlog Items into understandable use cases.
+* [*] D. Maximizing the value of the product resulting from the work of the Scrum Team.
+
+--
+****
+
+[#answer]
+D
+
+[#explanation]
+--
+The answer to this question comes right out of the Scrum Guide:
+
+"The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team."
+
+The Scrum Guide does not mention the term "use cases" so any reference to them is normally an incorrect answer.
+
+"Instilling quality by adhering to a Definition of Done" is actually something the Developers are accountable for according to Scrum.
+
+Note the Developers select Product Backlog Items to work on during the Spring, not the Scrum Master or the Product Owner.
+--
+
+[#ka]
+Product Backlog Management
+
+'''
+

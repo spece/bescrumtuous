@@ -1,0 +1,26 @@
+
+== Scrum Artifacts Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Scrum Artifacts.'
+
+These five questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+include::../questions01/Arti104-TheSprintBacklogiscomprised.adoc[]
+
+==== Question 2
+
+include::../questions01/Arti142-Commitmentofproductbacklog.adoc[]
+
+==== Question 3
+
+include::../questions02/Arti202.adoc[]
+
+==== Question 4
+
+include::../questions01/Arti130-Ifanhigh-valueSprintBacklog.adoc[]
+
+==== Question 5
+
+include::../questions01/Arti103-Whichofthefollowingistrueo.adoc[]

@@ -1,0 +1,30 @@
+== Scrum Events Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Events.'
+
+These five questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+==== Question 1
+
+
+include::../questions00/EvenX862-Whichofthefollowingstatement.adoc[]
+
+==== Question 2
+
+include::../questions00/EvenX881-Ithascometotheattentionof.adoc[]
+
+==== Question 3
+
+include::../questions00/EvenX859-Whichofthefollowingisnottr.adoc[]
+
+==== Question 4
+
+include::../questions00/EvenX885-TheScrumFrameworkdescribesa.adoc[]
+
+==== Question 5
+
+include::../questions01/Even123-Thesprintreviewisattendedbythescrumteamandtakeholders.adoc[]
+
+
+

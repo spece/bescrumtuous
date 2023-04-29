@@ -1,0 +1,28 @@
+:pdf-theme: some-theme.yml
+
+== Product Value Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Product Value.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+
+
+==== Question 1
+
+include::../questions06/Prod623-Whichoneofthefollowingbest.adoc[]
+
+==== Question 2
+
+include::../questions06/Prod622-HowistheProductBacklogorder.adoc[]
+
+==== Question 3
+
+include::../questions03/Prod320-Everysprintmustcreateavaluable.adoc[]
+
+==== Question 4
+
+include::../questions02/Prod228-Whenalargeteamworkingonap.adoc[]
+
+==== Question 5
+
+include::../questions03/Prod321-Ifmultipleteamworkingonthe.adoc[]

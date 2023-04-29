@@ -1,0 +1,26 @@
+== Forecasting and Release Planning Quiz
+
+
+One of the 13 tested categories on the Scrum Master exam is 'Forecasting and Release Planning.'
+
+These questions will give you an idea of the scope and difficulty of these exam questions.
+
+==== Question 1
+
+include::../questions01/Fore127-Achartthatshowstheworkcomp.adoc[]
+
+==== Question 2
+
+include::../questions01/Fore128-Howlongshouldbespentplannin.adoc[]
+
+==== Question 3
+
+include::../questions02/Fore223-YouareaweekintotheSprinta.adoc[]
+
+==== Question 4
+
+include::../questions02/Fore224-Whoplanstheworkneededtobe.adoc[]
+
+==== Question 5
+
+include::../questions04/Fore414-Aproductbacklogitemshouldbe.adoc[]

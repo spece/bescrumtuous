@@ -1,0 +1,28 @@
+:pdf-theme: some-theme.yml
+
+== Scrum Team Quiz
+
+One of the 13 tested categories on the Scrum Master exam is 'Scrum Teams.'
+
+The following questions will give you an idea of the scope and difficulty of these exam questions.
+ 
+
+==== Question 1
+
+include::../questions01/Team139-Howmanydevelopersshouldthere.adoc[]
+
+==== Question 2
+
+include::../questions01/Team135-Ascrummastercanbeshared.adoc[]
+
+==== Question 3
+
+include::../questions03/Team322-Ascrumteamshouldbesmallenoughto.adoc[]
+
+==== Question 4
+
+include::../questions03/Team323-TheProductOwnerisnotallowed.adoc[]
+
+==== Question 5
+
+include::../questions01/Self143-Whendevelopersaresplitupint.adoc[]
