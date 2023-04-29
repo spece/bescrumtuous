@@ -26,7 +26,7 @@ jobs:
         run: |
 
           sudo gem install asciidoctor-pdf --pre
-          asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts _ebook.adoc -o _ebook.pdf
+          asciidoctor-pdf -a media=prepress -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts _ebook.adoc -o _ebook.pdf
           asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 01A-definition-of-scrum.adoc -o ./pdf/01A-definition-of-scrum.pdf
           asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 02A-scrum-theory.adoc -o ./pdf/02A-scrum-theory.pdf
           asciidoctor-pdf -a pdf-theme=theme.yml -a pdf-fontsdir=./fonts 03A-scrum-pillars-and-values.adoc -o ./pdf/03A-scrum-pillars-and-values.pdf
