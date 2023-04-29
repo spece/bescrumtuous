@@ -3,7 +3,7 @@
 == Chapter 17
 === The Increment
 
-Scrum is an interative and incremental framework.
+Scrum is an iterative and incremental framework.
 
 We see how Scrum is iterative. Scrum just does Sprint after Sprint after Sprint. The same events repeat over and over again.
 
@@ -29,19 +29,19 @@ An Increment is a concrete stepping stone toward the Product Goal.
 
 Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. 
 
-In order to provide value, the Increment must be usable.
+To provide value, the Increment must be usable.
 
 ____
 
 === Integrated Increments
 
-An increment must be add to what's already been done, and it must be able to fully integrate and work with all previous increments.
+An increment must be added to what's already been done, and it must be able to fully integrate and work with all previous increments.
 
 If an increment isn't compatible with past increments, then it's not a valid increment. If an increment stands alone and doesn't increase the value of the product built to date, then it's not a valid increment.
 
 On the certification exam, there will be many questions about integration, which is confusing, because there is no talk in the Scrum Guide about integration.
 
-- The are no integration Sprints in Scrum
+- The is no integration of Sprints in Scrum
 - There are no integration teams in Scrum
 - There are events where integration happens
 
@@ -49,13 +49,13 @@ However, whatever you create today must be able to 'integrate with' or 'work wit
 
 === Understanding Integration
 
-Some questions on the Scrum Master certification exam will ask you about integration. Software developers get tripped up on the word 'integration' because they get visions of merging code together or fixing Git conflicts or doing GitHub pull requests. Don't confuse yourself with those things. The idea of 'integration' is much simpler.
+Some questions on the Scrum Master certification exam will ask you about integration. Software developers get tripped up on the word 'integration' because they get visions of merging code or fixing Git conflicts or doing GitHub pull requests. Don't confuse yourself with those things. The idea of 'integration' is much simpler.
 
 Just imagine you're a carpenter and you built a door for the house your team is building. The door is currently tied to the roof of your car. Is it integrated?
 
-No, a door sitting on the roof of your car that supposed to go on the house your building is not integrated with the house if it's strapped to the roof of your car.
+No, a door sitting on the roof of your car that is supposed to go on the house your building is not integrated with the house if it's strapped to the roof of your car.
 
-When the door is put on its hinges and attached to the house, it is now integrated. And, it becomes a useful, valuable increment. By putting the door on the house, you have integrated your work into the product, and you have added a valueble increment of work that stakeholders can see, touch, feel and even criticize.
+When the door is put on its hinges and attached to the house, it is now integrated. And, it becomes a useful, valuable increment. By putting the door on the house, you have integrated your work into the product, and you have added a valuable increment of work that stakeholders can see, touch, feel, and even criticize.
 
 === A Poorly Integrated Increment
 
@@ -73,18 +73,18 @@ Did you just create a usable increment of work that adds to the existing project
 
 Let's go back to the super, amazing door you created. When should you attach it to the house?
 
-The Scrum Master exam will often ask you when you should integrate your work into the existing project. People get all flustered with these questions, wonring when the best time is to integrate your work.
+The Scrum Master exam will often ask you when you should integrate your work into the existing project. People get all flustered with these questions, wondering when the best time is to integrate your work.
 
-SO, when should you integrate your work into the existing product?
+So, when should you integrate your work into the existing product?
 
 - During the Daily Scrum?
 - During the Sprint Review?
 - During the Sprint Retrospective?
 - Right now?
 
-Of course 'right now' is the right answer. If you've got the perfect door ready to be put on your new house's hinges, you don't sit two weeks waiting for the Sprint Review to do it. You integrate it right away. It would be nuts to imagine waiting two weeks to hand the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
+Of course 'right now' is the right answer. If you've got the perfect door ready to be put on your new house's hinges, you don't sit for two weeks waiting for the Sprint Review to do it. You integrate it right away. It would be nuts to imagine waiting two weeks to hand the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
 
-As soon as your work is done you integrate your work into the product. Then you move onto the next peice of work that needs to be done.
+As soon as your work is done you integrate your work into the product. Then you move on to the next piece of work that needs to be done.
 
 And you keep doing that over and over and over again until it's time for the Sprint Review. All of which reinforces the next part of the Scrum Guide.
 
@@ -109,7 +109,7 @@ Scrum is iterative in that a set of steps get repeated each sprint, and it is in
 
 The goal of each Sprint is to get at least one valuable and usable Increment added to the project. But that shouldn't stop you from integrating as many Increments as you can.
 
-If a carpented adds a front door to a house, she doesn't wait until the next Sprint to start working on the back door. She gets working on the back door and integrates that into the house as soon she's done with that. Increments should keep being added to the product constantly throughout the Sprint.
+If a carpeted adds a front door to a house, she doesn't wait until the next Sprint to start working on the back door. She gets working on the back door and integrates that into the house as soon she's done with that. Increments should keep being added to the product constantly throughout Sprint.
 
 [quote, 2020 Scrum Guide page 12]
 ____
@@ -118,7 +118,7 @@ Multiple Increments may be created within a Sprint.
 
 The sum of the Increments is presented at the Sprint Review thus supporting empiricism. 
 
-However, an Increment may be delivered to stakeholders prior to the end of the Sprint. 
+However, an Increment may be delivered to stakeholders before the end of the Sprint. 
 
 The Sprint Review should never be considered a gate to releasing value.
 
@@ -129,7 +129,7 @@ ____
 
 Some people get the impression that the only time stakeholders should be allowed to see what developers have done is at the Sprint Review.
 
-If the developers create an increment they want the stakeholders to see, there is nothing stopping them from presenting it to them at any time throughout the Sprint.
+If the developers create an increment they want the stakeholders to see, nothing is stopping them from presenting it to them at any time throughout the Sprint.
 
 And why would you wait? If the developers have created something they are proud of, and the stakeholders are anxious to see it, why would the development team wait  until the Sprint Review to show it to them?
 
@@ -144,7 +144,7 @@ The Definition of Done is a formal description of the state of the Increment whe
 The moment a Product Backlog item meets the Definition of Done, an Increment is born.
 ____
 
-The definition of done must be clear and understood by everyone on the Scrum Team and by the stakeholders and the organization. It creates a common understanding about what has to be done in order for a feature to be complete.
+The definition of done must be clear and understood by everyone on the Scrum Team and by the stakeholders and the organization. It creates a common understanding of what has to be done for a feature to be complete.
 
 ==== Test Yourself
 
@@ -161,36 +161,36 @@ The Definition of Done is a formal description, not an informal understanding.
 ==== Test Yourself
 
 ****
-The application has failed to scale beyond a single processing core, and this has causes various production issues. What is the best way for the Scrum Team to proceed with this issue.
+The application has failed to scale beyond a single processing core, and this has caused various production issues. What is the best way for the Scrum Team to proceed with this issue?
 
 * [ ] Assign multi-core processing support to the DevOps team
 * [ ] Create a testing team to implement multi-processor support
 * [ ] Add multi-processor support to the Definition of Done
-* [ ] Inform that QA team that they should test the app on multiple processors
+* [ ] Inform that the QA team that they should test the app on multiple processors
 
 ****
 Option C is correct.
 
-If there is a quality metric that the product must support, it is the development team's responsiblitity to support it. If the requirement is added to the Definition of Done, the developers will not be allowed to release or integrate any increments that don't meet the multi-processor requirement.
+If there is a quality metric that the product must support, it is the development team's responsibility to support it. If the requirement is added to the Definition of Done, the developers will not be allowed to release or integrate any increments that don't meet the multi-processor requirement.
 
-Remember that there are no sub-teams in Scrum, and there is no talk anywhere about DevOps, UAT or QA teams anywhere in the Scrum Guide.
+Remember that there are no sub-teams in Scrum, and there is no talk anywhere about DevOps, UAT, or QA teams anywhere in the Scrum Guide.
 
 '''
-=== Scrum Pillars, Transparency and 'Done'
+=== Scrum Pillars, Transparency, and 'Done'
 
 [quote, 2020 Scrum Guide page 12]
 ____
 
-The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. 
+The Definition of Done creates transparency by providing everyone with a shared understanding of what work was completed as part of the Increment. 
 
 If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. 
 
 Instead, it returns to the Product Backlog for future consideration.
 ____
 
-Test takers often killed on this point, so pay attention.
+Test takers are often killed on this point, so pay attention.
 
-When a Product Backlog item is not completed during a Sprint, it is put back ito the Product Backlog.
+When a Product Backlog item is not completed during a Sprint, it is put back into the Product Backlog.
 
 - It's not presented at the Sprint Review
 - It is not 'partially presented' at the Sprint Review
@@ -226,18 +226,18 @@ ____
 
 If the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. 
 
-If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.
+If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriately for the product.
 ____
 
 Who creates the Definition of Done?
 
-It's created by the Scrum Team, unless there is already an existing orginzational standard.
+It's created by the Scrum Team unless there is already an existing organizational standard.
 
 If the Scrum Team wants to create a more rigorous Definition of Done, they are certainly allowed to do that, but under no circumstances 
 
 === Done Over Time
 
-One of the interesting things that happens with Scrum Teams as they become more familiar with the framework and the product they are building is they extend and enhance their Definition of Done. Over time, the Definition will likely become more rigorous, with more quality gates to pass than when the team first adopted Scrum.
+One of the interesting things that happen with Scrum Teams as they become more familiar with the framework and the product they are building is they extend and enhance their Definition of Done. Over time, the Definition will likely become more rigorous, with more quality gates to pass than when the team first adopted Scrum.
 
 ****
 Who creates the Definition of Done?
@@ -259,17 +259,17 @@ The Scrum Team creates a Definition of Done if an organizational standard does n
 ____
 The Developers are required to conform to the Definition of Done. 
 
-If there are multiple Scrum Teams working together on a product, they must mutually define and comply with the same Definition of Done.
+If multiple Scrum Teams are working together on a product, they must mutually define and comply with the same Definition of Done.
 ____
 
 There are only a few instances in the Scrum Guide where it discusses multiple teams working on the same project.
 
 The rules the Scrum Guide requires for multiple teams working on the same project are few, but you will be tested on all of them. Those rules demand that multiple Scrum Teams that work on the same project must:
 
-- Each share the same Product Owner
-- Each share the same Product Backlog
-- Each share the same Product Goal
-- Each share the same Definition of Done
+- Each shares the same Product Owner
+- Each shares the same Product Backlog
+- Each shares the same Product Goal
+- Each shares the same Definition of Done
 
 Also, teams may invite members from other teams to their Sprint Planning meeting.
 
@@ -283,12 +283,12 @@ There is nothing in the Scrum Guide that asserts multiple teams working on the s
 - Have the same number of team members
 - Have the same Scrum Master
 
-There will be a number of questions about multiple teams working on the same project on the certification exam, and those questions will provide options that seem reasonable but are incorrect.
+There will be several questions about multiple teams working on the same project on the certification exam, and those questions will provide options that seem reasonable but are incorrect.
 
-When answering questions in the the certification exam, focus on answers that map as closely as possible to what is in the Scrum Guide. Don't hunt for pragmatic answers. Hunt for correct answers.
+When answering questions in the certification exam, focus on answers that map as closely as possible to what is in the Scrum Guide. Don't hunt for pragmatic answers. Hunt for correct answers.
 
 ****
-What must shared between multiple teams working on the same product?
+What must share between multiple teams working on the same product?
 
 * [ ] The Product Owner
 * [ ] The Scrum Master
@@ -301,28 +301,14 @@ Options A and D are correct.
 
 Each Scrum team has its own Sprint Backlog.
 
-A Scrum Master can be shared between multiple teams, or a Scrum master can dedicate 100% of their time to one team. the Scrum Guide guide doesn't advise against either scenario.
+A Scrum Master can be shared between multiple teams, or a Scrum master can dedicate 100% of their time to one team. The Scrum Guide guide doesn't advise against either scenario.
 
 When multiple teams work on the same project together:
 
 - Each team shares the same Product Owner
-- Each team share the same Product Backlog
+- Each team shares the same Product Backlog
 - Each team shares the same Product Goal
 - Each team shares the same Definition of Done
 
+
 '''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
