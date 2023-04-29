@@ -11,7 +11,11 @@ title: "901 - Which of the following two actions shoul"
 
 [#query]
 --
-The Product Owner and the development team are at loggerheads over which Product Backlog items should be selected for the Sprint. The Product Owner wants the highest priority items completed, but the development team insists existing impediments make the highest priority ones impossible to start on. The development team has selected slightly lower priority items that can be completed this Sprint. The only thing the development team and the Product Owner have agreed upon is the Sprint Goal. What should the Scrum Master do?
+The Product Owner and the development team are at loggerheads over which Product Backlog items should be selected for the Sprint. 
+
+The Product Owner wants the highest priority items completed, but the development team insists existing impediments make the highest priority ones impossible to start on. 
+
+The development team has selected slightly lower priority items that can be completed this Sprint. The only thing the development team and the Product Owner have agreed upon is the Sprint Goal. What should the Scrum Master do?
 --
 
 [#list]

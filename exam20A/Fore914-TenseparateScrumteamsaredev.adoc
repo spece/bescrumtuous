@@ -11,7 +11,9 @@ title: "914 - What should the Scrum Master do Scrum Ma"
 
 [#query]
 --
-Ten separate Scrum teams are developing a very complex and integrated product. What role does the Scrum Master play in ensuring each team can successfully integrate their software together with other teams without merge conflicts or incompatible deployments?
+Ten separate Scrum teams are developing a very complex and integrated product. 
+
+What role does the Scrum Master play in ensuring each team can successfully integrate their software together with other teams without merge conflicts or incompatible deployments?
 --
 
 [#list]
