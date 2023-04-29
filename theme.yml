@@ -35,5 +35,23 @@ heading:
 
   h3-font-size: $base-font-size * 1.4
 
-
+header:
+  height: 0.55in
+  line-height: 1
+  recto:
+    right:
+      content: 'Scrum Master Cerficiation Guide by Darcy DeClute'
+  verso:
+    left:
+      content: 'Be @Scrumtuous.'
+footer:
+  background-image: image:running-content-bg-{page-layout}.svg[]
+  height: 0.55in
+  line-height: 1
+  recto:
+    right:
+      content: '{section-or-chapter-title} | {page-number}'
+  verso:
+    left:
+      content: '{page-number} | {section-or-chapter-title}'
   

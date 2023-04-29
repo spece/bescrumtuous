@@ -1,7 +1,9 @@
 = Scrum Certification Guide
-:media: prepress
-:doctype: book
 :toc:
+
+<<<
+
+image::images/white-dot.png[]
 
 <<<
 
