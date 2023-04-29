@@ -1,4 +1,7 @@
 extends: default-with-fallback-font
+cover:
+  front:
+    image: image:images/cover2.png[page=2]
 font:
   catalog:
     merge: true 

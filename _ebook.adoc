@@ -1,12 +1,7 @@
-
 = Scrum Certification Guide
 :media: prepress
 :doctype: book
 :toc:
-
-
-
-image::images/cover-page.png["Scrum Certification Guide. "]
 
 <<<
 
