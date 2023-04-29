@@ -1,5 +1,4 @@
 == Getting Started
-
 I’m going to get you Scrum Certified. I hope you’re ready.
 
 In the process we’re going to:

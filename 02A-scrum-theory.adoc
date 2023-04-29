@@ -18,10 +18,10 @@ Fundamentally, empiricism means using your six senses to understand the situatio
 
 In the context of Scrum, empiricism means understanding the situation you are in based on knowledge, experience, and verifiable facts.
 
-Empiricism also ties in tightly with the Scrum Pillars of transparency, inspection and adaptations. That is, if you can see exactly what is happening (transparency), you can honestly assess your progress (inspection) and based on this real knowledge, you can adapt. Empirical analysis of your current situation is more effective way to make decisions than is following a plan that was written up six months ago, or making decisions based on trendlines on a historical chart.
+Empiricism also ties in tightly with the Scrum Pillars of transparency, inspection and adaptations. That is, if you can see exactly what is happening (transparency), you can honestly assess your progress (inspection) and based on this real knowledge, you can adapt. 
 
-.Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
-image::images/bet-the-habs.png["There are many learning modalities. "]
+Empirical analysis of your current situation is more effective way to make decisions than is following a plan that was written up six months ago, or making decisions based on trendlines on a historical chart.
+
 
 === Empirical Example
 
@@ -37,11 +37,12 @@ You'll probably reduce your projection by 50 percent. That decision is based on 
 
 Lean thinking is also an important concept in Scrum. Avoid waste and embrace minimalist thinking when you're working on a project. That's Lean thinking.
 
+.Scrum development is iterative and each Sprint brings incremental progress. (Author: Lakeworks, GFDL1.2)
+image::images/bet-the-habs.png["There are many learning modalities. "]
+
 === Empiricism and Lean Thinking
 
 You are guaranteed to get two questions from this section on the Scrum Certification Exam. They are easy marks if you just understand what 'empiricism' and 'lean thinking' means.
-
-Here are two multiple-choice questions for you.
 
 ==== Test Yourself
 
@@ -54,9 +55,9 @@ Scrum theory emphasizes empiricism. That means a decision made by Scrum teams:
 * [ ] Should be driven by pragmatic speculation
 * [ ] Should be based on experience
 
-Options a, c, and d are correct.
-
 ****
+
+Options a, c, and d are correct.
 
 Empiricism is all about using your experience, your gained knowledge, and verifiable observations (which is sorta the same as 'experience') to make decisions.
 
@@ -66,7 +67,7 @@ Concepts like 'speculation' and 'assumptions' run counter to the concept of empi
 
 The term empiricism comes from the Greek word for experience: empeiria. The theory of empiricism attempts to explain how human beings acquire knowledge and improve their conceptual understanding of the world."
 
-https://www.techtarget.com/whatis/definition/empiricism
+- TechTarget WhatIs Definition, Empiricism
 
 '''
 
@@ -95,8 +96,6 @@ Empiricism and lean thinking lay the foundation for the Scrum Framework. Be comf
 
 
 '''
-
-<<<
 
 === Predictability and Risk
 
@@ -162,7 +161,9 @@ This question is silly to the extreme, but it makes a point.
 
 According to Scrum, all of the skills required to build a project under development exist on your team, or your team will take it upon themselves to acquire the skills needed.
 
-If your team outsources work to a third party, then the work in question is no longer within the control of the team, which means it is no longer part of the Scrum process. That's what the Scrum Guide means when it says "Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed."
+If your team outsources work to a third party, then the work in question is no longer within the control of the team, which means it is no longer part of the Scrum process. 
+
+That's what the Scrum Guide means when it says "Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed."
 
 '''
 
@@ -181,7 +182,6 @@ This statement is the source of the most commonly asked trick questions on the S
 
 - Which events happen after the Sprint finishes?
 - Which events happen before a Sprint begins?
-- Which events happen before or after a Sprint?
 - When a Sprint ends, when does the next Sprint begin?
 
 Scrum has four time-boxed events that happen within a fifth Scrum event known as a Sprint. Sprint Planning, the Daily Scrum, the Sprint Review, and the Sprint Retrospective all happen within the confines of a Sprint.
@@ -207,9 +207,6 @@ ____
 
 You will often get questions on the Scrum Certification exam about what the purpose of the Sprint Retrospective is or what the purpose of the Daily Scrum is. If any of the options include the terms 'inspect' or 'adapt', those will likely be the correct answers.
 
-.The three pillars of Scrum are transparency, inspection and adaptation.
-image::images/scrum-pillars.png["Three pillars of Scrum "]
-
 ==== Test Yourself
  
 ****
@@ -222,9 +219,7 @@ When does a new Sprint begin?
 * [ ] As soon as the previous Sprint ends
 ****
 
-Option E is correct.
-
-A new Sprint begins as soon as the previous Sprint ends.
+Option E is correct. A new Sprint begins as soon as the previous Sprint ends.
 
 Technically speaking, the last event in the Sprint is the Sprint Retrospective, and it is the end of this event marks the end of the Sprint. If we were to temporarily jump ahead 7 pages in the Scrum Guide, we'd see that stated in plain text.
 
@@ -235,6 +230,9 @@ ____
 
 
 '''
+
+.The three pillars of Scrum are transparency, inspection and adaptation.
+image::images/scrum-pillars.png["Three pillars of Scrum "]
 
 ==== Inspection and Adaption
 
