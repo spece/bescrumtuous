@@ -12,26 +12,32 @@ id: 145-6445b165221e893e31a49d08.
 
 [#query]
 --
-A cross functional team:
+Scrum can be applied to many disciplines, but its roots is in software development.
+
+Scrum expects teams to be cross-functional. To be cross functional on a software devleopment project, a Scrum Team:
 --
 
 [#list]
 --
-* [*] Will have the skills to work on multiple layers in the software stack
-* [*] Are skilled enough to develop components that require a diverse skillset
+* [*] Will have all the skills needed to work on multiple layers in the software stack
 * [ ] Will only work on specialized components that require a specific set of skills
 * [ ] Will specialize in one, specific layer in the software stack
+* [*] Has a diverse skillset that allows them to build and test components from end-to-end
 * [ ] Will write code and build applications, and then pass testing off to a specialized team.
 
 --
 ****
 
 [#answer]
-AB
+AD
 
 [#explanation]
 --
-A cross functional team will build a variety of different components that will operate on various layers in the software stack.
+A cross functional team in the software development domain will possess the skills to build and test components from end-to-end.
+
+A Scrum Team will not outsource Product Backlot items to an external third-party, and responsibilities like user acceptance testing, quality assurance and are done within the team. These tasks are not assigned to sub-teams or external teams. 
+
+The Scrum has the ability to implement Product backlog items from end-to-end. 
 
 "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint." -The Scrum Guide, page 5
 --
