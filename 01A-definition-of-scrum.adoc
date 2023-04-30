@@ -1,12 +1,12 @@
 == Getting Started
 I’m going to get you Scrum Certified. I hope you’re ready.
 
-In the process we’re going to:
+The process is going to go something like this:
 
- - Go through the whole 2020 Scrum Guide, one line at a time
- - Extract as much meaning as possible out of the Scrum Guide’s words
- - Discuss how ideas in the Scrum Guide translate into exam questions
- - Iteratively and incrementally test you on what you’ve learned
+ - We're going to go through the entire 2020 Scrum Guide together, one line at a time
+ - Together we'll extract as much meaning as possible out of the Scrum Guide’s words
+ - We'll discuss how ideas in the Scrum Guide translate into exam questions
+ - We'll iteratively and incrementally test you on what you’ve learned
 
 When you’ve finished this book, my goal is for you to be 100% ready to schedule and pass the Scrum Certification exam.
 
@@ -14,44 +14,33 @@ When you’ve finished this book, my goal is for you to be 100% ready to schedul
 
 Before you read too far ahead, let me recommend that you download and print out a couple of copies of the 2020 Scrum Guide.
 
-The Guide is only 13 pages long, and that includes the cover page, introduction, and table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
-
-Grab a marker and a highlighter as well and markup that printed copy of the Scrum Guide as we go along. It will seriously help you learn.
+The Scrum Guide is only 13 pages long, and that includes the cover page, introduction, and table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
 
 .Try to hit as many learning modalities as you can.
-image::images/modalities.png["There are many learning modalities. "]
+image::images/modalities.png["Hit as many learning modalities as you can."]
 
-There are many different 'learning modalities' help people learn.
+Grab a highlighter as well and markup that printed copy as we go along. It will seriously help you learn.
 
-- Reading a book is one modality. 
-- Watching videos online is popular too.
-- Attending lectures is a proven learning modality. 
-- The tactile experience of putting pen to paper is another. 
+=== Read the Scrum Guide
 
-Try and stimulate your learning in as many ways as you can.
+You should also read the Scrum Guide before you dig into the first chapter of this book. In fact, read it a couple of times. It behooves you to do so.
 
-<<<
+I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
 
-=== Before We Begin
+For example, the first paragraph in the Scrum talks about the Product Owner and Product Backlog items. Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
 
-There is one required prerequisite before you dig into this book.
+I don't like that. If you're going to bring up a topic, you should address it and describe it the first time it's mentioned. I don't like saying 'this is really, really important, but we'll cover that later.' If it's important, cover it now.
 
-For this book to make sense, you must have read the 13-page 2020 Scrum Guide at least once.
+Having said that, this certification guide dissects the Scrum Guide, one line at a time, from the beginning to the end. That forces me to follow the layout of the guide, despite the fact that if it was up to me, I would have written it a bit differently.
 
-This book is designed to give you a deeper understanding of the topics covered in the Scrum Guide, with the eventual goal of helping you get Scrum Certified.
+So please, read the Scrum Guide a few times before jumping deep into this book. That way you'll have a better idea of what phrases like 'the Sprint Goal' and 'a usable Increment' mean.
 
-However, this book assumes you have read the 2020 Scrum Guide at least once, hopefully twice.
+With that foundation, we'll be able to dig much deeper into the significance of these terms. Now let's get started with the Scrum Guide!
 
 .Try to hit as many learning modalities as you can.
-image::images/read-guide.png["There are many learning modalities. "]
+image::images/read-guide.png["Please read the Scrum Guide a few times. It's only 13 pages long. "]
 
-This book assumes you know the basic idea behind who a Scrum Master is, what a Product Backlog is, and the idea behind the Definition of Done. 
 
-We will often reference terms like 'Increment' or the 'Product Goal' because we assumed that you have read the Scrum Guide at least once and have some fundamental understanding of these concepts.
-
-But once you've given the 2020 Scrum Guide a read or two, you're ready to jump into this Scrum Certification guide and get yourself on the path to career advancement.
-
-Now let's get started with the Scrum Guide!
 
 === What is Scrum?
 
@@ -59,7 +48,7 @@ How would you define Scrum?
 
 To be successful on the Scrum Master Certification exam you have to commit to the Scrum Guide's definition of Scrum, which means abandoning many biases and misconceptions you may have adopted over years of hearing people talk about Scrum or seeing Scrum implemented in a less than pure manner.
 
-Here's the 2020 Scrum Guide's first sentence. How well does this definition of Scrum work with the way you previously perceived it? (And I say 'previously', because this is the definition you must commit to if you want to pass the Scrum Certification exam.)
+Here's the 2020 Scrum Guide's first sentence. How well does this definition of Scrum work with the way you previously perceived it? (And I say 'previously', because this is the definition you must 100% commit to right now if you want to pass the Scrum Master certification exam.)
 
 [quote, 2020 Scrum Guide page 3]
 ____
@@ -68,9 +57,6 @@ ____
 
 Given what you know about Scrum, and taking into account any experiences you've had with Scrum, how would you rate this definition?
 
-
-.The Scrum Framework provides a powerful strategy for product development. Just don't call it a process or methodology!
-image::images/scrum-incomplete.png
  
 
 [quote, 2020 Scrum Guide page 3]
@@ -166,6 +152,8 @@ The Guide very vaguely describes Scrum as a "lightweight framework that helps pe
 Any references to Scrum being a methodology, a process, or a framework that targets software development will always be a wrong answer on the Scrum Certification exam.
 
 '''
+
+<<<
 
 === Iterative and Incremental
 
