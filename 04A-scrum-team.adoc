@@ -292,10 +292,10 @@ Also notice that when multiple teams work on the same product, they share the sa
 ****
 Five Scrum Teams are working on the same product. Which of the following statements is not true?
 
-* [ ] Each team will share the same Product Owner
-* [ ] Each team will share the same Scrum Master
-* [ ] Each team will share the same Product Goal
-* [ ] Each team will share the same Product Backlog
+* [ ] Each team must share the same Product Owner
+* [ ] Each team must share the same Scrum Master
+* [ ] Each team must share the same Product Goal
+* [ ] Each team must share the same Product Backlog
 
 ****
 
