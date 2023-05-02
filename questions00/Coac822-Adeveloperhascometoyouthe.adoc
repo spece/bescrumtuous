@@ -11,9 +11,9 @@ title: "822 - A member of the Development Team takes t"
 
 [#query]
 --
-A developer has come to you, the Scrum Master, expressing concerns about the lax attitudes the team has towards data privacy and security. The developer believes there are serious security vulnerabilities in the existing code.
+A developer has come to you, the Scrum Master, expressing concerns about the lax attitudes the team has towards data privacy and security. The concerned developer believes there are serious security vulnerabilities in the existing code.
 
-How should the Scrum Master respond to a Development Team member expressing these concerns?
+How should the Scrum Master first respond to a Development Team member expressing such concerns?
 --
 
 [#list]
@@ -42,7 +42,9 @@ Agile Values: The Agile Manifesto emphasizes the importance of individuals and i
 
 Continuous Improvement: Agile methodologies emphasize continuous improvement, and this requires a culture of transparency and openness. By raising security concerns immediately, the Scrum Developer is contributing to this culture and encouraging the team to identify areas for improvement.
 
-Overall, discussing security concerns immediately with the development team is essential for maintaining a secure and efficient product development process. It helps to ensure that the team is aware of the issue, and encourages collaboration and problem-solving to find a solution quickly.
+If the developer does not feel comfortable discussing the issue with the team, that points to an even deeper problem with team dynamics, which is an impediment to transparency. This would be an impediment the Scrum Master would be interested in coaching around.
+
+
 --
 
 [#ka]
