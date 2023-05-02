@@ -180,18 +180,20 @@ The Scrum Master controls very little. Their only real job is to coach people on
 
 ****
 Which of the following descriptions is true?
+(Choose 2)
 
 * [ ] Scrum describes an iterative process
 * [ ] Scrum is an iterative framework
 * [ ] Scrum generates value by repeatedly delivering usable increments to the stakeholders
 * [ ] Scrum only allows stakeholders to inspect progress when the final product is delivered
 ****
+Options C and D are correct.
 
-Scrum describes a set of steps that are to be repeated iteratively. So Scrum is iterative. But it's an iterative framework, not an iterative process. So Option B is correct while Option A isn't.
+Scrum describes a set of steps that are to be repeated iteratively. So Scrum is iterative. But it's an iterative _framework_, not an iterative _process_. So Option B is correct while Option A isn't.
 
-Scrum is an incremental framework, which means it constantly tries to deliver something tangible and of value to the client at the end of every sprint. That way the stakeholders can regularly give feedback. If there's an issue, the Scrum team can then adapt.
+Scrum is also an incremental framework, which means it constantly tries to deliver something tangible and of value to the client at the end of every sprint. That way the stakeholders can regularly give feedback. If there's an issue, the Scrum team can then adapt.
 
-That's in stark contrast to what is known as the Waterfall model where the client gets a complete product at the end of development. So Option C is correct while Option D is wrong.
+That's in stark contrast to what is known as the Waterfall model where the client gets a complete product at the end of a long development cycle. So Option C is correct while Option D is wrong.
 
 '''
 
