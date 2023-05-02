@@ -7,7 +7,7 @@ These five questions will give you an idea of the scope and difficulty of these 
 
 
 
-
+image::images/focused-exam-progress02.png[]
 
 ==== Question 1
 --
