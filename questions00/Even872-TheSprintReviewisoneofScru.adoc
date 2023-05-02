@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "872 - What is the timebox for the Sprint Revie"
+id: 872-63effd4b9ebbe935e4c16aff.
 ---
 
 
 [#question]
-== 872-63effd4b9ebbe935e4c16aff.
+
 
 ****
 
 [#query]
 --
-The Sprint Review is one of Scrum's time-boxed events. What is the maximum amount of time a Sprint Review should last?
+The Sprint Review is one of Scrum's time-boxed events. According to the Scrum Guide, what is the maximum amount of time a Sprint Review should last?
 --
 
 [#list]
@@ -30,6 +31,17 @@ C
 
 [#explanation]
 --
+
+The Sprint Review should only last for 4 hours.
+
+You must know the maximum allowed time-box for each event in Scrum:
+
+- 15 minutes for the Daily Scrum
+- 3 hours for the Sprint Retrospective
+- 4 hours for the Sprint Review
+- 8 hours for Sprint Planning
+- One calendar month for a Sprint
+
 From the Scrum Guide: "The Sprint Review is the second to last event of the Sprint and is timeboxed to a maximum of four hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
 --
 

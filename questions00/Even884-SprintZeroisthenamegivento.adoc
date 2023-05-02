@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "884 - A properly functioning Scrum Team will h"
+id: 884-63effef09ebbe935e4c16b30.
 ---
 
 
 [#question]
-== 884-63effef09ebbe935e4c16b30.
+
 
 ****
 
 [#query]
 --
-Sprint Zero is the name given to the first Sprint in a project. The last Sprint is known as the Release Sprint.
+Sprint Zero is the name the Scrum Guide gives to the first Sprint in a project.
 --
 
 [#list]
@@ -27,8 +28,13 @@ B
 
 [#explanation]
 --
-There is no such thing as a Release Sprint, Integration Sprint or a Sprint Zero according to the Scrum Guide. These phrases on the Scrum Master Certification exam will almost always be red herrings that point to an incorrect answer.
+There is no such thing as a 'Sprint Zero' according to the Scrum Guide. 
 
+There is no such thing as a 'Release Sprint,' 'Integration Sprint' or an 'Infrastructure Sprint' according to the Scrum Guide. 
+
+These phrases on the Scrum Master Certification exam will almost always be red herrings that point to an incorrect answer.
+
+Scrum just has Sprints. And every Sprint must create a usable and valuable Increment of work. There are no Sprints in Scrum where you 'just set things up' or 'just get the infrastructure working.' 
 
 --
 
