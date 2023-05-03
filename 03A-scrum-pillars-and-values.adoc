@@ -9,6 +9,8 @@ The 'Scrum Pillars' don't constitute a specific catagory, but they frequently we
 
 Memorize the values and pay close attention to the pillars. They are key to passing the Scrum Certification exam.
 
+image::images/scrum-values-medall.jpg["The five Scrum values are: commitment, focus, openness, respect and courage."]
+
 === The Scrum Pillars
 
 We've already seen references to two of the Scrum Pillars in our discussion of the Scrum Guide:
@@ -33,15 +35,17 @@ It can't be emphasized enough. The three pillars of Scrum are:
 
 Everything that happens in Scrum harks back to these values and pillars. The question as to why a particular event happens or artifact is required typically harks back to the Scrum Pillars, with the Scrum values providing further support.
 
+<<<
+
 === Scrum Values
 
 The five Scrum values that support the Scrum Pillars are:
 
-- Commitment: The idea that a Scrum Team is made up of concientious and motivated developers who are dedicated to achieving the Product Goal
-- Focus: The idea that the Scrum Team concentrates at the work at hand and doesn't plan too far into the future 
-- Openness: The idea that developers work in a psychologically safe space where people can voice their opinion and share ideas without fear of reprisal
-- Respect: The idea you will treat people with dignity and compassion, while do the same in turn
-- Courage: The idea that a member of the Scrum Team will speak out against unethical practices or behaviors that put the project at risk
+- *Commitment:* The idea that a Scrum Team is made up of concientious and motivated developers who are dedicated to achieving the Product Goal
+- *Focus:* The idea that the Scrum Team concentrates at the work at hand and doesn't plan too far into the future 
+- *Openness:* The idea that developers work in a psychologically safe space where people can voice their opinion and share ideas without fear of reprisal
+- *Respect:* The idea you will treat people with dignity and compassion, while do the same in turn
+- *Courage:* The idea that a member of the Scrum Team will speak out against unethical practices or behaviors that put the project at risk
 
 Memorize the Scrum pillars and values, and don't confuse them with each other.
 
@@ -63,7 +67,6 @@ Options B and E are correct.
 The Scrum pillars are transparency, inspection, and adaptation.
 
 '''
-
 
 === Inspection
 
