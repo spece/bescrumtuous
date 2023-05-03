@@ -471,7 +471,7 @@ When should the Scrum Team add a new developer to the project?
 * [ ] When a new developer is required to maintain a sustainable pace of development
 ****
 
-Motivated developers will work hard to achieve the Sprint Goal and the Product Goal. But they should not be overworked.
+Motivated developers will work hard to achieve the Sprint Goal and the Product Goal.
 
 If developers are getting overworked and are no longer working at a sustainable pace, it is the organization's responsibility to hire new developers to help the team.
 
@@ -479,9 +479,9 @@ If developers are getting overworked and are no longer working at a sustainable 
 
 === Increments Must Be Valuable and Useful
 
-Every Sprint the Scrum Team must create an increment that is valuable and useful. 
+In every Sprint, the Scrum Team must create an increment that is valuable and useful. Well, they must try to. That is always the goal.
 
-That means you can't have an 'infrastructure sprint' that just gets things organized. 
+The implication of needing to create a valuable incrment during every single sprint is that you can't have an 'infrastructure sprint' that just gets things organized. There is no such thing as a 'Sprint Zero' in Scrum.
 
 Even if the increment is small and minor, each Sprint should try to create something that is valuable and will be used in the final product.
 
@@ -490,11 +490,14 @@ ____
 The entire Scrum Team is accountable for creating a valuable, useful Increment every Sprint.
 ____
 
-There are a couple of very important concepts nested in this sentence.
 
-First, every Sprint must create at least one valuable, useful Increment. Notice that an increment must be something 'useful.' The means simply setting up infrastructure doesn't count as a 'useful' Increment. The Increment must be useful in terms of the usability of the end product.
+Every Sprint must create at least one valuable, useful Increment. 
 
-Secondly, notice how the Guide says the entire team is responsible for the creation of at least one, valuable, useful increment each Sprint - not the Scrum Master, not the Product Owner, and not the developers alone, but the whole team is responsible for the creation of a useful increment.
+An increment must be something 'useful.' The means simply setting up infrastructure doesn't count as a 'useful' Increment. The Increment must be useful in terms of the usability of the end product.
+
+Furthermore, the Scrum Guide says the entire team is responsible for the creation of at least one, valuable, useful increment each Sprint - not the Scrum Master, not the Product Owner, and not the developers alone, but the whole team is responsible for the creation of a useful increment.
+
+<<<
 
 ==== Test Yourself
 
@@ -518,7 +521,7 @@ In this case, it's the last option: the Scrum Team as a whole.
 
 Scrum plays a few word games with the 'accountabilities' it defines.
 
-Notice that the Scrum Guide never mentions the term 'role' or 'job.' When it comes to the Developers, Product Owners, and Scrum Masters, it is very careful to use the much more abstract term 'accountability' as opposed to 'job' or 'role.' 
+The Scrum Guide never mentions the term 'role' or 'job.' When it comes to the Developers, Product Owners, and Scrum Masters, the Scrum Guide is very careful to use the much more abstract term 'accountability.'
 
 The term 'role' is not found in the 2020 Scrum Guide even once.
 
@@ -527,12 +530,12 @@ ____
 Scrum defines three specific accountabilities within the Scrum Team: the Developers, the Product Owner, and the Scrum Master.
 ____
 
-This sentence reiterates the opening paragraph of the section on the Scrum Team. Again, note that Scrum describes the developers, Scrum Master and Product Owner as accountabilities, not roles. The term 'role' is never mentioned in the Scrum Guide.
 
 ==== Test Yourself
 
 ****
 The Scrum Guide defines:
+(Select One)
 
 * [ ] 3 Roles
 * [ ] 4 Roles
@@ -540,7 +543,9 @@ The Scrum Guide defines:
 * [ ] 4 Accountabilities
 ****
 
-The answer to this question is C. Scrum defines 3 accountabilities, not roles.
+The answer to this question is C. 
+
+Scrum defines 3 accountabilities, not roles.
 
 '''
 
