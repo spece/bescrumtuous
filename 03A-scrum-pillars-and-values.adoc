@@ -3,15 +3,15 @@
 == Chapter 3 
 === Scrum Pillars and Values
 
-'Scrum values' is one of the 13 categories upon which your Scrum Certification exam is graded. It's an important topic.
+'Scrum values' is one of the 13 categories upon which your Scrum Certification exam is graded.
 
-The 'Scrum Pillars' often arise as answers to questions that ask why an event or artifact is important.
+The 'Scrum Pillars' don't constitute a specific catagory, but they frequently weave their way into answers about why a given event is taking place, or why a given Scrum artifacts is important.
 
 Memorize the values and pay close attention to the pillars. They are key to passing the Scrum Certification exam.
 
 === The Scrum Pillars
 
-We've already seen a reference to the Scrum Pillars in the Guide:
+We've already seen references to two of the Scrum Pillars in our discussion of the Scrum Guide:
 
 [quote, 2020 Scrum Guide page 3]
 ____
@@ -37,11 +37,11 @@ Everything that happens in Scrum harks back to these values and pillars. The que
 
 The five Scrum values that support the Scrum Pillars are:
 
-- Commitment
-- Focus
-- Openness
-- Respect
-- Courage
+- Commitment: The idea that a Scrum Team is made up of concientious and motivated developers who are dedicated to achieving the Product Goal
+- Focus: The idea that the Scrum Team concentrates at the work at hand and doesn't plan too far into the future 
+- Openness: The idea that developers work in a psychologically safe space where people can voice their opinion and share ideas without fear of reprisal
+- Respect: The idea you will treat people with dignity and compassion, while do the same in turn
+- Courage: The idea that a member of the Scrum Team will speak out against unethical practices or behaviors that put the project at risk
 
 Memorize the Scrum pillars and values, and don't confuse them with each other.
 
