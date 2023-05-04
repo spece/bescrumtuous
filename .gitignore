@@ -4,4 +4,6 @@ _site
 .jekyll-metadata
 .pdf
 *.pdf
+**/*.pdf
+**/focused/*.pdf
 vendor
