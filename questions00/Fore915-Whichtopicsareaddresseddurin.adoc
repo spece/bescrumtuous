@@ -1,7 +1,6 @@
 ---
 layout: default 
 title: "915 - Which answer best describes the topics c"
-[#question]
 id: 915-63efff879ebbe935e4c16b41.
 ---
 
