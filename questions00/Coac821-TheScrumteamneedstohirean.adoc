@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: "821 - You are the Scrum Master for four Scrum "
-== 821-63effb829ebbe935e4c16ab9
+id: 821-63effb829ebbe935e4c16ab9
 ---
 
 
