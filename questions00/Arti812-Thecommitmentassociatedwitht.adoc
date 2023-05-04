@@ -2,16 +2,19 @@
 layout: default 
 title: "812 - Which output from Sprint Planning provid"
 reviewedby: cm
+id: 812-63efffdd9ebbe935e4c16b4b.
 ---
 
 
 [#question]
-== 812-63efffdd9ebbe935e4c16b4b.
+
 
 ****
 
 [#query]
 --
+Every Scrum artifact is associated with a commitment.
+
 The commitment associated with the Sprint Backlog is:
 --
 
@@ -30,7 +33,9 @@ B
 
 [#explanation]
 --
-The output from Sprint Planning that the Development Team will use as their goal and general path of direction for the Sprint is the Sprint Goal. The Sprint Goal is the commitment associated with the Sprint Backlog.
+The output from Sprint Planning that the Development Team will use as their goal and general path of direction for the Sprint is the Sprint Goal. 
+
+The Sprint Goal is the commitment associated with the Sprint Backlog.
 --
 
 [#ka]
