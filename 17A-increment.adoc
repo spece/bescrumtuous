@@ -233,7 +233,7 @@ Who creates the Definition of Done?
 
 It's created by the Scrum Team unless there is already an existing organizational standard.
 
-If the Scrum Team wants to create a more rigorous Definition of Done, they are certainly allowed to do that, but under no circumstances 
+If the Scrum Team wants to create a more rigorous Definition of Done, they are certainly allowed to do that, but it must build on top of the one the company already has. It cannot be more lax.
 
 === Done Over Time
 
