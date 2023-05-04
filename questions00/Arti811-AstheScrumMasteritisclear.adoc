@@ -1,25 +1,27 @@
 ---
 layout: default 
 title: "811 - When it is appropriate to update the Spr"
+id: 811-63efff599ebbe935e4c16b3c.
 ---
 
 
 [#question]
-== 811-63efff599ebbe935e4c16b3c.
 
 ****
 
 [#query]
 --
-As the Scrum Master it is clear to you that the Sprint Goal is not going to be reached if the Sprint Backlog isn't adjusted, and new items aren't added. In Scrum, who has the right to add items to the Sprint Backlog?
+As the Scrum Master it is clear to you that the Sprint Goal is not going to be reached if the Sprint Backlog isn't adjusted, and new items aren't added. 
+
+In Scrum, who has the right to add items to the Sprint Backlog?
 --
 
 [#list]
 --
-* [ ] A. The Product Owner, as they are responsible for prioritizing the Product Backlog.
-* [*] B. The Development Team, as they own the Sprint Backlog.
-* [ ] C. The Scrum Master if the change needs to be made to keep the Sprint Goal in focus.
-* [ ] D. Both the Scrum Master and members of the Development Team can add or remove items from the Sprint Backlog.
+* [ ] A. The Product Owner prioritizes Product Backlog items and has the authority to add items to the Sprint Backlog.
+* [*] B. The Development Team own the Sprint Backlog and can add items to it any time during the Sprint.
+* [ ] C. Both the Scrum Master and Developers can add to the Sprint Backlog if  change needs to be made to keep the Sprint Goal in focus.
+* [ ] D. Anyone on the Scrum Team can add or remove items from the Sprint Backlog.
 
 --
 ****
@@ -29,9 +31,9 @@ B
 
 [#explanation]
 --
-The development team has full control over the Sprint Backlog during a Sprint. Only the development team has the authority to add or remove items from the Sprint backlog.
+The development team has full control over the Sprint Backlog. Only the development team has the authority to add or remove Sprint Backlog items.
 
-Anyone can discuss the Sprint Backlog with the development team and relay any concerns with them, but it is the development team that has the final say.
+Anyone can discuss the Sprint Backlog with the development team and relay any concerns to them, but it is the development team that has the final say.
 --
 
 [#ka]
