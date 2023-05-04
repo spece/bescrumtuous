@@ -1,1 +1,1 @@
-include::../questions00/Even872-TheSprintReviewisoneofScru.adoc
+include::../questions00/Even872-TheSprintReviewisoneofScru.adoc[]

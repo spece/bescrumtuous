@@ -1,1 +1,1 @@
-include::../questions00/Self987-Whatisthebestwaytodividea.adoc
+include::../questions00/Self987-Whatisthebestwaytodividea.adoc[]

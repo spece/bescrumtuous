@@ -1,1 +1,1 @@
-include::../questions00/Team956-Whataretwokeycharacteristics.adoc
+include::../questions00/Team956-Whataretwokeycharacteristics.adoc[]

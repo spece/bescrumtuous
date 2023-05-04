@@ -1,1 +1,1 @@
-include::../questions00/Even888-AccordingtotheScrumframework.adoc
+include::../questions00/Even888-AccordingtotheScrumframework.adoc[]

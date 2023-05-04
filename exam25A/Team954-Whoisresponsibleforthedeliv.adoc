@@ -1,1 +1,1 @@
-include::../questions00/Team954-Whoisresponsibleforthedeliv.adoc
+include::../questions00/Team954-Whoisresponsibleforthedeliv.adoc[]

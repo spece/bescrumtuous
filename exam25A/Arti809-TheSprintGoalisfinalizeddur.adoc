@@ -1,1 +1,1 @@
-include::../questions00/Arti809-TheSprintGoalisfinalizeddur.adoc
+include::../questions00/Arti809-TheSprintGoalisfinalizeddur.adoc[]

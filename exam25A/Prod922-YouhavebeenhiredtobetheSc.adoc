@@ -1,1 +1,1 @@
-include::../questions00/Prod922-YouhavebeenhiredtobetheSc.adoc
+include::../questions00/Prod922-YouhavebeenhiredtobetheSc.adoc[]

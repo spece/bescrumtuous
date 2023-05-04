@@ -1,1 +1,1 @@
-include::../questions00/Prod950-WhatactionsshouldanewScrum.adoc
+include::../questions00/Prod950-WhatactionsshouldanewScrum.adoc[]

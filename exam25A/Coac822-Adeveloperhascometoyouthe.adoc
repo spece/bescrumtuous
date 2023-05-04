@@ -1,1 +1,1 @@
-include::../questions00/Coac822-Adeveloperhascometoyouthe.adoc
+include::../questions00/Coac822-Adeveloperhascometoyouthe.adoc[]

@@ -1,1 +1,1 @@
-include::../questions00/Faci896-WhattechniquescanaScrumMast.adoc
+include::../questions00/Faci896-WhattechniquescanaScrumMast.adoc[]
