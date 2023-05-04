@@ -82,7 +82,7 @@ So, when should you integrate your work into the existing product?
 - During the Sprint Retrospective?
 - Right now?
 
-Of course 'right now' is the right answer. If you've got the perfect door ready to be put on your new house's hinges, you don't sit for two weeks waiting for the Sprint Review to do it. You integrate it right away. It would be nuts to imagine waiting two weeks to hand the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
+Of course 'right now' is the right answer. If you've got the perfect door ready to be put on your new house's hinges, you don't sit for two weeks waiting for the Sprint Review to do it. You integrate it right away. It would be nuts to imagine waiting two weeks to hang the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
 
 As soon as your work is done you integrate your work into the product. Then you move on to the next piece of work that needs to be done.
 
