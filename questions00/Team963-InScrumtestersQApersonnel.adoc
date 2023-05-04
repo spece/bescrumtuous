@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "963 - True or False Crossfunctional teams are "
+id: 963-63effccb9ebbe935e4c16aef.
+
 ---
 
 
 [#question]
-== 963-63effccb9ebbe935e4c16aef.
 
 ****
 
@@ -27,7 +28,7 @@ A
 
 [#explanation]
 --
-Everyone one on a Scrum Team that is contributing towards building out Product Backlog Items and helping to meet the Definition of Done are considered developers.
+Everyone one on a Scrum Team that is contributing towards building out Product Backlog items and helping to meet the Definition of Done are considered developers.
 --
 
 [#ka]

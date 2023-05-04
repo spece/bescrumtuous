@@ -13,12 +13,12 @@ id: 804-63effbba9ebbe935e4c16ac1.
 
 [#query]
 --
-What is the purpose of the Sprint Backlog, and what is its composition?
+According to the Scrum Guide, what is the purpose of the Sprint Backlog, and what is its composition?
 --
 
 [#list]
 --
-* [ ] A. Each task in the Sprint Backlog is estimated in either hours or points.
+* [ ] A. The Sprint Backlog is designed to help user stories get estimated in either hours or story points.
 * [*] B. The Sprint Backlog is a list of all work the team hopes to complete in the current Sprint.
 * [ ] C. The Sprint Backlog is a list of all work the team hopes to complete in the next Sprint. 
 * [*] D. The Sprint Backlog is the Development Team's actionable plan for the Sprint.
@@ -49,6 +49,8 @@ The Sprint Goal (Why): The Sprint Goal is a high-level objective that the develo
 The Product Backlog Items (What): The Product Backlog Items (PBIs) are the individual user stories, features, or other work items that have been selected for the sprint. They are taken from the Product Backlog and broken down into specific tasks that can be completed during the sprint.
 
 An actionable plan to deliver the Sprint (How)
+
+Remember why, what and how!
 --
 
 [#ka]

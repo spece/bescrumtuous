@@ -12,7 +12,7 @@ id: 832-63effb469ebbe935e4c16ab1.
 
 [#query]
 --
-What are the three primary objectives served by the Definition of Done (DoD)?
+What are the primary objectives served by the Definition of Done (DoD)?
 --
 
 [#list]
