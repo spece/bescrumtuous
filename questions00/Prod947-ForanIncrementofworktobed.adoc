@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "947 - When does Scrum say a new increment of w"
+id: 947-63effdce9ebbe935e4c16b0e.
 ---
 
 
 [#question]
-== 947-63effdce9ebbe935e4c16b0e.
+
 
 ****
 
@@ -30,7 +31,7 @@ ADE
 
 [#explanation]
 --
-An Increment must be both valuable and usable and compatible with all past increments.
+An Increment must be both valuable, usable, additive and compatible with all past increments.
 --
 
 [#ka]

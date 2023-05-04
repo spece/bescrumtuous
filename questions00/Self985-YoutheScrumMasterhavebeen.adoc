@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "985 - What are three benefits of selforganizat"
+id: 985-63effa4c9ebbe935e4c16a94.
 ---
 
 
 [#question]
-== 985-63effa4c9ebbe935e4c16a94.
+
 
 ****
 
@@ -18,17 +19,17 @@ How would you proceed as a Scrum Master? (Choose 2)
 
 [#list]
 --
-* [ ] A. Extend the Sprint a week to allow QA to complete their work.
+* [ ] A. Extend the Sprint a week to allow QA team to complete their work.
 * [*] B. Investigate why the Scrum Team does not have all the cross-functional skills to achieve the Definition of Done without an external QA team
 * [ ] C. Remove QA work from the Definition of Done for this Sprint.
-* [ ] D. Explain to the organization that Scrum is not designed to manage the work performed by people external to the Scrum Team.
+* [*] D. Explain to the organization that Scrum is not designed to manage the work performed by people external to the Scrum Team.
 * [ ] E. Turn the next Sprint into a 'Performance and Security' sprint and focus on these two non-functional aspects of the code.
 
 --
 ****
 
 [#answer]
-B
+BD
 
 [#explanation]
 --

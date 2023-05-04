@@ -1,22 +1,26 @@
 ---
 layout: default 
 title: "965 - What is a good first questionfor you to "
+id: 965-63effceb9ebbe935e4c16af3.
 ---
 
 
 [#question]
-== 965-63effceb9ebbe935e4c16af3.
+
 
 ****
 
 [#query]
 --
+
+Self-organization and self-management are two important attributes of a Scrum Team.
+
 What is most important criteria for developers to think about when they self-organize into development teams?
 --
 
 [#list]
 --
-* [ ] A. Does each team have a strong team lead?
+* [ ] A. Does each team have a strong and competent team lead?
 * [ ] B. Is there a good balance of senior and junior developers?
 * [ ] C. Will each team be able to form a sub-group for QA and testing?
 * [*] D. Will the team have the cross-functional skills needed to build the product?

@@ -11,15 +11,15 @@ title: "930 - Which two activities will a Product Owne"
 
 [#query]
 --
-Which of the following is true about the Product Owner?
+According to the Scrum Guide, which two of the following statements is true about the Product Owner?
 --
 
 [#list]
 --
-* [*] A. The Product Owner may delegate the creation of Product Backlog Items to an associate
-* [ ] B. The Product Owner may be a committee or collection of individuals who perform the role.
+* [*] A. The Product Owner may delegate the creation of Product Backlog Items to an associate.
+* [ ] B. The Product Owner may be a committee or collection of individuals who collaboratively perform the role.
 * [*] C. The organization must fully respect and trust the independent decisions of the Product Owner.
-* [ ] D. The Product Owner should coaching the developers in self-management and cross-functionality.
+* [ ] D. The Product Owner should coach the developers in self-management and cross-functionality.
 * [ ] E. The Product Owner must attend and participate in the Daily Scrum.
 
 --

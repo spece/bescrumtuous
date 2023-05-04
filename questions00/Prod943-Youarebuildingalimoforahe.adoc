@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "943 - What are two good ways for a Scrum Team "
+id: 943-63effcbb9ebbe935e4c16aec.
 ---
 
 
 [#question]
-== 943-63effcbb9ebbe935e4c16aec.
+
 
 ****
 
 [#query]
 --
-You are building a limo for a head of state, and security and protection of the occupant are two important non-functional requirements that must be prioritized at every step in the development process. 
+You are building a limo for a head of state, and security and protection of the occupant are two important, non-functional requirements that must be prioritized at every step in the development process. 
 
 What is the best way to ensure security and protection of the occupant are prioritized?
 --
@@ -36,7 +37,7 @@ We don't outsource work in Scrum, nor do we create sub-teams.
 
 From the Scrum Guide: "Scrum Teams are cross-functional, meaning the members have all the skills necessary to create value each Sprint. Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal."
 
-In Scrum, we deal with non-functional requirements by either adding Product Backlog Items that address these concerns, and we add non-functional criteria to the Definition of Done.
+In Scrum, we deal with non-functional requirements by either adding Product Backlog Items that address these concerns, or we add non-functional criteria to the Definition of Done.
 --
 
 [#ka]

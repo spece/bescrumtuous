@@ -1,16 +1,19 @@
 ---
 layout: default 
 title: "958 - A new developer is having continuing con"
+id: 958-63effb3c9ebbe935e4c16ab0.
 ---
 
 
 [#question]
-== 958-63effb3c9ebbe935e4c16ab0.
+
 
 ****
 
 [#query]
 --
+Sometimes a team has too many developers. Other times a developer just might not be the right fit on a development team.
+
 Who has the power to remove an underperforming developer from a Scrum team?
 --
 

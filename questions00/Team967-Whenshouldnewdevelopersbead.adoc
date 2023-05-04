@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "967 - How often should Development Team member"
+id: 967-63effeac9ebbe935e4c16b28.
 ---
 
 
 [#question]
-== 967-63effeac9ebbe935e4c16b28.
+
 
 ****
 
@@ -33,7 +34,7 @@ A new developer can be added to a project at any point in time. There is no rule
 
 Sustainable development is an important Agile principle. Developers should always be challenged and motivated, but they should never be overworked. If a new developer needs to be added to the team to maintain sustainable developer, then add them. 
 
-Just keep in mind that onboarding will sometimes reduce the team's productivity, as training and orientation for the new hire will likely occupy some of your developer's time.
+Just keep in mind that onboarding will sometimes reduce the team's productivity in the short-term, as training and orientation for the new hire will likely occupy some of your developer's time.
 --
 
 [#ka]
