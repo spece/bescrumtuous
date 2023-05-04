@@ -2,17 +2,20 @@
 layout: default 
 title: "807 - A Sprint Retrospective should be held Ch"
 reviewedby: cm
+id: 807-63effc789ebbe935e4c16ae1.
 ---
 
 
 [#question]
-== 807-63effc789ebbe935e4c16ae1.
+
 
 ****
 
 [#query]
 --
+
 According to the Scrum Guide, when does a Sprint Retrospective take place?
+
 --
 
 [#list]
@@ -31,6 +34,8 @@ D
 [#explanation]
 --
 A Sprint Retrospective is the last Scrum Event to take place in the Sprint. It takes place after the Sprint Review.
+
+All Scrum events happen within the boundaries of a Sprint. No events take place between Sprints in Scrum.
 
 "The Sprint Retrospective concludes the Sprint. It is timeboxed to a maximum of three hours for a one-month Sprint. For shorter Sprints, the event is usually shorter."
 --
