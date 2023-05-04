@@ -6,5 +6,6 @@ _site
 *.pdf
 **/*.pdf
 **/pdf/*.pdf
+/pdf/*.*
 **/focused/*.pdf
 vendor
