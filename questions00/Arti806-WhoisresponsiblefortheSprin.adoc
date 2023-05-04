@@ -13,12 +13,12 @@ id: 806-63effc659ebbe935e4c16ade.
 
 [#query]
 --
-Who is responsible for the Sprint Backlog?
+According to the Scrum Guide, is responsible for managing and maintaining the Sprint Backlog after the Sprint Planning meeting comes to an end?
 --
 
 [#list]
 --
-* [ ] A. The Scrum Team.
+* [ ] A. The Scrum Team as a whole.
 * [ ] B. The Product Owner.
 * [*] C. The Developers on the Scrum Team.
 * [ ] D. The Scrum Master.
