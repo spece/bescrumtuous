@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "865 - Who can abnormally terminate a Sprint Sc"
+id: 865-63effcaa9ebbe935e4c16ae9.
 ---
 
 
 [#question]
-== 865-63effcaa9ebbe935e4c16ae9.
+
 
 ****
 
@@ -31,7 +32,9 @@ C
 --
 The Daily Scrum is time boxed to 15 minutes, not 30 minutes.
 
-From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings."
+From the Scrum Guide: "The Daily Scrum is a 15-minute event for the Developers of the Scrum Team. 
+
+Daily Scrums improve communications, identify impediments, promote quick decision-making, and consequently eliminate the need for other meetings."
 --
 
 [#ka]

@@ -20,7 +20,7 @@ Under which circumstance can the Scrum Master extend the length of the Sprint on
 * [ ] A. The Sprint can be extended equal to the number of days a Product Owner is absent
 * [ ] B. The Sprint can be extended equal to the number of holidays that occurred during the Sprint
 * [ ] C. The Spring length can be changed any time prior to the end of the Sprint Planning meeting
-* [*] D. The Spring length cannot be changed after it has been started
+* [*] D. The Spring length cannot be changed after a Spring has been started
 
 
 --
@@ -33,7 +33,8 @@ D
 --
 Once a Sprint has started, the Sprint length cannot be changed.
 
-If the team wants to change the length of Sprints that is possible, but doing so should be discussed in a Scrum event, agreed upon by the team, and not arbitrarily decided by the Scrum Master. 
+Changes to the length of the Sprint should be agreed upon by the consensus of the team. The best time to discuss changing the length of the Sprint is during the Sprint Retrospective. Any changes made to the Sprint length during a Spring would  apply only to future Sprints, not the current Sprint.
+
 --
 
 [#ka]

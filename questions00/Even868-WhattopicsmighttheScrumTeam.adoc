@@ -11,7 +11,11 @@ title: "868 - Which of the following might the Scrum T"
 
 [#query]
 --
-What topics might the Scrum Team address during a Sprint Retrospective?
+
+Teams sometimes struggle to come up with items to discuss during the Sprint Retrospective.
+
+Which of the following topics and issues would be worthwhile for a Scrum Team to discuss during a Sprint Retrospective?
+
 --
 
 [#list]
