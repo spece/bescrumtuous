@@ -1,17 +1,20 @@
 ---
 layout: default 
 title: "906 - The Development Team should have all the"
+id: 906-63effafb9ebbe935e4c16aa8.
 ---
 
 
 [#question]
-== 906-63effafb9ebbe935e4c16aa8.
+
 
 ****
 
 [#query]
 --
-What are the skills and capabilities the Scrum Development Team should have in order to ensure effective performance throughout the Sprint?
+
+What are the skills and capabilities the Developers on the Scrum Team should have in order to ensure effective performance throughout the Sprint?
+
 --
 
 [#list]
@@ -31,11 +34,18 @@ A
 --
 The Scrum Development team must be able to decompose a PBI and create as many Increments of Work that are necessary to complete the PBI and make the item ready for release.
 
-A Product Backlog Item (PBI) is a high-level user story or requirement that represents a feature, function, or other unit of work that needs to be delivered in order to meet the product's goals. Decomposing a PBI means breaking it down into smaller, more manageable pieces of work that can be completed by the Scrum development team during a sprint.
+A Product Backlog Item (PBI) is often very _high-level_ description of a feature or a function. The Product Owner will know what they want, but they won't always know how to 'get there.' 
 
-The process of decomposing a PBI involves analyzing it in more detail, identifying the sub-tasks, dependencies, and other factors involved, and then creating smaller PBIs that can be individually prioritized, estimated, and worked on by the team. This allows the team to better understand the requirements of the PBI and the work involved, which in turn helps with planning and delivering the work effectively.
+For example, maybe a Product Owner wants to build a house. They are unlikely to have anything in the Product Backlog about pouring a foundation or connecting to the main sewage line. Those are details the Scrum Developers will have to flush out as they decompose the Product Backlog items.
 
-Decomposition is an ongoing process throughout the Scrum framework. As the team progresses through the sprint, they may discover additional details or dependencies that require further decomposition of PBIs, or they may need to adjust their plan based on feedback from stakeholders or changes in the product's requirements. By continually decomposing PBIs, the team can ensure they have a clear understanding of the work involved and can prioritize, estimate, and deliver the product backlog items more effectively.
+Decomposing a PBI means breaking it down into smaller, more manageable pieces of work that can be completed by the Scrum development team during a Sprint. The goal is to decompose Product Backlog items down into units of work that can be accomplished in a single day.
+
+The process of decomposing a PBI involves analyzing it in more detail, identifying the sub-tasks, dependencies, and other factors involved, and then creating smaller Product Baclkog items that can be individually prioritized, estimated, and worked on by the team. This allows the team to better understand the requirements of the PBI and the work involved, which in turn helps with planning and delivering the work effectively.
+
+Decomposition is an ongoing process throughout the Scrum framework. 
+
+As the team progresses through the Sprint, they may discover additional details or dependencies that require further decomposition of Product Baclkog items, or they may need to adjust their plan based on feedback from stakeholders or changes in the product's requirements. By continually decomposing Product Baclkog items, the team can ensure they have a clear understanding of the work involved and can prioritize, estimate, and deliver the product backlog items more effectively.
+
 --
 
 [#ka]
