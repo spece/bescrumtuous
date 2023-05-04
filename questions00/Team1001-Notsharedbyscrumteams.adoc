@@ -1,0 +1,53 @@
+---
+layout: default 
+title: "969 - What are three things to consider when d"
+---
+
+
+[#question]
+== 969-63effecf9ebbe935e4c16b2c.
+
+****
+
+[#query]
+--
+If multiple Scrum Teams are working on the same product, which of the following are not shared between teams?
+--
+
+[#list]
+--
+* [ ] A. The Scrum Master
+* [*] B. The Product Owner
+* [*] C. The Product Goal
+* [ ] D. The Sprint Goal
+* [ ] E. The Sprint Backlog
+* [*] F. The Definition of Done
+* [ ] G. The Definition of Ready
+
+--
+****
+
+[#answer]
+BCF
+
+[#explanation]
+--
+When multiple Scrum Teams work on the development of the same product, they share the same:
+
+- Product Owner
+- Product Goal
+- Definition of Done
+
+Each team has its own Sprint Backlog. The Sprint Goal is part of the Sprint Backlog.
+
+The Scrum Master may or may not be shared. The Scrum Guide neither recommends or forbids it.
+
+There is no such thing as the 'Definition of Ready' in Scrum.
+
+--
+
+[#ka]
+Scrum Team
+
+'''
+

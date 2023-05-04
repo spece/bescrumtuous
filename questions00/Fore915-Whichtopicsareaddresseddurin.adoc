@@ -11,7 +11,9 @@ title: "915 - Which answer best describes the topics c"
 
 [#query]
 --
-Which topics are addressed during Sprint Planning?
+Sprint Planning is the first of the time-boxed events to happen during the Spring.
+
+According to the Scrum Guide, which topics are to be addressed by the Scrum Team during Sprint Planning?
 --
 
 [#list]
@@ -19,8 +21,8 @@ Which topics are addressed during Sprint Planning?
 * [*] A. Who on the team will be assigned various Product Backlog items?
 * [*] B. Why is the Sprint valuable?
 * [*] C. What can be done during the Sprint?
-* [ ] D. Why were certain Sprint Backlog items not complete last Sprint?
-* [ ] E. When infrastructure required for deployment will be ready
+* [ ] D. Why were certain Sprint Backlog items not completed in the prior Sprint?
+* [ ] E. When will infrastructure required for deployment will be ready?
 
 --
 ****
@@ -35,6 +37,7 @@ According to the Scrum Guide, a Sprint Planning meeting addresses these three qu
 - Why is this Sprint valuable?
 - What can be Done this Sprint?
 - How will the chosen work get done?
+
 --
 
 [#ka]

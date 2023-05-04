@@ -1,26 +1,29 @@
 ---
 layout: default 
 title: "908 - Who determines how work is performed dur"
+id: 908-63effc019ebbe935e4c16acd.
 ---
 
 
 [#question]
-== 908-63effc019ebbe935e4c16acd.
+
 
 ****
 
 [#query]
 --
-Whose responsibility is it to decompose long, epic, Product Backlog Items into work items that should take a day or less to complete?
+The Product Owner often has no idea how complicated or complex a Product Backlog item will be to build.
+
+Whose responsibility is it to decompose long, epic, Product Backlog items into work easily digestible work items that should take a day or less to complete?
 --
 
 [#list]
 --
 * [ ] A. The Business Analysts
-* [ ] B. The Product Onwer
+* [ ] B. The Product Owner
 * [ ] C. The Scrum Master.
-* [ ] D. The Team Leat
-* [*] E. The Development Team
+* [ ] D. The Team Lead
+* [*] E. The Developers on the team
 
 --
 ****
@@ -30,7 +33,7 @@ E
 
 [#explanation]
 --
-Breaking Product Backlog Items into smaller work items is the job of the development team.
+Breaking Product Backlog Items into smaller work items is the job of the developers on the team.
 
 "For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. 
 

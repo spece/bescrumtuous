@@ -1,11 +1,12 @@
 ---
 layout: default 
-title: "930 - Which two activities will a Product Owne"
+title: "930 - Which two activities will a Product Owner"
+id: 930-63effcf29ebbe935e4c16af4.
 ---
 
 
 [#question]
-== 930-63effcf29ebbe935e4c16af4.
+
 
 ****
 

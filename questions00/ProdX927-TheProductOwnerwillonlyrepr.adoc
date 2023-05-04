@@ -12,7 +12,7 @@ id: 927-63effbe79ebbe935e4c16ac9.
 
 [#query]
 --
-The Product Owner will only represent one set of stakeholders at a time.
+The Product Owner will only ever represent one set of stakeholders at a time.
 --
 
 [#list]
