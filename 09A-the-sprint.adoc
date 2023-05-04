@@ -24,22 +24,25 @@ ____
 
 Sometimes the Scrum Certification exam will ask you when it's possible to change the length of a Sprint.
 
-The temptation is to say 'during Sprint planning,' but Sprint planning happens during the Sprint, so if you were to change the duration of the Sprint, it would be the length of the next Sprint you'd be changing, not the current one.
+The temptation is to say 'during Sprint planning,' but Sprint planning happens during the Sprint, so if you were to change the duration of the Sprint during Sprint Planning, it would be the length of the next Sprint you'd be changing, not the current one.
 
-So the discussion about the length of the Sprint and whether the Sprint should be shortened or extended are best to take place during the Sprint Retrospective. That way if you do decide to change the Sprint length, the change can apply to the Sprint that starts after the Retrospective finishes.
+Discussions about the length of the Sprint and whether the Sprint should be shortened or extended are best to take place during the Sprint Retrospective. That way if you do decide to change the Sprint length, the change can apply to the Sprint that starts after the current Retrospective finishes.
 
 Having said that, the length of the Sprint shouldn't be changed too often. It should remain relatively consistent throughout the project.
 
 === One Month or Less
 
-The other key point here is the fact that a Sprint is a month or less.
+Another key point here is the fact that a Sprint is a month or less.
 
 - It's not 28 days
+- It's not 30 days
 - It's not 4 weeks
 
 The length of a Sprint is one month or less. 
 
 You'll be tested on that, so commit it to memory.
+
+<<<
 
 === The Start of the Sprint
 
@@ -67,9 +70,9 @@ First, there is no such thing as 'Sprint Zero' as far as the Scrum Guide goes.
 
 - There are no Release Sprints in Scrum
 - There are no UAT Sprints in Scrum
-- There is no QA Sprints in Scrum
+- There are no QA Sprints in Scrum
 - There are no Infrastructure Sprints in Scrum
-- There is no Sprint Zero in Scrum
+- There are no Sprint Zeros in Scrum
 
 Whenever you see the term 'Sprint Zero' on the Scrum Master Certification exam, it's usually a red herring.
 
@@ -85,9 +88,9 @@ True or false: A Sprint can be any length a team decides is best, so long as it 
 
 This is true.
 
-The Scrum Guide does not specify the minimum length of a Sprint, and when the Scrum Guide doesn't explicitly define something, then it's up to Scrum Teams to figure things out for themselves.
+The Scrum Guide doesn't specify the minimum length of a Sprint. When the Scrum Guide doesn't explicitly define something, it's up to the Scrum Teams to figure things out for themselves.
 
-I could not imagine fitting a Sprint Planning meeting, Sprint Retrospective, and Sprint Review into a 24-hour Sprint, but nothing in the Scrum Guide forbids it.
+I couldn't imagine fitting a Sprint Planning meeting, Sprint Retrospective, and Sprint Review into a 24-hour Sprint, but nothing in the Scrum Guide forbids it.
 
 '''
 
@@ -106,7 +109,8 @@ During the Sprint:
 - The Product Backlog is refined as needed; and,
 - Scope may be clarified and renegotiated with the Product Owner as more is learned.
 ____
-However, some things that should not change during the Sprint::
+
+Here are two things that are not allowed to change during the Sprint:
 
 1. No changes are made that put the Sprint Goal at risk
 2. No changes are made to decrease the quality of the existing product
@@ -117,15 +121,15 @@ The Scrum Guide doesn't have many hard and fast rules, but those are two of them
 
 ****
 
-During development, the Scrum Team has found a Product Backlog Item is much more complex than initially anticipated.
+During development, the Scrum Team has found a selected Product Backlog item is much more complex than initially anticipated.
 
 The developers believe this PBI should be broken into multiple Product Backlog Items that should be scheduled across multiple Sprints.
 What should you as the Scrum Master do?
 
-* [ ] Have the Scrum Developers clarify the requirements and renegotiate the scope of the Product Backlog Items with the PO
-* [ ] Expand the length of the Sprint so the Development team can complete the complex Product Backlog Items
-* [ ] Break the Product Backlog Item into multiple PBIs and add them to the Product Backlog
-* [ ] Rewrite the User Story so the work related to the Product Backlog Item can be completed within the current Sprint
+* [ ] Have the Scrum Developers clarify the requirements and renegotiate the scope of the Product Backlog items with the PO
+* [ ] Expand the length of the Sprint so the Development team can complete the complex Product Backlog items
+* [ ] Break the Product Backlog item into multiple PBIs and add them to the Product Backlog
+* [ ] Rewrite the user story so the work related to the Product Backlog Item can be completed within the current Sprint
 
 ****
 
@@ -137,7 +141,7 @@ Sprints are a fixed length, so they can't ever be extended, which makes B incorr
 
 The Scrum Master can never add items to the Sprint Backlog or the Product Backlog, so C is incorrect.
 
-And the Scrum Guide makes zero references to User Stories, so any talk of User Stories on the Scrum Master Certification Exam will likely be a red herring.
+And the Scrum Guide makes zero references to user stories, so any talk of user stories on the Scrum Master certification exam will likely be a red herring.
 
 '''
 
@@ -149,7 +153,7 @@ The answer is simple. The longer the Sprint, the less predictable things become.
 
 It's hard enough to predict four days into the future, let alone four weeks.
 
-Short Sprints make things more predictable, and they also allow more regular interactions with stakeholders as Sprint Reviews, which occur at the end of the Sprint, take place more often.
+Short Sprints make things more predictable. Short Sprints also allow more frequent interactions with stakeholders as Sprint Reviews, which occur at the end of the Sprint, take place more often.
 
 
 [quote, 2020 Scrum Guide page 7]
@@ -163,9 +167,9 @@ Shorter Sprints can be employed to generate more learning cycles and limit the r
 Each Sprint may be considered a short project.
 ____
 
-The Scrum Guide places a great deal of emphasis on a short Sprint, and there are plenty of reasons for that.
+The Scrum Guide places a great deal of emphasis on short Sprints, and there are plenty of reasons for that.
 
-Remember, a Sprint Review happens at the end of a Sprint. With a 2 week Sprint, the stakeholders get to review the product twice. With a 4 week Sprint, they only get to see it once.
+Remember, a Sprint Review happens at the end of a Sprint. With a 2 week Sprint, the stakeholders get to review the product twice in a month. With a 4 week Sprint, they only get to see it once.
 
 A short Sprint makes it easier to manage risk. If the team is doing something wrong, they'll find out sooner from the stakeholders in a 2-week Sprint than in a month long one.
 
@@ -175,11 +179,12 @@ It's arguably easier to estimate work for two weeks, as opposed to three or four
 
 ****
 
-The development team is working with a new technology, which has introduced a great deal of risk and uncertainty into the project. 
+The development team is working with a new technology which has introduced a great deal of risk and uncertainty into the project. 
 
 The Product Owner wants to reduce the Sprint time down to 2 or 3 weeks from the current Sprint length of one month. 
 
 What should the Scrum Master do?
+(Select 1)
 
 * [ ] Act on the Product Owner's recommendation and reduce the Sprint length to 2 weeks
 * [ ] Coach the team on how shorter Sprints reduce risk and ask them to consider reducing the Sprint length to 2 or 3 weeks.
@@ -188,13 +193,15 @@ What should the Scrum Master do?
 
 ****
 
-The correct answer is B. As a Scrum Master, your job is to teach people about Scrum practices and Scrum Theory and coach them on how to apply Scrum in a manner that works best for them.
+The correct answer is B. 
+
+As a Scrum Master, your job is to teach people about Scrum practices and Scrum Theory and coach them on how to apply Scrum in a manner that works best for them.
 
 Neither the Scrum Master nor the Product Owner can arbitrarily set the length of a Sprint in Scrum. This is a decision that must come about through the consensus of the team.
 
-C is incorrect because the length of the Sprint can be changed if the team agrees a change is needed. However, the Sprint length cannot be changed mid-sprint.
+C is incorrect because the length of future Sprint can be changed if the team agrees a change is needed. However, the Sprint length cannot be changed mid-sprint.
 
-D is incorrect because there is no 'learning Sprints' in Scrum. Furthermore, it is a requirement that every Sprint works toward the creation of an Increment. So Sprints are planned where the result is not a usable increment. 
+D is incorrect because there is no 'learning Sprints' in Scrum. Furthermore, it is a requirement that every Sprint works toward the creation of a valuable and useful Increment.
 
 '''
 
@@ -219,10 +226,13 @@ The only Scrum metrics referenced in the guide are mentioned here:
 - Burn-up charts
 - Cumulative flows
 
-What's more, the guide kinda talks them down, saying that while they are useful, they're not as good as empirical analysis, which is a bit of a diss.
+What's more, the guide kinda throws shade on them, saying that while they are useful, they're not as good as empirical analysis, which is a bit of a diss.
 
 Still, for the exam, you do need to know what each of these charts does. You don't need to understand them in depth, but questions will arise about what they can tell you.
 
+=== Non-Empirical Scrum Metrics
+
+NOTE: I queried ChatGPT so you don't have to! I got ChatGPT to generate these descriptions. ChatGPT gets a lot of stuff about Scrum wrong, but I thought these descriptions were better than I could do on my own.
 
 Burn-Down Chart:
 A burn-down chart is a graphical representation of the amount of work remaining in a project versus time. It tracks the progress of a project by showing the remaining work that needs to be completed on the vertical axis and the time on the horizontal axis. The chart starts with the total amount of work to be completed at the beginning of the project, and as work is completed, the line on the chart gradually moves down until it reaches zero at the end of the project.
