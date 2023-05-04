@@ -11,9 +11,9 @@ title: "913 - The Product Owner must release each Incr"
 
 [#query]
 --
-Every Sprint attempts to create at least one Increment to present to stakeholders during the Sprint Review.
+During every Sprint, the team attempts to create at least one Increment to present to stakeholders during the Sprint Review.
 
-Why might a Product Owner refuse to immediately release an Increment into production after the Sprint Review?
+Why might a Product Owner refuse to immediately release an Increment into production after a successful Sprint Review?
 --
 
 [#list]
