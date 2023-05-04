@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "915 - Which answer best describes the topics c"
+[#question]
+id: 915-63efff879ebbe935e4c16b41.
 ---
 
 
-[#question]
-== 915-63efff879ebbe935e4c16b41.
+
 
 ****
 
 [#query]
 --
-Sprint Planning is the first of the time-boxed events to happen during the Spring.
+Sprint Planning is the first of the four time-boxed events to happen during the Sprint.
 
 According to the Scrum Guide, which topics are to be addressed by the Scrum Team during Sprint Planning?
 --
