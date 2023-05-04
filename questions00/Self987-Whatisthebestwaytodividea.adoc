@@ -1,6 +1,6 @@
 ---
 layout: default 
-title: "987 - How should a group of 100 people be divi"
+title: "987 - How should a group of 75 people be divided up into multiple teams?"
 id: 987-63effb2d9ebbe935e4c16aae.
 ---
 
