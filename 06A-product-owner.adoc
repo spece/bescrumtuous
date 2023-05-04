@@ -15,10 +15,10 @@ Seriously, the whole idea of Scrum is for a team to work toward the creation of 
 
 The answer to all of those questions is 'The Product Owner.'
 
-Without a Product to build, there's no point in putting together a Scrum Team. 
+Who is completley useless in terms of knowing _how_ to build a product, _estimating_ completion times or even _decomposing_ product features into easily managable chunks? That's probably the Product Owner too. 
+
 
 === Product Owners Maximize Value
-
 
 
 The Product Owner knows everything there is to know about the product the team's trying to build.
@@ -26,7 +26,9 @@ The Product Owner knows everything there is to know about the product the team's
 [quote, 2020 Scrum Guide page 5]
 ____
 
-The Product Owner is accountable for maximizing the value of the product, resulting from the work of the Scrum Team. How this is done may vary widely across organizations, Scrum Teams, and individuals.
+The Product Owner is accountable for maximizing the value of the product, resulting from the work of the Scrum Team. 
+
+How this is done may vary widely across organizations, Scrum Teams, and individuals.
 ____
 
 The Product Owner knows all about the Product. But what is the Product Owner most accountable for? 
@@ -35,7 +37,9 @@ The Scrum Guide makes the Product Owner's job clear: to maximize the value of th
 
 Interestingly, the Scrum Guide doesn't make it clear how the Product Owner goes about doing that. Fortunately, I can help you out here.
 
-The PO maximizes the value of the work done by the Scrum Team by making sure the developers are working on the most important and valuable features of the product.
+How do POs Maximize Value?
+
+The PO maximizes the value of the work done by the Scrum Team by convincing the developers to work on the most important and valuable features of the product.
 
 - If the PO gets the developers to work on a bunch of features nobody is going to use, the PO is not maximizing value. 
 
@@ -45,7 +49,7 @@ That's typically how the PO maximizes the value of the stuff the developers are 
 
 === Product Backlog Management
 
-What we are essentially describing here concerning prioritizing the most important features is one of the four key elements of Product Backlog management. The  Scrum Guide describes Product Backlog management in more detail here:
+Effective Product Backlog management is the key to maximizing the work done by the development team. 
 
 [quote, 2020 Scrum Guide page 6]
 ____
@@ -57,17 +61,21 @@ The Product Owner is also accountable for effective Product Backlog management, 
 - Ensuring that the Product Backlog is transparent, visible, and understood.
 ____
 
-Take these four points seriously, because Product Backlog Management is one of the 13 categories in which the questions on the Scrum Certification exam are categorized.
+Take these four bullet points seriously, because Product Backlog Management is one of the 13 categories in which the questions on the Scrum Certification exam are categorized, and it is weighted much higher than the other categories.
 
-The exam will try to catch you off guard with false statements that seem to make sense.
+There is a great deal of nuance to the responsibilities of the Product Owner. The exam will test your understanding of Product Backlog management by offering false statements or providing incorrect options that make plausible sense.
 
-For example, the exam will assert in a True or False question that the stakeholders or customers are responsible for communicating the Product Goal. On the surface that almost sounds like it makes sense. 
+For example, the exam will assert in a True or False question that the stakeholders or customers are responsible for communicating the Product Goal to the team. On the surface that almost sounds like it makes sense. 
 
-After all, the product is for the customers, right? So shouldn't they communicate the Product Goal? Don't fall for the tricker. The Product Owner communicates the Product Goal.
+After all, the product is for the customers, right? So shouldn't they communicate the Product Goal? 
 
-The same tricker goes for communicating Product Backlog items (PBIs). It sounds logical that a customer or stakeholder might be the one creating or communicating Product Backlog items, after all, the Product Backlog items represent features and functionality that the customers want, right?
+Don't fall for the trick. The Product Owner communicates the Product Goal, not the stakeholders or the customers.
 
-Again, don't fall for it. It's the Product Owner's job to create and communicate Product Backlog items.
+The same trick goes for communicating Product Backlog items (PBIs). 
+
+It sounds logical that a customer or stakeholder might be the one creating or communicating Product Backlog items, after all, the Product Backlog items represent features and functionality that the customers want, right?
+
+Again, don't fall for it. It's the Product Owner's job to create and communicate details about Product Backlog items to the team.
 
 When it comes to the Product Backlog and the Product Goal, the responsibility falls on the shoulder of the Product Owner, nobody else.
 
@@ -110,7 +118,7 @@ The Product Owner can delegate any of the work they are accountable to anyone th
 
 '''
 
-=== Who Does the Work?
+=== Who Does the Product Owner Work?
 
 In Scrum, the developers do the development.
 
@@ -148,7 +156,7 @@ When developers have questions about the work they are doing, they need answers 
 
 The Product Owner must be able to respond quickly, and the development team needs to know that the decisions of the Product Owner will not be second-guessed by management. 
 
-If someone else in the organization keeps overriding the decisions of the PO, the team will quickly lose trust in the Product Owner, and the whole Scrum Framework falls apart.
+If someone else in the organization keeps overriding the decisions of the PO, the team will quickly lose trust in the Product Owner, and the whole Scrum framework falls apart.
 
 ==== Test Yourself
 
@@ -164,6 +172,7 @@ Important decisions that pertain to the future direction of the product being bu
 The answer to this question is the Product Owner.
 
 The Scrum Guide states quite emphatically that product-based decisions are not to be made by a committee. 
+
 '''
 
 === A Single Product Owner
@@ -186,7 +195,7 @@ When it comes to competing interests, the Product Owner is responsible for manag
 ==== Test Yourself
 
 ****
-There are many stakeholder groups with many competing interests, including the priority of features, the cost of the project, the release date, and community outreach. How should Scrum ensure the interests of each of these groups are recognized and respected?
+There are many stakeholder groups with many competing interests, including the priority of features, the cost of the project, the release date, and community outreach. How does Scrum ensure the interests of each of these groups are recognized and respected?
 
 * [ ] Have the Scrum Master represent the interests of each of these groups
 * [ ] Have multiple Scrum Masters, with each Product Owner assigned to each stakeholder group
@@ -205,7 +214,7 @@ There is only one Product Owner on a Scrum Team, and that one Product Owner repr
 
 Stakeholders will always be interested in how the product is progressing. They will constantly want to know what's been created, and what the team will be working on next. 
 
-The Product Backlog and inspectable Increments are how stakeholders get the answers to these questions.
+The Product Backlog and inspectable Increments are how stakeholders get the answers to their questions about how the project is progressing.
 
 [quote, 2020 Scrum Guide page 6]
 ____
@@ -260,8 +269,8 @@ If anyone wants to change the Product Backlog, update the Product Backlog, delet
 When it comes to the Product, and the Product Backlog that describes what's being built, the Product Owner has full control.
 
 ****
-How does ensure their decisions are transparent and open?
-
+How does the Product Owner ensure their decisions are transparent and open?
+(Choose 3) 
 * [ ] By making their decisions visible in the Product Backlog
 * [ ] By allowing stakeholders to see how the Product Backlog has been ordered and prioritized
 * [ ] By sending regular status updates to stakeholders.
@@ -272,7 +281,7 @@ How does ensure their decisions are transparent and open?
 
 In this case, options A, B, and E are correct.
 
-Remember that in Scrum we always shun 'more meetings.' The whole point of the various Scrum events, namely the Sprint Review, Sprint Retrospective, and the Daily Scrum is to remove the need to schedule other, time-wasting meetings.
+Remember that in Scrum we always shun 'more meetings.' The whole point of the various Scrum events, namely the Sprint Review, Sprint Retrospective, and the Daily Scrum, is to remove the need to schedule other, time-wasting meetings.
 
 
 '''
@@ -281,7 +290,7 @@ Remember that in Scrum we always shun 'more meetings.' The whole point of the va
 
 ****
 
-The CEO has told you, the Scrum Master, that if a key feature isn't added to the product sometime within three months, the project will be cancelled. What action should the Scrum Master take?
+The CEO has told you, the Scrum Master, that if a key feature isn't added to the product within the next three week, the project will be cancelled. What action should the Scrum Master take?
 
 * [ ] Add the feature as a Sprint Backlog item so developers can start working on it immediately
 * [ ] Add a new item to the Product Backlog to represent the feature
