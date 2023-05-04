@@ -83,7 +83,7 @@ The Product Owner could then speak with the developers and see if they could inc
 
 Scrum is all about constantly inspecting and adapting. As such, the team is allowed to change their Sprint plan whenever conditions change, just so long as the changes don't put the Sprint Goal at risk.
 
-Teams can also add or remove items from the Sprint backlog. Quite often teams choose too much work, or even not enough work, and need to either pull things in or put things back into the Product Backlog. Again, just like changing the plan, messing around with the Sprint Backlog is 'fair dinkum', so long as the Sprint Goal is not put at risk.
+Teams can also add or remove items from the Sprint backlog. Quite often teams choose too much work, or perhaps not enough work, and need to either pull things in or put things back into the Product Backlog. Again, just like changing the plan, messing around with the Sprint Backlog is 'fair dinkum', so long as the Sprint Goal is not put at risk.
 
 What can't change? The Sprint Goal. The Sprint Goal is never allowed to change throughout the Sprint. Once that's finalized in the Sprint Planning meeting, it remains unchanged until the Sprint is over.
 
@@ -139,7 +139,7 @@ The Sprint Goal is the commitment the Sprint Backlog makes.
 
 The Sprint Goal describes what the developers are trying to achieve in the current Sprint. It gives the team something to aim at.
 
-Now let's make one thing clear - the development team doesn't always achieve the Sprint Goal, and that's okay.
+Let's make one thing clear - the development team doesn't always achieve the Sprint Goal, and that's okay.
 
 Some teams might not achieve the Sprint Goal the majority of the time. If that's a problem, then maybe it's something the team can talk about in the Sprint Retrospective. But at the same time, it might not be a problem.
 
@@ -192,7 +192,7 @@ If developers need to decompose backlog items or even remove items from the Spri
 ****
 If Developers find the scope of work scheduled for a Sprint is too much, with whom should they negotiate the Sprint Backlog's scope?
 
-* [ ] The Product Onwer
+* [ ] The Product Owner
 * [ ] The Scrum Master
 * [ ] Their fellow developers
 * [ ] The stakeholders.
