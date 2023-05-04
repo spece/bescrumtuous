@@ -1,5 +1,2 @@
----
-layout: default 
----
 
 include::../questions00/Arti804-WhatisthepurposeoftheSprin.adoc[]
