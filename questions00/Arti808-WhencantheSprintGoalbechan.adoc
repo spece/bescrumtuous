@@ -2,17 +2,20 @@
 layout: default 
 title: "808 - When should a Sprint Goal be created Scr"
 reviewedby: cm
+id: 807-63effc789ebbe935e4c16ae1.
 ---
 
 
 [#question]
-== 808-63effc989ebbe935e4c16ae6.
+
 
 ****
 
 [#query]
 --
-When can the Sprint Goal be changed or adjusted?
+Half way through the Spring the development team has become uncomfortable with the Sprint Goal and feel a change needs to be made to bring it in line with the Sprint Plan.
+
+According to the Scrum Guide, when can the Sprint Goal be changed or adjusted?
 --
 
 [#list]
