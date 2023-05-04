@@ -251,44 +251,48 @@ The chart starts with a backlog of tasks at the beginning of the project and sho
 
 Cumulative flow charts are useful because they help teams identify bottlenecks in their workflow and optimize their processes to increase efficiency. By tracking the rate of completion over time, teams can also identify whether they are on track to complete the project on time.
 
-=== You Can't Predict the Future with Scrum
+=== Scrum Can't Predict the Future
 
 
-Managers and team leaders always want metrics that will help predict when a given project will be finished, or when a product will hit a given milestone. Scrum is quick to downplay the various charting techniques used to predict the future.
+Managers and team leaders always want metrics that will help predict when a given project will be finished, or when a product will hit a given milestone. Scrum is quick to downplay the various charting techniques Agile teams frequently use to predict the future.
 
-The Scrum Guide is quick to point out that there are limits to the accuracy of charts and metrics, and there is no replacement for empiricism.
+The Scrum Guide emphasizes that there are limits to the accuracy of charts and metrics, and there is no replacement for empiricism.
 
 [quote, 2020 Scrum Guide page 7]
 ____
 
-While proving useful, these do not replace the importance of empiricism.
+While proving useful, these [charts and metrics] not replace the importance of empiricism.
 
-In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision-making.
+In complex environments, what will happen is unknown. 
+
+Only what has already happened may be used for forward-looking decision-making.
 ____
 
-The Scrum Guide is quick to point out that there are limits to the accuracy of charts and metrics, and there is no replacement for empiricism.
 
-Empiricism insists that experience and evidence should form the basis for belief and knowledge; more so than a chart does.
+=== The Importance of Empiricism
 
-=== Importance of Empiricism
+Empiricism insists that experience and evidence should form the basis for belief and knowledge, not just graphs and metrics.
 
-For example, a chart might say a team is completing 20 backlog items a week. Does that mean you complete 20 backlog items next week?
+For example, a chart might say a team is completing 20 backlog items a week. Does that mean you'll complete 20 backlog items next week?
 
-You might empirically know that two developers will be on vacation, or perhaps one developer is coming down with the flu. 
+You might _empirically_ know that two developers will be on vacation next week, or perhaps one developer is coming down with the flu. 
 
-The trend on the chart may indicate that the team will complete 20 backlog items next week, by you empirically know that sickness or vacation times will likely cut that number in half.
+Maybe World Cup starts next week and your entire offshore team is in Brazil?
 
-That's an example of empirical knowledge being a much better, and a much more informed indicator of future performance than a burn-down chart.
+The trend on the chart may indicate that the team will complete 20 backlog items next week, by you empirically know that sickness or vacation or the start of the World Cup will likely cut that productivity number in half.
+
+That's an example of empirical knowledge being a much better and a much more informed indicator of future performance than a burn-down chart.
 
 
 === Who Can Cancel a Sprint?
 
-The Scrum Certification guide will ask you who has the power to cancel a Sprint, and under what conditions the Sprint can be canceled.
+The Scrum Certification exam will undoubtedly ask you who has the power to cancel a Sprint, and under what conditions the Sprint can be canceled.
 
 [quote, 2020 Scrum Guide page 7]
 ____
 
 A Sprint could be canceled if the Sprint Goal becomes obsolete. 
+
 Only the Product Owner has the authority to cancel the Sprint.
 ____
 
@@ -320,33 +324,33 @@ There are plenty of reasons why someone in the organization might want to cancel
 
 People want the Scrum Guide to answer all of their questions about how to run a big project. Scrum doesn't do that.
 
-Scrum provides a set of basic rules written out in a guide that's less than 4000 words. I wrote college papers longer than that.
+Scrum provides a set of basic rules written out in a guide that's less than 4000 words long. I wrote college papers longer than that.
 
-If Scrum doesn't provide a rule or guideline around something, then it's up to the group of self-managing, highly motivated professionals on that team to figure it out on their own. 
+If Scrum doesn't provide a rule or guideline around something, then it's up to the group of self-managing, self-organized, highly motivated professionals on that team to figure it out on their own. 
 
-That can be frustrating.
 
 === When to Start the Sprint?
 
-The Scrum Certification exam will try to trick you into applying some arbitrary rule that doesn't exist.
+The Scrum Certification exam often tries to trick you into applying some arbitrary rule that seems to makes logical sense but doesn't actually appear anywhere in the Scrum Guide.
 
 For example, say a product has two Scrum Teams working on it, which happens quite regularly.
 
 - Should those two teams start their Sprints on the same day? 
 - Should those two teams end their Sprints on the same day? 
 - Should those two teams have Sprints of equal length?
+- Should those two teams have the same Scrum Master?
 
 On the surface, all three of those assertions seem reasonable. It seems like a nice way to keep the two Scrum Teams in sync.
 
 At the same time, that approach might create chaos. Imagine stakeholders having to go to two Sprint Reviews on the same day. That might be too much for them. 
 
-Or maybe two teams who finish their Sprints on the same day would end up pushing their increments into production on the same day, which might cause panic for system administrators?
+Or maybe two teams who finish their Sprints on the same day would end up pushing their releases into production on the same day, which might cause panic for system administrators?
 
 So maybe it'd be better to stagger the Sprints? Have one team start a 4 weeks Sprint on the first of the month, and have the other start the Sprint in the middle of the month?
 
-=== No Rule Means No Rules
+=== No Rule Means No Rule
 
-The fact is, the Scrum Guide doesn't care what those two teams do. The teams are allowed to figure it out on their own.
+The fact is, the Scrum Guide doesn't care what those two teams do. The teams are expected to figure it out on their own.
 
 If the Scrum Guide doesn't speak directly to the topic, then there are no rules about it.
 
@@ -355,7 +359,9 @@ The Scrum Guide *does* say two teams working on the same project must share the 
 - Should their Sprints be the same length? 
 - Should their Sprints start on the same day?
 
-Scrum doesn't provide any guidance on these topics either way. It's assumed your team will use empirical measures and apply lean thinking and come up with a plan that is best for them. Scrum wants you to figure out what's best for you.
+Scrum doesn't provide any guidance on these topics. It's assumed your team will use empirical measures and apply lean thinking and come up with a plan that is best for them. 
+
+Scrum wants you to figure out what's best for you. It just wants you to do that within the confines of the incomplete framework it provides.
 
 
 
