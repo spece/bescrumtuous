@@ -16,9 +16,9 @@ The Product Backlog is an emergent, ordered list of what is needed to improve th
 ____
 
 
-This definition makes it clear that the Product Backlog is a list of the features that need to be built to complete the project.
+This definition makes it clear that the Product Backlog is a list of the features that must be built to complete the project.
 
-This definition also demands that the list be ordered, in a prioprity sequence. The most important items are at the top.
+This definition also demands that the list be ordered, in priority sequence. The most important items are at the top.
 
 ==== Test Yourself
 
@@ -268,7 +268,7 @@ ____
 The Product Backlog is an emergent, ordered list of what is needed to improve the product.
 ____
 
-So does this statement mean the Product Goal is one of the items on the list?
+Does this statement mean the Product Goal is one of the items on the list?
 
 
 ****
@@ -299,9 +299,9 @@ A product is a vehicle to deliver value.
 
 A product has:
 
-- a clear boundary, 
-- known stakeholders, 
-- well-defined users or customers. 
+- A clear boundary
+- Known stakeholders
+- Well-defined users or customers 
 
 A product could be a service, a physical product, or something more abstract.
 ____
