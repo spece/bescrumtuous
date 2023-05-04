@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "894 - A Scrum Master is introducing Scrum to a"
+id: 894-63effc249ebbe935e4c16ad3.
 ---
 
 
 [#question]
-== 894-63effc249ebbe935e4c16ad3.
+
 
 ****
 
@@ -31,7 +32,7 @@ AC
 
 [#explanation]
 --
-The Scrum Master should use the opportunity to explain the importance of a Sprint Review and the value the team receives from the stakeholders participation in the Sprint Review.
+The Scrum Master should use this opportunity to explain the importance of a Sprint Review and the value the team receives from the stakeholders participating in it.
 
 --
 
