@@ -16,13 +16,14 @@ At the heart of it, Scrum just says this:
 
 That's it. That's the basics of Scrum right there.
 
-I honestly don't know how anyone could say a strategy like that is a bad thing. It seems pretty basic, pretty reasonable, and pretty straightforward to me.🤷‍
+I honestly don't know how anyone could say a strategy like that is a bad thing. It seems pretty basic, pretty reasonable, and pretty straightforward to me.
 
 And it all starts with Sprint Planning.
 
 [quote, 2020 Scrum Guide page 8]
 ____
 Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. 
+
 This resulting plan is created by the collaborative work of the entire Scrum Team.
 ____
 
@@ -32,7 +33,7 @@ Many questions on the Scrum Master certification exam will suggest that Sprint P
 
 None of the Scrum events happen before or after a Sprint - they all take place within the Sprint.
 
-Who is Accountable for Maximizing Value?
+=== Who is Accountable for Maximizing Value?
 
 [quote, 2020 Scrum Guide page 8]
 ____
