@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "902 - If burndown charts are used to visualize"
+id: 902-63effa2c9ebbe935e4c16a90.
 ---
 
 
 [#question]
-== 902-63effa2c9ebbe935e4c16a90.
+
 
 ****
 
@@ -16,16 +17,16 @@ What does the slope of the line in a burndown chart demonstrate?
 
 [#list]
 --
-* [ ] A. The evolution over time of the money spent on the project.
-* [ ] B. When all work will be completed so the Scrum Team can be released for other work.
-* [*] C. When the work remaining will likely be completed if nothing changes on the Product Backlog or the Development Team.
-* [ ] D. When the project will be over if the Product Owner removes work that is equal in effort to any new work that is added.
+* [ ] A. The percentage of the budget consumed by the project over time.
+* [ ] B. The number of Story Ponts needed per Sprint needed to complete the project on time.
+* [ ] C. Changes in the team's velocity.
+* [*] D. The overall progress of the team over time which predicts when the project may end
 
 --
 ****
 
 [#answer]
-C
+D
 
 [#explanation]
 --
