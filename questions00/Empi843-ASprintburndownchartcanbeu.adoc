@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "843 - Sprint burndown charts are an efficient "
+id: 843-63effa169ebbe935e4c16a8d.
 ---
 
 
 [#question]
-== 843-63effa169ebbe935e4c16a8d.
+
 
 ****
 
 [#query]
 --
-A Sprint burndown chart can be used to show the amount of work completed versus the work estimated for a project. 
+A Sprint burndown chart can be used to show the amount of work completed versus the work estimated for a project over time. 
 
 What else is true about burndown charts?
 --
@@ -20,7 +21,7 @@ What else is true about burndown charts?
 --
 * [ ] A. Burndown charts were mentioned in previous Scrum Guides but not the current one.
 * [ ] B. The Scrum Guide discourages the use of burndown charts because they are not Agile.
-* [ ] C. Burndown charts have always been recommended by the Scrum Guide as a way to gauge progress.
+* [ ] C. Burndown charts have always been recommended by the Scrum Guide as the best way to gauge progress.
 * [*] D. Burndown charts are useful but do not replace the importance of empiricism.
 
 --
