@@ -12,26 +12,31 @@ reviewedby: cm
 
 [#query]
 --
-Name the three composite components of the Sprint Backlog?
+Which of the following are not part of the Spring Backlog?
 --
 
 [#list]
 --
-* [*] A. Product Backlog Items selected for the sprint
-* [*] B. The Sprint Plan
-* [*] C. The Sprint Goal
-* [ ] D. Sprint Backlog Items selected for the Sprint
-* [ ] E. The Product Goal
+
+* [ ] A. The Sprint Goal
+* [*] B. Sprint Backlog items selected for the Sprint
+* [*] C. The Product Goal
+* [ ] D. Product Backlog items selected for the sprint
+* [*] E. The Definition of Ready
+* [ ] F. The Sprint Plan
 
 --
 ****
 
 [#answer]
-ABC
+BCE
 
 [#explanation]
 --
-The Product Goal is not part of the Sprint, and the term 'Sprint Backlog Item' does not appear anywhere in the Scrum Guide. Instead, Product Backlog Items are selected for the Sprint, but they are not specifically called Sprint Backlog Items in the Guide.
+The Product Goal is not part of the Sprint, and the term 'Sprint Backlog item' does not appear anywhere in the Scrum Guide. Instead, Product Backlog items are selected for the Sprint, but they are not specifically called Sprint Backlog items in the Guide.
+
+There is no such thing as a 'Definition of Ready' in Scrum. In fact, many Agile practitioners feel the 'Definition of Ready' is an anti-pattern.
+
 --
 
 [#ka]
