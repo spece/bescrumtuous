@@ -1,5 +1,5 @@
 
-== Chapter 0
+== Chapter Zero
 === Getting Started
 I’m going to get you Scrum Certified. I hope you’re ready.
 
