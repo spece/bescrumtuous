@@ -1,1 +1,2 @@
+
 include::../questions00/Arti809-TheSprintGoalisfinalizeddur.adoc
