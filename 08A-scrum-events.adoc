@@ -80,6 +80,7 @@ Inspection and adaptation are important concepts in the Scrum Framework. The Scr
 
 Any time a Scrum Team recognizes a change that demands a response, the team should respond and adapt. If it's possible to adapt and change the plan prior to a scheduled event, the team should do so. 
 
+<<<
 
 ==== Test Yourself
 
