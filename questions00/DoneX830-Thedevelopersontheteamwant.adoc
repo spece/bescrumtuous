@@ -9,11 +9,12 @@ id: 830-63eff9f89ebbe935e4c16a88.
 [#question]
 
 
+
 ****
 
 [#query]
 --
-The developers on the team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
+The developers on the Scrum Team want to change the Definition of Done and make it a bit more rigorous. As a Scrum Master, what is your response to this request?
 --
 
 [#list]
@@ -38,6 +39,9 @@ The Definition of Done can be changed with the agreement of the team during the 
 "During the Sprint Retrospective, the Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done."
 
 Teams should keep in mind that "if the Definition of Done for an increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product."
+
+
+
 --
 
 [#ka]

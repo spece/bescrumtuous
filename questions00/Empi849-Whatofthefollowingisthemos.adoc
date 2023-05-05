@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "849 - Which statement best describes Scrum Scr"
+id: 849-63effe8f9ebbe935e4c16b25.
 ---
 
 
 [#question]
-== 849-63effe8f9ebbe935e4c16b25.
+
 
 ****
 

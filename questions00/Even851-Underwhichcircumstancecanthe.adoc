@@ -30,7 +30,7 @@ Under which circumstance can the Scrum Master extend the length of the Sprint on
 D
 
 [#explanation]
---
+-- 
 Once a Sprint has started, the Sprint length cannot be changed.
 
 Changes to the length of the Sprint should be agreed upon by the consensus of the team. The best time to discuss changing the length of the Sprint is during the Sprint Retrospective. Any changes made to the Sprint length during a Spring would  apply only to future Sprints, not the current Sprint.

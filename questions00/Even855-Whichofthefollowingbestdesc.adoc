@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "855 - Which statement best describes the Sprin"
+id: 855-63effb129ebbe935e4c16aab.
 ---
 
 
 [#question]
-== 855-63effb129ebbe935e4c16aab.
+
 
 ****
 
@@ -17,9 +18,9 @@ Which of the following best describes the purpose of the Sprint Review in Scrum?
 [#list]
 --
 * [ ] A. The Sprint Review is used to recognize the work of top performing developers, and change to guide the activities of underperforming developers in future Sprints.
-* [ ] B. The Sprint Review is a demo at the end of the Sprint for everyone in the organization to check on the work done.
+* [ ] B. The Sprint Review is a demo developers do for stakeholders at the end of the Sprint.
 * [ ] C. The Sprint Review is a way for the Product Owner and Scrum Master to critique the Development Team's activities during a Sprint.
-* [*] D. The Sprint Review is when the Scrum Team and stakeholders inspect the outcomes of a Sprint and decide how to adapt in future Sprints.
+* [*] D. The Sprint Review is an opportunity for the Scrum Team and stakeholders inspect the additive product Increment and think of ways to adapt for the future.
 
 --
 ****

@@ -20,7 +20,7 @@ Which of the following Scrum events are time-boxed to limit the amount of time s
 * [ ] A. Standup Meetings.
 * [ ] B. The Release Sprint.
 * [*] C. The Sprint Retrospective.
-* [*] D. Sprint Planning.
+* [*] D. Sprint Planning. 
 * [ ] E. Stakeholder Meetings.
 * [ ] F. Sprint Zero.
 * [*] G. The Daily Scrum.
