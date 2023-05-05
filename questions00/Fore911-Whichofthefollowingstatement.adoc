@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "911 - Marian is the Product Owner envisioning "
+id: 911-63effde79ebbe935e4c16b11.
 ---
 
 
 [#question]
-== 911-63effde79ebbe935e4c16b11.
+
 
 ****
 
 [#query]
 --
-Which of the following statements is true?
+Which of the following statements is true about project and Sprint cancellations?
 --
 
 [#list]

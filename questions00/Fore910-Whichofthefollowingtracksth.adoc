@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "910 - What do they track Scrum Master PSM1 Exa"
+id: 910-63effd739ebbe935e4c16b03.
 ---
 
 
 [#question]
-== 910-63effd739ebbe935e4c16b03.
+
 
 ****
 

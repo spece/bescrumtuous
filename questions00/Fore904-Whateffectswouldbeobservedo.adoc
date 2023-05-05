@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "904 - If two Scrum Teams are added to the deve"
+id: 904-63effab29ebbe935e4c16aa0.
 ---
 
 
 [#question]
-== 904-63effab29ebbe935e4c16aa0.
+
 
 ****
 

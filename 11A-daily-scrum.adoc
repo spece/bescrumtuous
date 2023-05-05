@@ -50,7 +50,7 @@ Let's get real about the Daily Scrum for a minute.
 
 People always complain that Scrum has too many time wasting meetings. When they say that, they're usually talking about the Dailiy Scrum.
 
-If your Daily Scrum feels like an waste of time, you're doing the Daily Scrum wrong.
+If your Daily Scrum feels like a waste of time, you're doing the Daily Scrum wrong.
 
 The Daily Scrum shouldn't feel like a formal, highly structured meeting. The Daily Scrum should feel casual and natural.
 
@@ -62,11 +62,11 @@ Scrum doesn't try to put an overwhelming amount of structure and ceremony around
 
 It's hard to think someone could argue that any of these meeting reccomendations are bad. These activities just naturally elute from any team that's serious about software development.
 
-Furthermore, Scrum also says that every workday the developers should talk to each other about what they're doing. That hardly seems unreasonable either.
+Scrum also says that every workday the developers should talk to each other about what they're doing. That hardly seems unreasonable.
 
 === Keep the Daily Scrum Simple
 
-Scrum isn't some framework that _demands_ developers use some crazy set of new and revolutionary techniques. All Scrum really does is document the practices good development teams already do.
+Scrum isn't some framework that demands developers use some crazy set of new and revolutionary techniques. All Scrum really does is document the practices good development teams already do.
 
 Did you ever work on a group project in High School or College? One where you had to meet up with five friends in the library a few times to get the project finished?
 
@@ -78,15 +78,13 @@ What did you all do for the first 15 minutes when you got together?
 - You talked about what you didn't get done
 - You asked others for help with things you couldn't manage
 - You talked about things that were blocking your progress
-- You offered help to others if they had a problem
+- You offered help to others
 
 You'd have a pretty dysfunctional team if y'all didn't chat casually about these types of things when you got together.
 
-The Daily Scrum is simply trying to capture that natural energy and enthusiasm that highly motivated teams should already have when working collaboratively on a project.
+The Daily Scrum is simply trying to capture the natural energy and enthusiasm highly motivated teams should already have when working collaboratively on a project.
 
 === Rules of the Daily Scrum
-
-The Daily Scrum simply puts a little bit of ceremony and formality around the natural fact that developers generally talk to each other when they get together at the start of the workday. 
 
 The basic rules of the Daily Scrum are as follows:
 
@@ -97,9 +95,9 @@ The basic rules of the Daily Scrum are as follows:
 
 === Daily Scrum Time and Location
 
-When I think about developers chatting about their work, their progress and their blockers, I envision them doing that when they all get into the office in the morning. However, the Daily Scrum doesn't have to take place in the morning. It can take place at lunch-hour or even at the end of the day.
+When I think about developers chatting about their work, their progress and their blockers, I envision them doing it when they all get into the office in the morning. However, the Daily Scrum doesn't have to take place in the morning. It can take place at lunch-hour or even at the end of the day.
 
-In fact, with offshore teams and modern teams distributed across the globe, what might be the start of the day for some members of the team might be the afternoon for others. So the Scrum Guide doesn't say what time the Daily Scrum needs to take place, only that it should take place every workday - not every day, just every _workday._
+In fact, with modern teams distributed across the globe, what might be the start of the day for some members of the team might be the afternoon for others. So the Scrum Guide doesn't say what time the Daily Scrum needs to take place, only that it should take place every workday - not every day, just every _workday._
 
 === Does Scrum Really Have Too Many Meetings?
 
