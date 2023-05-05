@@ -27,13 +27,13 @@ Sprint Planning initiates the Sprint by laying out the work to be performed for 
 This resulting plan is created by the collaborative work of the entire Scrum Team.
 ____
 
-Harking back to a theme we've crowed about before, note that Sprint Planning happens within the Sprint, not before the Sprint begins.
+Harking back to a theme we've crowed about before: Sprint Planning happens within the Sprint, not before the Sprint begins.
 
 Many questions on the Scrum Master certification exam will suggest that Sprint Planning happens before the Sprint, but that's always a red herring.
 
 None of the Scrum events happen before or after a Sprint - they all take place within the Sprint.
 
-=== Who is Accountable for Maximizing Value?
+=== Product Backlog items and the Product Goal
 
 [quote, 2020 Scrum Guide page 8]
 ____
@@ -60,11 +60,13 @@ Remember, the maximum size of a Scrum team is 10 people, but it's not unusual fo
 
 === Minimizing Inter-team Dependencies
 
-So how do multiple teams avoid stepping on each other's toes and working on the same backlog items? How do teams avoid being blocked by a dependency their chosen work has on something that has to be completed by another team first?
+So how do multiple teams avoid stepping on each other's toes, working on the same backlog items at the same time, or working on items that might block another team's progress? 
 
-One way to manage these issues is to have representatives from other Scrum Teams attend your Sprint Planning meeting. Representatives from other teams can share their progress, insights, and even deliverable dates for dependencies your project might have on them.
+How do teams avoid being blocked by a dependency their chosen work has on something that has to be completed by another team first?
 
-Or better yet, if you know that certain Product Backlog items have dependencies on work that might not get completed by another team, then you can just pick different backlog items altogether. The fewer the dependencies your work has on other teams the better.
+One way to manage these issues is to have representatives from other Scrum Teams attend your team's Sprint Planning meeting. Representatives from other teams can share their progress, insights, and even deliverable dates for dependencies your project might have on their work.
+
+Or better yet, if you know that certain Product Backlog items have dependencies on work that might not get completed by another team by the time you need them, then you can just pick different backlog items to work on. The fewer the dependencies your work has on other teams, the better.
 
 ==== Test Yourself
 
@@ -76,16 +78,16 @@ Which of the following is true about people from outside the Scrum Team particip
 * [ ] Outsiders can discuss how Product Backlog Items align with corporate strategy and business goals
 * [ ] Outsiders can discuss how certain Product Backlog Items may be of importance to customers
 * [ ] Outsiders can discuss dependencies on other Product Backlog Items under development by other teams
-* [ ] Outsiders can discuss risks that might be encountered in the current Sprint
-* [ ] Scrum Developers cannot invite anyone outside the team to the Sprint Planning event
+* [ ] Outsiders can discuss risks or problems that might be encountered in the current Sprint
+* [ ] All of the above are true.
 
 ****
 
 Option E is correct.
 
-There is nothing in the Scrum Guide that forbids Scrum Developers from inviting people outside the team to the Sprint Planning meeting.
+There is nothing in the Scrum Guide that forbids Scrum Developers from inviting people outside the team to the Sprint Planning meeting, and there are no pragmatic restriction on what outsiders can talk about during a Sprint Planning meeting. 
 
-If someone outside the Scrum Team can guide how to best plan the Sprint, they are more than welcome to speak up during Sprint Planning.
+If someone outside the Scrum Team can provide guidance on how to best plan the Sprint, they are more than welcome to speak up and contribute during Sprint Planning.
 
 '''
 
@@ -120,7 +122,9 @@ ____
 
 === Time Boxing Sprint Planning to 8 Hours
 
-To pass the Scrum certification exam have to know the time boxes for Scrum events like the back of your hand:
+To pass the Scrum certification exam you have to know the time boxes for Scrum events like the back of your hand.
+
+Memorize these:
 
 - Sprint Planning is time-boxed to a maximum of 8 hours for a one-month Sprint
 - The Daily Scrum is time-boxed to a maximum of 15 minutes
@@ -148,7 +152,7 @@ Sprint Planning is timeboxed to a maximum of 8 hours. Hopefully, your team can g
 
 '''
 
-=== Why is Sprint valuable?
+=== Why is the Sprint valuable?
 [quote, 2020 Scrum Guide page 8]
 ____
 The Product Owner proposes how the product could increase its value and utility in the current Sprint.
@@ -156,13 +160,15 @@ ____
 
 It is the Product Owner who is responsible for ensuring the work of the Scrum Team produces the greatest amount of value.
 
-The Product Owner knows what needs to be built to make the product better.
+The Product Owner knows what needs to be built to make the product better. However, the Product Owner has no innate knoweldge of _how_ to build it. That's the job of the developers.
 
 ==== Negotiating Product Backlog Item Selection
 
-Note that the Product Owner simply proposes with regards to what should be built next. The Scrum Team may have pragmatic objections and push for other Product Backlog items to be made part of the current Sprint.
+During Sprint Planning, the Product Owner can only propose their ideas of what should be built next to the Developers. 
 
-Just think about a Scrum Team constructing a house. The Product Owner would likely want the kitchens and the bathrooms done, but the foundation of the house may not be laid. In that case, the developers would need to explain how the kitchen and the bathrooms will need to wait for a future Sprint.
+The Developers may have pragmatic objections to what the Product Owner proposes and push for other Product Backlog items to be made part of the current Sprint instead.
+
+Just think about a Scrum Team constructing a house. The Product Owner would likely want the kitchens and the bathrooms done first, but the foundation of the house may not be laid. In that case, the developers would need to explain how the kitchen and the bathrooms will need to wait for a future Sprint as the home's foundation has to be poured first.
 
 ==== Test Yourself
 
@@ -197,7 +203,9 @@ Who first proposes an initial plan for the Sprint at the Sprint Planning meeting
 ****
 Option B is correct.
 
-It is the Product Owner who proposes how the product could increase its value and utility in the current Sprint. This becomes the starting point for negotiations, suggestions, and compromises during Sprint Planning.
+It is the Product Owner who presents a list of Product Backlog items they would like to have built in the current Sprint.
+
+This becomes the starting point for negotiations, suggestions, decomposition and compromises during Sprint Planning.
 
 '''
 
@@ -212,9 +220,9 @@ The whole Scrum Team then collaborates to define a Sprint Goal that communicates
 The Sprint Goal must be finalized before the end of Sprint Planning.
 ____
 
-Each Sprint needs a Sprint Goal. The Sprint Goal keeps the developers focussed throughout the Sprint.
+Each Sprint needs a goal. The Sprint Goal keeps the developers focussed throughout the Sprint.
 
-The Sprint Goal also provides another important function - it provides transparency into the Sprint, as it allows stakeholders to know what the developers are working on during the Sprint.
+The Sprint Goal also provides another important function - it provides transparency into the Sprint, as it allows stakeholders to know what developers are working towards during the Sprint.
 
 Again, the Sprint Goal must be finalized before the Sprint Planning meeting ends. The Sprint Goal cannot change throughout the Sprint.
 
@@ -295,13 +303,11 @@ Through discussion with the Product Owner, the Developers select items from the 
 The Scrum Team may refine these items during this process, which increases understanding and confidence.
 ____
 
-During Sprint Planning, the Product Owner proposes what they believe think should be built during the Spring. The Product Owner explains what they believe will provide the most value to stakeholders and customers. However, it's the developers who decide which Product Backlog items get added to the Sprint.
+During Sprint Planning, the Product Owner proposes what they believe should be built during the Sprint. The Product Owner explains what they believe will provide the most value to stakeholders and customers. However, it's the developers who decide which Product Backlog items get added to the Sprint.
 
 Going back to the home construction analogy, the construction workers know more about how to build a house than the homeowner.
 
-The developers know what dependencies exist, what order certain Product Backlog items need to be created in, and what's the best path to move forward to create the highest value Product Backlog Items.
-
-For example, the Product Owner might think building a bathroom will provide the most value, but the developers might know that the foundation of the house must be laid down first. In that case, the developers would select laying down the foundation as something to do during the Sprint, despite the foundation not being as important a feature to the stakeholders as a nice bathroom would be.
+The developers know what dependencies exist, what order certain Product Backlog items need to be created in, and what's the best path forward in order to complete the highest value Product Backlog Items.
 
 The developers, not the Scrum Master or the Product Owner, have the final say over what gets added to the Sprint.
 
@@ -309,13 +315,13 @@ The developers, not the Scrum Master or the Product Owner, have the final say ov
 
 It's also worth noting that, while Sprint Planning is an opportunity for the developers to talk about the Product Backlog items, clarify them and refine them, this is not the only time developers are allowed to talk with the Product Owner.
 
-The developers can call up the Product Owner at any time during the Sprint to clarify Product Backlog items. 
+The developers can call up the Product Owner at any time during the Sprint to clarify details about Product Backlog items. 
 
-Quite often the Scrum Master resides in the same war room as the developers so they can answer questions about the product any time they arise.
+Quite often the Product Owner works out of the same war room as the developers. That way the PO can answer developer's questions about the product as soon as they arise.
 
-The Scrum Master certification exam will often provide an incorrect option that indicates there are only certain times a developer can talk to a stakeholder, or a developer can talk to a Product Owner.
+The Scrum Master certification exam will often provide an incorrect option that indicates there are only certain times a developer can talk to a stakeholder or Product Owner.
 
-Discussion between everyone on the Scrum Team and every stakeholder in the organization is never discouraged within the Scrum Guide. The more conversation the better!
+Discussion between everyone on the Scrum Team and every stakeholder in the organization is never discouraged in the Scrum Guide. The more conversation the better!
 
 
 ==== Test Yourself
@@ -380,7 +386,7 @@ Who estimates how much work can be accomplished in a Sprint?
 
 ****
 
-The developers are the ones who select how many Product Backlog items to include in the Sprint, so they are the ones who are estimating how much they believe can be accomplished.
+The developers are the ones who select how many Product Backlog items to include in the Sprint. The Developers are the ones who are estimating how much they believe can be accomplished during the Sprint.
 
 '''
 
@@ -389,6 +395,7 @@ The developers are the ones who select how many Product Backlog items to include
 ****
 
 Which of the following three are the most empirical measures of how much the Scrum Developers can accomplish in a given Sprint?
+(Choose 2)
 
 * [ ] Burndown charts
 * [ ] Past performance
@@ -416,7 +423,7 @@ ____
 
 A Product Backlog item may take months to complete.
 
-In Scrum, the developers need to compose Product Backlog items into smaller pieces. This is known as decomposition.
+In Scrum, the developers need to break epic Product Backlog items down into smaller pieces. This is known as decomposition.
 
 The goal is to break each Product Backlog item down into a series of chunks that can be estimated to take a day or less to complete.
 
@@ -424,7 +431,7 @@ Note that the Scrum Guide never talks about points or stories.
 
 Quite often you will see a question on the Scrum Master Certification exam where one of the answers talks about breaking user stories down into a certain number of points. Those answers are always wrong.
 
-The closest the Scrum Guide ever gets to talking about stories and points is where it recommends that developers break down, or decompose, Product Backlog Items into days worth of work or less.
+The closest the Scrum Guide ever gets to talking about stories and points is where it recommends that developers break down, or decompose, Product Backlog Items into a days worth of work or less.
 
 ==== Test Yourself
 
@@ -441,9 +448,11 @@ What is the best way for a developer to approach a complicated Product Backlog i
 
 Option D is correct.
 
-There are no user stories in Scrum, and there's no such thing as points, which makes the first three options wrong.
+The term 'user story' is never mentioned once in the Scrum Guide. Neither is 'points.' The first three options are wrong.
 
-Given a complicated epic, the Scrum Developers should try to decompose those items into multiple work items in one day or less.
+Given an epic Product Backlog item, the Scrum Developers should try to decompose it into multiple, smaller work items that will take a day or less for a developer to complete.
+
+By the way, the previous sentence used the term 'epic.' This is a common term in the world of Agile development, but the term 'epic' never appears once in the Scrum Guide.
 
 '''
 
