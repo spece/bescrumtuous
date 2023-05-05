@@ -1,36 +1,48 @@
 ---
 layout: default 
 title: "827 - What are two responsibilities of testers"
+id: 827-63effe079ebbe935e4c16b15.
 ---
 
 
 [#question]
-== 827-63effe079ebbe935e4c16b15.
+
 
 ****
 
 [#query]
 --
-What tasks do testers typically undertake on a Development Team?
+The Definition of Done often includes quality gates that require extensive testing to take place.
+
+What tasks do testers and quality assurance (QA) teams typically undertake on a Development Team?
 --
 
 [#list]
 --
-* [ ] A. Verifying the work of programmers.
-* [*] B. Everyone in the Development Team is responsible for quality.
-* [ ] C. Tracking quality metrics.
-* [ ] D. Finding bugs.
-* [*] E. Scrum has no "tester" role.
+* [ ] A. Validating that source code checked into a source code repository works.
+* [*] B. The Development Team as a whole addresses quality concerns.
+* [ ] C. Creating charts that help to track metrics and quality gates.
+* [*] D. Scrum has no subteams for jobs like testing or QA.
+* [ ] E. Finding bugs, creating JIRA tickets and assigning them to developers.
+
 
 --
 ****
 
 [#answer]
-BE
+BD
 
 [#explanation]
 --
-Testers on a Development Team typically undertake tasks such as designing and executing tests to ensure product quality, troubleshooting any software issues that arise, and working with the rest of the team to ensure the product meets the customer's expectations.
+
+If quality or testing is required as part of the Definition of Done, then quality and testing is a job performed by the developers.
+
+There are not subteams or special hierarchies on a Scrum Team. Everyone who does development is simply seen as a developer.
+
+"Within a Scrum Team, there are no sub-teams or hierarchies. It is a cohesive unit of professionals focused on one objective at a time, the Product Goal."
+
+
+
 --
 
 [#ka]

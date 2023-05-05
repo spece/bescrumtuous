@@ -11,15 +11,17 @@ title: "829 - Which is the Scrum Master responsible Sc"
 
 [#query]
 --
-What are the responsibilities of the Scrum Master?
+Many people incorrectly assum the Scrum Master weilds great power on the Scrum Team.
+
+In reality, which of the following is the primary responsibility of the Scrum Master on a development team?
 --
 
 [#list]
 --
-* [ ] A. Make sure the Scrum developers maintain a high development velocity
-* [*] B. Ensure Scrum is being implemented in accordance with the Scrum Guide
-* [ ] C. Make sure members of the Scrum Team are on time to all meetings
-* [ ] D. Manage the budget of the Scrum Team
+* [ ] A. To make sure the Scrum developers maintain a high development velocity
+* [*] B. To ensure Scrum is being implemented in accordance with the Scrum Guide
+* [ ] C. To make sure members of the Scrum Team are on time to all meetings
+* [ ] D. To manage the budget of the Scrum Team
 
 --
 ****
@@ -29,7 +31,11 @@ B
 
 [#explanation]
 --
-The Scrum Master is responsible for facilitating Scrum ceremonies, ensuring that Scrum values and principles are followed within a Scrum Team, removing any impediments to progress, and protecting the team from external distractions and interferences.
+
+The key responsibility of the Scrum Master is to make sure Scrum is being implemented properly and in accordance with the Scrum Guide.
+
+The Scrum Master is also responsible for facilitating Scrum ceremonies, ensuring that Scrum values and principles are followed within a Scrum Team, removing any impediments to progress, and protecting the team from external distractions and interferences.
+
 --
 
 [#ka]

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "825 - Which three techniques would be most hel"
+id: 825-63effd859ebbe935e4c16b05.
 ---
 
 
 [#question]
-== 825-63effd859ebbe935e4c16b05.
+
 
 ****
 
@@ -25,7 +26,7 @@ Who is responsible for removing barriers between stakeholders and Scrum Teams?
 ****
 
 [#answer]
-ABD
+B
 
 [#explanation]
 --

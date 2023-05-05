@@ -1,25 +1,28 @@
 ---
 layout: default 
 title: "823 - What are the two primary ways a Scrum Ma"
+id: 823-63effcda9ebbe935e4c16af1.
 ---
 
 
 [#question]
-== 823-63effcda9ebbe935e4c16af1.
+
 
 ****
 
 [#query]
 --
-How can a Scrum Master help a Development Team maintain their highest levels of productivity?
+The Scrum Master accountability doesn't include development. However, a good Scrum Master can help the development team maintain peak productivity and velocity.
+
+In which of the following ways does a Scrum Master help the development team maintain the highest possible velocity?
 --
 
 [#list]
 --
-* [*] A. By removing impediments the Development Team has identified as impeding their progress
-* [ ] B. By ensuring all developers arrive to the Daily Scrum on time
-* [ ] D. By prioritizing the highest value features in the Product Backlog.
-* [*] C. By coaching Development Teams on ways to achieve consensus-based decisions.
+* [*] A. By removing distractions and impediments the Development Team has identified as impeding their progress.
+* [ ] B. By ensuring all developers arrive to the Daily Scrum on time.
+* [ ] C. By sorting stories in the Product Backlog with the highest priority ones first.
+* [*] D. By coaching Development Teams on ways to achieve consensus-based decisions.
 
 --
 ****
@@ -29,7 +32,7 @@ AD
 
 [#explanation]
 --
-A Scrum Master can help a Development Team to maintain their highest levels of productivity by continuously removing impediments and enabling the team to work in an environment of self-organization. 
+A Scrum Master can help a Development Team to maintain their highest levels of productivity by removing impediments and unnecessary distractions. 
 
 Additionally, the Scrum Master can provide guidance, coaching, and support to ensure the Development Team is taking the most effective approach to their work.
 --

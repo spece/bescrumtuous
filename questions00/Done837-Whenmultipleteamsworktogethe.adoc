@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "837 - Multiple Scrum Teams working on the same"
+id: 837-63effdc59ebbe935e4c16b0d.
 ---
 
 
 [#question]
-== 837-63effdc59ebbe935e4c16b0d.
+
 
 ****
 

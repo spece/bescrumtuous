@@ -1,0 +1,43 @@
+---
+layout: default 
+title: "826 - A Scrum Master is essentially the same t"
+id: 826-63effdb49ebbe935e4c16b0b.
+---
+
+
+[#question]
+
+
+****
+
+[#query]
+--
+In many organizations, a highly competent and skilled Scrum Master will replace the need for a Project Manager.
+--
+
+[#list]
+--
+* [ ] True
+* [*] False
+
+--
+****
+
+[#answer]
+B
+
+[#explanation]
+--
+This couldn't be more false.
+
+A Scrum Master is a coach, facilitator and servant-leader to the team. This is not in line at all with the idea of managing a project.
+
+A Scrum Master is not a Project Manager. The two roles are very different.
+
+--
+
+[#ka]
+Coaching and Mentoring
+
+'''
+

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "833 - User documentation is part of your defin"
+id: 833-63effb7a9ebbe935e4c16ab8.
 ---
 
 
 [#question]
-== 833-63effb7a9ebbe935e4c16ab8.
+
 
 ****
 
@@ -29,7 +30,7 @@ C
 
 [#explanation]
 --
-The Scrum development team must be cross functional and capable of fulfilling all of the requirements that make up the definition of done. If any of those skills are lacking, the team will need to acquire those skills. 
+The Scrum development team must be cross functional and capable of fulfilling all of the requirements that make up the Definition of Done. If any of those skills are lacking, the team will need to acquire those skills. 
 
 In this case, if QA is required to meet the definition of done, then someone, or everyone, on the development team must learn QA.
 --
