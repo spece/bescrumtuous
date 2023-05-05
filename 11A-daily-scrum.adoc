@@ -47,8 +47,61 @@ All Scrum events are supposed to be held at the same time and in the same locati
 
 Let's get real about the Daily Scrum for a minute.
 
+People always complain that Scrum has too many time wasting meetings. When they say that, they're usually talking about the Dailiy Scrum.
 
+If your Daily Scrum feels like an waste of time, you're doing the Daily Scrum wrong.
 
+The Daily Scrum shouldn't feel like a formal, highly structured meeting. The Daily Scrum should feel casual and natural.
+
+Scrum doesn't try to put an overwhelming amount of structure and ceremony around the development process. At it's heart, Scrum just says:
+
+- Plan your work before you start. That's why we have the Sprint Planning meeting
+- Regularly review your work with stakeholders. That's why we have the Sprint Review.
+- Regularly talk about how you can improve things. That's why we have the Sprint Retrospective.
+
+It's hard to think anyone could argue that any of those suggestions are bad. If anything, those activities just naturally elute from any team that's serious about software development.
+
+Furthermore, Scrum also says that every workday the developers should talk to each other about what they're doing. That hardly seems unreasonable either.
+
+And again, Scrum isn't some framework that _demands_ developers use some crazy set of new and revolutionary techniques. All Scrum really does is document the practices good development teams already do.
+
+Did you ever work on a school project in High School or College? One where you had to meet up with five friends in the library or a Zoom call three or four times to get the project finished?
+
+What was the first thing you all did for the first 15 minutes when you got together? 
+
+- You bitched about your prof
+- You talked about what other teams were doing
+- You discussed what you managed to get done
+- You talked about what you didn't get done
+- You asked your friends how much work they got done
+- You talked about things that were blocking your progress
+- You tried to help each other figure out quick solutions to their problems
+
+You'd have a pretty dysfunctional team if people didn't chat casually about these types of things when they all get together.
+
+The Daily Scrum is simply trying to capture that natural energy and enthusiasm that highly motivated teams should already have when working collaboratively on a project.
+
+The Daily Scrum simply puts a little bit of ceremony and formality around the natural fact that developers generally talk to each other when they get together at the start of the workday, but even then, the formailty is minor.
+
+- The Daily Scrum should take place at the same time every workday
+- The Daily Scrum should take place in the same location every day
+- During the Daily Scrum developers talk about their work, not yesterday's Joe Rogan podcast
+
+When I think about developers chatting about their work, their progress and their blockers, I envision them doing that when they all get into the office in the morning. However, the Daily Scrum doesn't have to take place in the morning. It can take place at lunch-hour or even at the end of the day.
+
+In fact, with offshore teams and modern teams distributed across the globe, what might be the start of the day for some members of the team might be the afternoon for others. So the Scrum Guide doesn't say what time the Daily Scrum needs to take place, only that it should take place every workday - not every day, just every _workday._
+
+When people say Scrum has too many meetings, I ask them which ones they think should be removed?
+
+- Should there be no planning?
+- No review with the clients?
+- No retrospective once a month?
+
+Or is the Daily Scrum the problem? Do they think having developers talking to each other in the Daily Scrum for a few minutes every day is too much.
+
+If a team of six or seven developers is working on a project that burns through $250,000 of budget money a month, I'd say it was a problem if those developers didn't talk to each other for a few minutes every day.
+
+Scrum doesn't have too many meetings. Scrum actually gets it just about right.
 
 ==== Test Yourself
 
