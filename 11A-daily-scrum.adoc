@@ -106,7 +106,7 @@ Scrum doesn't have too many meetings. Scrum actually gets it just about right.
 ==== Test Yourself
 
 ****
-Which of the following is the responsibility of the Scrum Master regarding the Daily Scrum?
+Which of the following is the responsibility of the Scrum Master with regards to the Daily Scrum?
 
 * [ ] The Scrum Master should coach the developers about keeping the Daily Scrum timeboxed to 15 minutes
 * [ ] The Scrum Master should ensure each developer gets a chance to speak
