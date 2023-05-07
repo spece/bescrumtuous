@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "971 - What enhances the transparency of an inc"
+id: 971-63effbfb9ebbe935e4c16acc.
 ---
 
 
 [#question]
-== 971-63effbfb9ebbe935e4c16acc.
+
 
 ****
 
 [#query]
 --
-Which of the following actions will result in diminished trust and transparency between the stakeholders and the Scrum Team.
+Which of the following actions will result in diminished trust and transparency between the stakeholders and the Scrum Team?
 --
 
 [#list]

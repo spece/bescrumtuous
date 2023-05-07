@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "972 - What is an appropriate action for the Sc"
+id: 972-63effc549ebbe935e4c16adb.
+
 ---
 
 
 [#question]
-== 972-63effc549ebbe935e4c16adb.
 
 ****
 

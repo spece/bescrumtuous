@@ -1,4 +1,4 @@
-:pdf-theme: some-theme.yml
+
 
 == Chapter 11
 === The Daily Scrum

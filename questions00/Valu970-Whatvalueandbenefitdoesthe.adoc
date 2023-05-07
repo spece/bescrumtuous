@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "970 - Why does the Product Owner want the Deve"
+id: 970-63effae79ebbe935e4c16aa6.
 ---
 
 
 [#question]
-== 970-63effae79ebbe935e4c16aa6.
+
 
 ****
 
@@ -29,7 +30,7 @@ C
 
 [#explanation]
 --
-By ensuring the Development Team adheres to their definition of "Done" the Product Owner can have confidence when delivering product increment that it meets all the established quality criteria and is of the highest quality.
+By ensuring the Development Team adheres to their definition of "Done" the Product Owner can have confidence when delivering product Increment that it meets all the established quality criteria and is of the highest quality.
 
 The Product Owner wants the Scrum Development Team to adhere to the definition of "Done" for several reasons:
 

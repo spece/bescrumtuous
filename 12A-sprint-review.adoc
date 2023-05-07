@@ -2,15 +2,15 @@
 == Chapter 12
 === Sprint Review
 
-On any project, not just in the domain of Scrum, stakeholders should continually get updates on the state of the product they're invested in having built.
+On any project, not just in the domain of Scrum, stakeholders should continually get updates on the state of the product they've invested in.
 
 That's one of the ideas behind the continuous delivery of software - to constantly deliver software to your clients and stakeholders every time a new feature or Increment of value has been completed.
 
 The more often the stakeholders see new features added to the product, the more in tune they will be with the pace at which the project is progressing.
 
-Of course, not every organization can continuously deliver updates daily. But at the very least, a development team should allow the stakeholders to inspect what has been completed and provide feedback so the team can adapt accordingly.
+Regular updates allow stakeholders to inspect what has been completed and provide feedback so the team can adapt accordingly.
 
-The Sprint Review exists to make sure that stakeholders get at least one chance to inspect the work completed during every Sprint, but it certainly doesn't have to be the only time stakeholder inspection takes place.
+The Sprint Review exists to make sure stakeholders get at least one chance to inspect the work completed during every Sprint.
 
 === Review, Inspect and Adapt
 
@@ -21,15 +21,19 @@ The purpose of the Sprint Review is to inspect the outcome of the Sprint and det
 The Scrum Team presents the results of their work to key stakeholders and progress toward the Product Goal is discussed.
 ____
 
-The Sprint Review is the one Scrum event where everyone is invited and asked to participate. That not only includes everyone on the Scrum Team but stakeholders as well.
+The Sprint Review is the one Scrum event where everyone is invited and allowed to participate. That not only includes everyone on the Scrum Team but stakeholders as well.
 
 The purpose of the Sprint Review is pretty self-explanatory. It's for everyone to review what was done and talk about what they like, what they don't like, and where they think things should go next.
 
 Everyone gets to speak at the Sprint Review. Developers can speak to stakeholders, stakeholders can speak to the Scrum Master, and the Product Owner can speak to developers.
 
-Note that there is never any restriction in Scrum about developers talking to stakeholders, or the Scrum Master talking to stakeholders, or anything like that.
+There are no restrictions in the Scrum Guide about developers ever talking to stakeholders, the Scrum Master talking to stakeholders, or the Product Owner talking to stakehoders.
 
-The Spring Review intentionally and concertedly brings everyone together, but there's no rule says developers can't talk to stakeholders about development when they pass each other in the hallways at work. The more openness and transparency the better.
+The Spring Review intentionally and concertedly brings everyone together once per Sprint, but there's no rule that says developers can't talk to stakeholders about development when they pass each other in the hallways at work.
+ 
+The more openness and transparency the better, as far as Scrum is concerned.
+
+<<<
 
 ==== Test Yourself
 
@@ -39,15 +43,16 @@ Which of the following is true about the Sprint Review?
 * [ ] Only the Scrum Master is allowed to talk directly to stakeholders
 * [ ] Only the Product Owner is allowed to talk directly to stakeholders
 * [ ] Developers are not allowed to talk directly to stakeholders
-* [ ] The Sprint Review is the only Scrum event where both Stakeholders and the Scrum Team are invited
+* [ ] The Sprint Review is the only Scrum event where both stakeholders and the Scrum Team are invited
 
 ****
 
 Option D is correct.
 
-Anyone is allowed to talk during the Sprint Review. There's no rule anywhere in Scrum that restricts developers from talking directly to stakeholders.
+Everyone who has skin in the game is invited to the Sprint Review.
 
-The Sprint Review is a planned event that brings everyone together to discuss progress, but stakeholders and members of the Scrum Team are allowed to talk directly to each other at any time during the Sprint
+As for the other options, there are no rules anywhere in the Scrum Guide that forbids any members of the Scrum Team from talking to the stakeholders.
+
 
 '''
 

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "962 - True or False Every Scrum team must have"
+id: 962-63effca69ebbe935e4c16ae8.
 ---
 
 
 [#question]
-== 962-63effca69ebbe935e4c16ae8.
+
 
 ****
 
