@@ -82,7 +82,9 @@ So, when should you integrate your work into the existing product?
 - During the Sprint Retrospective?
 - Right now?
 
-Of course 'right now' is the right answer. If you've got the perfect door ready to be put on your new house's hinges, you don't sit for two weeks waiting for the Sprint Review to do it. You integrate it right away. It would be nuts to imagine waiting two weeks to hang the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
+'Right now' is the correct answer. 
+
+If you've got the perfect door ready to be put on your new house's hinges, you don't sit for two weeks waiting for the Sprint Review to do it. You integrate it right away. It would be nuts to imagine waiting two weeks to hang the front door on the house, or as we'd say in Scrum, 'integrate your work into the product.' 
 
 As soon as your work is done you integrate your work into the product. Then you move on to the next piece of work that needs to be done.
 
@@ -254,6 +256,18 @@ Option C is correct.
 The Scrum Team creates a Definition of Done if an organizational standard does not exist.
 
 '''
+
+=== Bad Definitions of Done
+
+Sometimes Scrum Teams will find themselves in a situation where they are dealing with a Definition of Done that is impossible to achieve.
+
+For example, if the Definition of Done says every piece of code has to be tested on a quantum computer with 100,000 qubits, despite the fact that no computer in the worlds has more than 1000, then the Definition of Done is too rigorous.
+
+The Definition of Done should not be changed too often, and it's not a good idea to make a Definition of Done less rigorous over time, but if the Definition of Done includes an requirement that is impossible to achieve due to missing hardware, software or infrustructure, then it is permissible to change the Definition of Done to make it possible to deliver a usable Increment.
+
+If the Definition of Done does need to change, such a discussion is best to take place during the Sprint Retrospective.
+
+
 
 [quote, 2020 Scrum Guide page 12]
 ____

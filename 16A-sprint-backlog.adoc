@@ -16,7 +16,7 @@ The Sprint Backlog is composed of:
 The Sprint Backlog is a plan by and for the Developers.
 ____
 
-=== Answering the 3 Questions
+=== 3 Questions to Answer
 
 The Sprint Backlog answers three important questions: _what, why, and how._
 
@@ -40,6 +40,7 @@ What does that leave the Scrum Master to control? Very little.
 
 Other than a responsibility to guide the team and organization on how to properly apply the Scrum framework, the Scrum Master has very little _control_ over the Scrum Team, and virtually no control over the various Scrum artificats.
 
+WARNING: Want an image of a developer 
 
 ==== Test Yourself
 
@@ -85,9 +86,15 @@ The Product Owner could then speak with the developers and see if they could inc
 
 Scrum is all about constantly inspecting and adapting. As such, the team is allowed to change their Sprint plan whenever conditions change, just so long as the changes don't put the Sprint Goal at risk.
 
-Teams can also add or remove items from the Sprint backlog. Quite often teams choose too much work, or even not enough work, and need to either pull things in or put things back into the Product Backlog. Again, just like changing the plan, messing around with the Sprint Backlog is 'fair dinkum', so long as the Sprint Goal is not put at risk.
+Developers can add or remove items from the Sprint backlog any time they like. 
 
-What can't change? The Sprint Goal. The Sprint Goal is never allowed to change throughout the Sprint. Once that's finalized in the Sprint Planning meeting, it remains unchanged until the Sprint is over.
+Quite often teams choose too much work, or even not enough work, and need to either pull things in or put things back into the Product Backlog. Messing around with the Sprint Backlog is 'fair dinkum', so long as the Sprint Goal is not put at risk. 
+
+Every team must be given the freedom to change their plans when necessary.
+
+What can't change? The Sprint Goal. 
+
+The Sprint Goal is never allowed to change throughout the Sprint. Once that's finalized in the Sprint Planning meeting, it remains unchanged until the Sprint is over.
 
 [quote, 2020 Scrum Guide page 11]
 ____
@@ -100,11 +107,11 @@ ____
 
 === Transparency, Inspection, and Adaptation
 
-One of the pillars of Scrum is transparency.
+One of the three pillars of Scrum is transparency.
 
 The Sprint Backlog helps to create transparency by allowing everyone on the Scrum Team, along with all of the stakeholders, to know exactly what's going on during a Sprint.
 
-Management shouldn't have to pester the Scrum Team with status meetings and email updates because the Sprint Backlog should answer any questions about what is being developed and how things are moving along.
+Management should never pester the Scrum Team with requests for status meetings or regular updates through email. The Sprint Backlog should transparently answer any questions stakeholders have about what is being developed and how the development process is moving along.
 
 ==== Test Yourself
 
@@ -160,9 +167,9 @@ Issues beyond the Scrum Team's control have made it almost impossible to achieve
 
 ****
 
-The Sprint can't be canceled unless the Sprint Goal is obsolete, and that's rare.
+The Sprint can't be canceled unless the Sprint Goal becomes obsolete, and that's a rare occurrence.
 
-And you're also not allowed to change the Sprint Goal once it's finalized.
+You're also not allowed to change the Sprint Goal once it's finalized.
 
 The correct answer here is to just keep working towards the Sprint Goal. 
 
@@ -172,16 +179,18 @@ It's not the end of the world if the Sprint Goal is not achieved. Sprints are sh
 
 === Product Owner and Developer Collaboration
 
-If the Developers have bitten off more than they can chew, and they don't think they can complete all of the tasks they've assigned to themselves, they can push items back into the Sprint Backlog.
+If the Developers have bitten off more than they can chew, and they don't think they can complete all of the tasks they've assigned to themselves, they can remove items from the Sprint backlog.
 
-Of course, when that happens, they should inform the Product Owner. The Product Owner expects what will be finished during a Sprint. If certain items aren't going to get finished, the Product Owner should know.
+When this happens, developers should inform the Product Owner. If selected items aren't going to get finished during the Sprint, the Product Owner should know.
 
-Furthermore, the Product Owner knows which Product Backlog items are most important, so the PO might have a better idea of which backlog items should stay and which ones shouldn't.
+Furthermore, the Product Owner knows which Product Backlog items are most important, so the PO might have a better insights into which backlog items should remain in the Sprint and which ones shouldn't.
 
 [quote, 2020 Scrum Guide page 11]
 ____
 The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. 
+
 As the Developers work during the Sprint, they keep the Sprint Goal in mind. 
+
 If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
 ____
 
@@ -201,7 +210,7 @@ If Developers find the scope of work scheduled for a Sprint is too much, with wh
 
 ****
 
-Any time the developers need to scale back on their work or break down Product Backlog items into smaller pieces, it's always wise to speak with the Product Owner for clarification. The Product Owner can also help developers understand which product features should be included in order, not to put the Sprint Goal at risk.
+Any time the developers need to scale back on their work or break down Product Backlog items into smaller pieces, it's always wise to speak with the Product Owner for clarification. The Product Owner can also help developers understand which product features should be included in order to not to put the Sprint Goal at risk.
 
 
 '''
