@@ -40,7 +40,10 @@ What does that leave the Scrum Master to control? Very little.
 
 Other than a responsibility to guide the team and organization on how to properly apply the Scrum framework, the Scrum Master has very little _control_ over the Scrum Team, and virtually no control over the various Scrum artificats.
 
-WARNING: Want an image of a developer 
+CAUTION: Want maybe a cartoon image of a canoe where devs and a product owner have an ore but the Scrum Master just sits there.
+
+.The developers control the Sprint Backlog and the Product Owner controls the Product Backlog. The Scrum Master just coaches.
+image::images/canoe-controlx.jpg["Hit as many learning modalities as you can."]
 
 ==== Test Yourself
 
