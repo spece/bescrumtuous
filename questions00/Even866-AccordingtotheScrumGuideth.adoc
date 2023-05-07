@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "866 - Which two of the following are appropria"
+id: 866-63effcb49ebbe935e4c16aeb.
 ---
 
 
 [#question]
-== 866-63effcb49ebbe935e4c16aeb.
+
 
 ****
 
@@ -16,10 +17,10 @@ According to the Scrum Guide, the goal of the Sprint Retrospective is to plan wa
 
 [#list]
 --
-* [*] A. Transparency.
-* [ ] B. Quality.
-* [*] C. Agility.
-* [ ] D. Effectiveness
+* [ ] A. Transparency.
+* [*] B. Quality.
+* [ ] C. Agility.
+* [*] D. Effectiveness
 
 --
 ****

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "968 - Who should make sure everyone on the Dev"
+id: 968-63effeb49ebbe935e4c16b29.
 ---
 
 
 [#question]
-== 968-63effeb49ebbe935e4c16b29.
+
 
 ****
 
@@ -32,9 +33,9 @@ AE
 --
 The word 'role' is not found in the Scrum Guide. Scrum defines accountabilities, and there are three of them:
 
-The Product Owner
-The Scrum Master
-Developers
+- The Product Owner
+- The Scrum Master
+- Developers
 
 Remember, there are no hierarchies or sub-groups on a Scrum team. There are no 'team leads' or 'senior developers.' There are no 'QA teams' or 'testing teams' either. They all fall under the 'developer' accountability.
 --

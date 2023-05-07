@@ -3,11 +3,11 @@
 == Chapter 15
 === The Product Backlog
 
-As we learned earlier, the Product Owner is the one person on the Scrum Team who is tasked with the job of optimizing the value of the work done by the Scrum Team.
+The Product Owner is the one member of the Scrum Team who is tasked solely with the job of 'optimizing the value of the work done by the Scrum Team.'
 
-The way the Product Owner does that is by keeping a list of all of the features and facets the product under development requires.
+The way the Product Owner does that is by keeping a prioritized list of all the features and improvement the product under development requires.
 
-This list is known as the Product Backlog, and by prioritizing entries in the Product Backlog and encouraging developers to work on the most important ones, stakeholders and customers get delivered the features they want and need the most.
+This list is known as the Product Backlog.
 
 
 [quote, 2020 Scrum Guide page 10]
@@ -19,6 +19,9 @@ ____
 This definition makes it clear that the Product Backlog is a list of the features that need to be built to complete the project.
 
 This definition also demands that the list be ordered, in a prioprity sequence. The most important items are at the top.
+
+The Product Backlog will change over time as more is known about what the stakeholders want and what the client needs. That's the idea of the Product Backlog being 'emergent.'
+
 
 ==== Test Yourself
 
@@ -38,7 +41,7 @@ ____
 The Product Backlog is the single source of work undertaken by the Scrum Team.
 ____
 
-The fact that this is the single source of work to be undertaken by the Scrum Team indicates that it is also the only source of work undertaken by the Scrum team.
+The fact that the Product Backlog is the _single source_ of work to be undertaken by the Scrum Team indicates that it is also the _only_ source of work undertaken by the Scrum team.
 
 If the Scrum Team is going to work on something, then it has to first be part of the Product Backlog.
 
@@ -72,7 +75,7 @@ ____
 
 Developers may see a high-priority Product Backlog item that is far too complex to complete in a 3 or 4-week Sprint. When this happens, the developers work with the Product Owner to break the item down into something more manageable.
 
-The goal is always to break a Product Backlog item into something that can be completed within a Sprint. And remember that during Sprint planning, the developers are expected to break all of the selected Product Backlog items down into units of work that can be completed in a day or less.
+The goal is always to break a Product Backlog item into something that can be completed within a Sprint. During Sprint planning, the developers are expected to further break all of the selected Product Backlog items down into units of work that can be completed in a day or less.
 
 [quote, Sprint Planning page 8]
 ____
@@ -133,7 +136,7 @@ Breaking large Product Backlog items down into smaller, more precise items is kn
 
 Option B is correct.
 
-The Scrum Guide defines Product Backlog refinement as the act of breaking down and further defining Product Backlog items into smaller more precise items.
+The Scrum Guide defines Product Backlog refinement as the act of breaking down and further defining Product Backlog items into smaller, more precise items.
 
 '''
 
@@ -153,9 +156,9 @@ Option D is correct.
 
 The Scrum Guide has very few rules about what should happen and when.
 
-If a Product Backlog item needs more details, refined, decomposed, or anything else, then just do it!
+If a Product Backlog item needs more details, be refined, be decomposed, or anything else, then just do it, and do it right away.
 
-When work needs to be done, don't wait for an official Scrum event to do it. Just get the work done!
+When work needs to be done, don't wait for an official Scrum event to do it. Just get the work done.
 
 '''
 
@@ -189,7 +192,7 @@ ____
 
 This point keeps coming up and up again in the Scrum Guide, and you can expect it to come up again and again on the certification exam.
 
-Only the developers know what it takes to accomplish a given piece of work. Only the developer can size up Product Backlog Items and estimate how much time a given feature will take.
+Only the developers know what it takes to accomplish a given piece of work. Only the developer can size up Product Backlog Items and estimate how much time a given feature will take to complete.
 
 
 ==== Test Yourself
@@ -268,7 +271,8 @@ ____
 The Product Backlog is an emergent, ordered list of what is needed to improve the product.
 ____
 
-So does this statement mean the Product Goal is one of the items on the list?
+So does this statement mean a written-out Product Goal is one of the items on the list?
+
 
 
 ****
@@ -342,9 +346,11 @@ ____
 
 According to the Scrum Guide, a Scrum Team can only work on one project at a time. They can't have their efforts split between two separate projects.
 
-It's noteworthy that that doesn't mean an individual Developer or Scrum Master can't be on multiple teams at the same time.
+That doesn't mean an _individual Developer_ or _Scrum Master_ can't be on multiple teams at the same time.
 
-I've quite often seen UI designers who have only a small part to play on a set of active projects be part of multiple Scrum Teams at the same time, and it's also very common for Scrum Masters to be on three or four different teams at a time. There is no rule against an individual being on multiple teams with separate objectives, but a single Scrum Team can only have one objective in mind.
+I've quite often seen UI designers who have only a small part to play on a set of active projects be part of multiple Scrum Teams at the same time. 
+
+It's also very common for Scrum Masters to be on three or four different teams at a time. There is no rule against an individual being on multiple teams with separate objectives, but a single Scrum Team can only have one objective in mind.
 
 ==== Test Yourself!
 

@@ -1,11 +1,13 @@
 ---
 layout: default 
 title: "969 - What are three things to consider when d"
+id: 969-63effecf9ebbe935e4c16b2c.
 ---
 
 
+
 [#question]
-== 969-63effecf9ebbe935e4c16b2c.
+
 
 ****
 
@@ -19,7 +21,7 @@ How would a transition to teams that build end-to-end features differ from an or
 [#list]
 --
 * [*] A. Productivity may suffer initially as the transition takes place
-* [*] B. Communication within a feature based team will have less overhead that with specialized teams
+* [*] B. Communication within a feature based team will have less overhead than with specialized teams
 * [ ] C. The company will lose revenue
 * [ ] D. The number of bugs will increase
 * [ ] E. Development velocity will suffer over the long-term

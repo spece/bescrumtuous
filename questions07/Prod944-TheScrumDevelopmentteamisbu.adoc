@@ -1,7 +1,6 @@
 ---
 layout: default 
 title: "944 - When a Development Team is having troubl"
-id: 944-63effd049ebbe935e4c16af6.
 ---
 
 
@@ -12,7 +11,7 @@ id: 944-63effd049ebbe935e4c16af6.
 
 [#query]
 --
-The Scrum Development team is building a house, and the requirements for how the bathroom should be laid out are unclear. What should the Scrum Developers do?
+What should you do about an impossible definition of done?
 --
 
 [#list]

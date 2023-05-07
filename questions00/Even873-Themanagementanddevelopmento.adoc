@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "873 - How is management external to the Scrum "
+id: 873-63effd7b9ebbe935e4c16b04.
 ---
 
 
 [#question]
-== 873-63effd7b9ebbe935e4c16b04.
+
 
 ****
 

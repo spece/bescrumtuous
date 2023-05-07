@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "984 - What are three ways Scrum promotes selfo"
+id: 984-63efff119ebbe935e4c16b34.
 ---
 
 
 [#question]
-== 984-63efff119ebbe935e4c16b34.
+
 
 ****
 
@@ -16,10 +17,10 @@ How does Scrum foster the idea of self-organization?
 
 [#list]
 --
-* [ ] A. By keeping customers away from developers
+* [ ] A. By keeping customers and stakeholders isolated from developers
 * [ ] B. By allowing developers to send status updates directly to stakeholders
 * [*] C. By removing titles like "QA" or "Tester" and treating everyone as an equal 'developer'
-* [*] D. By being a lightweight framework that encourages experimentation
+* [*] D. By being an incomplete framework that encourages experimentation
 * [*] E. By allowing developers to plan their work
 
 --

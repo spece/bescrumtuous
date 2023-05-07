@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "966 - What is a Development Team responsible f"
+id: 966-63effda29ebbe935e4c16b09.
 ---
 
 
 [#question]
-== 966-63effda29ebbe935e4c16b09.
+
 
 ****
 
@@ -19,7 +20,7 @@ The Scrum Development team is responsible for:
 * [*] A. Being self-managed and dealing professionally with internal conflict
 * [ ] B. Pushing to always increase development velocity
 * [*] C. Planning how to complete the work in the Sprint Backlog
-* [ ] D. Finish as many story points in a Sprint as possible
+* [ ] D. Finishing as many story points in a Sprint as possible
 
 --
 ****

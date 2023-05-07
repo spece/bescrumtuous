@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "939 - Which topics should be discussed in the "
+id: 939-63effb959ebbe935e4c16abc.
 ---
 
 
 [#question]
-== 939-63effb959ebbe935e4c16abc.
+
 
 ****
 
@@ -43,7 +44,6 @@ Collaboration: The Sprint Review encourages collaboration between the Scrum team
 
 Continuous Improvement: The Sprint Review helps the team to continuously improve by identifying areas for improvement in the product, process, or team dynamics.
 
-The Sprint Review is a crucial part of the Scrum framework and plays a significant role in ensuring that the product increment meets the needs of the customer and provides value to the organization.
 --
 
 [#ka]

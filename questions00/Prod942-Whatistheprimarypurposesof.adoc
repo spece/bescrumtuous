@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "942 - Which statement best describes the Sprin"
+id: 942-63effc609ebbe935e4c16add.
 ---
 
 
 [#question]
-== 942-63effc609ebbe935e4c16add.
+
 
 ****
 
@@ -16,7 +17,7 @@ What is the primary purposes of the Sprint Review?
 
 [#list]
 --
-* [*] A. It is a time for the Scrum Team and stakeholders to inspect the incremental value added during the Sprint and talk about out where to focus next
+* [*] A. It is a time for the Scrum Team and stakeholders to transparently inspect the incremental value added during the Sprint and talk about out where to focus next
 * [ ] B. It is a tool used by management to dictate the Development Team's focus for the next Sprint
 * [ ] C. It is a demonstration the developers put on to show everything they worked on during the Sprint
 * [ ] D. The Sprint Review is designed to reward productive teams with accolades, or punish underperforming teams with reprimands

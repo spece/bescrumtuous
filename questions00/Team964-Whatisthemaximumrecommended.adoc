@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "964 - What is the recommended size for a Devel"
+id: 964-63effce29ebbe935e4c16af2.
 ---
 
 
 [#question]
-== 964-63effce29ebbe935e4c16af2.
+
 
 ****
 

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "955 - A member of the Development Team takes t"
+id: 955-63effa0a9ebbe935e4c16a8b.
 ---
 
 
 [#question]
-== 955-63effa0a9ebbe935e4c16a8b.
+
 
 ****
 
@@ -21,12 +22,13 @@ Which of the following roles or accountabilities are not defined in the Scrum Gu
 * [ ] C. Product Owner
 * [*] D. Project Manager
 * [ ] E. Scrum Master
+* [*] F. Team Lead
 
 --
 ****
 
 [#answer]
-ABD
+ABDF
 
 [#explanation]
 --

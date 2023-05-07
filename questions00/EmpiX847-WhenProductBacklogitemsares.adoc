@@ -12,7 +12,9 @@ id: 847-63effe529ebbe935e4c16b1e.
 
 [#query]
 --
-When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' What Scrum Pillar is hurt most by the existence of technical debt?
+When Product Backlog items are said to be completed, despite not having met the actual Definition of Done, they are said to contain 'technical debt.' 
+
+What Scrum Pillar is hurt most by the existence of technical debt?
 --
 
 [#list]
@@ -21,6 +23,7 @@ When Product Backlog items are said to be completed, despite not having met the 
 * [*] B. Transparency
 * [ ] C. Courage
 * [ ] D. Focus
+* [ ] E. Openness
 
 --
 ****
