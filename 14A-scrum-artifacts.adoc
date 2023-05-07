@@ -42,7 +42,7 @@ The Sprint Backlog provides transparency into what is being worked on during the
 
 === Scrum Commitments
 
-The Scrum commitment is something new that was added to the 2020 Scrum Guide. 
+The _Scrum commitment_ is something new that was added to the 2020 Scrum Guide. 
 
 Each artifact now maps to a Scrum commitment.
 
@@ -50,13 +50,15 @@ Each artifact now maps to a Scrum commitment.
 ____
 
 Each artifact contains a commitment to ensure it provides information that enhances transparency and focuses against which progress can be measured:
+
 - For the Product Backlog it is the Product Goal.
 - For the Sprint Backlog it is the Sprint Goal.
 - For the Increment it is the Definition of Done.
+
 These commitments exist to reinforce empiricism and the Scrum values for the Scrum Team and their stakeholders.
 ____
 
-Every arrow needs a target. The Scrum commitments act as a target for their corresponding artifact.
+Every arrow needs a target. Each Scrum commitment act as a target for their corresponding artifact.
 
 A Scrum commitment is the evaluation criteria against which a Scrum artifact is measured. Scrum commitments improve transparency and enhance an Agile Scrum developer’s focus as the project progresses.
 
@@ -74,7 +76,7 @@ The goal of every Sprint is to create an Increment that lives up to what ultimat
 
 C is correct.
 
-The Incrment commitments to measuring up to the Definition of Done.
+The Increment commits to measuring up to the Definition of Done.
 
 '''
 
