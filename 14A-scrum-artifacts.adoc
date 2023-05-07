@@ -16,7 +16,7 @@ They are designed to maximize the transparency of key information.
 Thus, everyone inspecting them has the same basis for adaptation.
 ____
 
-The existence of these artifacts helps provide transparency by answering the three questions stakeholders want to know.
+The existence of these artifacts helps provide transparency by answering the three questions stakeholders constantly want answers to:
 
 - What is currently being done? That's answered by the Sprint Backlog
 - What needs to be done? That's answered by the Product Backlog

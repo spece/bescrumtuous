@@ -22,13 +22,19 @@ Inspected elements often vary with the domain of work.
 
 ____
 
-One question that comes up regularly on the Scrum Master certification exam is when should the Definition of Done be discussed or updated. This paragraph makes it clear that the Sprint Retrospective is the correct time for Sprint to do so.
+=== Updating the Sprint Length and the DoD
 
-Also notice how the Scrum Guide indicates that discussions about how tools are working, how people are getting along, and how well processes are implemented within the Scrum Framework are best discussed during the Sprint Retrospective.
+One question that comes up regularly on the Scrum Master certification exam is when should the Definition of Done be discussed or updated. This paragraph makes it clear that the Sprint Retrospective is the correct time to do so.
 
-If the certification exam ever asks when developers should talk about how well their tools are working, or how well they have applied the Scrum framework, the correct answer will be the Sprint Retrospective, not the Daily Scrum. This is a bit counter-intuitive because you would think developers would be encouraged to talk about their tools and the process when they were all together in the Daily Scrum. But if it's a meta-discussion about how things are working, that type of discussion belongs in the retrospective. 
+It's not stated explicility, but the Sprint Retrospective is also the right time to discuss changing the Sprint length if that's desired. That way if a change is agreed upon, the change can be applied to the next Sprint that starts when the retrospective ends.
 
-If a given tool is causing a problem and creating a blocker or impediment that puts the Sprint Goal at risk, then the discussion would be more apt to take place during the Daily Scrum.
+The Scrum Guide also indicates that discussions about how tools are working, how people are getting along, and how well processes are implemented within the Scrum Framework are best discussed during the Sprint Retrospective.
+
+If the certification exam ever asks when developers should talk about how well their tools are working, or how well they have applied the Scrum framework, the correct answer will be the Sprint Retrospective, not the Daily Scrum. 
+
+This is a bit counter-intuitive because you would think developers would be encouraged to talk about their tools and their processes when they're all together in the Daily Scrum, but if it's a meta-discussion about how things are working, that type of discussion belongs in the retrospective. 
+
+If a given tool is causing an immediate problem and creating a blocker or impediment that puts the Sprint Goal at risk, then the discussion would be more apt to take place during the Daily Scrum.
 
 
 ==== Test Yourself
@@ -46,6 +52,7 @@ The developers are not happy with how the Sprint framework has been implemented.
 Option D is correct.
 
 Discussions about how things are working, how various processes are being implemented, and even discussions about how to do Scrum better should happen during the Sprint Retrospective.
+
 '''
 
 === The 80/20 Principle
@@ -67,11 +74,11 @@ ____
 
 This is a weird section. It's the most wishy-washy section of the entire Scrum Guide.
 
-Terms like 'most helpful', 'most impactful', and 'may even be' don't provide much clarity. It's strange because the Scrum Guide is usually very precise about the terms and phrases that it uses.
+Terms like 'most helpful', 'most impactful', and 'may even be' don't provide much clarity. It's strange because the Scrum Guide is usually very precise about the terms and phrases it uses.
 
 I think the guide is just reflecting the 80/20 principle that asserts a few of your best ideas will end up having the largest impact, so don't feel the need to include every single suggestion made during the Sprint Retrospective into the next Sprint.
 
-The idea is to act upon the best suggestions for improvement right away. That might mean writing a note on the whiteboard in the war room, or even going so far as adding them to the Sprint Backlog for the next Sprint.
+The idea is to act upon the best suggestions for improvement right away.
 
 === Adding to the Next Sprint's Backlog?
 
@@ -91,13 +98,15 @@ Here is one of the rare instances in the Scrum Guide where something generated i
 
 It was stated earlier in this book that in the Sprint Planning meeting, the Sprint Backlog is empty, as all unfinished Sprint Backlog items are returned to the Product Backlog when the Sprint ends.
 
-I guess this is one instance where a Sprint Backlog item can remain where it is when the teams move from one Sprint to the other.
+This is the only instance I can think of where a Sprint Backlog item can be carried over from the current Sprint to the next.
  
 
 ==== Test Yourself
 
 ****
-Focus is an important part of the Scrum framework. Scrum Teams are expected to stay focused on the current Sprint.
+Focus is an important part of the Scrum framework. 
+
+Scrum Teams are expected to stay focused on the current Sprint.
 When during the Sprint are developers expected to be thinking about the next Spring?
 
 * [ ] During Sprint planning before the Sprint begins
@@ -144,17 +153,15 @@ The Sprint Retrospective is the last timeboxed event mentioned in the Scrum Guid
 - Review - up to 4 hours
 - Retrospective - up to 3 hours
 
-While a Sprint is given a fixed time that cannot be extended while a Sprint is in progress, the Scrum Guide never refers to a Sprint as a 'timeboxed' event.
+While a Sprint is given a fixed time that cannot be extended while a Sprint is in progress, the Scrum Guide never actually refers to a Sprint as a 'timeboxed' event.
 
-And yes, I do realize this is probably the fourth or fifth time I've mentioned the duration of each of the Scrum Events in the book. That's because you're likely going to get five or six questions on it, so it's not a trivial matter.
+And yes, I do realize this is probably the fourth or fifth time I've mentioned the duration of each of the Scrum Events in this book. That's because you're likely going to get five or six questions on the topic, so it's not a topic to treat trivally.
 
 === After the Sprint
 
 Once the Sprint Retrospective ends, the Sprint is over and the next Sprint begins.
 
-Remember that there is nothing that happens after one Sprint but before the next Sprint begins.
-
-Everything happens within the scope of the Sprint. And when one Sprint ends, the next one starts immediately.
+Every event happens within the scope of a Sprint in Scrum. When one Sprint ends, the next one starts immediately.
 
 
 ==== Test Yourself
@@ -185,6 +192,10 @@ A new Sprint starts:
 
 ****
 
+Option C is correct.
+
+A new Sprint begins immediately after the Sprint Retrospective is over.
+
 '''
 
 ==== Test Yourself
@@ -203,10 +214,10 @@ What is the order, from longest to shortest?
 
 Option B is correct.
 
-Sprint - up to 1 month
-Planning - up to 8 hours
-Review - up to 4 hours
-Retrospective - up to 3 hours
+- Sprint - up to 1 month
+- Planning - up to 8 hours
+- Review - up to 4 hours
+- Retrospective - up to 3 hours
 
 '''
 
