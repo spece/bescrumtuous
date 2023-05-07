@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "892 - Which two of the following are true abou"
+id: 892-63effbd09ebbe935e4c16ac5.
 ---
 
 
 [#question]
-== 892-63effbd09ebbe935e4c16ac5.
+
 
 ****
 
 [#query]
 --
-What are three key responsibilities of the Scrum Master?
+Which of the following are key responsibilities of the Scrum Master on a Scrum Team?
 --
 
 [#list]
@@ -30,7 +31,9 @@ ACD
 
 [#explanation]
 --
-The two key responsibilities of the Scrum Master include removing obstacles for the Development Team and protecting the Team from external interruptions. Additionally the Scrum Master ensures that the Scrum process is being followed and encourages self-organization and cross-functionality among the Team members.
+Key responsibilities of the Scrum Master include removing obstacles for the Development Team, protecting the Team from external interruptions and helping the entire organization enact an empirical approach to problem solving. 
+
+Additionally the Scrum Master ensures that the Scrum process is being followed and encourages self-organization and cross-functionality among the Team members.
 --
 
 [#ka]

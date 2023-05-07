@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "925 - At the end of a Sprint Product Backlog i"
+id: 925-63effbca9ebbe935e4c16ac4.
 ---
 
 
 [#question]
-== 925-63effbca9ebbe935e4c16ac4.
+
 
 ****
 
@@ -16,8 +17,8 @@ What should be done with a Product Backlog item (PBI) that did not meet the Scru
 
 [#list]
 --
-* [ ] A. With the consent of the Product Owner and stakeholders, the PBI can be approved and released
-* [*] B. Return the item to the Product Backlog
+* [*] A. Return the item to the Product Backlog
+* [ ] B. With the consent of the Product Owner and stakeholders, the PBI can be approved and released
 * [ ] C. Automatically add the unfinished PBI to the next Sprint's backlog
 * [*] D. Make sure the team knows this PBI will not be included in the current Sprint's Increment
 
@@ -25,7 +26,7 @@ What should be done with a Product Backlog item (PBI) that did not meet the Scru
 ****
 
 [#answer]
-BD
+AD
 
 [#explanation]
 --

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "818 - What is the Scrum Master responsible Scr"
+id: 818-63effaf39ebbe935e4c16aa7.
 ---
 
 
 [#question]
-== 818-63effaf39ebbe935e4c16aa7.
+
 
 ****
 
@@ -20,7 +21,7 @@ What are the duties of a Scrum Master?
 * [ ] B. Assigning action items for team members to complete during the Sprint.
 * [ ] C. Communicating the Development Team's answers to stakeholder questions through transcription, email or direct communication.
 * [ ] D. Taking dictation during the Daily Scrum and reporting discussions that take place during the Daily Scrum to management.
-
+* [ ] E. Scheduling meetings and booking conference rooms for the team.
 
 --
 ****

@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "839 - Which three phrases best describe the pu"
+id: 839-63effe7c9ebbe935e4c16b23.
 ---
 
 
 [#question]
-== 839-63effe7c9ebbe935e4c16b23.
+
 
 ****
 
 [#query]
 --
-Which of the following is true about the Definition of Done(DoD)?
+Which of the following statements are consistent with the Scrum Guide's Definition of Done(DoD)?
 --
 
 [#list]
@@ -20,14 +21,15 @@ Which of the following is true about the Definition of Done(DoD)?
 * [ ] B. Product Backlog Items that do not meet the Definition of Done can be integrated and released with the consent of the Product Owner.
 * [ ] C. Product Backlog Items that do not meet the Definition of Done can be integrated and released with the consent of the Scrum Master
 * [*] D. The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment.
-* [ ] E. Multiple Scrum Teams working together on a product must individually define and comply with their own Definition of Done.
-* [*] F. Multiple Scrum Teams working together on a product must mutually define and comply with the same Definition of Done.
+* [*] E. Multiple Scrum Teams working together on a product must mutually define and comply with the same Definition of Done.
+* [ ] F. Multiple Scrum Teams working together on a product must individually define and comply with their own Definition of Done.
+
 
 --
 ****
 
 [#answer]
-ADF
+ADE
 
 [#explanation]
 --

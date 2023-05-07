@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "991 - What to build Scrum requires no more tha"
+id: 991-63effd459ebbe935e4c16afe.
 ---
 
 
 [#question]
-== 991-63effd459ebbe935e4c16afe.
+
 
 ****
 
 [#query]
 --
-Successful Scrum Teams often create a sub-team of testers and QAs to test increments before they release to production.
+Successful Scrum Teams often create a sub-team of testers and QAs to test Increments before they are release into production.
 --
 
 [#list]

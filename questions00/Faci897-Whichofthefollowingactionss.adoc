@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "897 - What action should the Scrum Master take"
+id: 897-63effcc19ebbe935e4c16aed.
 ---
 
 
 [#question]
-== 897-63effcc19ebbe935e4c16aed.
+
 
 ****
 
@@ -20,12 +21,12 @@ Which of the following actions should the Scrum Master never do?
 * [*] B. Extend the length of the Sprint.
 * [*] C. End the Sprint early.
 * [ ] D. Coach the Development Team to ensure the Daily Scrum is time-boxed to 15 minutes.
-
+* [*] E. Reprimand developers who underperform.
 --
 ****
 
 [#answer]
-ABC
+ABCE
 
 [#explanation]
 --

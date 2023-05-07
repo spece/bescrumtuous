@@ -1,23 +1,26 @@
 ---
 layout: default 
 title: "953 - Where are two good ways for the Developm"
+id: 953-63efffc09ebbe935e4c16b47.
+
 ---
 
 
 [#question]
-== 953-63efffc09ebbe935e4c16b47.
 
 ****
 
 [#query]
 --
-The DevOps team is putting software into production that fails in terms of performance and security. The development team says they only deal with functional requirements, not non-functional requirements like security and performance. What's the best way for the Scrum Master to deal with this?
+The DevOps team is putting software into production that fails in terms of performance and security. The development team says they only deal with functional requirements, not non-functional requirements like security and performance. 
+
+What's the best way for the Scrum Master to deal with this?
 --
 
 [#list]
 --
 * [ ] A. Share stories from the help desk about the issues the software is having.
-* [*] B. Make sure non-functional requirements are clearly articulated in the definition of done.
+* [*] B. Make sure non-functional requirements are clearly articulated in the Definition of Done.
 * [ ] C. Run continuous integration tests throughout the Sprint and have developers address performance and security issues that arise before deployemnt.
 * [*] D. Ask the Product Owner to add new Product Backlog items that deal specifically with performance and security.
 * [ ] E. As the Scrum Master, you should push back on the DevOps team and explain that non-functional requrements are not part of the development team's planning tasks.
@@ -42,7 +45,6 @@ Functional requirements describe what a system should do in terms of specific fe
 
 Non-functional requirements, on the other hand, describe how a system should perform in terms of factors such as reliability, scalability, security, usability, and performance. Non-functional requirements are often more subjective and harder to quantify than functional requirements. They are usually expressed as constraints or quality attributes that the system should exhibit. Examples of non-functional requirements include response time, availability, user experience, and maintainability. Non-functional requirements are important because they help ensure that a system is usable, efficient, and effective, and can be sustained over time.
 
-In summary, the main difference between functional and non-functional requirements is that functional requirements describe what a system should do, while non-functional requirements describe how well the system should do it.
 --
 
 [#ka]
