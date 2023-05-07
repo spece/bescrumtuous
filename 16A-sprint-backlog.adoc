@@ -18,7 +18,7 @@ ____
 
 === Answering the 3 Questions
 
-Notice that the Sprint Backlog answers three questions: what, why, and how.
+The Sprint Backlog answers three important questions: _what, why, and how._
 
 The 'what' is all the items the team hopes to complete during the Sprint. That's all the Product Backlog items the team has 'pulled' and made part of the Sprint Backlog.
 
@@ -36,7 +36,9 @@ The Developers completely control the Sprint Backlog.
 
 Contrast that against the Product Backlog which is entirely controlled by the Product Owner.
 
-What does that leave the Scrum Master to control? Very little, other than a responsibility to guide the team and organization on how to properly apply the Scrum framework.
+What does that leave the Scrum Master to control? Very little. 
+
+Other than a responsibility to guide the team and organization on how to properly apply the Scrum framework, the Scrum Master has very little _control_ over the Scrum Team, and virtually no control over the various Scrum artificats.
 
 
 ==== Test Yourself

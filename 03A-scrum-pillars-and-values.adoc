@@ -329,30 +329,3 @@ Big 5 personality traits are worth looking into if you're into psychology and hu
 
 '''
 
-<<<
-
-=== A Word on Iterative and Incremental Development
-
-NOTE: We queried ChatGPT so you wouldn't have to! We actually found ChatGPT gave a lot of wrong info about Scrum, but occassionally it did pretty good. With some minor edits, we think it did a good job on how Scrum is both iterative and incremental.
-
-How does the incremental and iterative nature of Scrum optimize predictability and control risk?
-
-The incremental and iterative nature of Scrum, along with its short-sprints and empirical nature, helps optimize predictability and control risk in several ways:
-
-Regular inspection and adaptation: Scrum provides regular opportunities for the Scrum team to inspect the work that has been done and to adapt their plan for the next iteration. This allows the team to make necessary adjustments to their process, product, and priorities to optimize their ability to deliver value and minimize risks.
-
-Short Sprints: Scrum Sprints typically last 1-4 weeks, during which the team works to deliver a potentially releasable increment of the product. The short time-boxed nature of Sprints helps to control risk by reducing the amount of work in progress, thereby limiting the amount of unfinished work that could create risks and uncertainties.
-
-Incremental development: Scrum emphasizes delivering the product in small increments, which helps to control risk by allowing the team to identify and address issues early on in the development process. This also helps to optimize predictability by allowing stakeholders to see working increments of the product more frequently, which can help reduce uncertainty and improve predictability.
-
-Empirical process control: Scrum is based on the three pillars of transparency, inspection, and adaptation, which provide a framework for empirical process control. The team regularly inspects the work done and adjusts the plan for the next iteration, based on the feedback received. This empirical approach allows the team to optimize predictability and control risk by making data-driven decisions that are informed by their experience.
-
-Overall, the incremental and iterative nature of Scrum helps to optimize predictability and control risk by providing opportunities for regular inspection and adaptation, limiting the amount of unfinished work, delivering the product in small increments, and providing an empirical process control framework.
-
-
-
-
-
-
-
-
