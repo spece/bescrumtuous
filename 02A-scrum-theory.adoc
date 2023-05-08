@@ -156,6 +156,7 @@ One of the items under development as part of your project is a spaceship to Mar
 * [ ] Explain to the Product Owner that you do not have the skills to build a spaceship to Mars
 * [ ] Get the team to start learning about how to build a spaceship for Mars
 ****
+Option D is correct.
 
 This question is silly to the extreme, but it makes a point. 
 
