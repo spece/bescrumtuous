@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "949 - Which of these may a Development Team de"
+id: 949-63effe5a9ebbe935e4c16b1f.
 ---
 
 
 [#question]
-== 949-63effe5a9ebbe935e4c16b1f.
+
 
 ****
 
 [#query]
 --
-What is true about an Increment in Scrum?
+Which of the following statements are true about an Increment in Scrum?
 --
 
 [#list]

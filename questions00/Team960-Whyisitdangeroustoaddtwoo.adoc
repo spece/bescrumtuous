@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "960 - If two Scrum Teams are added to the deve"
+id: 960-63effc1c9ebbe935e4c16ad2.
 ---
 
 
 [#question]
-== 960-63effc1c9ebbe935e4c16ad2.
+
 
 ****
 
@@ -19,7 +20,7 @@ Why is it dangerous to add two or three new developers to a project when deadlin
 * [*] A. The addition of developers can cause the velocity of the team to slow down.
 * [ ] B. The addition of developers can make team members feel their jobs are being threatened
 * [ ] D. The stakeholders will be confused when they see new developers at the Sprint Review
-
+* [*] A. The addition of developers can cause the velocity of the team to increase.
 --
 ****
 

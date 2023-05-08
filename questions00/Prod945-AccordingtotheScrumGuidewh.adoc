@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "945 - Which of the following best describes an"
+id: 945-63effd1e9ebbe935e4c16af9.
 ---
 
 
 [#question]
-== 945-63effd1e9ebbe935e4c16af9.
+
 
 ****
 
@@ -19,8 +20,8 @@ According to the Scrum Guide, which of the following is true about the Increment
 * [*] A. Each new Increment gets added to all the prior Increments
 * [ ] B. An Increment doesn't have to be usable.
 * [ ] C. Only one Increment can be created per Sprint.
-* [*] D. An Increment must be compatible and work with all previous increments.
-* [*] E. An Increment is a concrete stepping stone toward the Product Goal.
+* [*] D. An Increment must be compatible with and work with all previous increments.
+* [*] E. An Increment can be seen as a concrete stepping stone toward the Product Goal.
 
 --
 ****

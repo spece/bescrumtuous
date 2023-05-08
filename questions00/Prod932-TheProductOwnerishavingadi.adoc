@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "932 - Which of these is the guideline that a S"
+id: 932-63effd9b9ebbe935e4c16b08.
 ---
 
 
 [#question]
-== 932-63effd9b9ebbe935e4c16b08.
+
 
 ****
 
@@ -19,10 +20,10 @@ What advice or guidance would you, as a Scrum Master, provide?
 [#list]
 --
 * [ ] A. Try to estimate Product Backlog items in story points.
-* [ ] B. Scrum frowns upon given hard estimates for completing Product Backlog Items
-* [ ] C. Estimates are allowed to have a large margin of error
-* [*] D. Estimates should be done by the Development Team, not the Product Owner
-* [ ] E. The Product Owner has to make estimated independently from the developers or Scrum Master
+* [ ] B. Scrum frowns upon giving hard estimates for completing Product Backlog Items.
+* [ ] C. Estimates are allowed to have a large margin of error.
+* [*] D. Estimates should be done by the Development Team, not the Product Owner.
+* [ ] E. The Product Owner has to make estimated independently from the developers or Scrum Master.
 
 --
 ****

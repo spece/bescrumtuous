@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "993 - Scrum has a role called Project Manager "
+id: 993-63efffb79ebbe935e4c16b46.
 ---
 
 
 [#question]
-== 993-63efffb79ebbe935e4c16b46.
+
 
 ****
 

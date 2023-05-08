@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "929 - True or False When multiple teams work t"
+id: 929-63effc169ebbe935e4c16ad1.
 ---
 
 
 [#question]
-== 929-63effc169ebbe935e4c16ad1.
+
 
 ****
 
 [#query]
 --
-Even if multiple, independent Scrum teams with their own unique set of skills are working on the same product, they must all pull from the exact same Product Backlog.
+Even if multiple, independent Scrum teams with their own unique set of skills are working on the same product, they must always pull from the exact same Product Backlog.
 --
 
 [#list]

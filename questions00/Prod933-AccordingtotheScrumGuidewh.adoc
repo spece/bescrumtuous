@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "933 - Which phrase best describes a Product Ow"
+id: 933-63effdf69ebbe935e4c16b13.
 ---
 
 
 [#question]
-== 933-63effdf69ebbe935e4c16b13.
+
 
 ****
 
@@ -16,10 +17,10 @@ According to the Scrum Guide, which of the following statements are true about t
 
 [#list]
 --
-* [ ] A. The Product Owner is the the only members of the Scrum Team allowed to talk to stakeholders
+* [ ] A. The Product Owner is the the only members of the Scrum Team allowed to talk to stakeholders.
 * [*] B. The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team.
 * [*] C. The Product Owner is solely responsible for ordering the work for a complex problem into a Product Backlog.
-* [ ] D. The Product Owner is the the only members of the Scrum Team allowed to talk to stakeholders
+* [ ] D. The Product Owner cannot delegate the work of crafting Product Backlog items to colleagues.
 
 --
 ****
@@ -30,6 +31,8 @@ BC
 [#explanation]
 --
 A Product Owner is the role responsible for defining features, deriving the overall product vision and commanding the Product Backlog to optimize the value of work done by the Development Team.
+
+The Product Owner is also allowed to delegate parts of their job to colleagues, so long as they remain accountable for the work delivered.
 --
 
 [#ka]

@@ -1,36 +1,39 @@
 ---
 layout: default 
 title: "989 - Choose two responsibilities of a selforg"
+id: 989-63effc379ebbe935e4c16ad6.
 ---
 
 
 [#question]
-== 989-63effc379ebbe935e4c16ad6.
+
 
 ****
 
 [#query]
 --
-What are two key responsibilities of a self-organized and self-managed Development Team in Scrum?
+Which of the following are key responsibilities of a self-organized and self-managed Development Team in Scrum?
 --
 
 [#list]
 --
-* [ ] A. Reorder and prioritize the Product Backlog.
-* [*] B. Select Product Backlog items to work on during the Sprint.
-* [*] C. Do the work planned in the Sprint Backlog.
-* [ ] D. Constantly increase velocity
-* [ ] E. Report daily progress to stakeholders
+* [ ] A. Order and prioritize items in the Product Backlog.
+* [ ] B. Constantly increase productivity, momentum and velocity
+* [*] C. Work with the Product Owner to select Product Backlog items to work on during the Sprint.
+* [ ] D. Report daily progress to stakeholders through email or an equivalent medium.
+* [*] E. Work at a sustainable pace to get as much of the work planned in the Sprint Backlog done.
 
 --
 ****
 
 [#answer]
-BC
+CE
 
 [#explanation]
 --
-Developers on a Scrum Team will select the best Product Backlog items to work on during the Sprint, and they are given the freedom to plan how best to implement those items.
+Developers on a Scrum Team will select the best Product Backlog items to work on during the Sprint, and they are given the freedom to plan how best to implement those items. 
+
+Working at a sustainable pace is a priority in Scrum. Developers should get as much of the work chosen for the Spring done as they can, but they shouldn't break their backs doing it.
 --
 
 [#ka]

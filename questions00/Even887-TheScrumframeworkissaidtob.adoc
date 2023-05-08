@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "887 - Which of the following is required by Sc"
+id: 887-63efff949ebbe935e4c16b42.
 ---
 
 
 [#question]
-== 887-63efff949ebbe935e4c16b42.
+
 
 ****
 

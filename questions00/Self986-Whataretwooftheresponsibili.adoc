@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "986 - Choose two responsibilities of a selforg"
+id: 986-63effad89ebbe935e4c16aa4.
 ---
 
 
 [#question]
-== 986-63effad89ebbe935e4c16aa4.
+
 
 ****
 
@@ -16,10 +17,10 @@ What are two of the responsibilities of a self-organized and self-managed Scrum 
 
 [#list]
 --
-* [ ] A. A self-organized Scrum development team will reorder the Product Backlog.
+* [ ] A. A self-organized Scrum development team will always try to increase velocity.
 * [*] B. A self-organized Scrum development team will choose Product Backlog items to work on during the Sprint.
-* [*] C. A self-organized Scrum development team will perform the work planned in the Sprint Backlog.
-* [ ] D. A self-organized Scrum development team will  always try to increase velocity.
+* [*] C. A self-organized Scrum development team will sustainably perform the work planned in the Sprint Backlog.
+* [ ] D. A self-organized Scrum development team will reorder the Product Backlog.
 * [ ] E. A self-organized Scrum development team will report daily progress to stakeholders to ensure the Scrum pillar of transparency and value of openness.
 
 --

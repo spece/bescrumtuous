@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "983 - What are the advantages of keeping compo"
+id: 983-63effeea9ebbe935e4c16b2f.
 ---
 
 
 [#question]
-== 983-63effeea9ebbe935e4c16b2f.
+
 
 ****
 

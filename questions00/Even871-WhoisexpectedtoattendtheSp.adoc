@@ -1,16 +1,19 @@
 ---
 layout: default + 
 title: "871"
+id: 871-63effd3d9ebbe935e4c16afd.
 ---
 
 
 [#question]
-== 871-63effd3d9ebbe935e4c16afd.
+
 
 ****
 
 [#query]
 --
+The Sprint Review is the second last event to happen within a Sprint.
+
 Who is expected to attend the Sprint Review?
 --
 
