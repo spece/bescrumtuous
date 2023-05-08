@@ -299,6 +299,8 @@ The Scrum Certification Exam will not test you on the intricacies of Lean Manufa
 
 '''
 
+==== Test Yourself
+
 ****
 True or False: When implemented properly, Scrum will expose ineffective management techniques that may not have anything to do with software development.
 
