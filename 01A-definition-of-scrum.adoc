@@ -14,7 +14,7 @@ When you’ve finished this book, my goal is for you to be 100% ready to schedul
 
 === The Best Ways to Learn
 
-Before you read too far ahead, let me recommend that you download and print out a couple of copies of the 2020 Scrum Guide.
+Before you read too far ahead, I recommend you download and print out a couple of copies of the 2020 Scrum Guide.
 
 The Scrum Guide is only 13 pages long, and that includes the cover page, introduction, and table of contents. You won't be destroying a forest by having a couple of printed copies by your side.
 
@@ -27,15 +27,15 @@ Grab a highlighter as well and markup that printed copy as we go along. It will 
 
 You should also read the Scrum Guide before you dig into the first chapter of this book. In fact, read it a couple of times. It behooves you to do so.
 
-I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains. I'm just not a fan of the way it's structured.
+I'm actually not a huge fan of the way the Scrum Guide is laid out. I'm a huge fan of the wisdom it contains, but not a fan of the way it's structured.
 
-For example, the first paragraph in the Scrum talks about the Product Owner and Product Backlog items. Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
+For example, the first paragraph in the Scrum Guide talks about the Product Owner and Product Backlog items. Yet the Scrum Guide itself doesn't explain what a Product Owner or a Product Backlog item is for another five or six pages.  
 
 I don't like that. If you're going to bring up a topic, you should address it and describe it the first time it's mentioned. I don't like saying 'this is really, really important, but we'll cover that later.' If it's important, cover it now.
 
 Having said that, this certification guide dissects the Scrum Guide, one line at a time, from the beginning to the end. That forces me to follow the layout of the guide, despite the fact that if it was up to me, I would have written it a bit differently.
 
-So please, read the Scrum Guide a few times before jumping deep into this book. That way you'll have a better idea of what phrases like 'the Sprint Goal' and 'a usable Increment' mean.
+So please, read the Scrum Guide a few times before jumping deep into this book. That way, you'll have a better idea of what phrases like 'the Sprint Goal' and 'a usable Increment' mean.
 
 With that foundation, we'll be able to dig much deeper into the significance of these terms. Now let's get started with the Scrum Guide!
 
@@ -48,9 +48,9 @@ image::images/read-guide.png["Please read the Scrum Guide a few times. It's only
 
 How would you define Scrum?
 
-To be successful on the Scrum Master Certification exam you have to commit to the Scrum Guide's definition of Scrum, which means abandoning many biases and misconceptions you may have adopted over years of hearing people talk about Scrum or seeing Scrum implemented in a less than pure manner.
+To be successful on the Scrum Master Certification exam, you have to commit to the Scrum Guide's definition of Scrum. This means abandoning many biases and misconceptions you may have adopted over years of hearing people talk about Scrum or seeing Scrum implemented in a less than pure manner.
 
-Here's the 2020 Scrum Guide's first sentence. How well does this definition of Scrum work with the way you previously perceived it? (And I say 'previously', because this is the definition you must 100% commit to right now if you want to pass the Scrum Master certification exam.)
+Here is the 2020 Scrum Guide's first sentence. How well does this definition of Scrum work with the way you previously perceived it? (And I say 'previously', because this is the definition you must 100% commit to right now if you want to pass the Scrum Master certification exam.)
 
 [quote, 2020 Scrum Guide page 3]
 ____
@@ -189,7 +189,7 @@ Which of the following descriptions is true?
 * [ ] Scrum generates value by repeatedly delivering usable increments to the stakeholders
 * [ ] Scrum only allows stakeholders to inspect progress when the final product is delivered
 ****
-Options C and D are correct.
+Options B and C are correct.
 
 Scrum describes a set of steps that are to be repeated iteratively. So Scrum is iterative. But it's an iterative _framework_, not an iterative _process_. So Option B is correct while Option A isn't.
 
@@ -303,6 +303,7 @@ The Scrum Certification Exam will not test you on the intricacies of Lean Manufa
 True or False: When implemented properly, Scrum will expose ineffective management techniques that may not have anything to do with software development.
 
 ****
+This is false.
 
 First of all, Scrum is not just about software development.
 
