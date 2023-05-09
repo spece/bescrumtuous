@@ -1,16 +1,18 @@
 ---
 layout: default 
 title: "857 - A Sprint Retrospective should be held Ch"
+id: 857-63effb339ebbe935e4c16aaf.
 ---
 
 
 [#question]
-== 857-63effb339ebbe935e4c16aaf.
+
 
 ****
 
 [#query]
 --
+
 How often should a Sprint Retrospective occur?
 --
 
@@ -20,6 +22,7 @@ How often should a Sprint Retrospective occur?
 * [ ] B. At the start of each Sprint.
 * [*] C. As the last event to happen during a Sprint.
 * [ ] D. At the end of a product release Sprint.
+* [ ] E. In every Sprint except Sprint Zero.
 
 --
 ****
@@ -32,6 +35,8 @@ C
 A Sprint Retrospective should be held as the last event to happen with a Sprint.
 
 All Scrum events happen within the confines of a Sprint. Nothing happens 'after a Sprint' other than a new Sprint starting.
+
+There is no Sprint Zero in Scrum. If you ever see that on the Scrum certification exam, it's an incorrect option.
 --
 
 [#ka]

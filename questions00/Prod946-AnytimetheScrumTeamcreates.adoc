@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "946 - A product Increment must be released to "
+id: 946-63effd699ebbe935e4c16b02.
 ---
 
 
 [#question]
-== 946-63effd699ebbe935e4c16b02.
+
 
 ****
 
 [#query]
 --
-Any time the Scrum Team creates a useable Increment that meets the Definition of Done, the increment must be released into production.
+Any time the Scrum Team creates a useable Increment that meets the Definition of Done and is approved at the Sprint Review, the Increment must be released into production.
 --
 
 [#list]

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "870 - When is the Sprint Backlog created Scrum"
+id: 870-63effd0e9ebbe935e4c16af7.
 ---
 
 
 [#question]
-== 870-63effd0e9ebbe935e4c16af7.
+
 
 ****
 

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "948 - What done means Choose two Scrum Master "
+id: 948-63effe3b9ebbe935e4c16b1b.
 ---
 
 
 [#question]
-== 948-63effe3b9ebbe935e4c16b1b.
+
 
 ****
 

@@ -1,25 +1,26 @@
 ---
 layout: default 
 title: "940 - When is implementation of a Product Back"
+id: 940-63effc319ebbe935e4c16ad5.
 ---
 
 
 [#question]
-== 940-63effc319ebbe935e4c16ad5.
+
 
 ****
 
 [#query]
 --
-When can a Product Backlog Item be considered fully finished and ready for release?
+When can a Product Backlog item be considered fully finished and ready for release?
 --
 
 [#list]
 --
-* [ ] A. When the Sprint Backlog items related to the Product Backlog Item are completed 
-* [ ] B. When the Product Backlog Item passes all QA and UAT testing 
+* [ ] A. When the Sprint Backlog items related to the Product Backlog item are completed 
+* [ ] B. When the Product Backlog item passes all QA and UAT testing 
 * [*] C. When all of the Product Backlog entries associated with it have been completed and no work remains
-* [ ] D. When the Sprint that includes the Product Backlog Item finishes
+* [ ] D. When the Sprint that includes the Product Backlog item finishes
 
 --
 ****

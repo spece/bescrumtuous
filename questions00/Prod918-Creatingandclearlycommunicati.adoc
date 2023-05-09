@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "918 - Who is responsible for clearly expressin"
+id: 918-63effa619ebbe935e4c16a96.
 ---
 
 
 [#question]
-== 918-63effa619ebbe935e4c16a96.
+
 
 ****
 
@@ -19,9 +20,9 @@ Who's job it it to create clear Product Backlog items?
 [#list]
 --
 * [ ] A. The Scrum Master.
-* [ ] B. The Scrum Master, or someone the Scrum Master delegates to.
+* [ ] B. The Scrum Master, and/or someone the Scrum Master delegates to.
 * [ ] C. The Product Owner.
-* [*] D. The Product Owner, or someone the Product Owner delegates to.
+* [*] D. The Product Owner, and/or someone the Product Owner delegates to.
 
 --
 ****

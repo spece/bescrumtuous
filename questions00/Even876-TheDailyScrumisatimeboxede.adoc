@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "876 - The timebox for a Daily Scrum Scrum Mast"
+id: 876-63effdee9ebbe935e4c16b12.
 ---
 
 
 [#question]
-== 876-63effdee9ebbe935e4c16b12.
+
 
 ****
 

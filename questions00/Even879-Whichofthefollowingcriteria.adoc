@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "879 - What two factors are best considered whe"
+id: 879-63effe439ebbe935e4c16b1c.
 ---
 
 
 [#question]
-== 879-63effe439ebbe935e4c16b1c.
+
 
 ****
 
@@ -18,7 +19,7 @@ Which of the following criteria might a Scrum Team take into account when decidi
 --
 * [*] A. The complexity of the work
 * [*] B. Level of team experience with the selected tech stack 
-* [*] C. Availability of the stakeholders
+* [*] C. The attention span of the stakeholders
 * [ ] D. The Sprint length other teams use
 
 --
@@ -35,7 +36,7 @@ Complexity of the work: If the work is complex or involves a lot of uncertainty,
 
 Level of team experience: A less experienced team may benefit from shorter Sprints, allowing them to receive feedback and make adjustments more frequently, while a more experienced team may be able to handle longer Sprints more effectively.
 
-Availability of stakeholders: If there are a lot of stakeholders involved in the project, a shorter Sprint may be beneficial to allow for more frequent reviews and feedback, and to ensure that the stakeholders are engaged and involved throughout the process.
+Attention span of the stakeholders: If there are a lot of stakeholders involved in the project, a shorter Sprint may be beneficial to allow for more frequent reviews and feedback, and to ensure that the stakeholders are engaged and involved throughout the process. If a Sprint is too long, the Stakeholders may lose interest and feel less committed.
 
 Nature of the project: Depending on the nature of the project, a shorter or longer Sprint may be more appropriate. For example, a project with a lot of uncertainties or changing requirements may benefit from shorter Sprints, while a project with a more stable and predictable scope may be better suited for longer Sprints.
 

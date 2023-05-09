@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "860 - Which three of the following are timebox"
+id: 860-63effbdd9ebbe935e4c16ac7.
 ---
 
 
 [#question]
-== 860-63effbdd9ebbe935e4c16ac7.
+
 
 ****
 
@@ -32,7 +33,6 @@ ADF
 
 [#explanation]
 --
-Options A, D and F are correct.
 
 The four time-boxed events that happen within a Sprint are:
 
@@ -40,7 +40,7 @@ Sprint Planning: This is a time-boxed event that takes place at the beginning of
 
 Daily Scrum: This is a time-boxed event that takes place every day during the Sprint. The purpose of the Daily Scrum is for the Development Team to synchronize their work, discuss progress, and identify any obstacles that may be preventing them from achieving the Sprint Goal. The time-box for the Daily Scrum is typically 15 minutes.
 
-Sprint Review: This is a time-boxed event that takes place at the end of each Sprint. The purpose of the Sprint Review is to review the work that was completed during the Sprint and to gather feedback from stakeholders. The Development Team presents their work to the stakeholders, and the stakeholders provide feedback that can be used to refine the Product Backlog. The time-box for the Sprint Review is typically 4 hours for a one-month Sprint.
+Sprint Review: This is a time-boxed event that takes place at the end of each Sprint. The purpose of the Sprint Review is to review the work that was completed during the Sprint and to gather feedback from stakeholders. The Development Team shares their work to the stakeholders, and the stakeholders provide feedback that can be used to refine the Product Backlog. The time-box for the Sprint Review is typically 4 hours for a one-month Sprint.
 
 Spring Retrospective. The Sprint Retrospective is time boxed to 3 hours.
 

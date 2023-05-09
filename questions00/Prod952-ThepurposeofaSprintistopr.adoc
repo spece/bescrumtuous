@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "952 - The purpose of a Sprint is to produce a "
+id: 952-63efff749ebbe935e4c16b3f.
+
 ---
 
 
 [#question]
-== 952-63efff749ebbe935e4c16b3f.
 
 ****
 
 [#query]
 --
-The purpose of a Sprint is to produce an increment, regardless of whether it is usable or not.
+The purpose of a Sprint is to produce an Increment, regardless of whether it is usable or not.
 --
 
 [#list]
@@ -29,7 +30,7 @@ B
 --
 This is false. 
 
-The goal of a Sprint is to create an Increment that is additive and usable.
+The goal of a Sprint is to create an Increment that is _additive_ and _usable._
 
 "An Increment is a concrete stepping stone toward the Product Goal. Each Increment is additive to all prior Increments and thoroughly verified, ensuring that all Increments work together. In order to provide value, the Increment must be usable."
 --

@@ -18,13 +18,14 @@ What is the best way to divide a large group of newly acquired developers into s
 --
 * [ ] A. Create multiple teams of approximately equal size, with a maximum team size of 8.
 * [ ] B. Group the developers into teams of equal size based on their experience, skill and competency.
-* [*] C. Have the developers divide themselves up into groups of various sizes, with a maximum team size of 8.
+* [ ] C. Randomly assign developers to small teams and then allow them to self-organize over time.
+* [*] D. Have the developers divide themselves up into groups of various sizes, with a maximum team size of 8.
 
 --
 ****
 
 [#answer]
-C
+D
 
 [#explanation]
 --

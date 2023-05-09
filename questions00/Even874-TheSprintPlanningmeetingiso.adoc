@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "874 - What is the timebox for the Sprint Plann"
+id: 874-63effd949ebbe935e4c16b07.
 ---
 
 
 [#question]
-== 874-63effd949ebbe935e4c16b07.
+
 
 ****
 

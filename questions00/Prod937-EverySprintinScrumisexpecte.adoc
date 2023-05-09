@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "937 - You are the Scrum Master for four Scrum "
+id: 937-63eff9f29ebbe935e4c16a87.
 ---
 
 
 [#question]
-== 937-63eff9f29ebbe935e4c16a87.
+
 
 ****
 

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "935 - Which two are valid actions Scrum Master"
+id: 935-63effec69ebbe935e4c16b2b.
 ---
 
 
 [#question]
-== 935-63effec69ebbe935e4c16b2b.
+
 
 ****
 
@@ -23,20 +24,20 @@ What should you do as the Scrum Master?
 * [ ] A. Cancel the Sprint and reconvene developers for a new Sprint Planning meeting
 * [*] B. Have the developers communicate their thoughts with the Product Owner, continue the Sprint, and monitor the team's progress
 * [ ] C. Recruit other developers within the organization to help until the team catches up on the work
-* [*] D. Change or removed selected Product Backlog items, ensuring the Sprint Goal is not effected
-* [ ] E. Work overtime to get as much of the selected work done before the end of the Sprint
+* [ ] D. Work overtime to get as much of the selected work done before the end of the Sprint
+* [*] E. Change or removed selected Product Backlog items, ensuring the Sprint Goal is not effected
 
 --
 ****
 
 [#answer]
-BD
+BE
 
 [#explanation]
 --
 You don't cancel a Sprint once it's started.
 
-It's not unusual to pick too much work for a Sprint. If that happens, just make sure everyone on the team is aware, and possibly remove some Sprint Backlog items. Work with the Product Owner when you do that so a change to the Sprint Backlog has the smallest impact on the delivery of value.
+It's not unusual to pick too much work for a Sprint. If that happens, just make sure everyone on the team is aware, and possibly remove some Sprint Backlog items. Work with the Product Owner when you make major changes to the Sprint Backlog to ensure the changes you make the smallest impact on the delivery of value.
 --
 
 [#ka]
