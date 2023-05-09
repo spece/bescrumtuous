@@ -39,7 +39,7 @@ What is the typical composition of a Scrum Team?
 * [ ] A Scrum team is made up of one Scrum Master, one Project Manager, one Product Owner, and many Developers
 ****
 
-The answer is C.
+The answer is B. A Scrum team is made up of one Scrum Master, one Product Owner, and many Developers
 
 You will often see the term _Project Manager_ appear in certification questions to throw you off. There is no _Project Manager_ in Scrum. There is a Product Owner, but there is no such thing as a _Project Manager_ in Scrum.
 
