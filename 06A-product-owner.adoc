@@ -15,7 +15,7 @@ Seriously, the whole idea of Scrum is for a team to work toward the creation of 
 
 The answer to all of those questions is 'The Product Owner.'
 
-Who is completley useless in terms of knowing _how_ to build a product, _estimating_ completion times or even _decomposing_ product features into easily managable chunks? That's probably the Product Owner too.
+Who is completely useless in terms of knowing _how_ to build a product, _estimating_ completion times or even _decomposing_ product features into easily manageable chunks? That's probably the Product Owner too.
 
 The Product Owner knows the product. Just be careful never to ascribe more competency to the PO than they deserve. Assume they know nothing about actually building a product, because that's not what they're accountable for according to Scrum.
 
@@ -73,7 +73,7 @@ After all, the product is for the customers, right? So shouldn't they communicat
 
 Don't fall for the trick. The Product Owner communicates the Product Goal, not the stakeholders or the customers.
 
-The same trick goes for communicating Product Backlog items (PBIs). 
+The same trick goes for communicating Product Backlog Items (PBIs). 
 
 It sounds logical that a customer or stakeholder might be the one creating or communicating Product Backlog items, after all, the Product Backlog represent features and functionality that the customers want, right?
 
@@ -128,7 +128,7 @@ In Scrum, the developers do the development.
 
 In Scrum, the Scrum Master does the Scrum Mastering.
 
-Yet according to the Scrum Guide, the Product Owner can get someone else to do the gruntwork for them, just so long as they remain responsible and accountable for the final results.
+Yet according to the Scrum Guide, the Product Owner can get someone else to do the grunt work for them, just so long as they remain responsible and accountable for the final results.
 
 [quote, 2020 Scrum Guide page 6]
 
@@ -194,7 +194,7 @@ ____
 
 Notice how the Scrum Guide states that the Product Owner may represent the needs of many stakeholders. Implied in that statement is that different stakeholders might have different interests about which features or enhancements should be prioritized.
 
-When it comes to competing interests, the Product Owner is responsible for managing expectations and building concensus amongst the stakeholders.
+When it comes to competing interests, the Product Owner is responsible for managing expectations and building consensus amongst the stakeholders.
 
 ==== Test Yourself
 
@@ -206,6 +206,8 @@ There are many stakeholder groups with many competing interests, including the p
 * [ ] Have one Product Owner represent the interests of each of these groups
 * [ ] Have multiple Product Owners, with each Product Owner assigned to each stakeholder group
 ****
+
+The answer to this question is C.
 
 There is only one Product Owner on a Scrum Team, and that one Product Owner represents the interests of all of the stakeholders.
 
@@ -224,15 +226,15 @@ The Product Backlog and inspectable Increments are how stakeholders get the answ
 ____
 These decisions are visible in two ways:
 
-1. through the content and ordering of the Product Backlog
-2. through the inspectable Increment at the Sprint Review
+1. Through the content and ordering of the Product Backlog
+2. Through the inspectable Increment at the Sprint Review
 
 Those wanting to change the Product Backlog can do so by trying to convince the Product Owner.
 ____
 
 
 
-=== Trust, Transparency, and the Prouduct Backlog
+=== Trust, Transparency, and the Product Backlog
 
 The PO will have the complete and total trust of the organization concerning product ownership. But trust is a two-way street. 
 
