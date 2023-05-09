@@ -3,14 +3,15 @@
 == Chapter 5
 === The Developers
 
-Scrum has its roots in software development, but the stewards of the framework have worked hard to push Scrum into other domains including:
+Scrum has its roots in software development, but the stewards of the framework have worked hard to introduce Scrum into other domains including:
 
 - Construction
 - Manufacturing
 - Engineering
 - Bee Keeping
+- etc.
 
-To pass the Scrum certification exam, you must shake yourself out of the mindset that Scrum is all about software development. 
+To pass the Scrum certification exam, you must shake yourself out of the mindset that Scrum is only about software development. 
 
 A big mental transition many software developers have difficulty with is realizing that in terms of Scrum, a 'developer' isn't necessarily a 'software developer.'
 
@@ -25,10 +26,10 @@ ____
 According to Scrum, the term 'developer' refers to anyone on the team who is adding value and working towards the creation of a usable and valuable increment of work.
 
 - In construction, a developer could be the person painting the walls
-- For castaways on a desert island, a developer could be the person digging a trench for irrigation
+- For castaways on a desert island, a developer could be the person digging a trench for irrigation or hunting coconuts 
 - In beekeeping, a developer might be the person who disposes of the slumgum
 
-As you read this section about the 'developer', it is easy to fall into the trap of thinking that Scrum is specifically talking about a 'software developer.'
+As you read this section about the 'developer', it is easy to fall into the trap of thinking that Scrum is specifically talking about a 'software developer'.
 
 They're not. And quite often, framing a scenario or exam question outside the world of Software development will help you choose the correct option.
 
@@ -36,7 +37,7 @@ They're not. And quite often, framing a scenario or exam question outside the wo
 
 The Scrum Certification exam will likely ask you one of these two questions:
 
-- Who is accountable for creating useful Increment?
+- Who is accountable for creating a useful Increment?
 - Who is committed to creating aspects of a usable Increment?
 
 The two questions sound very similar, and if you're unprepared, the nuance between the job of the Developers and the duties of the Scrum Team might lose you an exam mark.
@@ -86,14 +87,14 @@ Let's look at the accountabilities of the Developer one point at a time.
 [quote, 2020 Scrum Guide - Developer Section]
 ____
 
-Developers are always accountable for creating a plan for the Sprint: the Sprint Backlog.
+Developers are always accountable for creating a plan for the Sprint: The Sprint Backlog.
 ____
 
 
 There are two backlogs in Scrum:
 
-- One is the Product Backlog owned by a Product Owner. It outlines all of the work necessary to build the product.
-- The other is the Sprint backlog which is owned by the developers. 
+- First is the Product Backlog owned by a Product Owner. It outlines all of the work necessary to build the product.
+- Second is the Sprint backlog which is owned by the developers. 
 
 The Sprint Backlog is the developer's plan of what they intend to get done during the Sprint. 
 
@@ -209,10 +210,10 @@ The answer is D. The development team holds themselves accountable for their pro
 
 About 90% of the question on the Scrum Certification exam come directly out of the Scrum Guide. However, there are a few questions that require some additional knowledge.
 
-Two topics you'll want to familiarize yourself with reagards to Developers are:
+Two topics you'll want to familiarize yourself with regards to Developers are:
 
 - The fact that adding developers sometimes slows down the team's velocity
-- New developers can be added any time you need them.
+- New developers can be added any time you need them
 
 === Adding New Developers
 
