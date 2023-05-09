@@ -16,9 +16,17 @@ The Product Backlog is an emergent, ordered list of what is needed to improve th
 ____
 
 
-This definition makes it clear that the Product Backlog is a list of the features that need to be built to complete the project.
+This definition makes it clear that the Product Backlog is the list of the features that need to be built to complete the project. The Developers on a Scrum Team should never be working on anything that isn't part of the Product Backlog.
 
 This definition also demands that the list be ordered, in a prioprity sequence. The most important items are at the top.
+
+There is also only one Product Backlog. Any product feature that's needed is listed in the one, true Product Backlog. 
+
+- There is no 'secondary backlog' for low priority features
+- There is no 'high-priority' backlog for features executives want
+- There is no 'parking lot backlog' to put features that haven't been touched in a year
+
+If there's a product enhancement that needs doing, no matter how small or low-priority it is, it exists in the Product Backlog.
 
 The Product Backlog will change over time as more is known about what the stakeholders want and what the client needs. That's the idea of the Product Backlog being 'emergent.'
 
@@ -80,29 +88,9 @@ The goal is always to break a Product Backlog item into something that can be co
 [quote, Sprint Planning page 8]
 ____
 For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. 
+
 This is often done by decomposing Product Backlog items into smaller work items of one day or less.
 ____
-
-
-==== Test Yourself
-
-****
-When picking Product Backlog items for the current Spring, Scrum Developers must:
-
-* [ ] Only choose Product Backlog items they believe they can complete within Sprint
-* [ ] Refine large Product Backlog items down until they are large enough to complete in a Sprint
-* [ ] Not be afraid to choose Product Backlog items that may span multiple Sprints
-* [ ] Decompose large Product Backlog items down until they are large enough to complete in a day
-
-****
-
-Option B is correct.
-
-There will often be Product Backlog items that are too large to complete in a single Sprint.
-
-In those instances, the development team refines those large Product Backlog Items until a piece is uncovered that can be completed in the current Sprint.
-
-'''
 
 ==== Test Yourself
 
@@ -118,25 +106,25 @@ Breaking Product Backlog items selected for the Sprint down into smaller work it
 
 Option C is correct.
 
-The Scrum Guide describes decomposition as breaking Product Backlog items into smaller work items of one day or less.
+The Scrum Guide describes decomposition as breaking "Product Backlog items into smaller work items of one day or less."
 
 '''
 
 ==== Test Yourself
 
 ****
-Breaking large Product Backlog items down into smaller, more precise items is known as:
+A Product Backlog item has remained untouched for over a year, and there are no plans for the developers to work on this item within the next 12 months. What should the Product Owner do with this Product Backlog item?
 
-* [ ] Grooming
-* [ ] Refinement
-* [ ] Decomposition
-* [ ] Planning
+* [ ] Remove the Product Backlog item
+* [ ] Create a separate, low-priority Product Backlog to track items like this
+* [ ] Assign a high-priority status to the item so it gets completed in an upcoming Sprint
+* [ ] Leave the item in the Product Backlog with alow priority
 
 ****
 
-Option B is correct.
+Option D is correct.
 
-The Scrum Guide defines Product Backlog refinement as the act of breaking down and further defining Product Backlog items into smaller, more precise items.
+Every product feature that is required remains in the Product Backlog, even if other items consistently have a higher priority.
 
 '''
 
@@ -148,7 +136,7 @@ When does Product Backlog refinement occur:
 * [ ] Product Backlog refinement happens during Sprint Planning
 * [ ] Product Backlog refinement happens during the Sprint Retrospective
 * [ ] Product Backlog refinement happens during the Daily Scrum
-* [ ] Product Backlog refinement ongoing activity that happens throughout the Sprint
+* [ ] Product Backlog refinement is an ongoing activity that happens throughout the Sprint
 
 ****
 
@@ -156,27 +144,9 @@ Option D is correct.
 
 The Scrum Guide has very few rules about what should happen and when.
 
-If a Product Backlog item needs more details, be refined, be decomposed, or anything else, then just do it, and do it right away.
+If a Product Backlog item needs more details, needs to be refined, needs to be decomposed, or anything else, then the team should do it right away.
 
 When work needs to be done, don't wait for an official Scrum event to do it. Just get the work done.
-
-'''
-
-==== Test Yourself
-
-****
-The developers are not happy with how the Sprint framework has been implemented. When is the best time to discuss this?
-
-* [ ] During the Sprint Review
-* [ ] During the Daily Scrum
-* [ ] During the Sprint Planning
-* [ ] During the Sprint Retrospective
-
-****
-
-Option D is correct.
-
-Discussions about how things are working, how various processes are being implemented, and even discussions about how to do Scrum better should happen during the Sprint Retrospective.
 
 '''
 
@@ -192,7 +162,9 @@ ____
 
 This point keeps coming up and up again in the Scrum Guide, and you can expect it to come up again and again on the certification exam.
 
-Only the developers know what it takes to accomplish a given piece of work. Only the developer can size up Product Backlog Items and estimate how much time a given feature will take to complete.
+Only the Developers know what it takes to accomplish a given piece of work. Only the developer can size up Product Backlog items and estimate how much time a given feature will take to complete.
+
+Developers do the estimating in Scrum.
 
 
 ==== Test Yourself
@@ -240,6 +212,10 @@ Every arrow needs a target.
 As the Scrum Team works to build the product, they need to know what the product is that they're building. The Product Goal serves this purpose.
 
 
+CAUTION: Need an arror hitting a bullseye, where the target/bullseye says 'Product Goal' and the arrow says 'Product Backlog'
+
+==== Test Yourself
+
 ****
 True or false: The Product Goal represents the current state of the project?
 ****
@@ -260,20 +236,19 @@ The Product Goal is in the Product Backlog.
 The rest of the Product Backlog emerges to define "what" will fulfill the Product Goal.
 ____
 
+The Product Goal is a semi-permanent part of the Product Backlog. 
 
-This line, "the Product Goal is in the Product Backlog", actually confuses me.
+It's semi-permanent because it shouldn't be changing all the time. It should represent the vision of the Product Owner and act as a steady target for all members of the Scrum Team to aim at.
 
-The Product Backlog is an ordered list of what is needed to improve the product. That's what it says on page 10 of the Scrum Guide.
+On the other hand, the Product Backlog is _emergent._
 
-[quote, 2020 Product Backlog Definition page 10]
-____
+The project may start will little more than a vague idea of how to implement the product vision. The Product Backlog items may be poorly defined, as a full appreciation for exactly what product features are necessary may not exist. 
 
-The Product Backlog is an emergent, ordered list of what is needed to improve the product.
-____
+Over time, as more is learned about the product, the stakeholders, the tech stack, the timelines and the team's capacity, Product Backlog items will be added, refined, decomposed and potentially even deleted. 
 
-So does this statement mean a written-out Product Goal is one of the items on the list?
+The Product Goal should represent a relatively stable vision of what the Product Owner would like to build. The Product Backlog emerges and is refined over time.
 
-
+==== Test Yourself
 
 ****
 The Product Backlog has many items that have never been assessed and likely won't be worked on within the next year.
@@ -314,7 +289,7 @@ The people behind the Scrum Guide have worked hard to get people out of the mind
 
 This section further emphasizes the point that Scrum can be used to develop more than just software.
 
-==== Test Yourself!
+==== Test Yourself
 
 ****
 During the Sprint, the product being built has:
@@ -335,7 +310,7 @@ Option D is incorrect because the Scrum Guide insists that the product being bui
 '''
 
 
-=== Only Objective
+=== A Single, Shared Objective
 
 [quote, 2020 Product Backlog Definition page 11]
 ____
@@ -350,7 +325,9 @@ That doesn't mean an _individual Developer_ or _Scrum Master_ can't be on multip
 
 I've quite often seen UI designers who have only a small part to play on a set of active projects be part of multiple Scrum Teams at the same time. 
 
-It's also very common for Scrum Masters to be on three or four different teams at a time. There is no rule against an individual being on multiple teams with separate objectives, but a single Scrum Team can only have one objective in mind.
+It's also very common for Scrum Masters to be on three or four different teams at a time. 
+
+There is no rule against an individual being on multiple teams with separate objectives, but a single Scrum Team can only have one objective in mind.
 
 ==== Test Yourself!
 
@@ -366,6 +343,6 @@ The Product Owner believes the Scrum Team has enough capacity to work on two sep
 
 Option D is correct.
 
-A Scrum Team must fulfill or abandon one objective before taking on the next.
+A Scrum Team must fulfill or abandon one objective before taking on the next. A Scrum Team can have only one objective at a time.
 
 '''

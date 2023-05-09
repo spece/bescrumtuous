@@ -1,0 +1,17 @@
+==== Test Yourself
+
+****
+Breaking large Product Backlog items down into smaller, more precise items is known as:
+
+* [ ] Grooming
+* [ ] Refinement
+* [ ] Decomposition
+* [ ] Planning
+
+****
+
+Option B is correct.
+
+The Scrum Guide defines Product Backlog refinement as the act of breaking down and further defining Product Backlog items into smaller, more precise items.
+
+'''
