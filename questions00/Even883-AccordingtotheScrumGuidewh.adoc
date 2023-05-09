@@ -1,17 +1,18 @@
 ---
 layout: default 
 title: "883 - What it the main reason for the Scrum Ma"
+id: 883-63effee09ebbe935e4c16b2e.
 ---
 
 
 [#question]
-== 883-63effee09ebbe935e4c16b2e.
+
 
 ****
 
 [#query]
 --
-According to the Scrum Guide, which members of a development project are allowed to attend the Daily Scrum?
+According to the Scrum Guide, which members of a development project are allowed to _attend_ the Daily Scrum?
 --
 
 [#list]

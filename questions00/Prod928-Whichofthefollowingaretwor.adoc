@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "928 - Which of the following are true about th"
+id: 928-63effc119ebbe935e4c16ad0.
 ---
 
 
 [#question]
-== 928-63effc119ebbe935e4c16ad0.
+
 
 ****
 
@@ -16,10 +17,10 @@ Which of the following are two responsibilities of the Product Owner on a Scrum 
 
 [#list]
 --
-* [*] A. Developing and explicitly communicating the Product Goal
-* [*] B. Ensuring that the Product Backlog is transparent, visible and understood
-* [ ] C. Removing barriers between stakeholders and Scrum Teams
-* [ ] D. Facilitating stakeholder collaboration as requested or needed
+* [*] A. The PO is responsible for developing and explicitly communicating the Product Goal
+* [*] B. The PO is responsible for ensuring that the Product Backlog is transparent, visible and understood
+* [ ] C. The PO is responsible for removing barriers between stakeholders and Scrum Teams
+* [ ] D. The PO is responsible for facilitating stakeholder collaboration as requested or needed
 
 --
 ****

@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "882 - When is new work or further decompositio"
+id: 882-63effed89ebbe935e4c16b2d.
 ---
 
 
 [#question]
-== 882-63effed89ebbe935e4c16b2d.
+
 
 ****
 

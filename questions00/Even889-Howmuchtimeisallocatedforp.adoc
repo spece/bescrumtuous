@@ -1,11 +1,12 @@
 ---
 layout: default 
 title: "889 - How much time is required after a Sprint"
+id: 889-63efffc79ebbe935e4c16b48.
 ---
 
 
 [#question]
-== 889-63efffc79ebbe935e4c16b48.
+
 
 ****
 
